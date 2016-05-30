@@ -11,61 +11,95 @@
 |
 */
 
+
+/// General
+
 $app->get('/', function () use ($app) {
   return $app->version();
 });
 
 
-$app->get('/elections', function () {
-  $elections = file_get_contents('data/json/elections.json');
+/// Elections
 
-  return $elections;
-});
+$app->get('/elections',
+  function () {
+    $elections = getElections();
 
+    return response()->json($elections);
+  }
+);
+
+
+/// States
 
 $app->get('/{electionId}/states',
   function ($electionId) {
-    $electionsData = file_get_contents('data/json/elections.json');
-    $elections = json_decode($electionsData);
+    $elections = getElections();
+    $states    = getStates($elections, $electionId);
 
-    return getStates($elections, $electionId);
+    return response()->json($states);
   }
 );
 
+
+/// Districts
 
 $app->get('/{electionId}/{stateSlug}/districts',
   function ($electionId, $stateSlug) {
-    $electionsData = file_get_contents('data/json/elections.json');
-    $elections = json_decode($electionsData);
-    $statesData = getStates($elections, $electionId);
-    $states = json_decode($statesData);
-    $districts = 'no districts found';
+    $elections = getElections();
+    $states    = getStates($elections, $electionId);
+    $districts = getDistricts($states, $stateSlug);
 
-    foreach ($states as $state) {
-      if ( $state->slug == $stateSlug ) {
-        $districtPath = 'data/json/' . $stateSlug . '.json';
-        $districts = file_get_contents($districtPath);
-        break;
-      }
-    }
-
-    return $districts;
+    return response()->json($districts);
   }
 );
+
+
+// ...
+
+/// END routes
+
+
 
 
 
 /// functions
 
+function getElections () {
+  $electionsData = file_get_contents('data/json/elections.json');
+  $elections = json_decode($electionsData);
+
+  return $elections;
+}
+
+
 function getStates ($elections, $electionId) {
   $states = 'no states found';
 
   foreach ($elections as $election ) {
-    if ( $election->id == $electionId) {
-      $states = json_encode($election->states);
+    if ( $election->id == $electionId ) {
+      $states = $election->states;
       break;
     }
   }
 
   return $states;
+}
+
+
+function getDistricts ($states, $stateSlug) {
+  $districts = 'no districts found';
+
+  foreach ($states as $state) {
+    if ( $state->slug == $stateSlug ) {
+      // NOTE interpolation is nicer but slower than concatenation
+      // $districtPath  = "data/json/$stateSlug.json";
+      $districtPath  = 'data/json/'.$stateSlug.'.json';
+      $districtsData = file_get_contents($districtPath);
+      $districts     = json_decode($districtsData);
+      break;
+    }
+  }
+
+  return $districts;
 }
