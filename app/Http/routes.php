@@ -37,7 +37,8 @@ $app->get('/{electionId}/{stateSlug}/districts',
   function ($electionId, $stateSlug) {
     $electionsData = file_get_contents('data/json/elections.json');
     $elections = json_decode($electionsData);
-    $states = getStates($elections, $electionId);
+    $statesData = getStates($elections, $electionId);
+    $states = json_decode($statesData);
     $districts = 'no districts found';
 
     foreach ($states as $state) {
