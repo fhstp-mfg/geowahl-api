@@ -15,6 +15,4 @@ $app->get('/', function () use ($app) {
     return $app->version();
 });
 
-$app->get('getElection', function () {
-    return 'Hello World';
-});
+$app->get('getElection', 'ElectionController@loadJSON');
