@@ -13,21 +13,25 @@ class ElectionController extends Controller
     {
         //
     }
-    public function loadJSON() {
-      // $filename = "states";
-      // $path = storage_path() . "/json/$filename.json"; // ie: /var/www/storage/json/filename.json
-      //
-      // $file = File::get($path);
-      // return $file;
 
-      $string = file_get_contents("storage/json/states.json");
-      $json_a = json_decode($string, true);
+    /*    public function loadJSON()
+        {
+            $string = file_get_contents("data/json/states.json");
+            $statesData = json_decode($string);
+            $states = $statesData->states;
 
-      foreach ($json_a as $person_name => $person_a) {
-         echo $person_a['status'];
-      }
-    }
-    public function showPath(){
-      echo storage_path();
+            foreach ($states as $state)
+            {
+                echo '<pre>';
+                echo print_r($state);
+                echo '</pre>';
+            }
+
+            return $statesData;
+        }*/
+
+    public function showPath()
+    {
+        echo storage_path();
     }
 }
