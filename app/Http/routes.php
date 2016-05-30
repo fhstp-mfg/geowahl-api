@@ -27,7 +27,7 @@ $app->get('/{electionId}/states', function ($electionId) {
     $states = 'no states found';
     foreach ($elections as $election) {
         if ( $election->id == $electionId) {
-            $states = json_encode($election->states);
+            $states = json_encode($election->states, JSON_UNESCAPED_UNICODE);
             break;
         }
     }
