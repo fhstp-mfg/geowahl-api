@@ -15,7 +15,6 @@ $app->get('/', function () use ($app) {
   return $app->version();
 });
 
-
 $app->get('/elections',
   function () {
     $elections = getElections();
@@ -62,7 +61,7 @@ function getElections () {
 /// States
 
 function getStates ($electionId) {
-  $electios = getElections();
+  $elections = getElections();
   $states   = 'no states found';
 
   foreach ($elections as $election ) {
