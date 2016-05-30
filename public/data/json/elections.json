@@ -10,12 +10,12 @@
       },
       {
         "id": 2,
-        "slug": "niederosterreich",
+        "slug": "niederoesterreich",
         "name": "Niederösterreich"
       },
       {
         "id": 3,
-        "slug": "oberosterreich",
+        "slug": "oberoesterreich",
         "name": "Oberösterreich"
       },
       {
@@ -45,7 +45,7 @@
       },
       {
         "id": 9,
-        "slug": "karnten",
+        "slug": "kaernten",
         "name": "Kärnten"
       }
     ]
