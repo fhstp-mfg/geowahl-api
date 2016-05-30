@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Gemeinderatswahlen",
+    "states": [
+      {
+        "id": 1,
+        "name": "Wien"
+      },
+      {
+        "id": 2,
+        "name": "Niederösterreich"
+      },
+      {
+        "id": 3,
+        "name": "Oberösterreich"
+      },
+      {
+        "id": 4,
+        "name": "Burgenland"
+      },
+      {
+        "id": 5,
+        "name": "Steiermark"
+      },
+      {
+        "id": 6,
+        "name": "Salzburg"
+      },
+      {
+        "id": 7,
+        "name": "Tirol"
+      },
+      {
+        "id": 8,
+        "name": "Vorarlberg"
+      },
+      {
+        "id": 9,
+        "name": "Kärnten"
+      }
+    ]
+  }
+]
