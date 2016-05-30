@@ -15,4 +15,7 @@ $app->get('/', function () use ($app) {
     return $app->version();
 });
 
-$app->get('getElection', 'ElectionController@loadJSON');
+$app->get('election', function () {
+    $states = file_get_contents("data/json/states.json");
+    return $states;
+});
