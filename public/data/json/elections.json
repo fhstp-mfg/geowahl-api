@@ -5,38 +5,47 @@
     "states": [
       {
         "id": 1,
+        "slug": "wien",
         "name": "Wien"
       },
       {
         "id": 2,
+        "slug": "niederosterreich",
         "name": "Niederösterreich"
       },
       {
         "id": 3,
+        "slug": "oberosterreich",
         "name": "Oberösterreich"
       },
       {
         "id": 4,
+        "slug": "burgenland",
         "name": "Burgenland"
       },
       {
         "id": 5,
+        "slug": "steiermark",
         "name": "Steiermark"
       },
       {
         "id": 6,
+        "slug": "salzburg",
         "name": "Salzburg"
       },
       {
         "id": 7,
+        "slug": "tirol",
         "name": "Tirol"
       },
       {
         "id": 8,
+        "slug": "vorarlberg",
         "name": "Vorarlberg"
       },
       {
         "id": 9,
+        "slug": "karnten",
         "name": "Kärnten"
       }
     ]

@@ -12,30 +12,59 @@
 */
 
 $app->get('/', function () use ($app) {
-    return $app->version();
+  return $app->version();
 });
+
 
 $app->get('/elections', function () {
-    $election = file_get_contents("data/json/elections.json");
-    return $election;
+  $elections = file_get_contents('data/json/elections.json');
+
+  return $elections;
 });
 
-$app->get('/{electionId}/states', function ($electionId) {
-    $electionsData = file_get_contents("data/json/elections.json");
+
+$app->get('/{electionId}/states',
+  function ($electionId) {
+    $electionsData = file_get_contents('data/json/elections.json');
     $elections = json_decode($electionsData);
 
-    $states = 'no states found';
-    foreach ($elections as $election) {
-        if ( $election->id == $electionId) {
-            $states = json_encode($election->states);
-            break;
-        }
+    return getStates($elections, $electionId);
+  }
+);
+
+
+$app->get('/{electionId}/{stateSlug}/districts',
+  function ($electionId, $stateSlug) {
+    $electionsData = file_get_contents('data/json/elections.json');
+    $elections = json_decode($electionsData);
+    $states = getStates($elections, $electionId);
+    $districts = 'no districts found';
+
+    foreach ($states as $state) {
+      if ( $state->slug == $stateSlug ) {
+        $districtPath = 'data/json/' . $stateSlug . '.json';
+        $districts = file_get_contents($districtPath);
+        break;
+      }
     }
 
-    return $states;
-});
-
-$app->get('/:electionId/:stateId/districts', function () {
-    $districts = file_get_contents("data/json/states.json");
     return $districts;
-});
+  }
+);
+
+
+
+/// functions
+
+function getStates ($elections, $electionId) {
+  $states = 'no states found';
+
+  foreach ($elections as $election ) {
+    if ( $election->id == $electionId) {
+      $states = json_encode($election->states);
+      break;
+    }
+  }
+
+  return $states;
+}
