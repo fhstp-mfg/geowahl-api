@@ -11,15 +11,10 @@
 |
 */
 
-
-/// General
-
 $app->get('/', function () use ($app) {
   return $app->version();
 });
 
-
-/// Elections
 
 $app->get('/elections',
   function () {
@@ -29,26 +24,17 @@ $app->get('/elections',
   }
 );
 
-
-/// States
-
 $app->get('/{electionId}/states',
   function ($electionId) {
-    $elections = getElections();
-    $states    = getStates($elections, $electionId);
+    $states = getStates($electionId);
 
     return response()->json($states);
   }
 );
 
-
-/// Districts
-
 $app->get('/{electionId}/{stateSlug}/districts',
   function ($electionId, $stateSlug) {
-    $elections = getElections();
-    $states    = getStates($elections, $electionId);
-    $districts = getDistricts($states, $stateSlug);
+    $districts = getDistricts($electionId, $stateSlug);
 
     return response()->json($districts);
   }
@@ -63,18 +49,21 @@ $app->get('/{electionId}/{stateSlug}/districts',
 
 
 
-/// functions
+/// Elections
 
 function getElections () {
   $electionsData = file_get_contents('data/json/elections.json');
-  $elections = json_decode($electionsData);
+  $elections     = json_decode($electionsData);
 
   return $elections;
 }
 
 
-function getStates ($elections, $electionId) {
-  $states = 'no states found';
+/// States
+
+function getStates ($electionId) {
+  $electios = getElections();
+  $states   = 'no states found';
 
   foreach ($elections as $election ) {
     if ( $election->id == $electionId ) {
@@ -87,7 +76,10 @@ function getStates ($elections, $electionId) {
 }
 
 
-function getDistricts ($states, $stateSlug) {
+/// Districts
+
+function getDistricts ($electionId, $stateSlug) {
+  $states    = getStates($electionId);
   $districts = 'no districts found';
 
   foreach ($states as $state) {
