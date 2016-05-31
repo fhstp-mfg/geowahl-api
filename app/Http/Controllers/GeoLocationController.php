@@ -23,6 +23,7 @@ class GeoLocationController extends Controller
     $url = "https://maps.googleapis.com/maps/api/geocode/json?latlng=".$latitude.",".$longitude."&key=".$api_key;
     // get the json response
     $resp_json = file_get_contents($url);
+    
     // decode the json
     $all_location_data = json_decode($resp_json, true);
 
