@@ -25,12 +25,25 @@ class GeoLocationController extends Controller
     $resp_json = file_get_contents($url);
     // decode the json
     $all_location_data = json_decode($resp_json, true);
-    var_dump($all_location_data);
-    foreach ($all_location_data as $component) {
+
+    foreach ($all_location_data['results'] as $component) {
       if(in_array('postal_town', $component['types'])){
-        $postal_town = $component;
+        $postal_town = $component['address_components'][0]['short_name'];
       }
     }
-    return $postal_town;
+    return deliverJson($postal_town);
   }
+}
+
+/// Helper functions
+
+function deliverJson ($data) {
+  $responseCode = 200;
+
+  $header = [
+    'Content-Type' => 'application/json; charset=UTF-8',
+    'charset' => 'utf-8'
+  ];
+
+  return response()->json($data, $responseCode, $header, JSON_UNESCAPED_UNICODE);
 }
