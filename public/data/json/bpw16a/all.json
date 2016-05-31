@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Burgenland",
+    "results": [
+      {
+        "name": "Griss",
+        "votes": 21870,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hofer",
+        "votes": 73676,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hundstorfer",
+        "votes": 30802,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Khol",
+        "votes": 22910,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Lugner",
+        "votes": 3317,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "VdB",
+        "votes": 23278,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      }
+    ]
+  },
+  {
+    "name": "Kärnten",
+    "results": [
+      {
+        "name": "Griss",
+        "votes": 65400,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hofer",
+        "votes": 110776,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hundstorfer",
+        "votes": 38714,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Khol",
+        "votes": 19782,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Lugner",
+        "votes": 9704,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "VdB",
+        "votes": 40934,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      }
+    ]
+  },
+  {
+    "name": "Niederösterreich",
+    "results": [
+      {
+        "name": "Griss",
+        "votes": 168148,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hofer",
+        "votes": 342568,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hundstorfer",
+        "votes": 114577,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Khol",
+        "votes": 136697,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Lugner",
+        "votes": 26064,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "VdB",
+        "votes": 174569,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      }
+    ]
+  },
+  {
+    "name": "Oberösterreich",
+    "results": [
+      {
+        "name": "Griss",
+        "votes": 131013,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hofer",
+        "votes": 263487,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hundstorfer",
+        "votes": 88419,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Khol",
+        "votes": 99432,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Lugner",
+        "votes": 14259,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "VdB",
+        "votes": 153436,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      }
+    ]
+  },
+  {
+    "name": "Salzburg",
+    "results": [
+      {
+        "name": "Griss",
+        "votes": 47856,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hofer",
+        "votes": 99476,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hundstorfer",
+        "votes": 26200,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Khol",
+        "votes": 35038,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Lugner",
+        "votes": 6054,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "VdB",
+        "votes": 51735,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      }
+    ]
+  },
+  {
+    "name": "Steiermark",
+    "results": [
+      {
+        "name": "Griss",
+        "votes": 143176,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hofer",
+        "votes": 255552,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hundstorfer",
+        "votes": 67945,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Khol",
+        "votes": 63866,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Lugner",
+        "votes": 13511,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "VdB",
+        "votes": 113877,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      }
+    ]
+  },
+  {
+    "name": "Tirol",
+    "results": [
+      {
+        "name": "Griss",
+        "votes": 59372,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hofer",
+        "votes": 109552,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hundstorfer",
+        "votes": 18796,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Khol",
+        "votes": 38969,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Lugner",
+        "votes": 6660,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "VdB",
+        "votes": 75190,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      }
+    ]
+  },
+  {
+    "name": "Vorarlberg",
+    "results": [
+      {
+        "name": "Griss",
+        "votes": 35229,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hofer",
+        "votes": 43951,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hundstorfer",
+        "votes": 6307,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Khol",
+        "votes": 15446,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Lugner",
+        "votes": 3083,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "VdB",
+        "votes": 42434,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      }
+    ]
+  },
+  {
+    "name": "Wien",
+    "results": [
+      {
+        "name": "Griss",
+        "votes": 138577,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hofer",
+        "votes": 200933,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Hundstorfer",
+        "votes": 91030,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Khol",
+        "votes": 43627,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "Lugner",
+        "votes": 14131,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      },
+      {
+        "name": "VdB",
+        "votes": 237765,
+        "rgba": { "r": "RED", "g": "GREEN", "b": "BLUE", "a": "ALPHA" },
+        "hex": "#HEXCOD"
+      }
+    ]
+  }
+]
