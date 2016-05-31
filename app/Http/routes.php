@@ -15,57 +15,126 @@ $app->get('/', function () use ($app) {
   return $app->version();
 });
 
-
 $app->get('/elections', function () {
-  $elections = file_get_contents('data/json/elections.json');
+  $elections = getElections();
 
-  return $elections;
+  foreach ($elections as $election) {
+    unset($election->states, $election->parties);
+  }
+
+  return deliverJson($elections);
 });
 
+$app->get('/{electionSlug}/parties',
+  function ($electionSlug) {
+    $elections = getElections();
+    $parties = getParties($electionSlug);
 
-$app->get('/{electionId}/states',
-  function ($electionId) {
-    $electionsData = file_get_contents('data/json/elections.json');
-    $elections = json_decode($electionsData);
-
-    return getStates($elections, $electionId);
+    return deliverJson($parties);
   }
 );
 
+$app->get('/{electionSlug}/states',
+  function ($electionSlug) {
+    $states = getStates($electionSlug);
+    return deliverJson($states);
+  }
+);
 
-$app->get('/{electionId}/{stateSlug}/districts',
-  function ($electionId, $stateSlug) {
-    $electionsData = file_get_contents('data/json/elections.json');
-    $elections = json_decode($electionsData);
-    $statesData = getStates($elections, $electionId);
-    $states = json_decode($statesData);
-    $districts = 'no districts found';
+$app->get('/{electionSlug}/{stateSlug}/districts',
+  function ($electionSlug, $stateSlug) {
+    $districts = getDistricts($electionSlug, $stateSlug);
 
-    foreach ($states as $state) {
-      if ( $state->slug == $stateSlug ) {
-        $districtPath = 'data/json/' . $stateSlug . '.json';
-        $districts = file_get_contents($districtPath);
-        break;
-      }
+    // foreach ($districts as $district) {
+    //   unset($district->results);
+    // }
+
+    return deliverJson($districts);
+  }
+);
+
+$app->get('/geolocation/{latitude},{longitude}', function($latitude,$longitude) use ($app) {
+    $controller = $app->make('App\Http\Controllers\GeoLocationController');
+    return $controller->getLocation($latitude,$longitude);
+});
+
+/// END routes
+
+
+
+
+
+/// Elections
+
+function getElections () {
+  $electionsData = file_get_contents('data/json/elections.json');
+  $elections = json_decode($electionsData);
+
+  return $elections;
+}
+
+/// Parties
+
+function getParties ($electionSlug) {
+  $elections = getElections();
+  $parties = 'no parties found';
+
+  foreach ($elections as $election) {
+    if ($election->slug == $electionSlug) {
+      $parties = $election->parties;
+      break;
     }
-
-    return $districts;
   }
-);
 
+  return $parties;
+}
 
+/// States
 
-/// functions
-
-function getStates ($elections, $electionId) {
+function getStates ($electionSlug) {
+  $elections = getElections();
   $states = 'no states found';
 
-  foreach ($elections as $election ) {
-    if ( $election->id == $electionId) {
-      $states = json_encode($election->states);
+  foreach ($elections as $election) {
+    if ($election->slug == $electionSlug) {
+      $states = $election->states;
       break;
     }
   }
 
   return $states;
+}
+
+
+/// Districts
+
+function getDistricts ($electionSlug, $stateSlug) {
+  $states = getStates($electionSlug);
+  $districts = 'no districts found';
+
+  foreach ($states as $state) {
+    if ($state->slug == $stateSlug) {
+      // NOTE interpolation is nicer but slower than concatenation
+      $districtPath = 'data/json/'.$electionSlug.'/'.$stateSlug.'.json';
+      $districtsData = file_get_contents($districtPath);
+      $districts = json_decode($districtsData);
+      break;
+    }
+  }
+
+  return $districts;
+}
+
+
+/// Helper functions
+
+function deliverJson ($data) {
+  $responseCode = 200;
+
+  $header = [
+    'Content-Type' => 'application/json; charset=UTF-8',
+    'charset' => 'utf-8'
+  ];
+
+  return response()->json($data, $responseCode, $header, JSON_UNESCAPED_UNICODE);
 }

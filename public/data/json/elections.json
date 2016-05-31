@@ -1,53 +1,69 @@
 [
   {
     "id": 1,
-    "name": "Gemeinderatswahlen",
+    "slug": "bpw16a",
+    "name": "BPW16 1. Wahlgang",
+
     "states": [
+      { "id": "all", "slug": "all", "name": "Alle Bundesländer" },
+      { "id": 1, "slug": "w", "name": "Wien" },
+      { "id": 2, "slug": "noe", "name": "Niederösterreich" },
+      { "id": 3, "slug": "ooe", "name": "Oberösterreich" },
+      { "id": 4, "slug": "bgld", "name": "Burgenland" },
+      { "id": 5, "slug": "stmk", "name": "Steiermark" },
+      { "id": 6, "slug": "sbg", "name": "Salzburg" },
+      { "id": 7, "slug": "ktn", "name": "Kärnten" },
+      { "id": 8, "slug": "t", "name": "Tirol" },
+      { "id": 9, "slug": "vbg", "name": "Vorarlberg" }
+    ],
+
+    "parties" : [
       {
-        "id": 1,
-        "slug": "wien",
-        "name": "Wien"
+        "name": "Griss",
+        "rgba": { "r": 186, "g": 186, "b": 186, "a": 1 },
+        "hex": "#BABABA"
       },
       {
-        "id": 2,
-        "slug": "niederosterreich",
-        "name": "Niederösterreich"
+        "name": "Hofer",
+        "rgba": { "r": 14, "g": 66, "b": 142, "a": 1 },
+        "hex": "#0E428E"
       },
       {
-        "id": 3,
-        "slug": "oberosterreich",
-        "name": "Oberösterreich"
+        "name": "Hundstorfer",
+        "rgba": { "r": 243, "g": 17, "b": 55, "a": 1 },
+        "hex": "#F31137"
       },
       {
-        "id": 4,
-        "slug": "burgenland",
-        "name": "Burgenland"
+        "name": "Khol",
+        "rgba": { "r": 54, "g": 54, "b": 54, "a": 1 },
+        "hex": "#363636"
       },
       {
-        "id": 5,
-        "slug": "steiermark",
-        "name": "Steiermark"
+        "name": "Lugner",
+        "rgba": { "r": 119, "g": 6, "b": 140, "a": 1 },
+        "hex": "#77068C"
       },
       {
-        "id": 6,
-        "slug": "salzburg",
-        "name": "Salzburg"
-      },
-      {
-        "id": 7,
-        "slug": "tirol",
-        "name": "Tirol"
-      },
-      {
-        "id": 8,
-        "slug": "vorarlberg",
-        "name": "Vorarlberg"
-      },
-      {
-        "id": 9,
-        "slug": "karnten",
-        "name": "Kärnten"
+        "name": "VdB",
+        "rgba": { "r": 120, "g": 175, "b": 53, "a": 1 },
+        "hex": "#78AF35"
       }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "nrw15",
+    "name": "Nationalratswahlen",
+
+    "states": [
+      { "id": "all", "slug": "all", "name": "Alle Bundesländer" },
+      { "id": 1, "slug": "w", "name": "Wien" },
+      { "id": 2, "slug": "noe", "name": "Niederösterreich" },
+      { "id": 3, "slug": "ooe", "name": "Oberösterreich" },
+      { "id": 4, "slug": "bgld", "name": "Burgenland" },
+      { "id": 6, "slug": "sbg", "name": "Salzburg" },
+      { "id": 7, "slug": "t", "name": "Tirol" },
+      { "id": 8, "slug": "vbg", "name": "Vorarlberg" }
     ]
   }
 ]
