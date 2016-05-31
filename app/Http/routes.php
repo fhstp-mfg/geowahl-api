@@ -42,17 +42,6 @@ $app->get('/{electionId}/{stateSlug}/districts',
 
 /// Elections
 
-function deliverJson ($data) {
-  $responseCode = 200;
-
-  $header = [
-    'Content-Type' => 'application/json; charset=UTF-8',
-    'charset' => 'utf-8'
-  ];
-
-  return response()->json($data, $responseCode, $header, JSON_UNESCAPED_UNICODE);
-}
-
 function getElections () {
   $electionsData = file_get_contents('data/json/elections.json');
   $elections = json_decode($electionsData);
@@ -96,4 +85,19 @@ function getDistricts ($electionId, $stateSlug) {
   }
 
   return $districts;
+}
+
+
+
+/// Helper functions
+
+function deliverJson ($data) {
+  $responseCode = 200;
+
+  $header = [
+    'Content-Type' => 'application/json; charset=UTF-8',
+    'charset' => 'utf-8'
+  ];
+
+  return response()->json($data, $responseCode, $header, JSON_UNESCAPED_UNICODE);
 }
