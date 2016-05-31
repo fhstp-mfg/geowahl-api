@@ -17,6 +17,11 @@ $app->get('/', function () use ($app) {
 
 $app->get('/elections', function () {
   $elections = getElections();
+
+  foreach ($elections as $election) {
+    unset($election->states, $election->parties);
+  }
+
   return deliverJson($elections);
 });
 
