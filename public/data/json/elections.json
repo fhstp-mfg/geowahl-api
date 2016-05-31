@@ -55,13 +55,14 @@
     "name": "Nationalratswahlen",
 
     "states": [
-      { "id": 1, "slug": "wien", "name": "Wien" },
-      { "id": 2, "slug": "niederoesterreich", "name": "Niederösterreich" },
-      { "id": 3, "slug": "oberoesterreich", "name": "Oberösterreich" },
-      { "id": 4, "slug": "burgenland", "name": "Burgenland" },
-      { "id": 6, "slug": "salzburg", "name": "Salzburg" },
-      { "id": 7, "slug": "tirol", "name": "Tirol" },
-      { "id": 8, "slug": "vorarlberg", "name": "Vorarlberg" }
+      { "id": "all", "slug": "all", "name": "Alle Bundesländer" },
+      { "id": 1, "slug": "w", "name": "Wien" },
+      { "id": 2, "slug": "noe", "name": "Niederösterreich" },
+      { "id": 3, "slug": "ooe", "name": "Oberösterreich" },
+      { "id": 4, "slug": "bgld", "name": "Burgenland" },
+      { "id": 6, "slug": "sbg", "name": "Salzburg" },
+      { "id": 7, "slug": "t", "name": "Tirol" },
+      { "id": 8, "slug": "vbg", "name": "Vorarlberg" }
     ]
   }
 ]
