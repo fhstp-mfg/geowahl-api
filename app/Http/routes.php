@@ -34,6 +34,10 @@ $app->get('/{electionId}/{stateSlug}/districts',
   }
 );
 
+$app->get('/geolocation/{latitude};{longitude}', function($latitude,$longitude) use ($app) {
+    $controller = $app->make('App\Http\Controllers\GeoLocationController');
+    return $controller->getLocation($latitude,$longitude);
+});
 /// END routes
 
 
@@ -47,7 +51,7 @@ function getElections()
   return $elections;
 }
 
-
+https://maps.googleapis.com/maps/api/geocode/json?latlng=&key=AIzaSyAau461Lwylaoz68fsLWIf77x2adNda-sc
 /// States
 
 function getStates($electionId)
