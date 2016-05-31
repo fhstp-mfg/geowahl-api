@@ -38,14 +38,14 @@ $app->get('/{electionId}/{stateSlug}/districts', function ($electionId, $stateSl
 /// Elections
 
 function deliverJson($data){
-    $responsecode = 200;
+    $responseCode = 200;
 
     $header = array(
         'Content-Type' => 'application/json; charset=UTF-8',
         'charset' => 'utf-8'
     );
 
-    return response()->json($data, $responsecode, $header, JSON_UNESCAPED_UNICODE);
+    return response()->json($data, $responseCode, $header, JSON_UNESCAPED_UNICODE);
 }
 
 function getElections()
