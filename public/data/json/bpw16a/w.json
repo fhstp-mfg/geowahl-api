@@ -1,0 +1,255 @@
+[
+  {
+    "name": "Innere Stadt",
+    "results": [
+      { "name": "Griss", "votes": 1629 },
+      { "name": "Hofer", "votes": 1012 },
+      { "name": "Hundstorfer", "votes": 400 },
+      { "name": "Khol", "votes": 595 },
+      { "name": "Lugner", "votes": 95 },
+      { "name": "VdB", "votes": 2065 }
+    ]
+  },
+  {
+    "name": "Leopoldstadt",
+    "results": [
+      { "name": "Griss", "votes": 5153 },
+      { "name": "Hofer", "votes": 7192 },
+      { "name": "Hundstorfer", "votes": 3893 },
+      { "name": "Khol", "votes": 1373 },
+      { "name": "Lugner", "votes": 555 },
+      { "name": "VdB", "votes": 12310 }
+    ]
+  },
+  {
+    "name": "Landstraße",
+    "results": [
+      { "name": "Griss", "votes": 5873 },
+      { "name": "Hofer", "votes": 6286 },
+      { "name": "Hundstorfer", "votes": 2927 },
+      { "name": "Khol", "votes": 1857 },
+      { "name": "Lugner", "votes": 470 },
+      { "name": "VdB", "votes": 11463 }
+    ]
+  },
+  {
+    "name": "Wieden",
+    "results": [
+      { "name": "Griss", "votes": 2500 },
+      { "name": "Hofer", "votes": 1820 },
+      { "name": "Hundstorfer", "votes": 841 },
+      { "name": "Khol", "votes": 751 },
+      { "name": "Lugner", "votes": 134 },
+      { "name": "VdB", "votes": 4685 }
+    ]
+  },
+  {
+    "name": "Margareten",
+    "results": [
+      { "name": "Griss", "votes": 2723 },
+      { "name": "Hofer", "votes": 3284 },
+      { "name": "Hundstorfer", "votes": 1771 },
+      { "name": "Khol", "votes": 802 },
+      { "name": "Lugner", "votes": 320 },
+      { "name": "VdB", "votes": 6882 }
+    ]
+  },
+  {
+    "name": "Mariahilf",
+    "results": [
+      { "name": "Griss", "votes": 2135 },
+      { "name": "Hofer", "votes": 1759 },
+      { "name": "Hundstorfer", "votes": 868 },
+      { "name": "Khol", "votes": 615 },
+      { "name": "Lugner", "votes": 150 },
+      { "name": "VdB", "votes": 5307 }
+    ]
+  },
+  {
+    "name": "Neubau",
+    "results": [
+      { "name": "Griss", "votes": 2203 },
+      { "name": "Hofer", "votes": 1522 },
+      { "name": "Hundstorfer", "votes": 793 },
+      { "name": "Khol", "votes": 622 },
+      { "name": "Lugner", "votes": 179 },
+      { "name": "VdB", "votes": 6010 }
+    ]
+  },
+  {
+    "name": "Josefstadt",
+    "results": [
+      { "name": "Griss", "votes": 2058 },
+      { "name": "Hofer", "votes": 1303 },
+      { "name": "Hundstorfer", "votes": 604 },
+      { "name": "Khol", "votes": 681 },
+      { "name": "Lugner", "votes": 104 },
+      { "name": "VdB", "votes": 4296 }
+    ]
+  },
+  {
+    "name": "Alsergrund",
+    "results": [
+      { "name": "Griss", "votes": 3164 },
+      { "name": "Hofer", "votes": 2334 },
+      { "name": "Hundstorfer", "votes": 1085 },
+      { "name": "Khol", "votes": 922 },
+      { "name": "Lugner", "votes": 228 },
+      { "name": "VdB", "votes": 6441 }
+    ]
+  },
+  {
+    "name": "Favoriten",
+    "results": [
+      { "name": "Griss", "votes": 7592 },
+      { "name": "Hofer", "votes": 19961 },
+      { "name": "Hundstorfer", "votes": 8615 },
+      { "name": "Khol", "votes": 2343 },
+      { "name": "Lugner", "votes": 1296 },
+      { "name": "VdB", "votes": 12050 }
+    ]
+  },
+  {
+    "name": "Simmering",
+    "results": [
+      { "name": "Griss", "votes": 4032 },
+      { "name": "Hofer", "votes": 12465 },
+      { "name": "Hundstorfer", "votes": 4650 },
+      { "name": "Khol", "votes": 1198 },
+      { "name": "Lugner", "votes": 722 },
+      { "name": "VdB", "votes": 6072 }
+    ]
+  },
+  {
+    "name": "Meidling",
+    "results": [
+      { "name": "Griss", "votes": 4565 },
+      { "name": "Hofer", "votes": 8350 },
+      { "name": "Hundstorfer", "votes": 3688 },
+      { "name": "Khol", "votes": 1466 },
+      { "name": "Lugner", "votes": 629 },
+      { "name": "VdB", "votes": 8151 }
+    ]
+  },
+  {
+    "name": "Hietzing",
+    "results": [
+      { "name": "Griss", "votes": 6029 },
+      { "name": "Hofer", "votes": 4998 },
+      { "name": "Hundstorfer", "votes": 1903 },
+      { "name": "Khol", "votes": 2358 },
+      { "name": "Lugner", "votes": 360 },
+      { "name": "VdB", "votes": 6843 }
+    ]
+  },
+  {
+    "name": "Penzing",
+    "results": [
+      { "name": "Griss", "votes": 6770 },
+      { "name": "Hofer", "votes": 8808 },
+      { "name": "Hundstorfer", "votes": 3623 },
+      { "name": "Khol", "votes": 2018 },
+      { "name": "Lugner", "votes": 648 },
+      { "name": "VdB", "votes": 10459 }
+    ]
+  },
+  {
+    "name": "Rudolfsheim-Fünfhaus",
+    "results": [
+      { "name": "Griss", "votes": 2825 },
+      { "name": "Hofer", "votes": 4623 },
+      { "name": "Hundstorfer", "votes": 2459 },
+      { "name": "Khol", "votes": 861 },
+      { "name": "Lugner", "votes": 496 },
+      { "name": "VdB", "votes": 7595 }
+    ]
+  },
+  {
+    "name": "Ottakring",
+    "results": [
+      { "name": "Griss", "votes": 4816 },
+      { "name": "Hofer", "votes": 7806 },
+      { "name": "Hundstorfer", "votes": 3840 },
+      { "name": "Khol", "votes": 1543 },
+      { "name": "Lugner", "votes": 697 },
+      { "name": "VdB", "votes": 10464 }
+    ]
+  },
+  {
+    "name": "Hernals",
+    "results": [
+      { "name": "Griss", "votes": 3513 },
+      { "name": "Hofer", "votes": 3953 },
+      { "name": "Hundstorfer", "votes": 1673 },
+      { "name": "Khol", "votes": 1085 },
+      { "name": "Lugner", "votes": 359 },
+      { "name": "VdB", "votes": 6539 }
+    ]
+  },
+  {
+    "name": "Währing",
+    "results": [
+      { "name": "Griss", "votes": 4450 },
+      { "name": "Hofer", "votes": 3144 },
+      { "name": "Hundstorfer", "votes": 1223 },
+      { "name": "Khol", "votes": 1522 },
+      { "name": "Lugner", "votes": 263 },
+      { "name": "VdB", "votes": 7261 }
+    ]
+  },
+  {
+    "name": "Döbling",
+    "results": [
+      { "name": "Griss", "votes": 7003 },
+      { "name": "Hofer", "votes": 6251 },
+      { "name": "Hundstorfer", "votes": 2647 },
+      { "name": "Khol", "votes": 2472 },
+      { "name": "Lugner", "votes": 459 },
+      { "name": "VdB", "votes": 8463 }
+    ]
+  },
+  {
+    "name": "Brigittenau",
+    "results": [
+      { "name": "Griss", "votes": 3402 },
+      { "name": "Hofer", "votes": 6807 },
+      { "name": "Hundstorfer", "votes": 3488 },
+      { "name": "Khol", "votes": 970 },
+      { "name": "Lugner", "votes": 514 },
+      { "name": "VdB", "votes": 7005 }
+    ]
+  },
+  {
+    "name": "Floridsdorf",
+    "results": [
+      { "name": "Griss", "votes": 9093 },
+      { "name": "Hofer", "votes": 22380 },
+      { "name": "Hundstorfer", "votes": 8320 },
+      { "name": "Khol", "votes": 2624 },
+      { "name": "Lugner", "votes": 1239 },
+      { "name": "VdB", "votes": 12490 }
+    ]
+  },
+  {
+    "name": "Donaustadt",
+    "results": [
+      { "name": "Griss", "votes": 11896 },
+      { "name": "Hofer", "votes": 25271 },
+      { "name": "Hundstorfer", "votes": 9034 },
+      { "name": "Khol", "votes": 2925 },
+      { "name": "Lugner", "votes": 1479 },
+      { "name": "VdB", "votes": 17264 }
+    ]
+  },
+  {
+    "name": "Liesing",
+    "results": [
+      { "name": "Griss", "votes": 8261 },
+      { "name": "Hofer", "votes": 13418 },
+      { "name": "Hundstorfer", "votes": 5148 },
+      { "name": "Khol", "votes": 2401 },
+      { "name": "Lugner", "votes": 789 },
+      { "name": "VdB", "votes": 10632 }
+    ]
+  }
+]

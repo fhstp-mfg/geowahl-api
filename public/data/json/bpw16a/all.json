@@ -2,262 +2,100 @@
   {
     "name": "Burgenland",
     "results": [
-      {
-        "name": "Griss",
-        "votes": 21870
-      },
-      {
-        "name": "Hofer",
-        "votes": 73676
-      },
-      {
-        "name": "Hundstorfer",
-        "votes": 30802
-      },
-      {
-        "name": "Khol",
-        "votes": 22910
-      },
-      {
-        "name": "Lugner",
-        "votes": 3317
-      },
-      {
-        "name": "VdB",
-        "votes": 23278
-      }
+      { "name": "Griss", "votes": 21870 },
+      { "name": "Hofer", "votes": 73676 },
+      { "name": "Hundstorfer", "votes": 30802 },
+      { "name": "Khol", "votes": 22910 },
+      { "name": "Lugner", "votes": 3317 },
+      { "name": "VdB", "votes": 23278 }
     ]
   },
   {
     "name": "Kärnten",
     "results": [
-      {
-        "name": "Griss",
-        "votes": 65400
-      },
-      {
-        "name": "Hofer",
-        "votes": 110776
-      },
-      {
-        "name": "Hundstorfer",
-        "votes": 38714
-      },
-      {
-        "name": "Khol",
-        "votes": 19782
-      },
-      {
-        "name": "Lugner",
-        "votes": 9704
-      },
-      {
-        "name": "VdB",
-        "votes": 40934
-      }
+      { "name": "Griss", "votes": 65400 },
+      { "name": "Hofer", "votes": 110776 },
+      { "name": "Hundstorfer", "votes": 38714 },
+      { "name": "Khol", "votes": 19782 },
+      { "name": "Lugner", "votes": 9704 },
+      { "name": "VdB", "votes": 40934 }
     ]
   },
   {
     "name": "Niederösterreich",
     "results": [
-      {
-        "name": "Griss",
-        "votes": 168148
-      },
-      {
-        "name": "Hofer",
-        "votes": 342568
-      },
-      {
-        "name": "Hundstorfer",
-        "votes": 114577
-      },
-      {
-        "name": "Khol",
-        "votes": 136697
-      },
-      {
-        "name": "Lugner",
-        "votes": 26064
-      },
-      {
-        "name": "VdB",
-        "votes": 174569
-      }
+      { "name": "Griss", "votes": 168148 },
+      { "name": "Hofer", "votes": 342568 },
+      { "name": "Hundstorfer", "votes": 114577 },
+      { "name": "Khol", "votes": 136697 },
+      { "name": "Lugner", "votes": 26064 },
+      { "name": "VdB", "votes": 174569 }
     ]
   },
   {
     "name": "Oberösterreich",
     "results": [
-      {
-        "name": "Griss",
-        "votes": 131013
-      },
-      {
-        "name": "Hofer",
-        "votes": 263487
-      },
-      {
-        "name": "Hundstorfer",
-        "votes": 88419
-      },
-      {
-        "name": "Khol",
-        "votes": 99432
-      },
-      {
-        "name": "Lugner",
-        "votes": 14259
-      },
-      {
-        "name": "VdB",
-        "votes": 153436
-      }
+      { "name": "Griss", "votes": 131013 },
+      { "name": "Hofer", "votes": 263487 },
+      { "name": "Hundstorfer", "votes": 88419 },
+      { "name": "Khol", "votes": 99432 },
+      { "name": "Lugner", "votes": 14259 },
+      { "name": "VdB", "votes": 153436 }
     ]
   },
   {
     "name": "Salzburg",
     "results": [
-      {
-        "name": "Griss",
-        "votes": 47856
-      },
-      {
-        "name": "Hofer",
-        "votes": 99476
-      },
-      {
-        "name": "Hundstorfer",
-        "votes": 26200
-      },
-      {
-        "name": "Khol",
-        "votes": 35038
-      },
-      {
-        "name": "Lugner",
-        "votes": 6054
-      },
-      {
-        "name": "VdB",
-        "votes": 51735
-      }
+      { "name": "Griss", "votes": 47856 },
+      { "name": "Hofer", "votes": 99476 },
+      { "name": "Hundstorfer", "votes": 26200 },
+      { "name": "Khol", "votes": 35038 },
+      { "name": "Lugner", "votes": 6054 },
+      { "name": "VdB", "votes": 51735 }
     ]
   },
   {
     "name": "Steiermark",
     "results": [
-      {
-        "name": "Griss",
-        "votes": 143176
-      },
-      {
-        "name": "Hofer",
-        "votes": 255552
-      },
-      {
-        "name": "Hundstorfer",
-        "votes": 67945
-      },
-      {
-        "name": "Khol",
-        "votes": 63866
-      },
-      {
-        "name": "Lugner",
-        "votes": 13511
-      },
-      {
-        "name": "VdB",
-        "votes": 113877
-      }
+      { "name": "Griss", "votes": 143176 },
+      { "name": "Hofer", "votes": 255552 },
+      { "name": "Hundstorfer", "votes": 67945 },
+      { "name": "Khol", "votes": 63866 },
+      { "name": "Lugner", "votes": 13511 },
+      { "name": "VdB", "votes": 113877 }
     ]
   },
   {
     "name": "Tirol",
     "results": [
-      {
-        "name": "Griss",
-        "votes": 59372
-      },
-      {
-        "name": "Hofer",
-        "votes": 109552
-      },
-      {
-        "name": "Hundstorfer",
-        "votes": 18796
-      },
-      {
-        "name": "Khol",
-        "votes": 38969
-      },
-      {
-        "name": "Lugner",
-        "votes": 6660
-      },
-      {
-        "name": "VdB",
-        "votes": 75190
-      }
+      { "name": "Griss", "votes": 59372 },
+      { "name": "Hofer", "votes": 109552 },
+      { "name": "Hundstorfer", "votes": 18796 },
+      { "name": "Khol", "votes": 38969 },
+      { "name": "Lugner", "votes": 6660 },
+      { "name": "VdB", "votes": 75190 }
     ]
   },
   {
     "name": "Vorarlberg",
     "results": [
-      {
-        "name": "Griss",
-        "votes": 35229
-      },
-      {
-        "name": "Hofer",
-        "votes": 43951
-      },
-      {
-        "name": "Hundstorfer",
-        "votes": 6307
-      },
-      {
-        "name": "Khol",
-        "votes": 15446
-      },
-      {
-        "name": "Lugner",
-        "votes": 3083
-      },
-      {
-        "name": "VdB",
-        "votes": 42434
-      }
+      { "name": "Griss", "votes": 35229 },
+      { "name": "Hofer", "votes": 43951 },
+      { "name": "Hundstorfer", "votes": 6307 },
+      { "name": "Khol", "votes": 15446 },
+      { "name": "Lugner", "votes": 3083 },
+      { "name": "VdB", "votes": 42434 }
     ]
   },
   {
     "name": "Wien",
     "results": [
-      {
-        "name": "Griss",
-        "votes": 138577
-      },
-      {
-        "name": "Hofer",
-        "votes": 200933
-      },
-      {
-        "name": "Hundstorfer",
-        "votes": 91030
-      },
-      {
-        "name": "Khol",
-        "votes": 43627
-      },
-      {
-        "name": "Lugner",
-        "votes": 14131
-      },
-      {
-        "name": "VdB",
-        "votes": 237765
-      }
+      { "name": "Griss", "votes": 138577 },
+      { "name": "Hofer", "votes": 200933 },
+      { "name": "Hundstorfer", "votes": 91030 },
+      { "name": "Khol", "votes": 43627 },
+      { "name": "Lugner", "votes": 14131 },
+      { "name": "VdB", "votes": 237765 }
     ]
   }
 ]
