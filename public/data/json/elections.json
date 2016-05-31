@@ -1,7 +1,9 @@
 [
   {
     "id": 1,
+    "slug": "gemeinderatswahlen",
     "name": "Gemeinderatswahlen",
+    
     "states": [
       {
         "id": 1,
