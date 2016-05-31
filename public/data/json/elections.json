@@ -12,8 +12,9 @@
       { "id": 4, "slug": "bgld", "name": "Burgenland" },
       { "id": 5, "slug": "stmk", "name": "Steiermark" },
       { "id": 6, "slug": "sbg", "name": "Salzburg" },
-      { "id": 7, "slug": "t", "name": "Tirol" },
-      { "id": 8, "slug": "vbg", "name": "Vorarlberg" }
+      { "id": 7, "slug": "ktn", "name": "Kärnten" },
+      { "id": 8, "slug": "t", "name": "Tirol" },
+      { "id": 9, "slug": "vbg", "name": "Vorarlberg" }
     ],
 
     "parties" : [
