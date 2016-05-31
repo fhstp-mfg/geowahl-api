@@ -43,8 +43,7 @@ $app->get('/geolocation/{latitude};{longitude}', function($latitude,$longitude) 
 
 /// Elections
 
-function getElections()
-{
+function getElections () {
   $electionsData = file_get_contents('data/json/elections.json');
   $elections = json_decode($electionsData);
 
@@ -54,8 +53,7 @@ function getElections()
 https://maps.googleapis.com/maps/api/geocode/json?latlng=&key=AIzaSyAau461Lwylaoz68fsLWIf77x2adNda-sc
 /// States
 
-function getStates($electionId)
-{
+function getStates ($electionId) {
   $elections = getElections();
   $states = 'no states found';
 
@@ -72,8 +70,7 @@ function getStates($electionId)
 
 /// Districts
 
-function getDistricts($electionId, $stateSlug)
-{
+function getDistricts ($electionId, $stateSlug) {
   $states = getStates($electionId);
   $districts = 'no districts found';
 
@@ -94,8 +91,7 @@ function getDistricts($electionId, $stateSlug)
 
 /// Helper functions
 
-function deliverJson($data)
-{
+function deliverJson ($data) {
   $responseCode = 200;
 
   $header = [
