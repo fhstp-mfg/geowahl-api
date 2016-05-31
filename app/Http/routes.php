@@ -25,16 +25,30 @@ $app->get('/elections', function () {
   return deliverJson($elections);
 });
 
-$app->get('/{electionId}/states',
-  function ($electionId) {
-    $states = getStates($electionId);
+$app->get('/{electionSlug}/parties',
+  function ($electionSlug) {
+    $elections = getElections();
+    $parties = getParties($electionSlug);
+
+    return deliverJson($parties);
+  }
+);
+
+$app->get('/{electionSlug}/states',
+  function ($electionSlug) {
+    $states = getStates($electionSlug);
     return deliverJson($states);
   }
 );
 
-$app->get('/{electionId}/{stateSlug}/districts',
-  function ($electionId, $stateSlug) {
-    $districts = getDistricts($electionId, $stateSlug);
+$app->get('/{electionSlug}/{stateSlug}/districts',
+  function ($electionSlug, $stateSlug) {
+    $districts = getDistricts($electionSlug, $stateSlug);
+
+    // foreach ($districts as $district) {
+    //   unset($district->results);
+    // }
+
     return deliverJson($districts);
   }
 );
@@ -47,6 +61,9 @@ $app->get('/geolocation/{latitude},{longitude}', function($latitude,$longitude) 
 /// END routes
 
 
+
+
+
 /// Elections
 
 function getElections () {
@@ -56,14 +73,30 @@ function getElections () {
   return $elections;
 }
 
+/// Parties
+
+function getParties ($electionSlug) {
+  $elections = getElections();
+  $parties = 'no parties found';
+
+  foreach ($elections as $election) {
+    if ($election->slug == $electionSlug) {
+      $parties = $election->parties;
+      break;
+    }
+  }
+
+  return $parties;
+}
+
 /// States
 
-function getStates ($electionId) {
+function getStates ($electionSlug) {
   $elections = getElections();
   $states = 'no states found';
 
   foreach ($elections as $election) {
-    if ($election->id == $electionId) {
+    if ($election->slug == $electionSlug) {
       $states = $election->states;
       break;
     }
@@ -75,15 +108,14 @@ function getStates ($electionId) {
 
 /// Districts
 
-function getDistricts ($electionId, $stateSlug) {
-  $states = getStates($electionId);
+function getDistricts ($electionSlug, $stateSlug) {
+  $states = getStates($electionSlug);
   $districts = 'no districts found';
 
   foreach ($states as $state) {
     if ($state->slug == $stateSlug) {
       // NOTE interpolation is nicer but slower than concatenation
-      // $districtPath  = "data/json/$stateSlug.json";
-      $districtPath = 'data/json/' . $stateSlug . '.json';
+      $districtPath = 'data/json/'.$electionSlug.'/'.$stateSlug.'.json';
       $districtsData = file_get_contents($districtPath);
       $districts = json_decode($districtsData);
       break;
