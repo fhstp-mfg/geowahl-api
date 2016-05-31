@@ -8,6 +8,39 @@
       { "id": "all", "slug": "all", "name": "Alle Bundesländer" },
       { "id": 4, "slug": "burgenland", "name": "Burgenland" },
       { "id": 5, "slug": "kaernten", "name": "Kärnten" }
+    ],
+
+    "parties" : [
+      {
+        "name": "Griss",
+        "rgba": { "r": 186, "g": 186, "b": 186, "a": 1 },
+        "hex": "#BABABA"
+      },
+      {
+        "name": "Hofer",
+        "rgba": { "r": 14, "g": 66, "b": 142, "a": 1 },
+        "hex": "#0E428E"
+      },
+      {
+        "name": "Hundstorfer",
+        "rgba": { "r": 243, "g": 17, "b": 55, "a": 1 },
+        "hex": "#F31137"
+      },
+      {
+        "name": "Khol",
+        "rgba": { "r": 54, "g": 54, "b": 54, "a": 1 },
+        "hex": "#363636"
+      },
+      {
+        "name": "Lugner",
+        "rgba": { "r": 119, "g": 6, "b": 140, "a": 1 },
+        "hex": "#77068C"
+      },
+      {
+        "name": "VdB",
+        "rgba": { "r": 120, "g": 175, "b": 53, "a": 1 },
+        "hex": "#78AF35"
+      }
     ]
   },
   {
