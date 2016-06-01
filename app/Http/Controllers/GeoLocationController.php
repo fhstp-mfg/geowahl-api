@@ -14,10 +14,11 @@ class GeoLocationController extends Controller
   {
     // ...
   }
+
   /*
-  * Function for returning the District with latitude and longitude
-  *
-  */
+   * Function for returning the District with latitude and longitude
+   *
+   */
   public function getLocation ($latitude, $longitude) {
     //load API-Key from .env
     $api_key = env('API_KEY');
@@ -32,13 +33,30 @@ class GeoLocationController extends Controller
       foreach ($all_location_data['results'] as $component) {
         if (in_array('postal_town', $component['types'])) {
           $postal_town = $component['address_components'][0]['short_name'];
-          return deliverJson($postal_town);
+          return $postal_town;
         }
       }
-      return deliverJson('No district for geolocation found!');
-    } else {
-      return deliverJson('No district for geolocation found!');
     }
+
+    return 'no district for geolocation found';
+  }
+
+
+  public function getResultsForLocation ($electionSlug, $stateSlug, $latitude, $longitude) {
+    $districtName = $this->getLocation($latitude, $longitude);
+    $districts = getDistricts($electionSlug, $stateSlug);
+    $results = 'no results for coordinates "'.$latitude.','.$longitude.'" found';
+
+    foreach ($districts as $district) {
+      if ( $district->name == $districtName) {
+        $results = [];
+        $results['name'] = $districtName;
+        $results['results'] = $district->results;
+        break;
+      }
+    }
+
+    return deliverJson($results);
   }
 }
 

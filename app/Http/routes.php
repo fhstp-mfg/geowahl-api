@@ -72,6 +72,10 @@ Route::get('/{electionSlug}/{stateSlug}/districts',
   }
 );
 
+Route::get('/{electionSlug}/{stateSlug}/{latitude},{longitude}',
+  'GeoLocationController@getResultsForLocation'
+);
+
 Route::get('/geolocation/{latitude},{longitude}', ['uses' =>'GeoLocationController@getLocation']);
 
 /// END routes
