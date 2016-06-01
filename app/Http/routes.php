@@ -149,6 +149,8 @@ function getDistricts ($electionSlug, $stateSlug) {
   return $districts;
 }
 
+/// Visualizations
+Route::get('/{electionSlug}/visualization', ['uses' =>'VisualizationController@showDonutVis']);
 
 /// Helper functions
 
