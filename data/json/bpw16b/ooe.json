@@ -1,0 +1,3096 @@
+[
+  {
+    "name": "Linz",
+    "results": [
+      { "name": "Hofer", "votes": 29048 },
+      { "name": "VdB", "votes": 44568 }
+    ]
+  },
+  {
+    "name": "Steyr",
+    "results": [
+      { "name": "Hofer", "votes": 7591 },
+      { "name": "VdB", "votes": 8479 }
+    ]
+  },
+  {
+    "name": "Wels",
+    "results": [
+      { "name": "Hofer", "votes": 10955 },
+      { "name": "VdB", "votes": 11178 }
+    ]
+  },
+  {
+    "name": "Altheim",
+    "results": [
+      { "name": "Hofer", "votes": 1420 },
+      { "name": "VdB", "votes": 827 }
+    ]
+  },
+  {
+    "name": "Aspach",
+    "results": [
+      { "name": "Hofer", "votes": 622 },
+      { "name": "VdB", "votes": 317 }
+    ]
+  },
+  {
+    "name": "Auerbach",
+    "results": [
+      { "name": "Hofer", "votes": 183 },
+      { "name": "VdB", "votes": 75 }
+    ]
+  },
+  {
+    "name": "Braunau am Inn",
+    "results": [
+      { "name": "Hofer", "votes": 3294 },
+      { "name": "VdB", "votes": 2905 }
+    ]
+  },
+  {
+    "name": "Burgkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 717 },
+      { "name": "VdB", "votes": 426 }
+    ]
+  },
+  {
+    "name": "Eggelsberg",
+    "results": [
+      { "name": "Hofer", "votes": 639 },
+      { "name": "VdB", "votes": 387 }
+    ]
+  },
+  {
+    "name": "Feldkirchen bei Mattighofen",
+    "results": [
+      { "name": "Hofer", "votes": 653 },
+      { "name": "VdB", "votes": 270 }
+    ]
+  },
+  {
+    "name": "Franking",
+    "results": [
+      { "name": "Hofer", "votes": 251 },
+      { "name": "VdB", "votes": 154 }
+    ]
+  },
+  {
+    "name": "Geretsberg",
+    "results": [
+      { "name": "Hofer", "votes": 280 },
+      { "name": "VdB", "votes": 207 }
+    ]
+  },
+  {
+    "name": "Gilgenberg am Weilhart",
+    "results": [
+      { "name": "Hofer", "votes": 368 },
+      { "name": "VdB", "votes": 211 }
+    ]
+  },
+  {
+    "name": "Haigermoos",
+    "results": [
+      { "name": "Hofer", "votes": 146 },
+      { "name": "VdB", "votes": 109 }
+    ]
+  },
+  {
+    "name": "Handenberg",
+    "results": [
+      { "name": "Hofer", "votes": 389 },
+      { "name": "VdB", "votes": 216 }
+    ]
+  },
+  {
+    "name": "Helpfau-Uttendorf",
+    "results": [
+      { "name": "Hofer", "votes": 934 },
+      { "name": "VdB", "votes": 413 }
+    ]
+  },
+  {
+    "name": "Hochburg-Ach",
+    "results": [
+      { "name": "Hofer", "votes": 579 },
+      { "name": "VdB", "votes": 577 }
+    ]
+  },
+  {
+    "name": "Höhnhart",
+    "results": [
+      { "name": "Hofer", "votes": 398 },
+      { "name": "VdB", "votes": 166 }
+    ]
+  },
+  {
+    "name": "Jeging",
+    "results": [
+      { "name": "Hofer", "votes": 197 },
+      { "name": "VdB", "votes": 108 }
+    ]
+  },
+  {
+    "name": "Kirchberg bei Mattighofen",
+    "results": [
+      { "name": "Hofer", "votes": 358 },
+      { "name": "VdB", "votes": 216 }
+    ]
+  },
+  {
+    "name": "Lengau",
+    "results": [
+      { "name": "Hofer", "votes": 1327 },
+      { "name": "VdB", "votes": 731 }
+    ]
+  },
+  {
+    "name": "Lochen am See",
+    "results": [
+      { "name": "Hofer", "votes": 947 },
+      { "name": "VdB", "votes": 387 }
+    ]
+  },
+  {
+    "name": "Maria Schmolln",
+    "results": [
+      { "name": "Hofer", "votes": 366 },
+      { "name": "VdB", "votes": 224 }
+    ]
+  },
+  {
+    "name": "Mattighofen",
+    "results": [
+      { "name": "Hofer", "votes": 1158 },
+      { "name": "VdB", "votes": 803 }
+    ]
+  },
+  {
+    "name": "Mauerkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 524 },
+      { "name": "VdB", "votes": 322 }
+    ]
+  },
+  {
+    "name": "Mining",
+    "results": [
+      { "name": "Hofer", "votes": 308 },
+      { "name": "VdB", "votes": 259 }
+    ]
+  },
+  {
+    "name": "Moosbach",
+    "results": [
+      { "name": "Hofer", "votes": 339 },
+      { "name": "VdB", "votes": 136 }
+    ]
+  },
+  {
+    "name": "Moosdorf",
+    "results": [
+      { "name": "Hofer", "votes": 429 },
+      { "name": "VdB", "votes": 296 }
+    ]
+  },
+  {
+    "name": "Munderfing",
+    "results": [
+      { "name": "Hofer", "votes": 796 },
+      { "name": "VdB", "votes": 498 }
+    ]
+  },
+  {
+    "name": "Neukirchen an der Enknach",
+    "results": [
+      { "name": "Hofer", "votes": 704 },
+      { "name": "VdB", "votes": 336 }
+    ]
+  },
+  {
+    "name": "Ostermiething",
+    "results": [
+      { "name": "Hofer", "votes": 733 },
+      { "name": "VdB", "votes": 491 }
+    ]
+  },
+  {
+    "name": "Palting",
+    "results": [
+      { "name": "Hofer", "votes": 322 },
+      { "name": "VdB", "votes": 143 }
+    ]
+  },
+  {
+    "name": "Perwang am Grabensee",
+    "results": [
+      { "name": "Hofer", "votes": 294 },
+      { "name": "VdB", "votes": 162 }
+    ]
+  },
+  {
+    "name": "Pfaffstätt",
+    "results": [
+      { "name": "Hofer", "votes": 279 },
+      { "name": "VdB", "votes": 168 }
+    ]
+  },
+  {
+    "name": "Pischelsdorf am Engelbach",
+    "results": [
+      { "name": "Hofer", "votes": 548 },
+      { "name": "VdB", "votes": 203 }
+    ]
+  },
+  {
+    "name": "Polling im Innkreis",
+    "results": [
+      { "name": "Hofer", "votes": 347 },
+      { "name": "VdB", "votes": 124 }
+    ]
+  },
+  {
+    "name": "Roßbach",
+    "results": [
+      { "name": "Hofer", "votes": 289 },
+      { "name": "VdB", "votes": 137 }
+    ]
+  },
+  {
+    "name": "Sankt Georgen am Fillmannsbach",
+    "results": [
+      { "name": "Hofer", "votes": 171 },
+      { "name": "VdB", "votes": 42 }
+    ]
+  },
+  {
+    "name": "Sankt Johann am Walde",
+    "results": [
+      { "name": "Hofer", "votes": 566 },
+      { "name": "VdB", "votes": 313 }
+    ]
+  },
+  {
+    "name": "Sankt Pantaleon",
+    "results": [
+      { "name": "Hofer", "votes": 790 },
+      { "name": "VdB", "votes": 507 }
+    ]
+  },
+  {
+    "name": "Sankt Peter am Hart",
+    "results": [
+      { "name": "Hofer", "votes": 560 },
+      { "name": "VdB", "votes": 472 }
+    ]
+  },
+  {
+    "name": "Sankt Radegund",
+    "results": [
+      { "name": "Hofer", "votes": 104 },
+      { "name": "VdB", "votes": 168 }
+    ]
+  },
+  {
+    "name": "Sankt Veit im Innkreis",
+    "results": [
+      { "name": "Hofer", "votes": 116 },
+      { "name": "VdB", "votes": 73 }
+    ]
+  },
+  {
+    "name": "Schalchen",
+    "results": [
+      { "name": "Hofer", "votes": 1008 },
+      { "name": "VdB", "votes": 675 }
+    ]
+  },
+  {
+    "name": "Schwand im Innkreis",
+    "results": [
+      { "name": "Hofer", "votes": 287 },
+      { "name": "VdB", "votes": 159 }
+    ]
+  },
+  {
+    "name": "Tarsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 536 },
+      { "name": "VdB", "votes": 356 }
+    ]
+  },
+  {
+    "name": "Treubach",
+    "results": [
+      { "name": "Hofer", "votes": 216 },
+      { "name": "VdB", "votes": 90 }
+    ]
+  },
+  {
+    "name": "Überackern",
+    "results": [
+      { "name": "Hofer", "votes": 147 },
+      { "name": "VdB", "votes": 79 }
+    ]
+  },
+  {
+    "name": "Weng im Innkreis",
+    "results": [
+      { "name": "Hofer", "votes": 432 },
+      { "name": "VdB", "votes": 216 }
+    ]
+  },
+  {
+    "name": "Alkoven",
+    "results": [
+      { "name": "Hofer", "votes": 1426 },
+      { "name": "VdB", "votes": 1394 }
+    ]
+  },
+  {
+    "name": "Aschach an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 507 },
+      { "name": "VdB", "votes": 521 }
+    ]
+  },
+  {
+    "name": "Eferding",
+    "results": [
+      { "name": "Hofer", "votes": 784 },
+      { "name": "VdB", "votes": 872 }
+    ]
+  },
+  {
+    "name": "Fraham",
+    "results": [
+      { "name": "Hofer", "votes": 609 },
+      { "name": "VdB", "votes": 505 }
+    ]
+  },
+  {
+    "name": "Haibach ob der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 355 },
+      { "name": "VdB", "votes": 306 }
+    ]
+  },
+  {
+    "name": "Hartkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 1309 },
+      { "name": "VdB", "votes": 924 }
+    ]
+  },
+  {
+    "name": "Hinzenbach",
+    "results": [
+      { "name": "Hofer", "votes": 580 },
+      { "name": "VdB", "votes": 412 }
+    ]
+  },
+  {
+    "name": "Prambachkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 842 },
+      { "name": "VdB", "votes": 542 }
+    ]
+  },
+  {
+    "name": "Pupping",
+    "results": [
+      { "name": "Hofer", "votes": 534 },
+      { "name": "VdB", "votes": 413 }
+    ]
+  },
+  {
+    "name": "Sankt Marienkirchen an der Polsenz",
+    "results": [
+      { "name": "Hofer", "votes": 605 },
+      { "name": "VdB", "votes": 535 }
+    ]
+  },
+  {
+    "name": "Scharten",
+    "results": [
+      { "name": "Hofer", "votes": 581 },
+      { "name": "VdB", "votes": 553 }
+    ]
+  },
+  {
+    "name": "Stroheim",
+    "results": [
+      { "name": "Hofer", "votes": 496 },
+      { "name": "VdB", "votes": 284 }
+    ]
+  },
+  {
+    "name": "Freistadt",
+    "results": [
+      { "name": "Hofer", "votes": 1643 },
+      { "name": "VdB", "votes": 2056 }
+    ]
+  },
+  {
+    "name": "Grünbach",
+    "results": [
+      { "name": "Hofer", "votes": 491 },
+      { "name": "VdB", "votes": 442 }
+    ]
+  },
+  {
+    "name": "Gutau",
+    "results": [
+      { "name": "Hofer", "votes": 663 },
+      { "name": "VdB", "votes": 685 }
+    ]
+  },
+  {
+    "name": "Hagenberg im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 695 },
+      { "name": "VdB", "votes": 705 }
+    ]
+  },
+  {
+    "name": "Hirschbach im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 229 },
+      { "name": "VdB", "votes": 368 }
+    ]
+  },
+  {
+    "name": "Kaltenberg",
+    "results": [
+      { "name": "Hofer", "votes": 219 },
+      { "name": "VdB", "votes": 121 }
+    ]
+  },
+  {
+    "name": "Kefermarkt",
+    "results": [
+      { "name": "Hofer", "votes": 544 },
+      { "name": "VdB", "votes": 536 }
+    ]
+  },
+  {
+    "name": "Königswiesen",
+    "results": [
+      { "name": "Hofer", "votes": 912 },
+      { "name": "VdB", "votes": 574 }
+    ]
+  },
+  {
+    "name": "Lasberg",
+    "results": [
+      { "name": "Hofer", "votes": 688 },
+      { "name": "VdB", "votes": 697 }
+    ]
+  },
+  {
+    "name": "Leopoldschlag",
+    "results": [
+      { "name": "Hofer", "votes": 274 },
+      { "name": "VdB", "votes": 254 }
+    ]
+  },
+  {
+    "name": "Liebenau",
+    "results": [
+      { "name": "Hofer", "votes": 473 },
+      { "name": "VdB", "votes": 279 }
+    ]
+  },
+  {
+    "name": "Neumarkt im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 750 },
+      { "name": "VdB", "votes": 879 }
+    ]
+  },
+  {
+    "name": "Pierbach",
+    "results": [
+      { "name": "Hofer", "votes": 301 },
+      { "name": "VdB", "votes": 166 }
+    ]
+  },
+  {
+    "name": "Pregarten",
+    "results": [
+      { "name": "Hofer", "votes": 1405 },
+      { "name": "VdB", "votes": 1253 }
+    ]
+  },
+  {
+    "name": "Rainbach im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 557 },
+      { "name": "VdB", "votes": 811 }
+    ]
+  },
+  {
+    "name": "Sandl",
+    "results": [
+      { "name": "Hofer", "votes": 404 },
+      { "name": "VdB", "votes": 332 }
+    ]
+  },
+  {
+    "name": "Sankt Leonhard bei Freistadt",
+    "results": [
+      { "name": "Hofer", "votes": 395 },
+      { "name": "VdB", "votes": 277 }
+    ]
+  },
+  {
+    "name": "Sankt Oswald bei Freistadt",
+    "results": [
+      { "name": "Hofer", "votes": 819 },
+      { "name": "VdB", "votes": 530 }
+    ]
+  },
+  {
+    "name": "Schönau im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 652 },
+      { "name": "VdB", "votes": 390 }
+    ]
+  },
+  {
+    "name": "Tragwein",
+    "results": [
+      { "name": "Hofer", "votes": 743 },
+      { "name": "VdB", "votes": 863 }
+    ]
+  },
+  {
+    "name": "Unterweißenbach",
+    "results": [
+      { "name": "Hofer", "votes": 714 },
+      { "name": "VdB", "votes": 372 }
+    ]
+  },
+  {
+    "name": "Unterweitersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 485 },
+      { "name": "VdB", "votes": 639 }
+    ]
+  },
+  {
+    "name": "Waldburg",
+    "results": [
+      { "name": "Hofer", "votes": 295 },
+      { "name": "VdB", "votes": 358 }
+    ]
+  },
+  {
+    "name": "Wartberg ob der Aist",
+    "results": [
+      { "name": "Hofer", "votes": 1007 },
+      { "name": "VdB", "votes": 1056 }
+    ]
+  },
+  {
+    "name": "Weitersfelden",
+    "results": [
+      { "name": "Hofer", "votes": 234 },
+      { "name": "VdB", "votes": 224 }
+    ]
+  },
+  {
+    "name": "Windhaag bei Freistadt",
+    "results": [
+      { "name": "Hofer", "votes": 378 },
+      { "name": "VdB", "votes": 348 }
+    ]
+  },
+  {
+    "name": "Bad Zell",
+    "results": [
+      { "name": "Hofer", "votes": 795 },
+      { "name": "VdB", "votes": 686 }
+    ]
+  },
+  {
+    "name": "Altmünster",
+    "results": [
+      { "name": "Hofer", "votes": 2225 },
+      { "name": "VdB", "votes": 2424 }
+    ]
+  },
+  {
+    "name": "Bad Goisern am Hallstättersee",
+    "results": [
+      { "name": "Hofer", "votes": 1593 },
+      { "name": "VdB", "votes": 1627 }
+    ]
+  },
+  {
+    "name": "Bad Ischl",
+    "results": [
+      { "name": "Hofer", "votes": 2552 },
+      { "name": "VdB", "votes": 3085 }
+    ]
+  },
+  {
+    "name": "Ebensee",
+    "results": [
+      { "name": "Hofer", "votes": 1809 },
+      { "name": "VdB", "votes": 2152 }
+    ]
+  },
+  {
+    "name": "Gmunden",
+    "results": [
+      { "name": "Hofer", "votes": 2241 },
+      { "name": "VdB", "votes": 3039 }
+    ]
+  },
+  {
+    "name": "Gosau",
+    "results": [
+      { "name": "Hofer", "votes": 426 },
+      { "name": "VdB", "votes": 363 }
+    ]
+  },
+  {
+    "name": "Grünau im Almtal",
+    "results": [
+      { "name": "Hofer", "votes": 527 },
+      { "name": "VdB", "votes": 508 }
+    ]
+  },
+  {
+    "name": "Gschwandt",
+    "results": [
+      { "name": "Hofer", "votes": 660 },
+      { "name": "VdB", "votes": 668 }
+    ]
+  },
+  {
+    "name": "Hallstatt",
+    "results": [
+      { "name": "Hofer", "votes": 121 },
+      { "name": "VdB", "votes": 294 }
+    ]
+  },
+  {
+    "name": "Kirchham",
+    "results": [
+      { "name": "Hofer", "votes": 533 },
+      { "name": "VdB", "votes": 376 }
+    ]
+  },
+  {
+    "name": "Laakirchen",
+    "results": [
+      { "name": "Hofer", "votes": 2092 },
+      { "name": "VdB", "votes": 2146 }
+    ]
+  },
+  {
+    "name": "Obertraun",
+    "results": [
+      { "name": "Hofer", "votes": 125 },
+      { "name": "VdB", "votes": 223 }
+    ]
+  },
+  {
+    "name": "Ohlsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1186 },
+      { "name": "VdB", "votes": 1258 }
+    ]
+  },
+  {
+    "name": "Pinsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 997 },
+      { "name": "VdB", "votes": 862 }
+    ]
+  },
+  {
+    "name": "Roitham",
+    "results": [
+      { "name": "Hofer", "votes": 481 },
+      { "name": "VdB", "votes": 436 }
+    ]
+  },
+  {
+    "name": "Sankt Konrad",
+    "results": [
+      { "name": "Hofer", "votes": 230 },
+      { "name": "VdB", "votes": 247 }
+    ]
+  },
+  {
+    "name": "St. Wolfgang im Salzkammergut",
+    "results": [
+      { "name": "Hofer", "votes": 672 },
+      { "name": "VdB", "votes": 480 }
+    ]
+  },
+  {
+    "name": "Traunkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 329 },
+      { "name": "VdB", "votes": 455 }
+    ]
+  },
+  {
+    "name": "Scharnstein",
+    "results": [
+      { "name": "Hofer", "votes": 1087 },
+      { "name": "VdB", "votes": 1090 }
+    ]
+  },
+  {
+    "name": "Vorchdorf",
+    "results": [
+      { "name": "Hofer", "votes": 2005 },
+      { "name": "VdB", "votes": 1632 }
+    ]
+  },
+  {
+    "name": "Aistersheim",
+    "results": [
+      { "name": "Hofer", "votes": 206 },
+      { "name": "VdB", "votes": 184 }
+    ]
+  },
+  {
+    "name": "Bad Schallerbach",
+    "results": [
+      { "name": "Hofer", "votes": 877 },
+      { "name": "VdB", "votes": 846 }
+    ]
+  },
+  {
+    "name": "Bruck-Waasen",
+    "results": [
+      { "name": "Hofer", "votes": 630 },
+      { "name": "VdB", "votes": 492 }
+    ]
+  },
+  {
+    "name": "Eschenau im Hausruckkreis",
+    "results": [
+      { "name": "Hofer", "votes": 387 },
+      { "name": "VdB", "votes": 188 }
+    ]
+  },
+  {
+    "name": "Gallspach",
+    "results": [
+      { "name": "Hofer", "votes": 671 },
+      { "name": "VdB", "votes": 481 }
+    ]
+  },
+  {
+    "name": "Gaspoltshofen",
+    "results": [
+      { "name": "Hofer", "votes": 911 },
+      { "name": "VdB", "votes": 757 }
+    ]
+  },
+  {
+    "name": "Geboltskirchen",
+    "results": [
+      { "name": "Hofer", "votes": 369 },
+      { "name": "VdB", "votes": 326 }
+    ]
+  },
+  {
+    "name": "Grieskirchen",
+    "results": [
+      { "name": "Hofer", "votes": 1022 },
+      { "name": "VdB", "votes": 1119 }
+    ]
+  },
+  {
+    "name": "Haag am Hausruck",
+    "results": [
+      { "name": "Hofer", "votes": 473 },
+      { "name": "VdB", "votes": 543 }
+    ]
+  },
+  {
+    "name": "Heiligenberg",
+    "results": [
+      { "name": "Hofer", "votes": 255 },
+      { "name": "VdB", "votes": 152 }
+    ]
+  },
+  {
+    "name": "Hofkirchen an der Trattnach",
+    "results": [
+      { "name": "Hofer", "votes": 422 },
+      { "name": "VdB", "votes": 361 }
+    ]
+  },
+  {
+    "name": "Kallham",
+    "results": [
+      { "name": "Hofer", "votes": 646 },
+      { "name": "VdB", "votes": 511 }
+    ]
+  },
+  {
+    "name": "Kematen am Innbach",
+    "results": [
+      { "name": "Hofer", "votes": 425 },
+      { "name": "VdB", "votes": 260 }
+    ]
+  },
+  {
+    "name": "Meggenhofen",
+    "results": [
+      { "name": "Hofer", "votes": 374 },
+      { "name": "VdB", "votes": 333 }
+    ]
+  },
+  {
+    "name": "Michaelnbach",
+    "results": [
+      { "name": "Hofer", "votes": 370 },
+      { "name": "VdB", "votes": 253 }
+    ]
+  },
+  {
+    "name": "Natternbach",
+    "results": [
+      { "name": "Hofer", "votes": 746 },
+      { "name": "VdB", "votes": 437 }
+    ]
+  },
+  {
+    "name": "Neukirchen am Walde",
+    "results": [
+      { "name": "Hofer", "votes": 502 },
+      { "name": "VdB", "votes": 335 }
+    ]
+  },
+  {
+    "name": "Neumarkt im Hausruckkreis",
+    "results": [
+      { "name": "Hofer", "votes": 314 },
+      { "name": "VdB", "votes": 280 }
+    ]
+  },
+  {
+    "name": "Peuerbach",
+    "results": [
+      { "name": "Hofer", "votes": 569 },
+      { "name": "VdB", "votes": 502 }
+    ]
+  },
+  {
+    "name": "Pötting",
+    "results": [
+      { "name": "Hofer", "votes": 139 },
+      { "name": "VdB", "votes": 158 }
+    ]
+  },
+  {
+    "name": "Pollham",
+    "results": [
+      { "name": "Hofer", "votes": 246 },
+      { "name": "VdB", "votes": 244 }
+    ]
+  },
+  {
+    "name": "Pram",
+    "results": [
+      { "name": "Hofer", "votes": 464 },
+      { "name": "VdB", "votes": 410 }
+    ]
+  },
+  {
+    "name": "Rottenbach",
+    "results": [
+      { "name": "Hofer", "votes": 345 },
+      { "name": "VdB", "votes": 201 }
+    ]
+  },
+  {
+    "name": "St. Agatha",
+    "results": [
+      { "name": "Hofer", "votes": 608 },
+      { "name": "VdB", "votes": 442 }
+    ]
+  },
+  {
+    "name": "St. Georgen bei Grieskirchen",
+    "results": [
+      { "name": "Hofer", "votes": 312 },
+      { "name": "VdB", "votes": 315 }
+    ]
+  },
+  {
+    "name": "St. Thomas",
+    "results": [
+      { "name": "Hofer", "votes": 186 },
+      { "name": "VdB", "votes": 109 }
+    ]
+  },
+  {
+    "name": "Schlüßlberg",
+    "results": [
+      { "name": "Hofer", "votes": 804 },
+      { "name": "VdB", "votes": 650 }
+    ]
+  },
+  {
+    "name": "Steegen",
+    "results": [
+      { "name": "Hofer", "votes": 316 },
+      { "name": "VdB", "votes": 227 }
+    ]
+  },
+  {
+    "name": "Taufkirchen an der Trattnach",
+    "results": [
+      { "name": "Hofer", "votes": 601 },
+      { "name": "VdB", "votes": 367 }
+    ]
+  },
+  {
+    "name": "Tollet",
+    "results": [
+      { "name": "Hofer", "votes": 206 },
+      { "name": "VdB", "votes": 250 }
+    ]
+  },
+  {
+    "name": "Waizenkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 1003 },
+      { "name": "VdB", "votes": 788 }
+    ]
+  },
+  {
+    "name": "Wallern an der Trattnach",
+    "results": [
+      { "name": "Hofer", "votes": 745 },
+      { "name": "VdB", "votes": 705 }
+    ]
+  },
+  {
+    "name": "Weibern",
+    "results": [
+      { "name": "Hofer", "votes": 379 },
+      { "name": "VdB", "votes": 381 }
+    ]
+  },
+  {
+    "name": "Wendling",
+    "results": [
+      { "name": "Hofer", "votes": 250 },
+      { "name": "VdB", "votes": 155 }
+    ]
+  },
+  {
+    "name": "Edlbach",
+    "results": [
+      { "name": "Hofer", "votes": 169 },
+      { "name": "VdB", "votes": 106 }
+    ]
+  },
+  {
+    "name": "Grünburg",
+    "results": [
+      { "name": "Hofer", "votes": 954 },
+      { "name": "VdB", "votes": 611 }
+    ]
+  },
+  {
+    "name": "Hinterstoder",
+    "results": [
+      { "name": "Hofer", "votes": 235 },
+      { "name": "VdB", "votes": 193 }
+    ]
+  },
+  {
+    "name": "Inzersdorf im Kremstal",
+    "results": [
+      { "name": "Hofer", "votes": 511 },
+      { "name": "VdB", "votes": 414 }
+    ]
+  },
+  {
+    "name": "Kirchdorf an der Krems",
+    "results": [
+      { "name": "Hofer", "votes": 786 },
+      { "name": "VdB", "votes": 1059 }
+    ]
+  },
+  {
+    "name": "Klaus an der Pyhrnbahn",
+    "results": [
+      { "name": "Hofer", "votes": 245 },
+      { "name": "VdB", "votes": 262 }
+    ]
+  },
+  {
+    "name": "Kremsmünster",
+    "results": [
+      { "name": "Hofer", "votes": 1439 },
+      { "name": "VdB", "votes": 1333 }
+    ]
+  },
+  {
+    "name": "Micheldorf in Oberösterreich",
+    "results": [
+      { "name": "Hofer", "votes": 1328 },
+      { "name": "VdB", "votes": 1437 }
+    ]
+  },
+  {
+    "name": "Molln",
+    "results": [
+      { "name": "Hofer", "votes": 935 },
+      { "name": "VdB", "votes": 752 }
+    ]
+  },
+  {
+    "name": "Nußbach",
+    "results": [
+      { "name": "Hofer", "votes": 536 },
+      { "name": "VdB", "votes": 582 }
+    ]
+  },
+  {
+    "name": "Oberschlierbach",
+    "results": [
+      { "name": "Hofer", "votes": 106 },
+      { "name": "VdB", "votes": 125 }
+    ]
+  },
+  {
+    "name": "Pettenbach",
+    "results": [
+      { "name": "Hofer", "votes": 1324 },
+      { "name": "VdB", "votes": 967 }
+    ]
+  },
+  {
+    "name": "Ried im Traunkreis",
+    "results": [
+      { "name": "Hofer", "votes": 771 },
+      { "name": "VdB", "votes": 488 }
+    ]
+  },
+  {
+    "name": "Rosenau am Hengstpaß",
+    "results": [
+      { "name": "Hofer", "votes": 199 },
+      { "name": "VdB", "votes": 110 }
+    ]
+  },
+  {
+    "name": "Roßleithen",
+    "results": [
+      { "name": "Hofer", "votes": 467 },
+      { "name": "VdB", "votes": 337 }
+    ]
+  },
+  {
+    "name": "St. Pankraz",
+    "results": [
+      { "name": "Hofer", "votes": 104 },
+      { "name": "VdB", "votes": 45 }
+    ]
+  },
+  {
+    "name": "Schlierbach",
+    "results": [
+      { "name": "Hofer", "votes": 604 },
+      { "name": "VdB", "votes": 651 }
+    ]
+  },
+  {
+    "name": "Spital am Pyhrn",
+    "results": [
+      { "name": "Hofer", "votes": 582 },
+      { "name": "VdB", "votes": 323 }
+    ]
+  },
+  {
+    "name": "Steinbach am Ziehberg",
+    "results": [
+      { "name": "Hofer", "votes": 221 },
+      { "name": "VdB", "votes": 200 }
+    ]
+  },
+  {
+    "name": "Steinbach an der Steyr",
+    "results": [
+      { "name": "Hofer", "votes": 620 },
+      { "name": "VdB", "votes": 366 }
+    ]
+  },
+  {
+    "name": "Vorderstoder",
+    "results": [
+      { "name": "Hofer", "votes": 202 },
+      { "name": "VdB", "votes": 133 }
+    ]
+  },
+  {
+    "name": "Wartberg an der Krems",
+    "results": [
+      { "name": "Hofer", "votes": 777 },
+      { "name": "VdB", "votes": 593 }
+    ]
+  },
+  {
+    "name": "Windischgarsten",
+    "results": [
+      { "name": "Hofer", "votes": 508 },
+      { "name": "VdB", "votes": 448 }
+    ]
+  },
+  {
+    "name": "Allhaming",
+    "results": [
+      { "name": "Hofer", "votes": 287 },
+      { "name": "VdB", "votes": 312 }
+    ]
+  },
+  {
+    "name": "Ansfelden",
+    "results": [
+      { "name": "Hofer", "votes": 3464 },
+      { "name": "VdB", "votes": 2876 }
+    ]
+  },
+  {
+    "name": "Asten",
+    "results": [
+      { "name": "Hofer", "votes": 1527 },
+      { "name": "VdB", "votes": 1279 }
+    ]
+  },
+  {
+    "name": "Eggendorf im Traunkreis",
+    "results": [
+      { "name": "Hofer", "votes": 237 },
+      { "name": "VdB", "votes": 189 }
+    ]
+  },
+  {
+    "name": "Enns",
+    "results": [
+      { "name": "Hofer", "votes": 2177 },
+      { "name": "VdB", "votes": 2509 }
+    ]
+  },
+  {
+    "name": "Hargelsberg",
+    "results": [
+      { "name": "Hofer", "votes": 312 },
+      { "name": "VdB", "votes": 342 }
+    ]
+  },
+  {
+    "name": "Hörsching",
+    "results": [
+      { "name": "Hofer", "votes": 1574 },
+      { "name": "VdB", "votes": 1262 }
+    ]
+  },
+  {
+    "name": "Hofkirchen im Traunkreis",
+    "results": [
+      { "name": "Hofer", "votes": 438 },
+      { "name": "VdB", "votes": 471 }
+    ]
+  },
+  {
+    "name": "Kematen an der Krems",
+    "results": [
+      { "name": "Hofer", "votes": 652 },
+      { "name": "VdB", "votes": 545 }
+    ]
+  },
+  {
+    "name": "Kirchberg-Thening",
+    "results": [
+      { "name": "Hofer", "votes": 521 },
+      { "name": "VdB", "votes": 734 }
+    ]
+  },
+  {
+    "name": "Kronstorf",
+    "results": [
+      { "name": "Hofer", "votes": 832 },
+      { "name": "VdB", "votes": 816 }
+    ]
+  },
+  {
+    "name": "Leonding",
+    "results": [
+      { "name": "Hofer", "votes": 5146 },
+      { "name": "VdB", "votes": 6985 }
+    ]
+  },
+  {
+    "name": "St. Florian",
+    "results": [
+      { "name": "Hofer", "votes": 1304 },
+      { "name": "VdB", "votes": 1736 }
+    ]
+  },
+  {
+    "name": "Neuhofen an der Krems",
+    "results": [
+      { "name": "Hofer", "votes": 1101 },
+      { "name": "VdB", "votes": 1447 }
+    ]
+  },
+  {
+    "name": "Niederneukirchen",
+    "results": [
+      { "name": "Hofer", "votes": 471 },
+      { "name": "VdB", "votes": 503 }
+    ]
+  },
+  {
+    "name": "Oftering",
+    "results": [
+      { "name": "Hofer", "votes": 508 },
+      { "name": "VdB", "votes": 514 }
+    ]
+  },
+  {
+    "name": "Pasching",
+    "results": [
+      { "name": "Hofer", "votes": 1557 },
+      { "name": "VdB", "votes": 1818 }
+    ]
+  },
+  {
+    "name": "Piberbach",
+    "results": [
+      { "name": "Hofer", "votes": 455 },
+      { "name": "VdB", "votes": 407 }
+    ]
+  },
+  {
+    "name": "Pucking",
+    "results": [
+      { "name": "Hofer", "votes": 1148 },
+      { "name": "VdB", "votes": 821 }
+    ]
+  },
+  {
+    "name": "St. Marien",
+    "results": [
+      { "name": "Hofer", "votes": 1013 },
+      { "name": "VdB", "votes": 1254 }
+    ]
+  },
+  {
+    "name": "Traun",
+    "results": [
+      { "name": "Hofer", "votes": 4565 },
+      { "name": "VdB", "votes": 4758 }
+    ]
+  },
+  {
+    "name": "Wilhering",
+    "results": [
+      { "name": "Hofer", "votes": 1078 },
+      { "name": "VdB", "votes": 1867 }
+    ]
+  },
+  {
+    "name": "Allerheiligen im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 341 },
+      { "name": "VdB", "votes": 289 }
+    ]
+  },
+  {
+    "name": "Arbing",
+    "results": [
+      { "name": "Hofer", "votes": 361 },
+      { "name": "VdB", "votes": 368 }
+    ]
+  },
+  {
+    "name": "Baumgartenberg",
+    "results": [
+      { "name": "Hofer", "votes": 504 },
+      { "name": "VdB", "votes": 326 }
+    ]
+  },
+  {
+    "name": "Dimbach",
+    "results": [
+      { "name": "Hofer", "votes": 278 },
+      { "name": "VdB", "votes": 164 }
+    ]
+  },
+  {
+    "name": "Grein",
+    "results": [
+      { "name": "Hofer", "votes": 767 },
+      { "name": "VdB", "votes": 601 }
+    ]
+  },
+  {
+    "name": "Katsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 645 },
+      { "name": "VdB", "votes": 829 }
+    ]
+  },
+  {
+    "name": "Klam",
+    "results": [
+      { "name": "Hofer", "votes": 264 },
+      { "name": "VdB", "votes": 195 }
+    ]
+  },
+  {
+    "name": "Bad Kreuzen",
+    "results": [
+      { "name": "Hofer", "votes": 637 },
+      { "name": "VdB", "votes": 361 }
+    ]
+  },
+  {
+    "name": "Langenstein",
+    "results": [
+      { "name": "Hofer", "votes": 633 },
+      { "name": "VdB", "votes": 681 }
+    ]
+  },
+  {
+    "name": "Luftenberg an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 942 },
+      { "name": "VdB", "votes": 1070 }
+    ]
+  },
+  {
+    "name": "Mauthausen",
+    "results": [
+      { "name": "Hofer", "votes": 854 },
+      { "name": "VdB", "votes": 1313 }
+    ]
+  },
+  {
+    "name": "Mitterkirchen im Machland",
+    "results": [
+      { "name": "Hofer", "votes": 409 },
+      { "name": "VdB", "votes": 309 }
+    ]
+  },
+  {
+    "name": "Münzbach",
+    "results": [
+      { "name": "Hofer", "votes": 513 },
+      { "name": "VdB", "votes": 297 }
+    ]
+  },
+  {
+    "name": "Naarn im Machlande",
+    "results": [
+      { "name": "Hofer", "votes": 1031 },
+      { "name": "VdB", "votes": 755 }
+    ]
+  },
+  {
+    "name": "Pabneukirchen",
+    "results": [
+      { "name": "Hofer", "votes": 483 },
+      { "name": "VdB", "votes": 330 }
+    ]
+  },
+  {
+    "name": "Perg",
+    "results": [
+      { "name": "Hofer", "votes": 1754 },
+      { "name": "VdB", "votes": 1981 }
+    ]
+  },
+  {
+    "name": "Rechberg",
+    "results": [
+      { "name": "Hofer", "votes": 215 },
+      { "name": "VdB", "votes": 235 }
+    ]
+  },
+  {
+    "name": "Ried in der Riedmark",
+    "results": [
+      { "name": "Hofer", "votes": 882 },
+      { "name": "VdB", "votes": 1166 }
+    ]
+  },
+  {
+    "name": "St. Georgen am Walde",
+    "results": [
+      { "name": "Hofer", "votes": 623 },
+      { "name": "VdB", "votes": 346 }
+    ]
+  },
+  {
+    "name": "St. Georgen an der Gusen",
+    "results": [
+      { "name": "Hofer", "votes": 811 },
+      { "name": "VdB", "votes": 1208 }
+    ]
+  },
+  {
+    "name": "St. Nikola an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 183 },
+      { "name": "VdB", "votes": 142 }
+    ]
+  },
+  {
+    "name": "St. Thomas am Blasenstein",
+    "results": [
+      { "name": "Hofer", "votes": 223 },
+      { "name": "VdB", "votes": 168 }
+    ]
+  },
+  {
+    "name": "Saxen",
+    "results": [
+      { "name": "Hofer", "votes": 516 },
+      { "name": "VdB", "votes": 412 }
+    ]
+  },
+  {
+    "name": "Schwertberg",
+    "results": [
+      { "name": "Hofer", "votes": 1124 },
+      { "name": "VdB", "votes": 1393 }
+    ]
+  },
+  {
+    "name": "Waldhausen im Strudengau",
+    "results": [
+      { "name": "Hofer", "votes": 773 },
+      { "name": "VdB", "votes": 575 }
+    ]
+  },
+  {
+    "name": "Windhaag bei Perg",
+    "results": [
+      { "name": "Hofer", "votes": 346 },
+      { "name": "VdB", "votes": 294 }
+    ]
+  },
+  {
+    "name": "Andrichsfurt",
+    "results": [
+      { "name": "Hofer", "votes": 203 },
+      { "name": "VdB", "votes": 150 }
+    ]
+  },
+  {
+    "name": "Antiesenhofen",
+    "results": [
+      { "name": "Hofer", "votes": 289 },
+      { "name": "VdB", "votes": 147 }
+    ]
+  },
+  {
+    "name": "Aurolzmünster",
+    "results": [
+      { "name": "Hofer", "votes": 799 },
+      { "name": "VdB", "votes": 439 }
+    ]
+  },
+  {
+    "name": "Eberschwang",
+    "results": [
+      { "name": "Hofer", "votes": 932 },
+      { "name": "VdB", "votes": 575 }
+    ]
+  },
+  {
+    "name": "Eitzing",
+    "results": [
+      { "name": "Hofer", "votes": 214 },
+      { "name": "VdB", "votes": 133 }
+    ]
+  },
+  {
+    "name": "Geiersberg",
+    "results": [
+      { "name": "Hofer", "votes": 146 },
+      { "name": "VdB", "votes": 124 }
+    ]
+  },
+  {
+    "name": "Geinberg",
+    "results": [
+      { "name": "Hofer", "votes": 315 },
+      { "name": "VdB", "votes": 180 }
+    ]
+  },
+  {
+    "name": "Gurten",
+    "results": [
+      { "name": "Hofer", "votes": 275 },
+      { "name": "VdB", "votes": 192 }
+    ]
+  },
+  {
+    "name": "Hohenzell",
+    "results": [
+      { "name": "Hofer", "votes": 572 },
+      { "name": "VdB", "votes": 470 }
+    ]
+  },
+  {
+    "name": "Kirchdorf am Inn",
+    "results": [
+      { "name": "Hofer", "votes": 187 },
+      { "name": "VdB", "votes": 110 }
+    ]
+  },
+  {
+    "name": "Kirchheim im Innkreis",
+    "results": [
+      { "name": "Hofer", "votes": 238 },
+      { "name": "VdB", "votes": 129 }
+    ]
+  },
+  {
+    "name": "Lambrechten",
+    "results": [
+      { "name": "Hofer", "votes": 427 },
+      { "name": "VdB", "votes": 210 }
+    ]
+  },
+  {
+    "name": "Lohnsburg am Kobernaußerwald",
+    "results": [
+      { "name": "Hofer", "votes": 650 },
+      { "name": "VdB", "votes": 367 }
+    ]
+  },
+  {
+    "name": "Mehrnbach",
+    "results": [
+      { "name": "Hofer", "votes": 604 },
+      { "name": "VdB", "votes": 373 }
+    ]
+  },
+  {
+    "name": "Mettmach",
+    "results": [
+      { "name": "Hofer", "votes": 769 },
+      { "name": "VdB", "votes": 348 }
+    ]
+  },
+  {
+    "name": "Mörschwang",
+    "results": [
+      { "name": "Hofer", "votes": 66 },
+      { "name": "VdB", "votes": 90 }
+    ]
+  },
+  {
+    "name": "Mühlheim am Inn",
+    "results": [
+      { "name": "Hofer", "votes": 191 },
+      { "name": "VdB", "votes": 118 }
+    ]
+  },
+  {
+    "name": "Neuhofen im Innkreis",
+    "results": [
+      { "name": "Hofer", "votes": 587 },
+      { "name": "VdB", "votes": 539 }
+    ]
+  },
+  {
+    "name": "Obernberg am Inn",
+    "results": [
+      { "name": "Hofer", "votes": 340 },
+      { "name": "VdB", "votes": 200 }
+    ]
+  },
+  {
+    "name": "Ort im Innkreis",
+    "results": [
+      { "name": "Hofer", "votes": 376 },
+      { "name": "VdB", "votes": 188 }
+    ]
+  },
+  {
+    "name": "Pattigham",
+    "results": [
+      { "name": "Hofer", "votes": 239 },
+      { "name": "VdB", "votes": 195 }
+    ]
+  },
+  {
+    "name": "Peterskirchen",
+    "results": [
+      { "name": "Hofer", "votes": 188 },
+      { "name": "VdB", "votes": 163 }
+    ]
+  },
+  {
+    "name": "Pramet",
+    "results": [
+      { "name": "Hofer", "votes": 339 },
+      { "name": "VdB", "votes": 180 }
+    ]
+  },
+  {
+    "name": "Reichersberg",
+    "results": [
+      { "name": "Hofer", "votes": 406 },
+      { "name": "VdB", "votes": 255 }
+    ]
+  },
+  {
+    "name": "Ried im Innkreis",
+    "results": [
+      { "name": "Hofer", "votes": 2121 },
+      { "name": "VdB", "votes": 2347 }
+    ]
+  },
+  {
+    "name": "St. Georgen bei Obernberg am Inn",
+    "results": [
+      { "name": "Hofer", "votes": 131 },
+      { "name": "VdB", "votes": 159 }
+    ]
+  },
+  {
+    "name": "St. Marienkirchen am Hausruck",
+    "results": [
+      { "name": "Hofer", "votes": 253 },
+      { "name": "VdB", "votes": 184 }
+    ]
+  },
+  {
+    "name": "St. Martin im Innkreis",
+    "results": [
+      { "name": "Hofer", "votes": 383 },
+      { "name": "VdB", "votes": 345 }
+    ]
+  },
+  {
+    "name": "Schildorn",
+    "results": [
+      { "name": "Hofer", "votes": 281 },
+      { "name": "VdB", "votes": 185 }
+    ]
+  },
+  {
+    "name": "Senftenbach",
+    "results": [
+      { "name": "Hofer", "votes": 222 },
+      { "name": "VdB", "votes": 156 }
+    ]
+  },
+  {
+    "name": "Taiskirchen im Innkreis",
+    "results": [
+      { "name": "Hofer", "votes": 668 },
+      { "name": "VdB", "votes": 516 }
+    ]
+  },
+  {
+    "name": "Tumeltsham",
+    "results": [
+      { "name": "Hofer", "votes": 376 },
+      { "name": "VdB", "votes": 324 }
+    ]
+  },
+  {
+    "name": "Utzenaich",
+    "results": [
+      { "name": "Hofer", "votes": 406 },
+      { "name": "VdB", "votes": 295 }
+    ]
+  },
+  {
+    "name": "Waldzell",
+    "results": [
+      { "name": "Hofer", "votes": 681 },
+      { "name": "VdB", "votes": 336 }
+    ]
+  },
+  {
+    "name": "Weilbach",
+    "results": [
+      { "name": "Hofer", "votes": 148 },
+      { "name": "VdB", "votes": 112 }
+    ]
+  },
+  {
+    "name": "Wippenham",
+    "results": [
+      { "name": "Hofer", "votes": 149 },
+      { "name": "VdB", "votes": 117 }
+    ]
+  },
+  {
+    "name": "Afiesl",
+    "results": [
+      { "name": "Hofer", "votes": 139 },
+      { "name": "VdB", "votes": 77 }
+    ]
+  },
+  {
+    "name": "Ahorn",
+    "results": [
+      { "name": "Hofer", "votes": 152 },
+      { "name": "VdB", "votes": 137 }
+    ]
+  },
+  {
+    "name": "Altenfelden",
+    "results": [
+      { "name": "Hofer", "votes": 625 },
+      { "name": "VdB", "votes": 520 }
+    ]
+  },
+  {
+    "name": "Arnreit",
+    "results": [
+      { "name": "Hofer", "votes": 309 },
+      { "name": "VdB", "votes": 290 }
+    ]
+  },
+  {
+    "name": "Atzesberg",
+    "results": [
+      { "name": "Hofer", "votes": 157 },
+      { "name": "VdB", "votes": 65 }
+    ]
+  },
+  {
+    "name": "Auberg",
+    "results": [
+      { "name": "Hofer", "votes": 144 },
+      { "name": "VdB", "votes": 138 }
+    ]
+  },
+  {
+    "name": "Haslach an der Mühl",
+    "results": [
+      { "name": "Hofer", "votes": 523 },
+      { "name": "VdB", "votes": 738 }
+    ]
+  },
+  {
+    "name": "Helfenberg",
+    "results": [
+      { "name": "Hofer", "votes": 248 },
+      { "name": "VdB", "votes": 233 }
+    ]
+  },
+  {
+    "name": "Hörbich",
+    "results": [
+      { "name": "Hofer", "votes": 150 },
+      { "name": "VdB", "votes": 82 }
+    ]
+  },
+  {
+    "name": "Hofkirchen im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 374 },
+      { "name": "VdB", "votes": 289 }
+    ]
+  },
+  {
+    "name": "Julbach",
+    "results": [
+      { "name": "Hofer", "votes": 374 },
+      { "name": "VdB", "votes": 274 }
+    ]
+  },
+  {
+    "name": "Kirchberg ob der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 258 },
+      { "name": "VdB", "votes": 238 }
+    ]
+  },
+  {
+    "name": "Klaffer am Hochficht",
+    "results": [
+      { "name": "Hofer", "votes": 380 },
+      { "name": "VdB", "votes": 190 }
+    ]
+  },
+  {
+    "name": "Kleinzell im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 336 },
+      { "name": "VdB", "votes": 423 }
+    ]
+  },
+  {
+    "name": "Kollerschlag",
+    "results": [
+      { "name": "Hofer", "votes": 388 },
+      { "name": "VdB", "votes": 254 }
+    ]
+  },
+  {
+    "name": "Lembach im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 387 },
+      { "name": "VdB", "votes": 343 }
+    ]
+  },
+  {
+    "name": "Lichtenau im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 141 },
+      { "name": "VdB", "votes": 72 }
+    ]
+  },
+  {
+    "name": "Nebelberg",
+    "results": [
+      { "name": "Hofer", "votes": 144 },
+      { "name": "VdB", "votes": 112 }
+    ]
+  },
+  {
+    "name": "Neufelden",
+    "results": [
+      { "name": "Hofer", "votes": 219 },
+      { "name": "VdB", "votes": 305 }
+    ]
+  },
+  {
+    "name": "Niederkappel",
+    "results": [
+      { "name": "Hofer", "votes": 332 },
+      { "name": "VdB", "votes": 190 }
+    ]
+  },
+  {
+    "name": "Niederwaldkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 415 },
+      { "name": "VdB", "votes": 458 }
+    ]
+  },
+  {
+    "name": "Oberkappel",
+    "results": [
+      { "name": "Hofer", "votes": 127 },
+      { "name": "VdB", "votes": 107 }
+    ]
+  },
+  {
+    "name": "Oepping",
+    "results": [
+      { "name": "Hofer", "votes": 430 },
+      { "name": "VdB", "votes": 326 }
+    ]
+  },
+  {
+    "name": "Peilstein im Mühlviertel",
+    "results": [
+      { "name": "Hofer", "votes": 451 },
+      { "name": "VdB", "votes": 295 }
+    ]
+  },
+  {
+    "name": "Pfarrkirchen im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 373 },
+      { "name": "VdB", "votes": 304 }
+    ]
+  },
+  {
+    "name": "Putzleinsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 380 },
+      { "name": "VdB", "votes": 369 }
+    ]
+  },
+  {
+    "name": "Neustift im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 271 },
+      { "name": "VdB", "votes": 347 }
+    ]
+  },
+  {
+    "name": "St. Johann am Wimberg",
+    "results": [
+      { "name": "Hofer", "votes": 293 },
+      { "name": "VdB", "votes": 211 }
+    ]
+  },
+  {
+    "name": "St. Martin im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 910 },
+      { "name": "VdB", "votes": 900 }
+    ]
+  },
+  {
+    "name": "St. Oswald bei Haslach",
+    "results": [
+      { "name": "Hofer", "votes": 122 },
+      { "name": "VdB", "votes": 113 }
+    ]
+  },
+  {
+    "name": "St. Peter am Wimberg",
+    "results": [
+      { "name": "Hofer", "votes": 389 },
+      { "name": "VdB", "votes": 502 }
+    ]
+  },
+  {
+    "name": "St. Stefan am Walde",
+    "results": [
+      { "name": "Hofer", "votes": 179 },
+      { "name": "VdB", "votes": 236 }
+    ]
+  },
+  {
+    "name": "St. Ulrich im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 155 },
+      { "name": "VdB", "votes": 182 }
+    ]
+  },
+  {
+    "name": "St. Veit im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 312 },
+      { "name": "VdB", "votes": 304 }
+    ]
+  },
+  {
+    "name": "Sarleinsbach",
+    "results": [
+      { "name": "Hofer", "votes": 544 },
+      { "name": "VdB", "votes": 611 }
+    ]
+  },
+  {
+    "name": "Schönegg",
+    "results": [
+      { "name": "Hofer", "votes": 155 },
+      { "name": "VdB", "votes": 126 }
+    ]
+  },
+  {
+    "name": "Schwarzenberg am Böhmerwald",
+    "results": [
+      { "name": "Hofer", "votes": 153 },
+      { "name": "VdB", "votes": 109 }
+    ]
+  },
+  {
+    "name": "Ulrichsberg",
+    "results": [
+      { "name": "Hofer", "votes": 809 },
+      { "name": "VdB", "votes": 529 }
+    ]
+  },
+  {
+    "name": "Aigen-Schlägl",
+    "results": [
+      { "name": "Hofer", "votes": 765 },
+      { "name": "VdB", "votes": 631 }
+    ]
+  },
+  {
+    "name": "Rohrbach-Berg",
+    "results": [
+      { "name": "Hofer", "votes": 1148 },
+      { "name": "VdB", "votes": 1249 }
+    ]
+  },
+  {
+    "name": "Altschwendt",
+    "results": [
+      { "name": "Hofer", "votes": 218 },
+      { "name": "VdB", "votes": 166 }
+    ]
+  },
+  {
+    "name": "Andorf",
+    "results": [
+      { "name": "Hofer", "votes": 1608 },
+      { "name": "VdB", "votes": 983 }
+    ]
+  },
+  {
+    "name": "Brunnenthal",
+    "results": [
+      { "name": "Hofer", "votes": 528 },
+      { "name": "VdB", "votes": 443 }
+    ]
+  },
+  {
+    "name": "Diersbach",
+    "results": [
+      { "name": "Hofer", "votes": 489 },
+      { "name": "VdB", "votes": 315 }
+    ]
+  },
+  {
+    "name": "Dorf an der Pram",
+    "results": [
+      { "name": "Hofer", "votes": 249 },
+      { "name": "VdB", "votes": 250 }
+    ]
+  },
+  {
+    "name": "Eggerding",
+    "results": [
+      { "name": "Hofer", "votes": 442 },
+      { "name": "VdB", "votes": 226 }
+    ]
+  },
+  {
+    "name": "Engelhartszell",
+    "results": [
+      { "name": "Hofer", "votes": 229 },
+      { "name": "VdB", "votes": 175 }
+    ]
+  },
+  {
+    "name": "Enzenkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 626 },
+      { "name": "VdB", "votes": 235 }
+    ]
+  },
+  {
+    "name": "Esternberg",
+    "results": [
+      { "name": "Hofer", "votes": 855 },
+      { "name": "VdB", "votes": 454 }
+    ]
+  },
+  {
+    "name": "Freinberg",
+    "results": [
+      { "name": "Hofer", "votes": 249 },
+      { "name": "VdB", "votes": 194 }
+    ]
+  },
+  {
+    "name": "Kopfing im Innkreis",
+    "results": [
+      { "name": "Hofer", "votes": 656 },
+      { "name": "VdB", "votes": 270 }
+    ]
+  },
+  {
+    "name": "Mayrhof",
+    "results": [
+      { "name": "Hofer", "votes": 114 },
+      { "name": "VdB", "votes": 57 }
+    ]
+  },
+  {
+    "name": "Münzkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 769 },
+      { "name": "VdB", "votes": 495 }
+    ]
+  },
+  {
+    "name": "Raab",
+    "results": [
+      { "name": "Hofer", "votes": 700 },
+      { "name": "VdB", "votes": 419 }
+    ]
+  },
+  {
+    "name": "Rainbach im Innkreis",
+    "results": [
+      { "name": "Hofer", "votes": 440 },
+      { "name": "VdB", "votes": 278 }
+    ]
+  },
+  {
+    "name": "Riedau",
+    "results": [
+      { "name": "Hofer", "votes": 443 },
+      { "name": "VdB", "votes": 400 }
+    ]
+  },
+  {
+    "name": "St. Aegidi",
+    "results": [
+      { "name": "Hofer", "votes": 510 },
+      { "name": "VdB", "votes": 324 }
+    ]
+  },
+  {
+    "name": "St. Florian am Inn",
+    "results": [
+      { "name": "Hofer", "votes": 786 },
+      { "name": "VdB", "votes": 592 }
+    ]
+  },
+  {
+    "name": "St. Marienkirchen bei Schärding",
+    "results": [
+      { "name": "Hofer", "votes": 553 },
+      { "name": "VdB", "votes": 270 }
+    ]
+  },
+  {
+    "name": "St. Roman",
+    "results": [
+      { "name": "Hofer", "votes": 651 },
+      { "name": "VdB", "votes": 199 }
+    ]
+  },
+  {
+    "name": "St. Willibald",
+    "results": [
+      { "name": "Hofer", "votes": 398 },
+      { "name": "VdB", "votes": 187 }
+    ]
+  },
+  {
+    "name": "Schärding",
+    "results": [
+      { "name": "Hofer", "votes": 932 },
+      { "name": "VdB", "votes": 981 }
+    ]
+  },
+  {
+    "name": "Schardenberg",
+    "results": [
+      { "name": "Hofer", "votes": 554 },
+      { "name": "VdB", "votes": 399 }
+    ]
+  },
+  {
+    "name": "Sigharting",
+    "results": [
+      { "name": "Hofer", "votes": 265 },
+      { "name": "VdB", "votes": 163 }
+    ]
+  },
+  {
+    "name": "Suben",
+    "results": [
+      { "name": "Hofer", "votes": 267 },
+      { "name": "VdB", "votes": 253 }
+    ]
+  },
+  {
+    "name": "Taufkirchen an der Pram",
+    "results": [
+      { "name": "Hofer", "votes": 732 },
+      { "name": "VdB", "votes": 552 }
+    ]
+  },
+  {
+    "name": "Vichtenstein",
+    "results": [
+      { "name": "Hofer", "votes": 153 },
+      { "name": "VdB", "votes": 89 }
+    ]
+  },
+  {
+    "name": "Waldkirchen am Wesen",
+    "results": [
+      { "name": "Hofer", "votes": 372 },
+      { "name": "VdB", "votes": 215 }
+    ]
+  },
+  {
+    "name": "Wernstein am Inn",
+    "results": [
+      { "name": "Hofer", "votes": 398 },
+      { "name": "VdB", "votes": 266 }
+    ]
+  },
+  {
+    "name": "Zell an der Pram",
+    "results": [
+      { "name": "Hofer", "votes": 465 },
+      { "name": "VdB", "votes": 449 }
+    ]
+  },
+  {
+    "name": "Adlwang",
+    "results": [
+      { "name": "Hofer", "votes": 489 },
+      { "name": "VdB", "votes": 407 }
+    ]
+  },
+  {
+    "name": "Aschach an der Steyr",
+    "results": [
+      { "name": "Hofer", "votes": 543 },
+      { "name": "VdB", "votes": 612 }
+    ]
+  },
+  {
+    "name": "Bad Hall",
+    "results": [
+      { "name": "Hofer", "votes": 1115 },
+      { "name": "VdB", "votes": 1132 }
+    ]
+  },
+  {
+    "name": "Dietach",
+    "results": [
+      { "name": "Hofer", "votes": 731 },
+      { "name": "VdB", "votes": 868 }
+    ]
+  },
+  {
+    "name": "Gaflenz",
+    "results": [
+      { "name": "Hofer", "votes": 560 },
+      { "name": "VdB", "votes": 382 }
+    ]
+  },
+  {
+    "name": "Garsten",
+    "results": [
+      { "name": "Hofer", "votes": 1605 },
+      { "name": "VdB", "votes": 1652 }
+    ]
+  },
+  {
+    "name": "Großraming",
+    "results": [
+      { "name": "Hofer", "votes": 703 },
+      { "name": "VdB", "votes": 678 }
+    ]
+  },
+  {
+    "name": "Laussa",
+    "results": [
+      { "name": "Hofer", "votes": 347 },
+      { "name": "VdB", "votes": 330 }
+    ]
+  },
+  {
+    "name": "Losenstein",
+    "results": [
+      { "name": "Hofer", "votes": 379 },
+      { "name": "VdB", "votes": 398 }
+    ]
+  },
+  {
+    "name": "Maria Neustift",
+    "results": [
+      { "name": "Hofer", "votes": 514 },
+      { "name": "VdB", "votes": 279 }
+    ]
+  },
+  {
+    "name": "Pfarrkirchen bei Bad Hall",
+    "results": [
+      { "name": "Hofer", "votes": 580 },
+      { "name": "VdB", "votes": 527 }
+    ]
+  },
+  {
+    "name": "Reichraming",
+    "results": [
+      { "name": "Hofer", "votes": 475 },
+      { "name": "VdB", "votes": 450 }
+    ]
+  },
+  {
+    "name": "Rohr im Kremstal",
+    "results": [
+      { "name": "Hofer", "votes": 311 },
+      { "name": "VdB", "votes": 291 }
+    ]
+  },
+  {
+    "name": "St. Ulrich bei Steyr",
+    "results": [
+      { "name": "Hofer", "votes": 738 },
+      { "name": "VdB", "votes": 798 }
+    ]
+  },
+  {
+    "name": "Schiedlberg",
+    "results": [
+      { "name": "Hofer", "votes": 328 },
+      { "name": "VdB", "votes": 271 }
+    ]
+  },
+  {
+    "name": "Sierning",
+    "results": [
+      { "name": "Hofer", "votes": 2303 },
+      { "name": "VdB", "votes": 2168 }
+    ]
+  },
+  {
+    "name": "Ternberg",
+    "results": [
+      { "name": "Hofer", "votes": 929 },
+      { "name": "VdB", "votes": 763 }
+    ]
+  },
+  {
+    "name": "Waldneukirchen",
+    "results": [
+      { "name": "Hofer", "votes": 624 },
+      { "name": "VdB", "votes": 501 }
+    ]
+  },
+  {
+    "name": "Wolfern",
+    "results": [
+      { "name": "Hofer", "votes": 892 },
+      { "name": "VdB", "votes": 666 }
+    ]
+  },
+  {
+    "name": "Weyer",
+    "results": [
+      { "name": "Hofer", "votes": 1101 },
+      { "name": "VdB", "votes": 949 }
+    ]
+  },
+  {
+    "name": "Alberndorf in der Riedmark",
+    "results": [
+      { "name": "Hofer", "votes": 1075 },
+      { "name": "VdB", "votes": 957 }
+    ]
+  },
+  {
+    "name": "Altenberg bei Linz",
+    "results": [
+      { "name": "Hofer", "votes": 1077 },
+      { "name": "VdB", "votes": 1184 }
+    ]
+  },
+  {
+    "name": "Bad Leonfelden",
+    "results": [
+      { "name": "Hofer", "votes": 1092 },
+      { "name": "VdB", "votes": 889 }
+    ]
+  },
+  {
+    "name": "Eidenberg",
+    "results": [
+      { "name": "Hofer", "votes": 432 },
+      { "name": "VdB", "votes": 605 }
+    ]
+  },
+  {
+    "name": "Engerwitzdorf",
+    "results": [
+      { "name": "Hofer", "votes": 2040 },
+      { "name": "VdB", "votes": 2354 }
+    ]
+  },
+  {
+    "name": "Feldkirchen an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 1367 },
+      { "name": "VdB", "votes": 1572 }
+    ]
+  },
+  {
+    "name": "Gallneukirchen",
+    "results": [
+      { "name": "Hofer", "votes": 1040 },
+      { "name": "VdB", "votes": 2109 }
+    ]
+  },
+  {
+    "name": "Goldwörth",
+    "results": [
+      { "name": "Hofer", "votes": 206 },
+      { "name": "VdB", "votes": 263 }
+    ]
+  },
+  {
+    "name": "Gramastetten",
+    "results": [
+      { "name": "Hofer", "votes": 983 },
+      { "name": "VdB", "votes": 1440 }
+    ]
+  },
+  {
+    "name": "Haibach im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 262 },
+      { "name": "VdB", "votes": 217 }
+    ]
+  },
+  {
+    "name": "Hellmonsödt",
+    "results": [
+      { "name": "Hofer", "votes": 457 },
+      { "name": "VdB", "votes": 591 }
+    ]
+  },
+  {
+    "name": "Herzogsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 656 },
+      { "name": "VdB", "votes": 586 }
+    ]
+  },
+  {
+    "name": "Kirchschlag bei Linz",
+    "results": [
+      { "name": "Hofer", "votes": 424 },
+      { "name": "VdB", "votes": 607 }
+    ]
+  },
+  {
+    "name": "Lichtenberg",
+    "results": [
+      { "name": "Hofer", "votes": 502 },
+      { "name": "VdB", "votes": 916 }
+    ]
+  },
+  {
+    "name": "Oberneukirchen",
+    "results": [
+      { "name": "Hofer", "votes": 744 },
+      { "name": "VdB", "votes": 833 }
+    ]
+  },
+  {
+    "name": "Ottenschlag im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 161 },
+      { "name": "VdB", "votes": 107 }
+    ]
+  },
+  {
+    "name": "Ottensheim",
+    "results": [
+      { "name": "Hofer", "votes": 827 },
+      { "name": "VdB", "votes": 1492 }
+    ]
+  },
+  {
+    "name": "Puchenau",
+    "results": [
+      { "name": "Hofer", "votes": 809 },
+      { "name": "VdB", "votes": 1460 }
+    ]
+  },
+  {
+    "name": "Reichenau im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 307 },
+      { "name": "VdB", "votes": 333 }
+    ]
+  },
+  {
+    "name": "Reichenthal",
+    "results": [
+      { "name": "Hofer", "votes": 344 },
+      { "name": "VdB", "votes": 366 }
+    ]
+  },
+  {
+    "name": "St. Gotthard im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 290 },
+      { "name": "VdB", "votes": 375 }
+    ]
+  },
+  {
+    "name": "Schenkenfelden",
+    "results": [
+      { "name": "Hofer", "votes": 376 },
+      { "name": "VdB", "votes": 383 }
+    ]
+  },
+  {
+    "name": "Sonnberg im Mühlkreis",
+    "results": [
+      { "name": "Hofer", "votes": 224 },
+      { "name": "VdB", "votes": 266 }
+    ]
+  },
+  {
+    "name": "Steyregg",
+    "results": [
+      { "name": "Hofer", "votes": 1085 },
+      { "name": "VdB", "votes": 1343 }
+    ]
+  },
+  {
+    "name": "Vorderweißenbach",
+    "results": [
+      { "name": "Hofer", "votes": 548 },
+      { "name": "VdB", "votes": 528 }
+    ]
+  },
+  {
+    "name": "Walding",
+    "results": [
+      { "name": "Hofer", "votes": 787 },
+      { "name": "VdB", "votes": 1221 }
+    ]
+  },
+  {
+    "name": "Zwettl an der Rodl",
+    "results": [
+      { "name": "Hofer", "votes": 345 },
+      { "name": "VdB", "votes": 543 }
+    ]
+  },
+  {
+    "name": "Ampflwang im Hausruckwald",
+    "results": [
+      { "name": "Hofer", "votes": 825 },
+      { "name": "VdB", "votes": 776 }
+    ]
+  },
+  {
+    "name": "Attersee am Attersee",
+    "results": [
+      { "name": "Hofer", "votes": 332 },
+      { "name": "VdB", "votes": 446 }
+    ]
+  },
+  {
+    "name": "Attnang-Puchheim",
+    "results": [
+      { "name": "Hofer", "votes": 1598 },
+      { "name": "VdB", "votes": 1711 }
+    ]
+  },
+  {
+    "name": "Atzbach",
+    "results": [
+      { "name": "Hofer", "votes": 335 },
+      { "name": "VdB", "votes": 280 }
+    ]
+  },
+  {
+    "name": "Aurach am Hongar",
+    "results": [
+      { "name": "Hofer", "votes": 507 },
+      { "name": "VdB", "votes": 306 }
+    ]
+  },
+  {
+    "name": "Berg im Attergau",
+    "results": [
+      { "name": "Hofer", "votes": 270 },
+      { "name": "VdB", "votes": 160 }
+    ]
+  },
+  {
+    "name": "Desselbrunn",
+    "results": [
+      { "name": "Hofer", "votes": 447 },
+      { "name": "VdB", "votes": 387 }
+    ]
+  },
+  {
+    "name": "Fornach",
+    "results": [
+      { "name": "Hofer", "votes": 337 },
+      { "name": "VdB", "votes": 146 }
+    ]
+  },
+  {
+    "name": "Frankenburg am Hausruck",
+    "results": [
+      { "name": "Hofer", "votes": 1547 },
+      { "name": "VdB", "votes": 975 }
+    ]
+  },
+  {
+    "name": "Frankenmarkt",
+    "results": [
+      { "name": "Hofer", "votes": 952 },
+      { "name": "VdB", "votes": 713 }
+    ]
+  },
+  {
+    "name": "Gampern",
+    "results": [
+      { "name": "Hofer", "votes": 750 },
+      { "name": "VdB", "votes": 681 }
+    ]
+  },
+  {
+    "name": "Innerschwand am Mondsee",
+    "results": [
+      { "name": "Hofer", "votes": 230 },
+      { "name": "VdB", "votes": 243 }
+    ]
+  },
+  {
+    "name": "Lenzing",
+    "results": [
+      { "name": "Hofer", "votes": 1255 },
+      { "name": "VdB", "votes": 1073 }
+    ]
+  },
+  {
+    "name": "Manning",
+    "results": [
+      { "name": "Hofer", "votes": 186 },
+      { "name": "VdB", "votes": 216 }
+    ]
+  },
+  {
+    "name": "Mondsee",
+    "results": [
+      { "name": "Hofer", "votes": 577 },
+      { "name": "VdB", "votes": 726 }
+    ]
+  },
+  {
+    "name": "Neukirchen an der Vöckla",
+    "results": [
+      { "name": "Hofer", "votes": 741 },
+      { "name": "VdB", "votes": 584 }
+    ]
+  },
+  {
+    "name": "Niederthalheim",
+    "results": [
+      { "name": "Hofer", "votes": 326 },
+      { "name": "VdB", "votes": 239 }
+    ]
+  },
+  {
+    "name": "Nußdorf am Attersee",
+    "results": [
+      { "name": "Hofer", "votes": 297 },
+      { "name": "VdB", "votes": 242 }
+    ]
+  },
+  {
+    "name": "Oberhofen am Irrsee",
+    "results": [
+      { "name": "Hofer", "votes": 437 },
+      { "name": "VdB", "votes": 297 }
+    ]
+  },
+  {
+    "name": "Oberndorf bei Schwanenstadt",
+    "results": [
+      { "name": "Hofer", "votes": 385 },
+      { "name": "VdB", "votes": 334 }
+    ]
+  },
+  {
+    "name": "Oberwang",
+    "results": [
+      { "name": "Hofer", "votes": 455 },
+      { "name": "VdB", "votes": 235 }
+    ]
+  },
+  {
+    "name": "Ottnang am Hausruck",
+    "results": [
+      { "name": "Hofer", "votes": 996 },
+      { "name": "VdB", "votes": 757 }
+    ]
+  },
+  {
+    "name": "Pfaffing",
+    "results": [
+      { "name": "Hofer", "votes": 365 },
+      { "name": "VdB", "votes": 319 }
+    ]
+  },
+  {
+    "name": "Pilsbach",
+    "results": [
+      { "name": "Hofer", "votes": 150 },
+      { "name": "VdB", "votes": 176 }
+    ]
+  },
+  {
+    "name": "Pitzenberg",
+    "results": [
+      { "name": "Hofer", "votes": 133 },
+      { "name": "VdB", "votes": 149 }
+    ]
+  },
+  {
+    "name": "Pöndorf",
+    "results": [
+      { "name": "Hofer", "votes": 768 },
+      { "name": "VdB", "votes": 375 }
+    ]
+  },
+  {
+    "name": "Puchkirchen am Trattberg",
+    "results": [
+      { "name": "Hofer", "votes": 227 },
+      { "name": "VdB", "votes": 222 }
+    ]
+  },
+  {
+    "name": "Pühret",
+    "results": [
+      { "name": "Hofer", "votes": 159 },
+      { "name": "VdB", "votes": 152 }
+    ]
+  },
+  {
+    "name": "Redleiten",
+    "results": [
+      { "name": "Hofer", "votes": 147 },
+      { "name": "VdB", "votes": 81 }
+    ]
+  },
+  {
+    "name": "Redlham",
+    "results": [
+      { "name": "Hofer", "votes": 364 },
+      { "name": "VdB", "votes": 377 }
+    ]
+  },
+  {
+    "name": "Regau",
+    "results": [
+      { "name": "Hofer", "votes": 1722 },
+      { "name": "VdB", "votes": 1472 }
+    ]
+  },
+  {
+    "name": "Rüstorf",
+    "results": [
+      { "name": "Hofer", "votes": 453 },
+      { "name": "VdB", "votes": 479 }
+    ]
+  },
+  {
+    "name": "Rutzenham",
+    "results": [
+      { "name": "Hofer", "votes": 66 },
+      { "name": "VdB", "votes": 70 }
+    ]
+  },
+  {
+    "name": "St. Georgen im Attergau",
+    "results": [
+      { "name": "Hofer", "votes": 1104 },
+      { "name": "VdB", "votes": 757 }
+    ]
+  },
+  {
+    "name": "St. Lorenz",
+    "results": [
+      { "name": "Hofer", "votes": 520 },
+      { "name": "VdB", "votes": 541 }
+    ]
+  },
+  {
+    "name": "Schlatt",
+    "results": [
+      { "name": "Hofer", "votes": 305 },
+      { "name": "VdB", "votes": 273 }
+    ]
+  },
+  {
+    "name": "Schörfling am Attersee",
+    "results": [
+      { "name": "Hofer", "votes": 762 },
+      { "name": "VdB", "votes": 829 }
+    ]
+  },
+  {
+    "name": "Schwanenstadt",
+    "results": [
+      { "name": "Hofer", "votes": 899 },
+      { "name": "VdB", "votes": 894 }
+    ]
+  },
+  {
+    "name": "Seewalchen am Attersee",
+    "results": [
+      { "name": "Hofer", "votes": 1214 },
+      { "name": "VdB", "votes": 1345 }
+    ]
+  },
+  {
+    "name": "Steinbach am Attersee",
+    "results": [
+      { "name": "Hofer", "votes": 171 },
+      { "name": "VdB", "votes": 238 }
+    ]
+  },
+  {
+    "name": "Straß im Attergau",
+    "results": [
+      { "name": "Hofer", "votes": 419 },
+      { "name": "VdB", "votes": 252 }
+    ]
+  },
+  {
+    "name": "Tiefgraben",
+    "results": [
+      { "name": "Hofer", "votes": 849 },
+      { "name": "VdB", "votes": 680 }
+    ]
+  },
+  {
+    "name": "Timelkam",
+    "results": [
+      { "name": "Hofer", "votes": 1315 },
+      { "name": "VdB", "votes": 1397 }
+    ]
+  },
+  {
+    "name": "Ungenach",
+    "results": [
+      { "name": "Hofer", "votes": 387 },
+      { "name": "VdB", "votes": 374 }
+    ]
+  },
+  {
+    "name": "Unterach am Attersee",
+    "results": [
+      { "name": "Hofer", "votes": 283 },
+      { "name": "VdB", "votes": 313 }
+    ]
+  },
+  {
+    "name": "Vöcklabruck",
+    "results": [
+      { "name": "Hofer", "votes": 2278 },
+      { "name": "VdB", "votes": 2972 }
+    ]
+  },
+  {
+    "name": "Vöcklamarkt",
+    "results": [
+      { "name": "Hofer", "votes": 1217 },
+      { "name": "VdB", "votes": 1073 }
+    ]
+  },
+  {
+    "name": "Weißenkirchen im Attergau",
+    "results": [
+      { "name": "Hofer", "votes": 315 },
+      { "name": "VdB", "votes": 169 }
+    ]
+  },
+  {
+    "name": "Weyregg am Attersee",
+    "results": [
+      { "name": "Hofer", "votes": 329 },
+      { "name": "VdB", "votes": 395 }
+    ]
+  },
+  {
+    "name": "Wolfsegg am Hausruck",
+    "results": [
+      { "name": "Hofer", "votes": 445 },
+      { "name": "VdB", "votes": 434 }
+    ]
+  },
+  {
+    "name": "Zell am Moos",
+    "results": [
+      { "name": "Hofer", "votes": 359 },
+      { "name": "VdB", "votes": 323 }
+    ]
+  },
+  {
+    "name": "Zell am Pettenfirst",
+    "results": [
+      { "name": "Hofer", "votes": 258 },
+      { "name": "VdB", "votes": 306 }
+    ]
+  },
+  {
+    "name": "Aichkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 153 },
+      { "name": "VdB", "votes": 127 }
+    ]
+  },
+  {
+    "name": "Bachmanning",
+    "results": [
+      { "name": "Hofer", "votes": 157 },
+      { "name": "VdB", "votes": 122 }
+    ]
+  },
+  {
+    "name": "Bad Wimsbach-Neydharting",
+    "results": [
+      { "name": "Hofer", "votes": 640 },
+      { "name": "VdB", "votes": 536 }
+    ]
+  },
+  {
+    "name": "Buchkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 1055 },
+      { "name": "VdB", "votes": 898 }
+    ]
+  },
+  {
+    "name": "Eberstalzell",
+    "results": [
+      { "name": "Hofer", "votes": 752 },
+      { "name": "VdB", "votes": 452 }
+    ]
+  },
+  {
+    "name": "Edt bei Lambach",
+    "results": [
+      { "name": "Hofer", "votes": 567 },
+      { "name": "VdB", "votes": 430 }
+    ]
+  },
+  {
+    "name": "Fischlham",
+    "results": [
+      { "name": "Hofer", "votes": 355 },
+      { "name": "VdB", "votes": 307 }
+    ]
+  },
+  {
+    "name": "Gunskirchen",
+    "results": [
+      { "name": "Hofer", "votes": 1518 },
+      { "name": "VdB", "votes": 1296 }
+    ]
+  },
+  {
+    "name": "Holzhausen",
+    "results": [
+      { "name": "Hofer", "votes": 225 },
+      { "name": "VdB", "votes": 196 }
+    ]
+  },
+  {
+    "name": "Krenglbach",
+    "results": [
+      { "name": "Hofer", "votes": 807 },
+      { "name": "VdB", "votes": 782 }
+    ]
+  },
+  {
+    "name": "Lambach",
+    "results": [
+      { "name": "Hofer", "votes": 641 },
+      { "name": "VdB", "votes": 596 }
+    ]
+  },
+  {
+    "name": "Marchtrenk",
+    "results": [
+      { "name": "Hofer", "votes": 3214 },
+      { "name": "VdB", "votes": 2576 }
+    ]
+  },
+  {
+    "name": "Neukirchen bei Lambach",
+    "results": [
+      { "name": "Hofer", "votes": 237 },
+      { "name": "VdB", "votes": 206 }
+    ]
+  },
+  {
+    "name": "Offenhausen",
+    "results": [
+      { "name": "Hofer", "votes": 434 },
+      { "name": "VdB", "votes": 345 }
+    ]
+  },
+  {
+    "name": "Pennewang",
+    "results": [
+      { "name": "Hofer", "votes": 216 },
+      { "name": "VdB", "votes": 227 }
+    ]
+  },
+  {
+    "name": "Pichl bei Wels",
+    "results": [
+      { "name": "Hofer", "votes": 780 },
+      { "name": "VdB", "votes": 709 }
+    ]
+  },
+  {
+    "name": "Sattledt",
+    "results": [
+      { "name": "Hofer", "votes": 667 },
+      { "name": "VdB", "votes": 489 }
+    ]
+  },
+  {
+    "name": "Schleißheim",
+    "results": [
+      { "name": "Hofer", "votes": 332 },
+      { "name": "VdB", "votes": 303 }
+    ]
+  },
+  {
+    "name": "Sipbachzell",
+    "results": [
+      { "name": "Hofer", "votes": 563 },
+      { "name": "VdB", "votes": 417 }
+    ]
+  },
+  {
+    "name": "Stadl-Paura",
+    "results": [
+      { "name": "Hofer", "votes": 1121 },
+      { "name": "VdB", "votes": 774 }
+    ]
+  },
+  {
+    "name": "Steinerkirchen an der Traun",
+    "results": [
+      { "name": "Hofer", "votes": 644 },
+      { "name": "VdB", "votes": 570 }
+    ]
+  },
+  {
+    "name": "Steinhaus",
+    "results": [
+      { "name": "Hofer", "votes": 610 },
+      { "name": "VdB", "votes": 359 }
+    ]
+  },
+  {
+    "name": "Thalheim bei Wels",
+    "results": [
+      { "name": "Hofer", "votes": 1128 },
+      { "name": "VdB", "votes": 1315 }
+    ]
+  },
+  {
+    "name": "Weißkirchen an der Traun",
+    "results": [
+      { "name": "Hofer", "votes": 956 },
+      { "name": "VdB", "votes": 731 }
+    ]
+  }
+]

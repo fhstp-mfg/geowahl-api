@@ -1,0 +1,674 @@
+[
+  {
+    "name": "Bartholomäberg",
+    "results": [
+      { "name": "Hofer", "votes": 573 },
+      { "name": "VdB", "votes": 384 }
+    ]
+  },
+  {
+    "name": "Blons",
+    "results": [
+      { "name": "Hofer", "votes": 64 },
+      { "name": "VdB", "votes": 98 }
+    ]
+  },
+  {
+    "name": "Bludenz",
+    "results": [
+      { "name": "Hofer", "votes": 2005 },
+      { "name": "VdB", "votes": 2718 }
+    ]
+  },
+  {
+    "name": "Bludesch",
+    "results": [
+      { "name": "Hofer", "votes": 405 },
+      { "name": "VdB", "votes": 428 }
+    ]
+  },
+  {
+    "name": "Brand",
+    "results": [
+      { "name": "Hofer", "votes": 113 },
+      { "name": "VdB", "votes": 141 }
+    ]
+  },
+  {
+    "name": "Bürs",
+    "results": [
+      { "name": "Hofer", "votes": 453 },
+      { "name": "VdB", "votes": 692 }
+    ]
+  },
+  {
+    "name": "Bürserberg",
+    "results": [
+      { "name": "Hofer", "votes": 106 },
+      { "name": "VdB", "votes": 82 }
+    ]
+  },
+  {
+    "name": "Dalaas",
+    "results": [
+      { "name": "Hofer", "votes": 306 },
+      { "name": "VdB", "votes": 360 }
+    ]
+  },
+  {
+    "name": "Fontanella",
+    "results": [
+      { "name": "Hofer", "votes": 79 },
+      { "name": "VdB", "votes": 114 }
+    ]
+  },
+  {
+    "name": "Gaschurn",
+    "results": [
+      { "name": "Hofer", "votes": 347 },
+      { "name": "VdB", "votes": 266 }
+    ]
+  },
+  {
+    "name": "Innerbraz",
+    "results": [
+      { "name": "Hofer", "votes": 184 },
+      { "name": "VdB", "votes": 247 }
+    ]
+  },
+  {
+    "name": "Klösterle",
+    "results": [
+      { "name": "Hofer", "votes": 118 },
+      { "name": "VdB", "votes": 181 }
+    ]
+  },
+  {
+    "name": "Lech",
+    "results": [
+      { "name": "Hofer", "votes": 74 },
+      { "name": "VdB", "votes": 220 }
+    ]
+  },
+  {
+    "name": "Lorüns",
+    "results": [
+      { "name": "Hofer", "votes": 41 },
+      { "name": "VdB", "votes": 79 }
+    ]
+  },
+  {
+    "name": "Ludesch",
+    "results": [
+      { "name": "Hofer", "votes": 603 },
+      { "name": "VdB", "votes": 626 }
+    ]
+  },
+  {
+    "name": "Nenzing",
+    "results": [
+      { "name": "Hofer", "votes": 1318 },
+      { "name": "VdB", "votes": 1186 }
+    ]
+  },
+  {
+    "name": "Nüziders",
+    "results": [
+      { "name": "Hofer", "votes": 703 },
+      { "name": "VdB", "votes": 1375 }
+    ]
+  },
+  {
+    "name": "Raggal",
+    "results": [
+      { "name": "Hofer", "votes": 124 },
+      { "name": "VdB", "votes": 237 }
+    ]
+  },
+  {
+    "name": "St. Anton im Montafon",
+    "results": [
+      { "name": "Hofer", "votes": 157 },
+      { "name": "VdB", "votes": 149 }
+    ]
+  },
+  {
+    "name": "St. Gallenkirch",
+    "results": [
+      { "name": "Hofer", "votes": 565 },
+      { "name": "VdB", "votes": 334 }
+    ]
+  },
+  {
+    "name": "St. Gerold",
+    "results": [
+      { "name": "Hofer", "votes": 88 },
+      { "name": "VdB", "votes": 63 }
+    ]
+  },
+  {
+    "name": "Schruns",
+    "results": [
+      { "name": "Hofer", "votes": 659 },
+      { "name": "VdB", "votes": 771 }
+    ]
+  },
+  {
+    "name": "Silbertal",
+    "results": [
+      { "name": "Hofer", "votes": 271 },
+      { "name": "VdB", "votes": 160 }
+    ]
+  },
+  {
+    "name": "Sonntag",
+    "results": [
+      { "name": "Hofer", "votes": 124 },
+      { "name": "VdB", "votes": 194 }
+    ]
+  },
+  {
+    "name": "Stallehr",
+    "results": [
+      { "name": "Hofer", "votes": 50 },
+      { "name": "VdB", "votes": 78 }
+    ]
+  },
+  {
+    "name": "Thüringen",
+    "results": [
+      { "name": "Hofer", "votes": 359 },
+      { "name": "VdB", "votes": 518 }
+    ]
+  },
+  {
+    "name": "Thüringerberg",
+    "results": [
+      { "name": "Hofer", "votes": 131 },
+      { "name": "VdB", "votes": 172 }
+    ]
+  },
+  {
+    "name": "Tschagguns",
+    "results": [
+      { "name": "Hofer", "votes": 479 },
+      { "name": "VdB", "votes": 434 }
+    ]
+  },
+  {
+    "name": "Vandans",
+    "results": [
+      { "name": "Hofer", "votes": 579 },
+      { "name": "VdB", "votes": 452 }
+    ]
+  },
+  {
+    "name": "Alberschwende",
+    "results": [
+      { "name": "Hofer", "votes": 697 },
+      { "name": "VdB", "votes": 819 }
+    ]
+  },
+  {
+    "name": "Andelsbuch",
+    "results": [
+      { "name": "Hofer", "votes": 309 },
+      { "name": "VdB", "votes": 681 }
+    ]
+  },
+  {
+    "name": "Au",
+    "results": [
+      { "name": "Hofer", "votes": 360 },
+      { "name": "VdB", "votes": 334 }
+    ]
+  },
+  {
+    "name": "Bezau",
+    "results": [
+      { "name": "Hofer", "votes": 300 },
+      { "name": "VdB", "votes": 383 }
+    ]
+  },
+  {
+    "name": "Bildstein",
+    "results": [
+      { "name": "Hofer", "votes": 164 },
+      { "name": "VdB", "votes": 167 }
+    ]
+  },
+  {
+    "name": "Bizau",
+    "results": [
+      { "name": "Hofer", "votes": 174 },
+      { "name": "VdB", "votes": 232 }
+    ]
+  },
+  {
+    "name": "Bregenz",
+    "results": [
+      { "name": "Hofer", "votes": 3972 },
+      { "name": "VdB", "votes": 5821 }
+    ]
+  },
+  {
+    "name": "Buch",
+    "results": [
+      { "name": "Hofer", "votes": 135 },
+      { "name": "VdB", "votes": 168 }
+    ]
+  },
+  {
+    "name": "Damüls",
+    "results": [
+      { "name": "Hofer", "votes": 53 },
+      { "name": "VdB", "votes": 59 }
+    ]
+  },
+  {
+    "name": "Doren",
+    "results": [
+      { "name": "Hofer", "votes": 207 },
+      { "name": "VdB", "votes": 243 }
+    ]
+  },
+  {
+    "name": "Egg",
+    "results": [
+      { "name": "Hofer", "votes": 610 },
+      { "name": "VdB", "votes": 930 }
+    ]
+  },
+  {
+    "name": "Eichenberg",
+    "results": [
+      { "name": "Hofer", "votes": 44 },
+      { "name": "VdB", "votes": 109 }
+    ]
+  },
+  {
+    "name": "Fußach",
+    "results": [
+      { "name": "Hofer", "votes": 759 },
+      { "name": "VdB", "votes": 709 }
+    ]
+  },
+  {
+    "name": "Gaißau",
+    "results": [
+      { "name": "Hofer", "votes": 320 },
+      { "name": "VdB", "votes": 357 }
+    ]
+  },
+  {
+    "name": "Hard",
+    "results": [
+      { "name": "Hofer", "votes": 2038 },
+      { "name": "VdB", "votes": 2757 }
+    ]
+  },
+  {
+    "name": "Hittisau",
+    "results": [
+      { "name": "Hofer", "votes": 358 },
+      { "name": "VdB", "votes": 421 }
+    ]
+  },
+  {
+    "name": "Höchst",
+    "results": [
+      { "name": "Hofer", "votes": 1284 },
+      { "name": "VdB", "votes": 1382 }
+    ]
+  },
+  {
+    "name": "Hörbranz",
+    "results": [
+      { "name": "Hofer", "votes": 1218 },
+      { "name": "VdB", "votes": 1354 }
+    ]
+  },
+  {
+    "name": "Hohenweiler",
+    "results": [
+      { "name": "Hofer", "votes": 213 },
+      { "name": "VdB", "votes": 270 }
+    ]
+  },
+  {
+    "name": "Kennelbach",
+    "results": [
+      { "name": "Hofer", "votes": 322 },
+      { "name": "VdB", "votes": 432 }
+    ]
+  },
+  {
+    "name": "Krumbach",
+    "results": [
+      { "name": "Hofer", "votes": 223 },
+      { "name": "VdB", "votes": 208 }
+    ]
+  },
+  {
+    "name": "Langen bei Bregenz",
+    "results": [
+      { "name": "Hofer", "votes": 308 },
+      { "name": "VdB", "votes": 303 }
+    ]
+  },
+  {
+    "name": "Langenegg",
+    "results": [
+      { "name": "Hofer", "votes": 205 },
+      { "name": "VdB", "votes": 223 }
+    ]
+  },
+  {
+    "name": "Lauterach",
+    "results": [
+      { "name": "Hofer", "votes": 1843 },
+      { "name": "VdB", "votes": 2101 }
+    ]
+  },
+  {
+    "name": "Lingenau",
+    "results": [
+      { "name": "Hofer", "votes": 207 },
+      { "name": "VdB", "votes": 402 }
+    ]
+  },
+  {
+    "name": "Lochau",
+    "results": [
+      { "name": "Hofer", "votes": 816 },
+      { "name": "VdB", "votes": 1280 }
+    ]
+  },
+  {
+    "name": "Mellau",
+    "results": [
+      { "name": "Hofer", "votes": 273 },
+      { "name": "VdB", "votes": 253 }
+    ]
+  },
+  {
+    "name": "Mittelberg",
+    "results": [
+      { "name": "Hofer", "votes": 367 },
+      { "name": "VdB", "votes": 576 }
+    ]
+  },
+  {
+    "name": "Möggers",
+    "results": [
+      { "name": "Hofer", "votes": 79 },
+      { "name": "VdB", "votes": 133 }
+    ]
+  },
+  {
+    "name": "Reuthe",
+    "results": [
+      { "name": "Hofer", "votes": 108 },
+      { "name": "VdB", "votes": 124 }
+    ]
+  },
+  {
+    "name": "Riefensberg",
+    "results": [
+      { "name": "Hofer", "votes": 170 },
+      { "name": "VdB", "votes": 228 }
+    ]
+  },
+  {
+    "name": "Schnepfau",
+    "results": [
+      { "name": "Hofer", "votes": 86 },
+      { "name": "VdB", "votes": 95 }
+    ]
+  },
+  {
+    "name": "Schoppernau",
+    "results": [
+      { "name": "Hofer", "votes": 241 },
+      { "name": "VdB", "votes": 183 }
+    ]
+  },
+  {
+    "name": "Schröcken",
+    "results": [
+      { "name": "Hofer", "votes": 16 },
+      { "name": "VdB", "votes": 49 }
+    ]
+  },
+  {
+    "name": "Schwarzach",
+    "results": [
+      { "name": "Hofer", "votes": 653 },
+      { "name": "VdB", "votes": 971 }
+    ]
+  },
+  {
+    "name": "Schwarzenberg",
+    "results": [
+      { "name": "Hofer", "votes": 275 },
+      { "name": "VdB", "votes": 503 }
+    ]
+  },
+  {
+    "name": "Sibratsgfäll",
+    "results": [
+      { "name": "Hofer", "votes": 55 },
+      { "name": "VdB", "votes": 100 }
+    ]
+  },
+  {
+    "name": "Sulzberg",
+    "results": [
+      { "name": "Hofer", "votes": 300 },
+      { "name": "VdB", "votes": 428 }
+    ]
+  },
+  {
+    "name": "Warth",
+    "results": [
+      { "name": "Hofer", "votes": 43 },
+      { "name": "VdB", "votes": 21 }
+    ]
+  },
+  {
+    "name": "Wolfurt",
+    "results": [
+      { "name": "Hofer", "votes": 1344 },
+      { "name": "VdB", "votes": 2042 }
+    ]
+  },
+  {
+    "name": "Dornbirn",
+    "results": [
+      { "name": "Hofer", "votes": 7464 },
+      { "name": "VdB", "votes": 10329 }
+    ]
+  },
+  {
+    "name": "Hohenems",
+    "results": [
+      { "name": "Hofer", "votes": 2603 },
+      { "name": "VdB", "votes": 2569 }
+    ]
+  },
+  {
+    "name": "Lustenau",
+    "results": [
+      { "name": "Hofer", "votes": 3431 },
+      { "name": "VdB", "votes": 4166 }
+    ]
+  },
+  {
+    "name": "Altach",
+    "results": [
+      { "name": "Hofer", "votes": 1102 },
+      { "name": "VdB", "votes": 1499 }
+    ]
+  },
+  {
+    "name": "Düns",
+    "results": [
+      { "name": "Hofer", "votes": 94 },
+      { "name": "VdB", "votes": 117 }
+    ]
+  },
+  {
+    "name": "Dünserberg",
+    "results": [
+      { "name": "Hofer", "votes": 27 },
+      { "name": "VdB", "votes": 27 }
+    ]
+  },
+  {
+    "name": "Feldkirch",
+    "results": [
+      { "name": "Hofer", "votes": 4715 },
+      { "name": "VdB", "votes": 6944 }
+    ]
+  },
+  {
+    "name": "Frastanz",
+    "results": [
+      { "name": "Hofer", "votes": 1024 },
+      { "name": "VdB", "votes": 1204 }
+    ]
+  },
+  {
+    "name": "Fraxern",
+    "results": [
+      { "name": "Hofer", "votes": 131 },
+      { "name": "VdB", "votes": 197 }
+    ]
+  },
+  {
+    "name": "Göfis",
+    "results": [
+      { "name": "Hofer", "votes": 573 },
+      { "name": "VdB", "votes": 863 }
+    ]
+  },
+  {
+    "name": "Götzis",
+    "results": [
+      { "name": "Hofer", "votes": 1807 },
+      { "name": "VdB", "votes": 2374 }
+    ]
+  },
+  {
+    "name": "Klaus",
+    "results": [
+      { "name": "Hofer", "votes": 465 },
+      { "name": "VdB", "votes": 821 }
+    ]
+  },
+  {
+    "name": "Koblach",
+    "results": [
+      { "name": "Hofer", "votes": 701 },
+      { "name": "VdB", "votes": 1016 }
+    ]
+  },
+  {
+    "name": "Laterns",
+    "results": [
+      { "name": "Hofer", "votes": 153 },
+      { "name": "VdB", "votes": 134 }
+    ]
+  },
+  {
+    "name": "Mäder",
+    "results": [
+      { "name": "Hofer", "votes": 796 },
+      { "name": "VdB", "votes": 714 }
+    ]
+  },
+  {
+    "name": "Meiningen",
+    "results": [
+      { "name": "Hofer", "votes": 436 },
+      { "name": "VdB", "votes": 422 }
+    ]
+  },
+  {
+    "name": "Rankweil",
+    "results": [
+      { "name": "Hofer", "votes": 1712 },
+      { "name": "VdB", "votes": 2666 }
+    ]
+  },
+  {
+    "name": "Röns",
+    "results": [
+      { "name": "Hofer", "votes": 53 },
+      { "name": "VdB", "votes": 101 }
+    ]
+  },
+  {
+    "name": "Röthis",
+    "results": [
+      { "name": "Hofer", "votes": 289 },
+      { "name": "VdB", "votes": 482 }
+    ]
+  },
+  {
+    "name": "Satteins",
+    "results": [
+      { "name": "Hofer", "votes": 474 },
+      { "name": "VdB", "votes": 660 }
+    ]
+  },
+  {
+    "name": "Schlins",
+    "results": [
+      { "name": "Hofer", "votes": 354 },
+      { "name": "VdB", "votes": 542 }
+    ]
+  },
+  {
+    "name": "Schnifis",
+    "results": [
+      { "name": "Hofer", "votes": 137 },
+      { "name": "VdB", "votes": 206 }
+    ]
+  },
+  {
+    "name": "Sulz",
+    "results": [
+      { "name": "Hofer", "votes": 420 },
+      { "name": "VdB", "votes": 664 }
+    ]
+  },
+  {
+    "name": "Übersaxen",
+    "results": [
+      { "name": "Hofer", "votes": 169 },
+      { "name": "VdB", "votes": 164 }
+    ]
+  },
+  {
+    "name": "Viktorsberg",
+    "results": [
+      { "name": "Hofer", "votes": 69 },
+      { "name": "VdB", "votes": 84 }
+    ]
+  },
+  {
+    "name": "Weiler",
+    "results": [
+      { "name": "Hofer", "votes": 324 },
+      { "name": "VdB", "votes": 478 }
+    ]
+  },
+  {
+    "name": "Zwischenwasser",
+    "results": [
+      { "name": "Hofer", "votes": 581 },
+      { "name": "VdB", "votes": 724 }
+    ]
+  }
+]

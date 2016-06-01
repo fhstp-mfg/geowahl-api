@@ -1,0 +1,926 @@
+[
+  {
+    "name": "Klagenfurt am Wörthersee",
+    "results": [
+      { "name": "Hofer", "votes": 20878 },
+      { "name": "VdB", "votes": 21203 }
+    ]
+  },
+  {
+    "name": "Villach",
+    "results": [
+      { "name": "Hofer", "votes": 14792 },
+      { "name": "VdB", "votes": 11538 }
+    ]
+  },
+  {
+    "name": "Dellach",
+    "results": [
+      { "name": "Hofer", "votes": 319 },
+      { "name": "VdB", "votes": 234 }
+    ]
+  },
+  {
+    "name": "Hermagor-Pressegger See",
+    "results": [
+      { "name": "Hofer", "votes": 1729 },
+      { "name": "VdB", "votes": 1415 }
+    ]
+  },
+  {
+    "name": "Kirchbach",
+    "results": [
+      { "name": "Hofer", "votes": 725 },
+      { "name": "VdB", "votes": 490 }
+    ]
+  },
+  {
+    "name": "Kötschach-Mauthen",
+    "results": [
+      { "name": "Hofer", "votes": 860 },
+      { "name": "VdB", "votes": 697 }
+    ]
+  },
+  {
+    "name": "St. Stefan im Gailtal",
+    "results": [
+      { "name": "Hofer", "votes": 435 },
+      { "name": "VdB", "votes": 323 }
+    ]
+  },
+  {
+    "name": "Gitschtal",
+    "results": [
+      { "name": "Hofer", "votes": 345 },
+      { "name": "VdB", "votes": 266 }
+    ]
+  },
+  {
+    "name": "Lesachtal",
+    "results": [
+      { "name": "Hofer", "votes": 351 },
+      { "name": "VdB", "votes": 252 }
+    ]
+  },
+  {
+    "name": "Ebenthal in Kärnten",
+    "results": [
+      { "name": "Hofer", "votes": 2177 },
+      { "name": "VdB", "votes": 1234 }
+    ]
+  },
+  {
+    "name": "Feistritz im Rosental",
+    "results": [
+      { "name": "Hofer", "votes": 563 },
+      { "name": "VdB", "votes": 557 }
+    ]
+  },
+  {
+    "name": "Ferlach",
+    "results": [
+      { "name": "Hofer", "votes": 1909 },
+      { "name": "VdB", "votes": 1392 }
+    ]
+  },
+  {
+    "name": "Grafenstein",
+    "results": [
+      { "name": "Hofer", "votes": 889 },
+      { "name": "VdB", "votes": 442 }
+    ]
+  },
+  {
+    "name": "Keutschach am See",
+    "results": [
+      { "name": "Hofer", "votes": 566 },
+      { "name": "VdB", "votes": 579 }
+    ]
+  },
+  {
+    "name": "Köttmannsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 756 },
+      { "name": "VdB", "votes": 669 }
+    ]
+  },
+  {
+    "name": "Krumpendorf am Wörthersee",
+    "results": [
+      { "name": "Hofer", "votes": 711 },
+      { "name": "VdB", "votes": 809 }
+    ]
+  },
+  {
+    "name": "Ludmannsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 476 },
+      { "name": "VdB", "votes": 436 }
+    ]
+  },
+  {
+    "name": "Maria Rain",
+    "results": [
+      { "name": "Hofer", "votes": 639 },
+      { "name": "VdB", "votes": 476 }
+    ]
+  },
+  {
+    "name": "Maria Saal",
+    "results": [
+      { "name": "Hofer", "votes": 1036 },
+      { "name": "VdB", "votes": 904 }
+    ]
+  },
+  {
+    "name": "Maria Wörth",
+    "results": [
+      { "name": "Hofer", "votes": 365 },
+      { "name": "VdB", "votes": 343 }
+    ]
+  },
+  {
+    "name": "Moosburg",
+    "results": [
+      { "name": "Hofer", "votes": 1213 },
+      { "name": "VdB", "votes": 768 }
+    ]
+  },
+  {
+    "name": "Pörtschach am Wörther See",
+    "results": [
+      { "name": "Hofer", "votes": 649 },
+      { "name": "VdB", "votes": 535 }
+    ]
+  },
+  {
+    "name": "Poggersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1078 },
+      { "name": "VdB", "votes": 507 }
+    ]
+  },
+  {
+    "name": "St. Margareten im Rosental",
+    "results": [
+      { "name": "Hofer", "votes": 284 },
+      { "name": "VdB", "votes": 182 }
+    ]
+  },
+  {
+    "name": "Schiefling am Wörthersee",
+    "results": [
+      { "name": "Hofer", "votes": 703 },
+      { "name": "VdB", "votes": 442 }
+    ]
+  },
+  {
+    "name": "Techelsberg am Wörther See",
+    "results": [
+      { "name": "Hofer", "votes": 626 },
+      { "name": "VdB", "votes": 352 }
+    ]
+  },
+  {
+    "name": "Zell",
+    "results": [
+      { "name": "Hofer", "votes": 71 },
+      { "name": "VdB", "votes": 213 }
+    ]
+  },
+  {
+    "name": "Magdalensberg",
+    "results": [
+      { "name": "Hofer", "votes": 949 },
+      { "name": "VdB", "votes": 651 }
+    ]
+  },
+  {
+    "name": "Althofen",
+    "results": [
+      { "name": "Hofer", "votes": 1430 },
+      { "name": "VdB", "votes": 766 }
+    ]
+  },
+  {
+    "name": "Brückl",
+    "results": [
+      { "name": "Hofer", "votes": 869 },
+      { "name": "VdB", "votes": 466 }
+    ]
+  },
+  {
+    "name": "Deutsch-Griffen",
+    "results": [
+      { "name": "Hofer", "votes": 363 },
+      { "name": "VdB", "votes": 85 }
+    ]
+  },
+  {
+    "name": "Eberstein",
+    "results": [
+      { "name": "Hofer", "votes": 479 },
+      { "name": "VdB", "votes": 168 }
+    ]
+  },
+  {
+    "name": "Friesach",
+    "results": [
+      { "name": "Hofer", "votes": 1591 },
+      { "name": "VdB", "votes": 691 }
+    ]
+  },
+  {
+    "name": "Glödnitz",
+    "results": [
+      { "name": "Hofer", "votes": 287 },
+      { "name": "VdB", "votes": 71 }
+    ]
+  },
+  {
+    "name": "Gurk",
+    "results": [
+      { "name": "Hofer", "votes": 505 },
+      { "name": "VdB", "votes": 197 }
+    ]
+  },
+  {
+    "name": "Guttaring",
+    "results": [
+      { "name": "Hofer", "votes": 439 },
+      { "name": "VdB", "votes": 291 }
+    ]
+  },
+  {
+    "name": "Hüttenberg",
+    "results": [
+      { "name": "Hofer", "votes": 505 },
+      { "name": "VdB", "votes": 212 }
+    ]
+  },
+  {
+    "name": "Kappel am Krappfeld",
+    "results": [
+      { "name": "Hofer", "votes": 638 },
+      { "name": "VdB", "votes": 305 }
+    ]
+  },
+  {
+    "name": "Klein St. Paul",
+    "results": [
+      { "name": "Hofer", "votes": 729 },
+      { "name": "VdB", "votes": 260 }
+    ]
+  },
+  {
+    "name": "Liebenfels",
+    "results": [
+      { "name": "Hofer", "votes": 977 },
+      { "name": "VdB", "votes": 515 }
+    ]
+  },
+  {
+    "name": "Metnitz",
+    "results": [
+      { "name": "Hofer", "votes": 784 },
+      { "name": "VdB", "votes": 285 }
+    ]
+  },
+  {
+    "name": "Micheldorf",
+    "results": [
+      { "name": "Hofer", "votes": 298 },
+      { "name": "VdB", "votes": 168 }
+    ]
+  },
+  {
+    "name": "Mölbling",
+    "results": [
+      { "name": "Hofer", "votes": 503 },
+      { "name": "VdB", "votes": 171 }
+    ]
+  },
+  {
+    "name": "St. Georgen am Längsee",
+    "results": [
+      { "name": "Hofer", "votes": 1071 },
+      { "name": "VdB", "votes": 707 }
+    ]
+  },
+  {
+    "name": "St. Veit an der Glan",
+    "results": [
+      { "name": "Hofer", "votes": 3200 },
+      { "name": "VdB", "votes": 2250 }
+    ]
+  },
+  {
+    "name": "Straßburg",
+    "results": [
+      { "name": "Hofer", "votes": 798 },
+      { "name": "VdB", "votes": 254 }
+    ]
+  },
+  {
+    "name": "Weitensfeld im Gurktal",
+    "results": [
+      { "name": "Hofer", "votes": 760 },
+      { "name": "VdB", "votes": 231 }
+    ]
+  },
+  {
+    "name": "Frauenstein",
+    "results": [
+      { "name": "Hofer", "votes": 1122 },
+      { "name": "VdB", "votes": 666 }
+    ]
+  },
+  {
+    "name": "Bad Kleinkirchheim",
+    "results": [
+      { "name": "Hofer", "votes": 474 },
+      { "name": "VdB", "votes": 215 }
+    ]
+  },
+  {
+    "name": "Baldramsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 577 },
+      { "name": "VdB", "votes": 281 }
+    ]
+  },
+  {
+    "name": "Berg im Drautal",
+    "results": [
+      { "name": "Hofer", "votes": 325 },
+      { "name": "VdB", "votes": 276 }
+    ]
+  },
+  {
+    "name": "Dellach im Drautal",
+    "results": [
+      { "name": "Hofer", "votes": 460 },
+      { "name": "VdB", "votes": 292 }
+    ]
+  },
+  {
+    "name": "Großkirchheim",
+    "results": [
+      { "name": "Hofer", "votes": 513 },
+      { "name": "VdB", "votes": 193 }
+    ]
+  },
+  {
+    "name": "Flattach",
+    "results": [
+      { "name": "Hofer", "votes": 423 },
+      { "name": "VdB", "votes": 148 }
+    ]
+  },
+  {
+    "name": "Gmünd in Kärnten",
+    "results": [
+      { "name": "Hofer", "votes": 745 },
+      { "name": "VdB", "votes": 500 }
+    ]
+  },
+  {
+    "name": "Greifenburg",
+    "results": [
+      { "name": "Hofer", "votes": 535 },
+      { "name": "VdB", "votes": 302 }
+    ]
+  },
+  {
+    "name": "Heiligenblut am Großglockner",
+    "results": [
+      { "name": "Hofer", "votes": 338 },
+      { "name": "VdB", "votes": 141 }
+    ]
+  },
+  {
+    "name": "Irschen",
+    "results": [
+      { "name": "Hofer", "votes": 558 },
+      { "name": "VdB", "votes": 434 }
+    ]
+  },
+  {
+    "name": "Kleblach-Lind",
+    "results": [
+      { "name": "Hofer", "votes": 361 },
+      { "name": "VdB", "votes": 243 }
+    ]
+  },
+  {
+    "name": "Lendorf",
+    "results": [
+      { "name": "Hofer", "votes": 530 },
+      { "name": "VdB", "votes": 303 }
+    ]
+  },
+  {
+    "name": "Mallnitz",
+    "results": [
+      { "name": "Hofer", "votes": 198 },
+      { "name": "VdB", "votes": 181 }
+    ]
+  },
+  {
+    "name": "Malta",
+    "results": [
+      { "name": "Hofer", "votes": 629 },
+      { "name": "VdB", "votes": 299 }
+    ]
+  },
+  {
+    "name": "Millstatt am See",
+    "results": [
+      { "name": "Hofer", "votes": 861 },
+      { "name": "VdB", "votes": 681 }
+    ]
+  },
+  {
+    "name": "Mörtschach",
+    "results": [
+      { "name": "Hofer", "votes": 278 },
+      { "name": "VdB", "votes": 111 }
+    ]
+  },
+  {
+    "name": "Mühldorf",
+    "results": [
+      { "name": "Hofer", "votes": 273 },
+      { "name": "VdB", "votes": 174 }
+    ]
+  },
+  {
+    "name": "Oberdrauburg",
+    "results": [
+      { "name": "Hofer", "votes": 364 },
+      { "name": "VdB", "votes": 218 }
+    ]
+  },
+  {
+    "name": "Obervellach",
+    "results": [
+      { "name": "Hofer", "votes": 741 },
+      { "name": "VdB", "votes": 314 }
+    ]
+  },
+  {
+    "name": "Radenthein",
+    "results": [
+      { "name": "Hofer", "votes": 1851 },
+      { "name": "VdB", "votes": 1018 }
+    ]
+  },
+  {
+    "name": "Rangersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 562 },
+      { "name": "VdB", "votes": 186 }
+    ]
+  },
+  {
+    "name": "Rennweg am Katschberg",
+    "results": [
+      { "name": "Hofer", "votes": 630 },
+      { "name": "VdB", "votes": 304 }
+    ]
+  },
+  {
+    "name": "Sachsenburg",
+    "results": [
+      { "name": "Hofer", "votes": 381 },
+      { "name": "VdB", "votes": 174 }
+    ]
+  },
+  {
+    "name": "Seeboden am Millstätter See",
+    "results": [
+      { "name": "Hofer", "votes": 1732 },
+      { "name": "VdB", "votes": 1060 }
+    ]
+  },
+  {
+    "name": "Spittal an der Drau",
+    "results": [
+      { "name": "Hofer", "votes": 4056 },
+      { "name": "VdB", "votes": 2716 }
+    ]
+  },
+  {
+    "name": "Stall",
+    "results": [
+      { "name": "Hofer", "votes": 640 },
+      { "name": "VdB", "votes": 144 }
+    ]
+  },
+  {
+    "name": "Steinfeld",
+    "results": [
+      { "name": "Hofer", "votes": 605 },
+      { "name": "VdB", "votes": 345 }
+    ]
+  },
+  {
+    "name": "Trebesing",
+    "results": [
+      { "name": "Hofer", "votes": 388 },
+      { "name": "VdB", "votes": 207 }
+    ]
+  },
+  {
+    "name": "Weißensee",
+    "results": [
+      { "name": "Hofer", "votes": 210 },
+      { "name": "VdB", "votes": 199 }
+    ]
+  },
+  {
+    "name": "Winklern",
+    "results": [
+      { "name": "Hofer", "votes": 355 },
+      { "name": "VdB", "votes": 171 }
+    ]
+  },
+  {
+    "name": "Krems in Kärnten",
+    "results": [
+      { "name": "Hofer", "votes": 645 },
+      { "name": "VdB", "votes": 164 }
+    ]
+  },
+  {
+    "name": "Lurnfeld",
+    "results": [
+      { "name": "Hofer", "votes": 746 },
+      { "name": "VdB", "votes": 468 }
+    ]
+  },
+  {
+    "name": "Reißeck",
+    "results": [
+      { "name": "Hofer", "votes": 653 },
+      { "name": "VdB", "votes": 468 }
+    ]
+  },
+  {
+    "name": "Afritz am See",
+    "results": [
+      { "name": "Hofer", "votes": 429 },
+      { "name": "VdB", "votes": 281 }
+    ]
+  },
+  {
+    "name": "Arnoldstein",
+    "results": [
+      { "name": "Hofer", "votes": 2029 },
+      { "name": "VdB", "votes": 1149 }
+    ]
+  },
+  {
+    "name": "Arriach",
+    "results": [
+      { "name": "Hofer", "votes": 487 },
+      { "name": "VdB", "votes": 185 }
+    ]
+  },
+  {
+    "name": "Bad Bleiberg",
+    "results": [
+      { "name": "Hofer", "votes": 580 },
+      { "name": "VdB", "votes": 464 }
+    ]
+  },
+  {
+    "name": "Feistritz an der Gail",
+    "results": [
+      { "name": "Hofer", "votes": 193 },
+      { "name": "VdB", "votes": 120 }
+    ]
+  },
+  {
+    "name": "Feld am See",
+    "results": [
+      { "name": "Hofer", "votes": 348 },
+      { "name": "VdB", "votes": 160 }
+    ]
+  },
+  {
+    "name": "Ferndorf",
+    "results": [
+      { "name": "Hofer", "votes": 711 },
+      { "name": "VdB", "votes": 441 }
+    ]
+  },
+  {
+    "name": "Finkenstein am Faaker See",
+    "results": [
+      { "name": "Hofer", "votes": 2407 },
+      { "name": "VdB", "votes": 1723 }
+    ]
+  },
+  {
+    "name": "Fresach",
+    "results": [
+      { "name": "Hofer", "votes": 480 },
+      { "name": "VdB", "votes": 244 }
+    ]
+  },
+  {
+    "name": "Hohenthurn",
+    "results": [
+      { "name": "Hofer", "votes": 214 },
+      { "name": "VdB", "votes": 148 }
+    ]
+  },
+  {
+    "name": "Nötsch im Gailtal",
+    "results": [
+      { "name": "Hofer", "votes": 743 },
+      { "name": "VdB", "votes": 416 }
+    ]
+  },
+  {
+    "name": "Paternion",
+    "results": [
+      { "name": "Hofer", "votes": 1834 },
+      { "name": "VdB", "votes": 987 }
+    ]
+  },
+  {
+    "name": "Rosegg",
+    "results": [
+      { "name": "Hofer", "votes": 525 },
+      { "name": "VdB", "votes": 292 }
+    ]
+  },
+  {
+    "name": "St. Jakob im Rosental",
+    "results": [
+      { "name": "Hofer", "votes": 1031 },
+      { "name": "VdB", "votes": 891 }
+    ]
+  },
+  {
+    "name": "Stockenboi",
+    "results": [
+      { "name": "Hofer", "votes": 586 },
+      { "name": "VdB", "votes": 268 }
+    ]
+  },
+  {
+    "name": "Treffen am Ossiacher See",
+    "results": [
+      { "name": "Hofer", "votes": 1109 },
+      { "name": "VdB", "votes": 843 }
+    ]
+  },
+  {
+    "name": "Velden am Wörther See",
+    "results": [
+      { "name": "Hofer", "votes": 2379 },
+      { "name": "VdB", "votes": 1586 }
+    ]
+  },
+  {
+    "name": "Weißenstein",
+    "results": [
+      { "name": "Hofer", "votes": 914 },
+      { "name": "VdB", "votes": 674 }
+    ]
+  },
+  {
+    "name": "Wernberg",
+    "results": [
+      { "name": "Hofer", "votes": 1650 },
+      { "name": "VdB", "votes": 983 }
+    ]
+  },
+  {
+    "name": "Bleiburg",
+    "results": [
+      { "name": "Hofer", "votes": 976 },
+      { "name": "VdB", "votes": 774 }
+    ]
+  },
+  {
+    "name": "Diex",
+    "results": [
+      { "name": "Hofer", "votes": 251 },
+      { "name": "VdB", "votes": 119 }
+    ]
+  },
+  {
+    "name": "Eberndorf",
+    "results": [
+      { "name": "Hofer", "votes": 1583 },
+      { "name": "VdB", "votes": 1066 }
+    ]
+  },
+  {
+    "name": "Eisenkappel-Vellach",
+    "results": [
+      { "name": "Hofer", "votes": 496 },
+      { "name": "VdB", "votes": 595 }
+    ]
+  },
+  {
+    "name": "Feistritz ob Bleiburg",
+    "results": [
+      { "name": "Hofer", "votes": 568 },
+      { "name": "VdB", "votes": 439 }
+    ]
+  },
+  {
+    "name": "Gallizien",
+    "results": [
+      { "name": "Hofer", "votes": 611 },
+      { "name": "VdB", "votes": 326 }
+    ]
+  },
+  {
+    "name": "Globasnitz",
+    "results": [
+      { "name": "Hofer", "votes": 453 },
+      { "name": "VdB", "votes": 361 }
+    ]
+  },
+  {
+    "name": "Griffen",
+    "results": [
+      { "name": "Hofer", "votes": 1117 },
+      { "name": "VdB", "votes": 487 }
+    ]
+  },
+  {
+    "name": "Neuhaus",
+    "results": [
+      { "name": "Hofer", "votes": 334 },
+      { "name": "VdB", "votes": 141 }
+    ]
+  },
+  {
+    "name": "Ruden",
+    "results": [
+      { "name": "Hofer", "votes": 442 },
+      { "name": "VdB", "votes": 270 }
+    ]
+  },
+  {
+    "name": "St. Kanzian am Klopeiner See",
+    "results": [
+      { "name": "Hofer", "votes": 1171 },
+      { "name": "VdB", "votes": 859 }
+    ]
+  },
+  {
+    "name": "Sittersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 557 },
+      { "name": "VdB", "votes": 412 }
+    ]
+  },
+  {
+    "name": "Völkermarkt",
+    "results": [
+      { "name": "Hofer", "votes": 2957 },
+      { "name": "VdB", "votes": 2098 }
+    ]
+  },
+  {
+    "name": "Bad St. Leonhard im Lavanttal",
+    "results": [
+      { "name": "Hofer", "votes": 1547 },
+      { "name": "VdB", "votes": 616 }
+    ]
+  },
+  {
+    "name": "Frantschach-St. Gertraud",
+    "results": [
+      { "name": "Hofer", "votes": 855 },
+      { "name": "VdB", "votes": 350 }
+    ]
+  },
+  {
+    "name": "Lavamünd",
+    "results": [
+      { "name": "Hofer", "votes": 1006 },
+      { "name": "VdB", "votes": 401 }
+    ]
+  },
+  {
+    "name": "Preitenegg",
+    "results": [
+      { "name": "Hofer", "votes": 375 },
+      { "name": "VdB", "votes": 100 }
+    ]
+  },
+  {
+    "name": "Reichenfels",
+    "results": [
+      { "name": "Hofer", "votes": 589 },
+      { "name": "VdB", "votes": 269 }
+    ]
+  },
+  {
+    "name": "St. Andrä",
+    "results": [
+      { "name": "Hofer", "votes": 3530 },
+      { "name": "VdB", "votes": 1211 }
+    ]
+  },
+  {
+    "name": "St. Georgen im Lavanttal",
+    "results": [
+      { "name": "Hofer", "votes": 724 },
+      { "name": "VdB", "votes": 233 }
+    ]
+  },
+  {
+    "name": "St. Paul im Lavanttal",
+    "results": [
+      { "name": "Hofer", "votes": 1128 },
+      { "name": "VdB", "votes": 491 }
+    ]
+  },
+  {
+    "name": "Wolfsberg",
+    "results": [
+      { "name": "Hofer", "votes": 8059 },
+      { "name": "VdB", "votes": 4189 }
+    ]
+  },
+  {
+    "name": "Albeck",
+    "results": [
+      { "name": "Hofer", "votes": 342 },
+      { "name": "VdB", "votes": 122 }
+    ]
+  },
+  {
+    "name": "Feldkirchen in Kärnten",
+    "results": [
+      { "name": "Hofer", "votes": 4288 },
+      { "name": "VdB", "votes": 2211 }
+    ]
+  },
+  {
+    "name": "Glanegg",
+    "results": [
+      { "name": "Hofer", "votes": 535 },
+      { "name": "VdB", "votes": 341 }
+    ]
+  },
+  {
+    "name": "Gnesau",
+    "results": [
+      { "name": "Hofer", "votes": 343 },
+      { "name": "VdB", "votes": 148 }
+    ]
+  },
+  {
+    "name": "Himmelberg",
+    "results": [
+      { "name": "Hofer", "votes": 773 },
+      { "name": "VdB", "votes": 282 }
+    ]
+  },
+  {
+    "name": "Ossiach",
+    "results": [
+      { "name": "Hofer", "votes": 243 },
+      { "name": "VdB", "votes": 140 }
+    ]
+  },
+  {
+    "name": "Reichenau",
+    "results": [
+      { "name": "Hofer", "votes": 560 },
+      { "name": "VdB", "votes": 276 }
+    ]
+  },
+  {
+    "name": "St. Urban",
+    "results": [
+      { "name": "Hofer", "votes": 493 },
+      { "name": "VdB", "votes": 156 }
+    ]
+  },
+  {
+    "name": "Steindorf am Ossiacher See",
+    "results": [
+      { "name": "Hofer", "votes": 1008 },
+      { "name": "VdB", "votes": 641 }
+    ]
+  },
+  {
+    "name": "Steuerberg",
+    "results": [
+      { "name": "Hofer", "votes": 529 },
+      { "name": "VdB", "votes": 207 }
+    ]
+  }
+]
