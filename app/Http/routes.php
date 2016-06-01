@@ -19,7 +19,7 @@ $app->get('/elections', function () {
   $elections = getElections();
 
   foreach ($elections as $election) {
-    unset($election->states, $election->parties);
+    unset($election->states);
   }
 
   return deliverJson($elections);
