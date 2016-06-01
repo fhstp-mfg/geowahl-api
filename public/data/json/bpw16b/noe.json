@@ -1,0 +1,4013 @@
+[
+  {
+    "name": "Krems an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 5595 },
+      { "name": "VdB", "votes": 5967 }
+    ]
+  },
+  {
+    "name": "St. Pölten",
+    "results": [
+      { "name": "Hofer", "votes": 10777 },
+      { "name": "VdB", "votes": 13029 }
+    ]
+  },
+  {
+    "name": "Waidhofen an der Ybbs",
+    "results": [
+      { "name": "Hofer", "votes": 2804 },
+      { "name": "VdB", "votes": 2967 }
+    ]
+  },
+  {
+    "name": "Wiener Neustadt",
+    "results": [
+      { "name": "Hofer", "votes": 9609 },
+      { "name": "VdB", "votes": 9346 }
+    ]
+  },
+  {
+    "name": "Allhartsberg",
+    "results": [
+      { "name": "Hofer", "votes": 628 },
+      { "name": "VdB", "votes": 576 }
+    ]
+  },
+  {
+    "name": "Amstetten",
+    "results": [
+      { "name": "Hofer", "votes": 6054 },
+      { "name": "VdB", "votes": 5370 }
+    ]
+  },
+  {
+    "name": "Ardagger",
+    "results": [
+      { "name": "Hofer", "votes": 1104 },
+      { "name": "VdB", "votes": 811 }
+    ]
+  },
+  {
+    "name": "Aschbach-Markt",
+    "results": [
+      { "name": "Hofer", "votes": 1091 },
+      { "name": "VdB", "votes": 782 }
+    ]
+  },
+  {
+    "name": "Behamberg",
+    "results": [
+      { "name": "Hofer", "votes": 1008 },
+      { "name": "VdB", "votes": 889 }
+    ]
+  },
+  {
+    "name": "Biberbach",
+    "results": [
+      { "name": "Hofer", "votes": 663 },
+      { "name": "VdB", "votes": 616 }
+    ]
+  },
+  {
+    "name": "Ennsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 757 },
+      { "name": "VdB", "votes": 745 }
+    ]
+  },
+  {
+    "name": "Ernsthofen",
+    "results": [
+      { "name": "Hofer", "votes": 597 },
+      { "name": "VdB", "votes": 560 }
+    ]
+  },
+  {
+    "name": "Ertl",
+    "results": [
+      { "name": "Hofer", "votes": 438 },
+      { "name": "VdB", "votes": 200 }
+    ]
+  },
+  {
+    "name": "Euratsfeld",
+    "results": [
+      { "name": "Hofer", "votes": 876 },
+      { "name": "VdB", "votes": 613 }
+    ]
+  },
+  {
+    "name": "Ferschnitz",
+    "results": [
+      { "name": "Hofer", "votes": 566 },
+      { "name": "VdB", "votes": 416 }
+    ]
+  },
+  {
+    "name": "Haag",
+    "results": [
+      { "name": "Hofer", "votes": 1344 },
+      { "name": "VdB", "votes": 1445 }
+    ]
+  },
+  {
+    "name": "Haidershofen",
+    "results": [
+      { "name": "Hofer", "votes": 992 },
+      { "name": "VdB", "votes": 1030 }
+    ]
+  },
+  {
+    "name": "Hollenstein an der Ybbs",
+    "results": [
+      { "name": "Hofer", "votes": 476 },
+      { "name": "VdB", "votes": 445 }
+    ]
+  },
+  {
+    "name": "Kematen an der Ybbs",
+    "results": [
+      { "name": "Hofer", "votes": 723 },
+      { "name": "VdB", "votes": 590 }
+    ]
+  },
+  {
+    "name": "Neuhofen an der Ybbs",
+    "results": [
+      { "name": "Hofer", "votes": 908 },
+      { "name": "VdB", "votes": 549 }
+    ]
+  },
+  {
+    "name": "Neustadtl an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 797 },
+      { "name": "VdB", "votes": 364 }
+    ]
+  },
+  {
+    "name": "Oed-Oehling",
+    "results": [
+      { "name": "Hofer", "votes": 573 },
+      { "name": "VdB", "votes": 413 }
+    ]
+  },
+  {
+    "name": "Opponitz",
+    "results": [
+      { "name": "Hofer", "votes": 270 },
+      { "name": "VdB", "votes": 215 }
+    ]
+  },
+  {
+    "name": "St. Georgen am Reith",
+    "results": [
+      { "name": "Hofer", "votes": 164 },
+      { "name": "VdB", "votes": 119 }
+    ]
+  },
+  {
+    "name": "St. Georgen am Ybbsfelde",
+    "results": [
+      { "name": "Hofer", "votes": 826 },
+      { "name": "VdB", "votes": 573 }
+    ]
+  },
+  {
+    "name": "St. Pantaleon-Erla",
+    "results": [
+      { "name": "Hofer", "votes": 710 },
+      { "name": "VdB", "votes": 628 }
+    ]
+  },
+  {
+    "name": "St. Peter in der Au",
+    "results": [
+      { "name": "Hofer", "votes": 1410 },
+      { "name": "VdB", "votes": 1248 }
+    ]
+  },
+  {
+    "name": "St. Valentin",
+    "results": [
+      { "name": "Hofer", "votes": 2292 },
+      { "name": "VdB", "votes": 2583 }
+    ]
+  },
+  {
+    "name": "Seitenstetten",
+    "results": [
+      { "name": "Hofer", "votes": 940 },
+      { "name": "VdB", "votes": 860 }
+    ]
+  },
+  {
+    "name": "Sonntagberg",
+    "results": [
+      { "name": "Hofer", "votes": 1060 },
+      { "name": "VdB", "votes": 996 }
+    ]
+  },
+  {
+    "name": "Strengberg",
+    "results": [
+      { "name": "Hofer", "votes": 524 },
+      { "name": "VdB", "votes": 519 }
+    ]
+  },
+  {
+    "name": "Viehdorf",
+    "results": [
+      { "name": "Hofer", "votes": 440 },
+      { "name": "VdB", "votes": 293 }
+    ]
+  },
+  {
+    "name": "Wallsee-Sindelburg",
+    "results": [
+      { "name": "Hofer", "votes": 573 },
+      { "name": "VdB", "votes": 503 }
+    ]
+  },
+  {
+    "name": "Weistrach",
+    "results": [
+      { "name": "Hofer", "votes": 686 },
+      { "name": "VdB", "votes": 472 }
+    ]
+  },
+  {
+    "name": "Winklarn",
+    "results": [
+      { "name": "Hofer", "votes": 471 },
+      { "name": "VdB", "votes": 370 }
+    ]
+  },
+  {
+    "name": "Wolfsbach",
+    "results": [
+      { "name": "Hofer", "votes": 590 },
+      { "name": "VdB", "votes": 401 }
+    ]
+  },
+  {
+    "name": "Ybbsitz",
+    "results": [
+      { "name": "Hofer", "votes": 1088 },
+      { "name": "VdB", "votes": 859 }
+    ]
+  },
+  {
+    "name": "Zeillern",
+    "results": [
+      { "name": "Hofer", "votes": 608 },
+      { "name": "VdB", "votes": 388 }
+    ]
+  },
+  {
+    "name": "Alland",
+    "results": [
+      { "name": "Hofer", "votes": 765 },
+      { "name": "VdB", "votes": 517 }
+    ]
+  },
+  {
+    "name": "Altenmarkt an der Triesting",
+    "results": [
+      { "name": "Hofer", "votes": 599 },
+      { "name": "VdB", "votes": 428 }
+    ]
+  },
+  {
+    "name": "Bad Vöslau",
+    "results": [
+      { "name": "Hofer", "votes": 2497 },
+      { "name": "VdB", "votes": 3078 }
+    ]
+  },
+  {
+    "name": "Baden",
+    "results": [
+      { "name": "Hofer", "votes": 4963 },
+      { "name": "VdB", "votes": 6835 }
+    ]
+  },
+  {
+    "name": "Berndorf",
+    "results": [
+      { "name": "Hofer", "votes": 2283 },
+      { "name": "VdB", "votes": 1840 }
+    ]
+  },
+  {
+    "name": "Ebreichsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 2975 },
+      { "name": "VdB", "votes": 2244 }
+    ]
+  },
+  {
+    "name": "Enzesfeld-Lindabrunn",
+    "results": [
+      { "name": "Hofer", "votes": 1178 },
+      { "name": "VdB", "votes": 1019 }
+    ]
+  },
+  {
+    "name": "Furth an der Triesting",
+    "results": [
+      { "name": "Hofer", "votes": 290 },
+      { "name": "VdB", "votes": 169 }
+    ]
+  },
+  {
+    "name": "Günselsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 558 },
+      { "name": "VdB", "votes": 355 }
+    ]
+  },
+  {
+    "name": "Heiligenkreuz",
+    "results": [
+      { "name": "Hofer", "votes": 377 },
+      { "name": "VdB", "votes": 361 }
+    ]
+  },
+  {
+    "name": "Hernstein",
+    "results": [
+      { "name": "Hofer", "votes": 501 },
+      { "name": "VdB", "votes": 414 }
+    ]
+  },
+  {
+    "name": "Hirtenberg",
+    "results": [
+      { "name": "Hofer", "votes": 665 },
+      { "name": "VdB", "votes": 481 }
+    ]
+  },
+  {
+    "name": "Klausen-Leopoldsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 467 },
+      { "name": "VdB", "votes": 305 }
+    ]
+  },
+  {
+    "name": "Kottingbrunn",
+    "results": [
+      { "name": "Hofer", "votes": 1962 },
+      { "name": "VdB", "votes": 1784 }
+    ]
+  },
+  {
+    "name": "Leobersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1322 },
+      { "name": "VdB", "votes": 1108 }
+    ]
+  },
+  {
+    "name": "Mitterndorf an der Fischa",
+    "results": [
+      { "name": "Hofer", "votes": 718 },
+      { "name": "VdB", "votes": 404 }
+    ]
+  },
+  {
+    "name": "Oberwaltersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1047 },
+      { "name": "VdB", "votes": 1038 }
+    ]
+  },
+  {
+    "name": "Pfaffstätten",
+    "results": [
+      { "name": "Hofer", "votes": 746 },
+      { "name": "VdB", "votes": 1091 }
+    ]
+  },
+  {
+    "name": "Pottendorf",
+    "results": [
+      { "name": "Hofer", "votes": 1961 },
+      { "name": "VdB", "votes": 1416 }
+    ]
+  },
+  {
+    "name": "Pottenstein",
+    "results": [
+      { "name": "Hofer", "votes": 702 },
+      { "name": "VdB", "votes": 689 }
+    ]
+  },
+  {
+    "name": "Reisenberg",
+    "results": [
+      { "name": "Hofer", "votes": 540 },
+      { "name": "VdB", "votes": 319 }
+    ]
+  },
+  {
+    "name": "Schönau an der Triesting",
+    "results": [
+      { "name": "Hofer", "votes": 578 },
+      { "name": "VdB", "votes": 442 }
+    ]
+  },
+  {
+    "name": "Seibersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 496 },
+      { "name": "VdB", "votes": 306 }
+    ]
+  },
+  {
+    "name": "Sooß",
+    "results": [
+      { "name": "Hofer", "votes": 305 },
+      { "name": "VdB", "votes": 258 }
+    ]
+  },
+  {
+    "name": "Tattendorf",
+    "results": [
+      { "name": "Hofer", "votes": 419 },
+      { "name": "VdB", "votes": 333 }
+    ]
+  },
+  {
+    "name": "Teesdorf",
+    "results": [
+      { "name": "Hofer", "votes": 530 },
+      { "name": "VdB", "votes": 491 }
+    ]
+  },
+  {
+    "name": "Traiskirchen",
+    "results": [
+      { "name": "Hofer", "votes": 4871 },
+      { "name": "VdB", "votes": 4200 }
+    ]
+  },
+  {
+    "name": "Trumau",
+    "results": [
+      { "name": "Hofer", "votes": 950 },
+      { "name": "VdB", "votes": 840 }
+    ]
+  },
+  {
+    "name": "Weissenbach an der Triesting",
+    "results": [
+      { "name": "Hofer", "votes": 522 },
+      { "name": "VdB", "votes": 372 }
+    ]
+  },
+  {
+    "name": "Blumau-Neurißhof",
+    "results": [
+      { "name": "Hofer", "votes": 629 },
+      { "name": "VdB", "votes": 327 }
+    ]
+  },
+  {
+    "name": "Au am Leithaberge",
+    "results": [
+      { "name": "Hofer", "votes": 403 },
+      { "name": "VdB", "votes": 140 }
+    ]
+  },
+  {
+    "name": "Bad Deutsch-Altenburg",
+    "results": [
+      { "name": "Hofer", "votes": 515 },
+      { "name": "VdB", "votes": 254 }
+    ]
+  },
+  {
+    "name": "Berg",
+    "results": [
+      { "name": "Hofer", "votes": 198 },
+      { "name": "VdB", "votes": 162 }
+    ]
+  },
+  {
+    "name": "Bruck an der Leitha",
+    "results": [
+      { "name": "Hofer", "votes": 2114 },
+      { "name": "VdB", "votes": 1769 }
+    ]
+  },
+  {
+    "name": "Enzersdorf an der Fischa",
+    "results": [
+      { "name": "Hofer", "votes": 977 },
+      { "name": "VdB", "votes": 779 }
+    ]
+  },
+  {
+    "name": "Göttlesbrunn-Arbesthal",
+    "results": [
+      { "name": "Hofer", "votes": 504 },
+      { "name": "VdB", "votes": 256 }
+    ]
+  },
+  {
+    "name": "Götzendorf an der Leitha",
+    "results": [
+      { "name": "Hofer", "votes": 543 },
+      { "name": "VdB", "votes": 524 }
+    ]
+  },
+  {
+    "name": "Hainburg a.d. Donau",
+    "results": [
+      { "name": "Hofer", "votes": 1499 },
+      { "name": "VdB", "votes": 893 }
+    ]
+  },
+  {
+    "name": "Haslau-Maria Ellend",
+    "results": [
+      { "name": "Hofer", "votes": 544 },
+      { "name": "VdB", "votes": 472 }
+    ]
+  },
+  {
+    "name": "Höflein",
+    "results": [
+      { "name": "Hofer", "votes": 463 },
+      { "name": "VdB", "votes": 241 }
+    ]
+  },
+  {
+    "name": "Hof am Leithaberge",
+    "results": [
+      { "name": "Hofer", "votes": 567 },
+      { "name": "VdB", "votes": 289 }
+    ]
+  },
+  {
+    "name": "Hundsheim",
+    "results": [
+      { "name": "Hofer", "votes": 188 },
+      { "name": "VdB", "votes": 139 }
+    ]
+  },
+  {
+    "name": "Mannersdorf am Leithagebirge",
+    "results": [
+      { "name": "Hofer", "votes": 1046 },
+      { "name": "VdB", "votes": 962 }
+    ]
+  },
+  {
+    "name": "Petronell-Carnuntum",
+    "results": [
+      { "name": "Hofer", "votes": 359 },
+      { "name": "VdB", "votes": 288 }
+    ]
+  },
+  {
+    "name": "Prellenkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 535 },
+      { "name": "VdB", "votes": 250 }
+    ]
+  },
+  {
+    "name": "Rohrau",
+    "results": [
+      { "name": "Hofer", "votes": 481 },
+      { "name": "VdB", "votes": 318 }
+    ]
+  },
+  {
+    "name": "Scharndorf",
+    "results": [
+      { "name": "Hofer", "votes": 357 },
+      { "name": "VdB", "votes": 298 }
+    ]
+  },
+  {
+    "name": "Sommerein",
+    "results": [
+      { "name": "Hofer", "votes": 667 },
+      { "name": "VdB", "votes": 421 }
+    ]
+  },
+  {
+    "name": "Trautmannsdorf an der Leitha",
+    "results": [
+      { "name": "Hofer", "votes": 813 },
+      { "name": "VdB", "votes": 634 }
+    ]
+  },
+  {
+    "name": "Wolfsthal",
+    "results": [
+      { "name": "Hofer", "votes": 244 },
+      { "name": "VdB", "votes": 154 }
+    ]
+  },
+  {
+    "name": "Aderklaa",
+    "results": [
+      { "name": "Hofer", "votes": 57 },
+      { "name": "VdB", "votes": 44 }
+    ]
+  },
+  {
+    "name": "Andlersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 19 },
+      { "name": "VdB", "votes": 48 }
+    ]
+  },
+  {
+    "name": "Angern an der March",
+    "results": [
+      { "name": "Hofer", "votes": 1013 },
+      { "name": "VdB", "votes": 728 }
+    ]
+  },
+  {
+    "name": "Auersthal",
+    "results": [
+      { "name": "Hofer", "votes": 443 },
+      { "name": "VdB", "votes": 528 }
+    ]
+  },
+  {
+    "name": "Bad Pirawarth",
+    "results": [
+      { "name": "Hofer", "votes": 476 },
+      { "name": "VdB", "votes": 391 }
+    ]
+  },
+  {
+    "name": "Deutsch-Wagram",
+    "results": [
+      { "name": "Hofer", "votes": 2237 },
+      { "name": "VdB", "votes": 1905 }
+    ]
+  },
+  {
+    "name": "Drösing",
+    "results": [
+      { "name": "Hofer", "votes": 380 },
+      { "name": "VdB", "votes": 239 }
+    ]
+  },
+  {
+    "name": "Dürnkrut",
+    "results": [
+      { "name": "Hofer", "votes": 792 },
+      { "name": "VdB", "votes": 432 }
+    ]
+  },
+  {
+    "name": "Ebenthal",
+    "results": [
+      { "name": "Hofer", "votes": 291 },
+      { "name": "VdB", "votes": 166 }
+    ]
+  },
+  {
+    "name": "Eckartsau",
+    "results": [
+      { "name": "Hofer", "votes": 459 },
+      { "name": "VdB", "votes": 195 }
+    ]
+  },
+  {
+    "name": "Engelhartstetten",
+    "results": [
+      { "name": "Hofer", "votes": 723 },
+      { "name": "VdB", "votes": 308 }
+    ]
+  },
+  {
+    "name": "Gänserndorf",
+    "results": [
+      { "name": "Hofer", "votes": 2862 },
+      { "name": "VdB", "votes": 2423 }
+    ]
+  },
+  {
+    "name": "Glinzendorf",
+    "results": [
+      { "name": "Hofer", "votes": 80 },
+      { "name": "VdB", "votes": 49 }
+    ]
+  },
+  {
+    "name": "Groß-Enzersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 2874 },
+      { "name": "VdB", "votes": 2333 }
+    ]
+  },
+  {
+    "name": "Großhofen",
+    "results": [
+      { "name": "Hofer", "votes": 33 },
+      { "name": "VdB", "votes": 8 }
+    ]
+  },
+  {
+    "name": "Groß-Schweinbarth",
+    "results": [
+      { "name": "Hofer", "votes": 378 },
+      { "name": "VdB", "votes": 274 }
+    ]
+  },
+  {
+    "name": "Haringsee",
+    "results": [
+      { "name": "Hofer", "votes": 353 },
+      { "name": "VdB", "votes": 242 }
+    ]
+  },
+  {
+    "name": "Hauskirchen",
+    "results": [
+      { "name": "Hofer", "votes": 431 },
+      { "name": "VdB", "votes": 234 }
+    ]
+  },
+  {
+    "name": "Hohenau an der March",
+    "results": [
+      { "name": "Hofer", "votes": 880 },
+      { "name": "VdB", "votes": 521 }
+    ]
+  },
+  {
+    "name": "Hohenruppersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 292 },
+      { "name": "VdB", "votes": 221 }
+    ]
+  },
+  {
+    "name": "Jedenspeigen",
+    "results": [
+      { "name": "Hofer", "votes": 340 },
+      { "name": "VdB", "votes": 248 }
+    ]
+  },
+  {
+    "name": "Lassee",
+    "results": [
+      { "name": "Hofer", "votes": 968 },
+      { "name": "VdB", "votes": 394 }
+    ]
+  },
+  {
+    "name": "Leopoldsdorf im Marchfelde",
+    "results": [
+      { "name": "Hofer", "votes": 858 },
+      { "name": "VdB", "votes": 581 }
+    ]
+  },
+  {
+    "name": "Mannsdorf an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 113 },
+      { "name": "VdB", "votes": 84 }
+    ]
+  },
+  {
+    "name": "Marchegg",
+    "results": [
+      { "name": "Hofer", "votes": 857 },
+      { "name": "VdB", "votes": 497 }
+    ]
+  },
+  {
+    "name": "Markgrafneusiedl",
+    "results": [
+      { "name": "Hofer", "votes": 291 },
+      { "name": "VdB", "votes": 163 }
+    ]
+  },
+  {
+    "name": "Matzen-Raggendorf",
+    "results": [
+      { "name": "Hofer", "votes": 881 },
+      { "name": "VdB", "votes": 631 }
+    ]
+  },
+  {
+    "name": "Neusiedl an der Zaya",
+    "results": [
+      { "name": "Hofer", "votes": 451 },
+      { "name": "VdB", "votes": 218 }
+    ]
+  },
+  {
+    "name": "Obersiebenbrunn",
+    "results": [
+      { "name": "Hofer", "votes": 484 },
+      { "name": "VdB", "votes": 279 }
+    ]
+  },
+  {
+    "name": "Orth an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 635 },
+      { "name": "VdB", "votes": 373 }
+    ]
+  },
+  {
+    "name": "Palterndorf-Dobermannsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 480 },
+      { "name": "VdB", "votes": 212 }
+    ]
+  },
+  {
+    "name": "Parbasdorf",
+    "results": [
+      { "name": "Hofer", "votes": 48 },
+      { "name": "VdB", "votes": 35 }
+    ]
+  },
+  {
+    "name": "Prottes",
+    "results": [
+      { "name": "Hofer", "votes": 417 },
+      { "name": "VdB", "votes": 305 }
+    ]
+  },
+  {
+    "name": "Raasdorf",
+    "results": [
+      { "name": "Hofer", "votes": 188 },
+      { "name": "VdB", "votes": 124 }
+    ]
+  },
+  {
+    "name": "Ringelsdorf-Niederabsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 424 },
+      { "name": "VdB", "votes": 291 }
+    ]
+  },
+  {
+    "name": "Schönkirchen-Reyersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 609 },
+      { "name": "VdB", "votes": 416 }
+    ]
+  },
+  {
+    "name": "Spannberg",
+    "results": [
+      { "name": "Hofer", "votes": 392 },
+      { "name": "VdB", "votes": 155 }
+    ]
+  },
+  {
+    "name": "Strasshof an der Nordbahn",
+    "results": [
+      { "name": "Hofer", "votes": 2549 },
+      { "name": "VdB", "votes": 1911 }
+    ]
+  },
+  {
+    "name": "Sulz im Weinviertel",
+    "results": [
+      { "name": "Hofer", "votes": 431 },
+      { "name": "VdB", "votes": 218 }
+    ]
+  },
+  {
+    "name": "Untersiebenbrunn",
+    "results": [
+      { "name": "Hofer", "votes": 623 },
+      { "name": "VdB", "votes": 275 }
+    ]
+  },
+  {
+    "name": "Velm-Götzendorf",
+    "results": [
+      { "name": "Hofer", "votes": 301 },
+      { "name": "VdB", "votes": 167 }
+    ]
+  },
+  {
+    "name": "Weikendorf",
+    "results": [
+      { "name": "Hofer", "votes": 596 },
+      { "name": "VdB", "votes": 455 }
+    ]
+  },
+  {
+    "name": "Zistersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1805 },
+      { "name": "VdB", "votes": 998 }
+    ]
+  },
+  {
+    "name": "Weiden an der March",
+    "results": [
+      { "name": "Hofer", "votes": 325 },
+      { "name": "VdB", "votes": 160 }
+    ]
+  },
+  {
+    "name": "Amaliendorf-Aalfang",
+    "results": [
+      { "name": "Hofer", "votes": 344 },
+      { "name": "VdB", "votes": 240 }
+    ]
+  },
+  {
+    "name": "Brand-Nagelberg",
+    "results": [
+      { "name": "Hofer", "votes": 512 },
+      { "name": "VdB", "votes": 377 }
+    ]
+  },
+  {
+    "name": "Eggern",
+    "results": [
+      { "name": "Hofer", "votes": 259 },
+      { "name": "VdB", "votes": 136 }
+    ]
+  },
+  {
+    "name": "Eisgarn",
+    "results": [
+      { "name": "Hofer", "votes": 220 },
+      { "name": "VdB", "votes": 142 }
+    ]
+  },
+  {
+    "name": "Gmünd",
+    "results": [
+      { "name": "Hofer", "votes": 1367 },
+      { "name": "VdB", "votes": 1291 }
+    ]
+  },
+  {
+    "name": "Großdietmanns",
+    "results": [
+      { "name": "Hofer", "votes": 756 },
+      { "name": "VdB", "votes": 461 }
+    ]
+  },
+  {
+    "name": "Bad Großpertholz",
+    "results": [
+      { "name": "Hofer", "votes": 375 },
+      { "name": "VdB", "votes": 312 }
+    ]
+  },
+  {
+    "name": "Großschönau",
+    "results": [
+      { "name": "Hofer", "votes": 415 },
+      { "name": "VdB", "votes": 242 }
+    ]
+  },
+  {
+    "name": "Moorbad Harbach",
+    "results": [
+      { "name": "Hofer", "votes": 205 },
+      { "name": "VdB", "votes": 169 }
+    ]
+  },
+  {
+    "name": "Haugschlag",
+    "results": [
+      { "name": "Hofer", "votes": 178 },
+      { "name": "VdB", "votes": 85 }
+    ]
+  },
+  {
+    "name": "Heidenreichstein",
+    "results": [
+      { "name": "Hofer", "votes": 1177 },
+      { "name": "VdB", "votes": 844 }
+    ]
+  },
+  {
+    "name": "Hirschbach",
+    "results": [
+      { "name": "Hofer", "votes": 171 },
+      { "name": "VdB", "votes": 168 }
+    ]
+  },
+  {
+    "name": "Hoheneich",
+    "results": [
+      { "name": "Hofer", "votes": 378 },
+      { "name": "VdB", "votes": 374 }
+    ]
+  },
+  {
+    "name": "Kirchberg am Walde",
+    "results": [
+      { "name": "Hofer", "votes": 492 },
+      { "name": "VdB", "votes": 265 }
+    ]
+  },
+  {
+    "name": "Litschau",
+    "results": [
+      { "name": "Hofer", "votes": 719 },
+      { "name": "VdB", "votes": 438 }
+    ]
+  },
+  {
+    "name": "Reingers",
+    "results": [
+      { "name": "Hofer", "votes": 260 },
+      { "name": "VdB", "votes": 109 }
+    ]
+  },
+  {
+    "name": "St. Martin",
+    "results": [
+      { "name": "Hofer", "votes": 386 },
+      { "name": "VdB", "votes": 194 }
+    ]
+  },
+  {
+    "name": "Schrems",
+    "results": [
+      { "name": "Hofer", "votes": 1506 },
+      { "name": "VdB", "votes": 1221 }
+    ]
+  },
+  {
+    "name": "Unserfrau-Altweitra",
+    "results": [
+      { "name": "Hofer", "votes": 341 },
+      { "name": "VdB", "votes": 210 }
+    ]
+  },
+  {
+    "name": "Waldenstein",
+    "results": [
+      { "name": "Hofer", "votes": 393 },
+      { "name": "VdB", "votes": 217 }
+    ]
+  },
+  {
+    "name": "Weitra",
+    "results": [
+      { "name": "Hofer", "votes": 772 },
+      { "name": "VdB", "votes": 635 }
+    ]
+  },
+  {
+    "name": "Alberndorf im Pulkautal",
+    "results": [
+      { "name": "Hofer", "votes": 266 },
+      { "name": "VdB", "votes": 131 }
+    ]
+  },
+  {
+    "name": "Göllersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 908 },
+      { "name": "VdB", "votes": 631 }
+    ]
+  },
+  {
+    "name": "Grabern",
+    "results": [
+      { "name": "Hofer", "votes": 483 },
+      { "name": "VdB", "votes": 343 }
+    ]
+  },
+  {
+    "name": "Guntersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 392 },
+      { "name": "VdB", "votes": 236 }
+    ]
+  },
+  {
+    "name": "Hadres",
+    "results": [
+      { "name": "Hofer", "votes": 580 },
+      { "name": "VdB", "votes": 334 }
+    ]
+  },
+  {
+    "name": "Hardegg",
+    "results": [
+      { "name": "Hofer", "votes": 509 },
+      { "name": "VdB", "votes": 270 }
+    ]
+  },
+  {
+    "name": "Haugsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 546 },
+      { "name": "VdB", "votes": 302 }
+    ]
+  },
+  {
+    "name": "Heldenberg",
+    "results": [
+      { "name": "Hofer", "votes": 381 },
+      { "name": "VdB", "votes": 290 }
+    ]
+  },
+  {
+    "name": "Hohenwarth-Mühlbach a.M.",
+    "results": [
+      { "name": "Hofer", "votes": 463 },
+      { "name": "VdB", "votes": 246 }
+    ]
+  },
+  {
+    "name": "Hollabrunn",
+    "results": [
+      { "name": "Hofer", "votes": 3241 },
+      { "name": "VdB", "votes": 2608 }
+    ]
+  },
+  {
+    "name": "Mailberg",
+    "results": [
+      { "name": "Hofer", "votes": 209 },
+      { "name": "VdB", "votes": 98 }
+    ]
+  },
+  {
+    "name": "Maissau",
+    "results": [
+      { "name": "Hofer", "votes": 603 },
+      { "name": "VdB", "votes": 452 }
+    ]
+  },
+  {
+    "name": "Nappersdorf-Kammersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 421 },
+      { "name": "VdB", "votes": 248 }
+    ]
+  },
+  {
+    "name": "Pernersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 382 },
+      { "name": "VdB", "votes": 188 }
+    ]
+  },
+  {
+    "name": "Pulkau",
+    "results": [
+      { "name": "Hofer", "votes": 413 },
+      { "name": "VdB", "votes": 368 }
+    ]
+  },
+  {
+    "name": "Ravelsbach",
+    "results": [
+      { "name": "Hofer", "votes": 539 },
+      { "name": "VdB", "votes": 307 }
+    ]
+  },
+  {
+    "name": "Retz",
+    "results": [
+      { "name": "Hofer", "votes": 1157 },
+      { "name": "VdB", "votes": 949 }
+    ]
+  },
+  {
+    "name": "Retzbach",
+    "results": [
+      { "name": "Hofer", "votes": 337 },
+      { "name": "VdB", "votes": 254 }
+    ]
+  },
+  {
+    "name": "Schrattenthal",
+    "results": [
+      { "name": "Hofer", "votes": 236 },
+      { "name": "VdB", "votes": 244 }
+    ]
+  },
+  {
+    "name": "Seefeld-Kadolz",
+    "results": [
+      { "name": "Hofer", "votes": 340 },
+      { "name": "VdB", "votes": 172 }
+    ]
+  },
+  {
+    "name": "Sitzendorf an der Schmida",
+    "results": [
+      { "name": "Hofer", "votes": 668 },
+      { "name": "VdB", "votes": 510 }
+    ]
+  },
+  {
+    "name": "Wullersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 819 },
+      { "name": "VdB", "votes": 431 }
+    ]
+  },
+  {
+    "name": "Zellerndorf",
+    "results": [
+      { "name": "Hofer", "votes": 791 },
+      { "name": "VdB", "votes": 636 }
+    ]
+  },
+  {
+    "name": "Ziersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1056 },
+      { "name": "VdB", "votes": 778 }
+    ]
+  },
+  {
+    "name": "Altenburg",
+    "results": [
+      { "name": "Hofer", "votes": 259 },
+      { "name": "VdB", "votes": 159 }
+    ]
+  },
+  {
+    "name": "Brunn an der Wild",
+    "results": [
+      { "name": "Hofer", "votes": 301 },
+      { "name": "VdB", "votes": 169 }
+    ]
+  },
+  {
+    "name": "Burgschleinitz-Kühnring",
+    "results": [
+      { "name": "Hofer", "votes": 465 },
+      { "name": "VdB", "votes": 255 }
+    ]
+  },
+  {
+    "name": "Drosendorf-Zissersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 466 },
+      { "name": "VdB", "votes": 211 }
+    ]
+  },
+  {
+    "name": "Eggenburg",
+    "results": [
+      { "name": "Hofer", "votes": 933 },
+      { "name": "VdB", "votes": 869 }
+    ]
+  },
+  {
+    "name": "Gars am Kamp",
+    "results": [
+      { "name": "Hofer", "votes": 1082 },
+      { "name": "VdB", "votes": 868 }
+    ]
+  },
+  {
+    "name": "Geras",
+    "results": [
+      { "name": "Hofer", "votes": 473 },
+      { "name": "VdB", "votes": 258 }
+    ]
+  },
+  {
+    "name": "Horn",
+    "results": [
+      { "name": "Hofer", "votes": 1775 },
+      { "name": "VdB", "votes": 1399 }
+    ]
+  },
+  {
+    "name": "Irnfritz-Messern",
+    "results": [
+      { "name": "Hofer", "votes": 578 },
+      { "name": "VdB", "votes": 231 }
+    ]
+  },
+  {
+    "name": "Japons",
+    "results": [
+      { "name": "Hofer", "votes": 291 },
+      { "name": "VdB", "votes": 105 }
+    ]
+  },
+  {
+    "name": "Langau",
+    "results": [
+      { "name": "Hofer", "votes": 220 },
+      { "name": "VdB", "votes": 179 }
+    ]
+  },
+  {
+    "name": "Meiseldorf",
+    "results": [
+      { "name": "Hofer", "votes": 284 },
+      { "name": "VdB", "votes": 200 }
+    ]
+  },
+  {
+    "name": "Pernegg",
+    "results": [
+      { "name": "Hofer", "votes": 305 },
+      { "name": "VdB", "votes": 163 }
+    ]
+  },
+  {
+    "name": "Röhrenbach",
+    "results": [
+      { "name": "Hofer", "votes": 186 },
+      { "name": "VdB", "votes": 98 }
+    ]
+  },
+  {
+    "name": "Röschitz",
+    "results": [
+      { "name": "Hofer", "votes": 339 },
+      { "name": "VdB", "votes": 237 }
+    ]
+  },
+  {
+    "name": "Rosenburg-Mold",
+    "results": [
+      { "name": "Hofer", "votes": 274 },
+      { "name": "VdB", "votes": 160 }
+    ]
+  },
+  {
+    "name": "St. Bernhard-Frauenhofen",
+    "results": [
+      { "name": "Hofer", "votes": 443 },
+      { "name": "VdB", "votes": 255 }
+    ]
+  },
+  {
+    "name": "Sigmundsherberg",
+    "results": [
+      { "name": "Hofer", "votes": 508 },
+      { "name": "VdB", "votes": 395 }
+    ]
+  },
+  {
+    "name": "Weitersfeld",
+    "results": [
+      { "name": "Hofer", "votes": 581 },
+      { "name": "VdB", "votes": 285 }
+    ]
+  },
+  {
+    "name": "Straning-Grafenberg",
+    "results": [
+      { "name": "Hofer", "votes": 215 },
+      { "name": "VdB", "votes": 170 }
+    ]
+  },
+  {
+    "name": "Bisamberg",
+    "results": [
+      { "name": "Hofer", "votes": 906 },
+      { "name": "VdB", "votes": 1473 }
+    ]
+  },
+  {
+    "name": "Enzersfeld im Weinviertel",
+    "results": [
+      { "name": "Hofer", "votes": 511 },
+      { "name": "VdB", "votes": 432 }
+    ]
+  },
+  {
+    "name": "Ernstbrunn",
+    "results": [
+      { "name": "Hofer", "votes": 995 },
+      { "name": "VdB", "votes": 635 }
+    ]
+  },
+  {
+    "name": "Großmugl",
+    "results": [
+      { "name": "Hofer", "votes": 492 },
+      { "name": "VdB", "votes": 337 }
+    ]
+  },
+  {
+    "name": "Großrußbach",
+    "results": [
+      { "name": "Hofer", "votes": 643 },
+      { "name": "VdB", "votes": 501 }
+    ]
+  },
+  {
+    "name": "Hagenbrunn",
+    "results": [
+      { "name": "Hofer", "votes": 588 },
+      { "name": "VdB", "votes": 495 }
+    ]
+  },
+  {
+    "name": "Harmannsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1114 },
+      { "name": "VdB", "votes": 1037 }
+    ]
+  },
+  {
+    "name": "Hausleiten",
+    "results": [
+      { "name": "Hofer", "votes": 1245 },
+      { "name": "VdB", "votes": 805 }
+    ]
+  },
+  {
+    "name": "Korneuburg",
+    "results": [
+      { "name": "Hofer", "votes": 2734 },
+      { "name": "VdB", "votes": 3316 }
+    ]
+  },
+  {
+    "name": "Langenzersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1782 },
+      { "name": "VdB", "votes": 2443 }
+    ]
+  },
+  {
+    "name": "Leitzersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 397 },
+      { "name": "VdB", "votes": 279 }
+    ]
+  },
+  {
+    "name": "Leobendorf",
+    "results": [
+      { "name": "Hofer", "votes": 1151 },
+      { "name": "VdB", "votes": 1381 }
+    ]
+  },
+  {
+    "name": "Rußbach",
+    "results": [
+      { "name": "Hofer", "votes": 477 },
+      { "name": "VdB", "votes": 261 }
+    ]
+  },
+  {
+    "name": "Sierndorf",
+    "results": [
+      { "name": "Hofer", "votes": 1165 },
+      { "name": "VdB", "votes": 868 }
+    ]
+  },
+  {
+    "name": "Spillern",
+    "results": [
+      { "name": "Hofer", "votes": 550 },
+      { "name": "VdB", "votes": 600 }
+    ]
+  },
+  {
+    "name": "Stetteldorf am Wagram",
+    "results": [
+      { "name": "Hofer", "votes": 367 },
+      { "name": "VdB", "votes": 218 }
+    ]
+  },
+  {
+    "name": "Stetten",
+    "results": [
+      { "name": "Hofer", "votes": 363 },
+      { "name": "VdB", "votes": 344 }
+    ]
+  },
+  {
+    "name": "Stockerau",
+    "results": [
+      { "name": "Hofer", "votes": 3982 },
+      { "name": "VdB", "votes": 4115 }
+    ]
+  },
+  {
+    "name": "Niederhollabrunn",
+    "results": [
+      { "name": "Hofer", "votes": 471 },
+      { "name": "VdB", "votes": 339 }
+    ]
+  },
+  {
+    "name": "Aggsbach",
+    "results": [
+      { "name": "Hofer", "votes": 190 },
+      { "name": "VdB", "votes": 163 }
+    ]
+  },
+  {
+    "name": "Albrechtsberg an der Großen Krems",
+    "results": [
+      { "name": "Hofer", "votes": 350 },
+      { "name": "VdB", "votes": 231 }
+    ]
+  },
+  {
+    "name": "Bergern im Dunkelsteinerwald",
+    "results": [
+      { "name": "Hofer", "votes": 422 },
+      { "name": "VdB", "votes": 268 }
+    ]
+  },
+  {
+    "name": "Dürnstein",
+    "results": [
+      { "name": "Hofer", "votes": 229 },
+      { "name": "VdB", "votes": 246 }
+    ]
+  },
+  {
+    "name": "Grafenegg",
+    "results": [
+      { "name": "Hofer", "votes": 937 },
+      { "name": "VdB", "votes": 796 }
+    ]
+  },
+  {
+    "name": "Furth bei Göttweig",
+    "results": [
+      { "name": "Hofer", "votes": 719 },
+      { "name": "VdB", "votes": 842 }
+    ]
+  },
+  {
+    "name": "Gedersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 763 },
+      { "name": "VdB", "votes": 499 }
+    ]
+  },
+  {
+    "name": "Gföhl",
+    "results": [
+      { "name": "Hofer", "votes": 1331 },
+      { "name": "VdB", "votes": 755 }
+    ]
+  },
+  {
+    "name": "Hadersdorf-Kammern",
+    "results": [
+      { "name": "Hofer", "votes": 620 },
+      { "name": "VdB", "votes": 509 }
+    ]
+  },
+  {
+    "name": "Jaidhof",
+    "results": [
+      { "name": "Hofer", "votes": 392 },
+      { "name": "VdB", "votes": 241 }
+    ]
+  },
+  {
+    "name": "Krumau am Kamp",
+    "results": [
+      { "name": "Hofer", "votes": 303 },
+      { "name": "VdB", "votes": 129 }
+    ]
+  },
+  {
+    "name": "Langenlois",
+    "results": [
+      { "name": "Hofer", "votes": 2225 },
+      { "name": "VdB", "votes": 1809 }
+    ]
+  },
+  {
+    "name": "Lengenfeld",
+    "results": [
+      { "name": "Hofer", "votes": 486 },
+      { "name": "VdB", "votes": 366 }
+    ]
+  },
+  {
+    "name": "Lichtenau im Waldviertel",
+    "results": [
+      { "name": "Hofer", "votes": 812 },
+      { "name": "VdB", "votes": 329 }
+    ]
+  },
+  {
+    "name": "Maria Laach am Jauerling",
+    "results": [
+      { "name": "Hofer", "votes": 283 },
+      { "name": "VdB", "votes": 206 }
+    ]
+  },
+  {
+    "name": "Mautern an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 967 },
+      { "name": "VdB", "votes": 962 }
+    ]
+  },
+  {
+    "name": "Mühldorf",
+    "results": [
+      { "name": "Hofer", "votes": 395 },
+      { "name": "VdB", "votes": 335 }
+    ]
+  },
+  {
+    "name": "Paudorf",
+    "results": [
+      { "name": "Hofer", "votes": 748 },
+      { "name": "VdB", "votes": 697 }
+    ]
+  },
+  {
+    "name": "Rastenfeld",
+    "results": [
+      { "name": "Hofer", "votes": 604 },
+      { "name": "VdB", "votes": 254 }
+    ]
+  },
+  {
+    "name": "Rohrendorf bei Krems",
+    "results": [
+      { "name": "Hofer", "votes": 543 },
+      { "name": "VdB", "votes": 560 }
+    ]
+  },
+  {
+    "name": "Rossatz-Arnsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 278 },
+      { "name": "VdB", "votes": 329 }
+    ]
+  },
+  {
+    "name": "St. Leonhard am Hornerwald",
+    "results": [
+      { "name": "Hofer", "votes": 436 },
+      { "name": "VdB", "votes": 229 }
+    ]
+  },
+  {
+    "name": "Senftenberg",
+    "results": [
+      { "name": "Hofer", "votes": 542 },
+      { "name": "VdB", "votes": 491 }
+    ]
+  },
+  {
+    "name": "Spitz",
+    "results": [
+      { "name": "Hofer", "votes": 536 },
+      { "name": "VdB", "votes": 389 }
+    ]
+  },
+  {
+    "name": "Straß im Straßertale",
+    "results": [
+      { "name": "Hofer", "votes": 483 },
+      { "name": "VdB", "votes": 443 }
+    ]
+  },
+  {
+    "name": "Stratzing",
+    "results": [
+      { "name": "Hofer", "votes": 253 },
+      { "name": "VdB", "votes": 236 }
+    ]
+  },
+  {
+    "name": "Weinzierl am Walde",
+    "results": [
+      { "name": "Hofer", "votes": 540 },
+      { "name": "VdB", "votes": 161 }
+    ]
+  },
+  {
+    "name": "Weißenkirchen in der Wachau",
+    "results": [
+      { "name": "Hofer", "votes": 356 },
+      { "name": "VdB", "votes": 461 }
+    ]
+  },
+  {
+    "name": "Schönberg am Kamp",
+    "results": [
+      { "name": "Hofer", "votes": 609 },
+      { "name": "VdB", "votes": 502 }
+    ]
+  },
+  {
+    "name": "Droß",
+    "results": [
+      { "name": "Hofer", "votes": 318 },
+      { "name": "VdB", "votes": 266 }
+    ]
+  },
+  {
+    "name": "Annaberg",
+    "results": [
+      { "name": "Hofer", "votes": 140 },
+      { "name": "VdB", "votes": 120 }
+    ]
+  },
+  {
+    "name": "Eschenau",
+    "results": [
+      { "name": "Hofer", "votes": 417 },
+      { "name": "VdB", "votes": 260 }
+    ]
+  },
+  {
+    "name": "Hainfeld",
+    "results": [
+      { "name": "Hofer", "votes": 1119 },
+      { "name": "VdB", "votes": 794 }
+    ]
+  },
+  {
+    "name": "Hohenberg",
+    "results": [
+      { "name": "Hofer", "votes": 412 },
+      { "name": "VdB", "votes": 383 }
+    ]
+  },
+  {
+    "name": "Kaumberg",
+    "results": [
+      { "name": "Hofer", "votes": 335 },
+      { "name": "VdB", "votes": 204 }
+    ]
+  },
+  {
+    "name": "Kleinzell",
+    "results": [
+      { "name": "Hofer", "votes": 338 },
+      { "name": "VdB", "votes": 117 }
+    ]
+  },
+  {
+    "name": "Lilienfeld",
+    "results": [
+      { "name": "Hofer", "votes": 665 },
+      { "name": "VdB", "votes": 673 }
+    ]
+  },
+  {
+    "name": "Mitterbach am Erlaufsee",
+    "results": [
+      { "name": "Hofer", "votes": 174 },
+      { "name": "VdB", "votes": 102 }
+    ]
+  },
+  {
+    "name": "Ramsau",
+    "results": [
+      { "name": "Hofer", "votes": 269 },
+      { "name": "VdB", "votes": 161 }
+    ]
+  },
+  {
+    "name": "Rohrbach an der Gölsen",
+    "results": [
+      { "name": "Hofer", "votes": 466 },
+      { "name": "VdB", "votes": 405 }
+    ]
+  },
+  {
+    "name": "St. Aegyd am Neuwalde",
+    "results": [
+      { "name": "Hofer", "votes": 552 },
+      { "name": "VdB", "votes": 395 }
+    ]
+  },
+  {
+    "name": "St. Veit an der Gölsen",
+    "results": [
+      { "name": "Hofer", "votes": 1185 },
+      { "name": "VdB", "votes": 945 }
+    ]
+  },
+  {
+    "name": "Traisen",
+    "results": [
+      { "name": "Hofer", "votes": 876 },
+      { "name": "VdB", "votes": 764 }
+    ]
+  },
+  {
+    "name": "Türnitz",
+    "results": [
+      { "name": "Hofer", "votes": 627 },
+      { "name": "VdB", "votes": 387 }
+    ]
+  },
+  {
+    "name": "Artstetten-Pöbring",
+    "results": [
+      { "name": "Hofer", "votes": 376 },
+      { "name": "VdB", "votes": 242 }
+    ]
+  },
+  {
+    "name": "Bergland",
+    "results": [
+      { "name": "Hofer", "votes": 633 },
+      { "name": "VdB", "votes": 343 }
+    ]
+  },
+  {
+    "name": "Bischofstetten",
+    "results": [
+      { "name": "Hofer", "votes": 414 },
+      { "name": "VdB", "votes": 273 }
+    ]
+  },
+  {
+    "name": "Blindenmarkt",
+    "results": [
+      { "name": "Hofer", "votes": 904 },
+      { "name": "VdB", "votes": 413 }
+    ]
+  },
+  {
+    "name": "Dorfstetten",
+    "results": [
+      { "name": "Hofer", "votes": 218 },
+      { "name": "VdB", "votes": 85 }
+    ]
+  },
+  {
+    "name": "Dunkelsteinerwald",
+    "results": [
+      { "name": "Hofer", "votes": 874 },
+      { "name": "VdB", "votes": 411 }
+    ]
+  },
+  {
+    "name": "Erlauf",
+    "results": [
+      { "name": "Hofer", "votes": 340 },
+      { "name": "VdB", "votes": 246 }
+    ]
+  },
+  {
+    "name": "Golling an der Erlauf",
+    "results": [
+      { "name": "Hofer", "votes": 484 },
+      { "name": "VdB", "votes": 296 }
+    ]
+  },
+  {
+    "name": "Hofamt Priel",
+    "results": [
+      { "name": "Hofer", "votes": 492 },
+      { "name": "VdB", "votes": 403 }
+    ]
+  },
+  {
+    "name": "Hürm",
+    "results": [
+      { "name": "Hofer", "votes": 619 },
+      { "name": "VdB", "votes": 313 }
+    ]
+  },
+  {
+    "name": "Kilb",
+    "results": [
+      { "name": "Hofer", "votes": 792 },
+      { "name": "VdB", "votes": 546 }
+    ]
+  },
+  {
+    "name": "Kirnberg an der Mank",
+    "results": [
+      { "name": "Hofer", "votes": 392 },
+      { "name": "VdB", "votes": 233 }
+    ]
+  },
+  {
+    "name": "Klein-Pöchlarn",
+    "results": [
+      { "name": "Hofer", "votes": 279 },
+      { "name": "VdB", "votes": 253 }
+    ]
+  },
+  {
+    "name": "Krummnußbaum",
+    "results": [
+      { "name": "Hofer", "votes": 375 },
+      { "name": "VdB", "votes": 365 }
+    ]
+  },
+  {
+    "name": "Leiben",
+    "results": [
+      { "name": "Hofer", "votes": 427 },
+      { "name": "VdB", "votes": 271 }
+    ]
+  },
+  {
+    "name": "Loosdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1083 },
+      { "name": "VdB", "votes": 809 }
+    ]
+  },
+  {
+    "name": "Mank",
+    "results": [
+      { "name": "Hofer", "votes": 868 },
+      { "name": "VdB", "votes": 824 }
+    ]
+  },
+  {
+    "name": "Marbach an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 518 },
+      { "name": "VdB", "votes": 304 }
+    ]
+  },
+  {
+    "name": "Maria Taferl",
+    "results": [
+      { "name": "Hofer", "votes": 298 },
+      { "name": "VdB", "votes": 202 }
+    ]
+  },
+  {
+    "name": "Melk",
+    "results": [
+      { "name": "Hofer", "votes": 1307 },
+      { "name": "VdB", "votes": 1280 }
+    ]
+  },
+  {
+    "name": "Münichreith-Laimbach",
+    "results": [
+      { "name": "Hofer", "votes": 622 },
+      { "name": "VdB", "votes": 253 }
+    ]
+  },
+  {
+    "name": "Neumarkt an der Ybbs",
+    "results": [
+      { "name": "Hofer", "votes": 600 },
+      { "name": "VdB", "votes": 380 }
+    ]
+  },
+  {
+    "name": "Nöchling",
+    "results": [
+      { "name": "Hofer", "votes": 314 },
+      { "name": "VdB", "votes": 247 }
+    ]
+  },
+  {
+    "name": "Persenbeug-Gottsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 565 },
+      { "name": "VdB", "votes": 500 }
+    ]
+  },
+  {
+    "name": "Petzenkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 395 },
+      { "name": "VdB", "votes": 254 }
+    ]
+  },
+  {
+    "name": "Pöchlarn",
+    "results": [
+      { "name": "Hofer", "votes": 931 },
+      { "name": "VdB", "votes": 779 }
+    ]
+  },
+  {
+    "name": "Pöggstall",
+    "results": [
+      { "name": "Hofer", "votes": 872 },
+      { "name": "VdB", "votes": 391 }
+    ]
+  },
+  {
+    "name": "Raxendorf",
+    "results": [
+      { "name": "Hofer", "votes": 387 },
+      { "name": "VdB", "votes": 183 }
+    ]
+  },
+  {
+    "name": "Ruprechtshofen",
+    "results": [
+      { "name": "Hofer", "votes": 813 },
+      { "name": "VdB", "votes": 467 }
+    ]
+  },
+  {
+    "name": "St. Leonhard am Forst",
+    "results": [
+      { "name": "Hofer", "votes": 1042 },
+      { "name": "VdB", "votes": 577 }
+    ]
+  },
+  {
+    "name": "St. Martin-Karlsbach",
+    "results": [
+      { "name": "Hofer", "votes": 557 },
+      { "name": "VdB", "votes": 399 }
+    ]
+  },
+  {
+    "name": "St. Oswald",
+    "results": [
+      { "name": "Hofer", "votes": 298 },
+      { "name": "VdB", "votes": 194 }
+    ]
+  },
+  {
+    "name": "Schönbühel-Aggsbach",
+    "results": [
+      { "name": "Hofer", "votes": 277 },
+      { "name": "VdB", "votes": 268 }
+    ]
+  },
+  {
+    "name": "Schollach",
+    "results": [
+      { "name": "Hofer", "votes": 311 },
+      { "name": "VdB", "votes": 218 }
+    ]
+  },
+  {
+    "name": "Weiten",
+    "results": [
+      { "name": "Hofer", "votes": 336 },
+      { "name": "VdB", "votes": 180 }
+    ]
+  },
+  {
+    "name": "Ybbs an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 1420 },
+      { "name": "VdB", "votes": 1232 }
+    ]
+  },
+  {
+    "name": "Zelking-Matzleinsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 362 },
+      { "name": "VdB", "votes": 344 }
+    ]
+  },
+  {
+    "name": "Texingtal",
+    "results": [
+      { "name": "Hofer", "votes": 457 },
+      { "name": "VdB", "votes": 397 }
+    ]
+  },
+  {
+    "name": "Yspertal",
+    "results": [
+      { "name": "Hofer", "votes": 648 },
+      { "name": "VdB", "votes": 357 }
+    ]
+  },
+  {
+    "name": "Emmersdorf an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 473 },
+      { "name": "VdB", "votes": 389 }
+    ]
+  },
+  {
+    "name": "Altlichtenwarth",
+    "results": [
+      { "name": "Hofer", "votes": 266 },
+      { "name": "VdB", "votes": 115 }
+    ]
+  },
+  {
+    "name": "Asparn an der Zaya",
+    "results": [
+      { "name": "Hofer", "votes": 666 },
+      { "name": "VdB", "votes": 330 }
+    ]
+  },
+  {
+    "name": "Bernhardsthal",
+    "results": [
+      { "name": "Hofer", "votes": 601 },
+      { "name": "VdB", "votes": 315 }
+    ]
+  },
+  {
+    "name": "Bockfließ",
+    "results": [
+      { "name": "Hofer", "votes": 400 },
+      { "name": "VdB", "votes": 371 }
+    ]
+  },
+  {
+    "name": "Drasenhofen",
+    "results": [
+      { "name": "Hofer", "votes": 422 },
+      { "name": "VdB", "votes": 184 }
+    ]
+  },
+  {
+    "name": "Falkenstein",
+    "results": [
+      { "name": "Hofer", "votes": 121 },
+      { "name": "VdB", "votes": 160 }
+    ]
+  },
+  {
+    "name": "Fallbach",
+    "results": [
+      { "name": "Hofer", "votes": 232 },
+      { "name": "VdB", "votes": 213 }
+    ]
+  },
+  {
+    "name": "Gaubitsch",
+    "results": [
+      { "name": "Hofer", "votes": 330 },
+      { "name": "VdB", "votes": 153 }
+    ]
+  },
+  {
+    "name": "Gaweinstal",
+    "results": [
+      { "name": "Hofer", "votes": 1246 },
+      { "name": "VdB", "votes": 711 }
+    ]
+  },
+  {
+    "name": "Gnadendorf",
+    "results": [
+      { "name": "Hofer", "votes": 371 },
+      { "name": "VdB", "votes": 220 }
+    ]
+  },
+  {
+    "name": "Großebersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 753 },
+      { "name": "VdB", "votes": 482 }
+    ]
+  },
+  {
+    "name": "Großengersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 461 },
+      { "name": "VdB", "votes": 348 }
+    ]
+  },
+  {
+    "name": "Großharras",
+    "results": [
+      { "name": "Hofer", "votes": 384 },
+      { "name": "VdB", "votes": 226 }
+    ]
+  },
+  {
+    "name": "Großkrut",
+    "results": [
+      { "name": "Hofer", "votes": 580 },
+      { "name": "VdB", "votes": 314 }
+    ]
+  },
+  {
+    "name": "Hausbrunn",
+    "results": [
+      { "name": "Hofer", "votes": 331 },
+      { "name": "VdB", "votes": 143 }
+    ]
+  },
+  {
+    "name": "Herrnbaumgarten",
+    "results": [
+      { "name": "Hofer", "votes": 356 },
+      { "name": "VdB", "votes": 180 }
+    ]
+  },
+  {
+    "name": "Hochleithen",
+    "results": [
+      { "name": "Hofer", "votes": 388 },
+      { "name": "VdB", "votes": 270 }
+    ]
+  },
+  {
+    "name": "Kreuttal",
+    "results": [
+      { "name": "Hofer", "votes": 386 },
+      { "name": "VdB", "votes": 383 }
+    ]
+  },
+  {
+    "name": "Kreuzstetten",
+    "results": [
+      { "name": "Hofer", "votes": 451 },
+      { "name": "VdB", "votes": 435 }
+    ]
+  },
+  {
+    "name": "Laa an der Thaya",
+    "results": [
+      { "name": "Hofer", "votes": 2022 },
+      { "name": "VdB", "votes": 1384 }
+    ]
+  },
+  {
+    "name": "Ladendorf",
+    "results": [
+      { "name": "Hofer", "votes": 696 },
+      { "name": "VdB", "votes": 519 }
+    ]
+  },
+  {
+    "name": "Mistelbach",
+    "results": [
+      { "name": "Hofer", "votes": 3246 },
+      { "name": "VdB", "votes": 2595 }
+    ]
+  },
+  {
+    "name": "Neudorf bei Staatz",
+    "results": [
+      { "name": "Hofer", "votes": 526 },
+      { "name": "VdB", "votes": 228 }
+    ]
+  },
+  {
+    "name": "Niederleis",
+    "results": [
+      { "name": "Hofer", "votes": 276 },
+      { "name": "VdB", "votes": 201 }
+    ]
+  },
+  {
+    "name": "Pillichsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 345 },
+      { "name": "VdB", "votes": 345 }
+    ]
+  },
+  {
+    "name": "Poysdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1809 },
+      { "name": "VdB", "votes": 1024 }
+    ]
+  },
+  {
+    "name": "Rabensburg",
+    "results": [
+      { "name": "Hofer", "votes": 379 },
+      { "name": "VdB", "votes": 165 }
+    ]
+  },
+  {
+    "name": "Schrattenberg",
+    "results": [
+      { "name": "Hofer", "votes": 336 },
+      { "name": "VdB", "votes": 109 }
+    ]
+  },
+  {
+    "name": "Staatz",
+    "results": [
+      { "name": "Hofer", "votes": 695 },
+      { "name": "VdB", "votes": 384 }
+    ]
+  },
+  {
+    "name": "Stronsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 644 },
+      { "name": "VdB", "votes": 277 }
+    ]
+  },
+  {
+    "name": "Ulrichskirchen-Schleinbach",
+    "results": [
+      { "name": "Hofer", "votes": 742 },
+      { "name": "VdB", "votes": 724 }
+    ]
+  },
+  {
+    "name": "Unterstinkenbrunn",
+    "results": [
+      { "name": "Hofer", "votes": 212 },
+      { "name": "VdB", "votes": 99 }
+    ]
+  },
+  {
+    "name": "Wildendürnbach",
+    "results": [
+      { "name": "Hofer", "votes": 572 },
+      { "name": "VdB", "votes": 275 }
+    ]
+  },
+  {
+    "name": "Wilfersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 784 },
+      { "name": "VdB", "votes": 415 }
+    ]
+  },
+  {
+    "name": "Wolkersdorf im Weinviertel",
+    "results": [
+      { "name": "Hofer", "votes": 1595 },
+      { "name": "VdB", "votes": 2149 }
+    ]
+  },
+  {
+    "name": "Ottenthal",
+    "results": [
+      { "name": "Hofer", "votes": 229 },
+      { "name": "VdB", "votes": 94 }
+    ]
+  },
+  {
+    "name": "Achau",
+    "results": [
+      { "name": "Hofer", "votes": 330 },
+      { "name": "VdB", "votes": 372 }
+    ]
+  },
+  {
+    "name": "Biedermannsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 655 },
+      { "name": "VdB", "votes": 848 }
+    ]
+  },
+  {
+    "name": "Breitenfurt bei Wien",
+    "results": [
+      { "name": "Hofer", "votes": 1246 },
+      { "name": "VdB", "votes": 1920 }
+    ]
+  },
+  {
+    "name": "Brunn am Gebirge",
+    "results": [
+      { "name": "Hofer", "votes": 2274 },
+      { "name": "VdB", "votes": 3466 }
+    ]
+  },
+  {
+    "name": "Gaaden",
+    "results": [
+      { "name": "Hofer", "votes": 333 },
+      { "name": "VdB", "votes": 584 }
+    ]
+  },
+  {
+    "name": "Gießhübl",
+    "results": [
+      { "name": "Hofer", "votes": 393 },
+      { "name": "VdB", "votes": 754 }
+    ]
+  },
+  {
+    "name": "Gumpoldskirchen",
+    "results": [
+      { "name": "Hofer", "votes": 797 },
+      { "name": "VdB", "votes": 1188 }
+    ]
+  },
+  {
+    "name": "Guntramsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 2196 },
+      { "name": "VdB", "votes": 2569 }
+    ]
+  },
+  {
+    "name": "Hennersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 442 },
+      { "name": "VdB", "votes": 440 }
+    ]
+  },
+  {
+    "name": "Hinterbrühl",
+    "results": [
+      { "name": "Hofer", "votes": 712 },
+      { "name": "VdB", "votes": 1215 }
+    ]
+  },
+  {
+    "name": "Kaltenleutgeben",
+    "results": [
+      { "name": "Hofer", "votes": 772 },
+      { "name": "VdB", "votes": 1043 }
+    ]
+  },
+  {
+    "name": "Laab im Walde",
+    "results": [
+      { "name": "Hofer", "votes": 208 },
+      { "name": "VdB", "votes": 454 }
+    ]
+  },
+  {
+    "name": "Laxenburg",
+    "results": [
+      { "name": "Hofer", "votes": 553 },
+      { "name": "VdB", "votes": 829 }
+    ]
+  },
+  {
+    "name": "Maria Enzersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1360 },
+      { "name": "VdB", "votes": 2691 }
+    ]
+  },
+  {
+    "name": "Mödling",
+    "results": [
+      { "name": "Hofer", "votes": 3372 },
+      { "name": "VdB", "votes": 5938 }
+    ]
+  },
+  {
+    "name": "Münchendorf",
+    "results": [
+      { "name": "Hofer", "votes": 783 },
+      { "name": "VdB", "votes": 809 }
+    ]
+  },
+  {
+    "name": "Perchtoldsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 2811 },
+      { "name": "VdB", "votes": 4737 }
+    ]
+  },
+  {
+    "name": "Vösendorf",
+    "results": [
+      { "name": "Hofer", "votes": 1676 },
+      { "name": "VdB", "votes": 1440 }
+    ]
+  },
+  {
+    "name": "Wiener Neudorf",
+    "results": [
+      { "name": "Hofer", "votes": 2044 },
+      { "name": "VdB", "votes": 2586 }
+    ]
+  },
+  {
+    "name": "Wienerwald",
+    "results": [
+      { "name": "Hofer", "votes": 721 },
+      { "name": "VdB", "votes": 787 }
+    ]
+  },
+  {
+    "name": "Altendorf",
+    "results": [
+      { "name": "Hofer", "votes": 140 },
+      { "name": "VdB", "votes": 60 }
+    ]
+  },
+  {
+    "name": "Aspang-Markt",
+    "results": [
+      { "name": "Hofer", "votes": 561 },
+      { "name": "VdB", "votes": 423 }
+    ]
+  },
+  {
+    "name": "Aspangberg-St. Peter",
+    "results": [
+      { "name": "Hofer", "votes": 720 },
+      { "name": "VdB", "votes": 326 }
+    ]
+  },
+  {
+    "name": "Breitenau",
+    "results": [
+      { "name": "Hofer", "votes": 506 },
+      { "name": "VdB", "votes": 376 }
+    ]
+  },
+  {
+    "name": "Breitenstein",
+    "results": [
+      { "name": "Hofer", "votes": 95 },
+      { "name": "VdB", "votes": 60 }
+    ]
+  },
+  {
+    "name": "Buchbach",
+    "results": [
+      { "name": "Hofer", "votes": 93 },
+      { "name": "VdB", "votes": 97 }
+    ]
+  },
+  {
+    "name": "Edlitz",
+    "results": [
+      { "name": "Hofer", "votes": 304 },
+      { "name": "VdB", "votes": 212 }
+    ]
+  },
+  {
+    "name": "Enzenreith",
+    "results": [
+      { "name": "Hofer", "votes": 637 },
+      { "name": "VdB", "votes": 430 }
+    ]
+  },
+  {
+    "name": "Feistritz am Wechsel",
+    "results": [
+      { "name": "Hofer", "votes": 427 },
+      { "name": "VdB", "votes": 198 }
+    ]
+  },
+  {
+    "name": "Gloggnitz",
+    "results": [
+      { "name": "Hofer", "votes": 1792 },
+      { "name": "VdB", "votes": 1208 }
+    ]
+  },
+  {
+    "name": "Grafenbach-St. Valentin",
+    "results": [
+      { "name": "Hofer", "votes": 711 },
+      { "name": "VdB", "votes": 525 }
+    ]
+  },
+  {
+    "name": "Grimmenstein",
+    "results": [
+      { "name": "Hofer", "votes": 449 },
+      { "name": "VdB", "votes": 316 }
+    ]
+  },
+  {
+    "name": "Grünbach am Schneeberg",
+    "results": [
+      { "name": "Hofer", "votes": 473 },
+      { "name": "VdB", "votes": 345 }
+    ]
+  },
+  {
+    "name": "Kirchberg am Wechsel",
+    "results": [
+      { "name": "Hofer", "votes": 877 },
+      { "name": "VdB", "votes": 458 }
+    ]
+  },
+  {
+    "name": "Mönichkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 225 },
+      { "name": "VdB", "votes": 92 }
+    ]
+  },
+  {
+    "name": "Natschbach-Loipersbach",
+    "results": [
+      { "name": "Hofer", "votes": 562 },
+      { "name": "VdB", "votes": 398 }
+    ]
+  },
+  {
+    "name": "Neunkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 2999 },
+      { "name": "VdB", "votes": 2556 }
+    ]
+  },
+  {
+    "name": "Otterthal",
+    "results": [
+      { "name": "Hofer", "votes": 213 },
+      { "name": "VdB", "votes": 94 }
+    ]
+  },
+  {
+    "name": "Payerbach",
+    "results": [
+      { "name": "Hofer", "votes": 602 },
+      { "name": "VdB", "votes": 475 }
+    ]
+  },
+  {
+    "name": "Pitten",
+    "results": [
+      { "name": "Hofer", "votes": 838 },
+      { "name": "VdB", "votes": 542 }
+    ]
+  },
+  {
+    "name": "Prigglitz",
+    "results": [
+      { "name": "Hofer", "votes": 160 },
+      { "name": "VdB", "votes": 84 }
+    ]
+  },
+  {
+    "name": "Puchberg am Schneeberg",
+    "results": [
+      { "name": "Hofer", "votes": 850 },
+      { "name": "VdB", "votes": 563 }
+    ]
+  },
+  {
+    "name": "Raach am Hochgebirge",
+    "results": [
+      { "name": "Hofer", "votes": 89 },
+      { "name": "VdB", "votes": 75 }
+    ]
+  },
+  {
+    "name": "Reichenau an der Rax",
+    "results": [
+      { "name": "Hofer", "votes": 827 },
+      { "name": "VdB", "votes": 558 }
+    ]
+  },
+  {
+    "name": "St. Corona am Wechsel",
+    "results": [
+      { "name": "Hofer", "votes": 152 },
+      { "name": "VdB", "votes": 56 }
+    ]
+  },
+  {
+    "name": "St. Egyden am Steinfeld",
+    "results": [
+      { "name": "Hofer", "votes": 624 },
+      { "name": "VdB", "votes": 403 }
+    ]
+  },
+  {
+    "name": "Scheiblingkirchen-Thernberg",
+    "results": [
+      { "name": "Hofer", "votes": 558 },
+      { "name": "VdB", "votes": 446 }
+    ]
+  },
+  {
+    "name": "Schottwien",
+    "results": [
+      { "name": "Hofer", "votes": 227 },
+      { "name": "VdB", "votes": 118 }
+    ]
+  },
+  {
+    "name": "Schrattenbach",
+    "results": [
+      { "name": "Hofer", "votes": 119 },
+      { "name": "VdB", "votes": 76 }
+    ]
+  },
+  {
+    "name": "Schwarzau am Steinfeld",
+    "results": [
+      { "name": "Hofer", "votes": 641 },
+      { "name": "VdB", "votes": 397 }
+    ]
+  },
+  {
+    "name": "Schwarzau im Gebirge",
+    "results": [
+      { "name": "Hofer", "votes": 221 },
+      { "name": "VdB", "votes": 100 }
+    ]
+  },
+  {
+    "name": "Seebenstein",
+    "results": [
+      { "name": "Hofer", "votes": 441 },
+      { "name": "VdB", "votes": 337 }
+    ]
+  },
+  {
+    "name": "Semmering",
+    "results": [
+      { "name": "Hofer", "votes": 171 },
+      { "name": "VdB", "votes": 104 }
+    ]
+  },
+  {
+    "name": "Ternitz",
+    "results": [
+      { "name": "Hofer", "votes": 4303 },
+      { "name": "VdB", "votes": 3306 }
+    ]
+  },
+  {
+    "name": "Thomasberg",
+    "results": [
+      { "name": "Hofer", "votes": 502 },
+      { "name": "VdB", "votes": 207 }
+    ]
+  },
+  {
+    "name": "Trattenbach",
+    "results": [
+      { "name": "Hofer", "votes": 235 },
+      { "name": "VdB", "votes": 75 }
+    ]
+  },
+  {
+    "name": "Bürg-Vöstenhof",
+    "results": [
+      { "name": "Hofer", "votes": 75 },
+      { "name": "VdB", "votes": 30 }
+    ]
+  },
+  {
+    "name": "Warth",
+    "results": [
+      { "name": "Hofer", "votes": 538 },
+      { "name": "VdB", "votes": 345 }
+    ]
+  },
+  {
+    "name": "Wartmannstetten",
+    "results": [
+      { "name": "Hofer", "votes": 545 },
+      { "name": "VdB", "votes": 427 }
+    ]
+  },
+  {
+    "name": "Willendorf",
+    "results": [
+      { "name": "Hofer", "votes": 312 },
+      { "name": "VdB", "votes": 233 }
+    ]
+  },
+  {
+    "name": "Wimpassing im Schwarzatale",
+    "results": [
+      { "name": "Hofer", "votes": 423 },
+      { "name": "VdB", "votes": 378 }
+    ]
+  },
+  {
+    "name": "Würflach",
+    "results": [
+      { "name": "Hofer", "votes": 449 },
+      { "name": "VdB", "votes": 450 }
+    ]
+  },
+  {
+    "name": "Zöbern",
+    "results": [
+      { "name": "Hofer", "votes": 626 },
+      { "name": "VdB", "votes": 199 }
+    ]
+  },
+  {
+    "name": "Höflein an der Hohen Wand",
+    "results": [
+      { "name": "Hofer", "votes": 314 },
+      { "name": "VdB", "votes": 218 }
+    ]
+  },
+  {
+    "name": "Altlengbach",
+    "results": [
+      { "name": "Hofer", "votes": 807 },
+      { "name": "VdB", "votes": 619 }
+    ]
+  },
+  {
+    "name": "Asperhofen",
+    "results": [
+      { "name": "Hofer", "votes": 725 },
+      { "name": "VdB", "votes": 349 }
+    ]
+  },
+  {
+    "name": "Böheimkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 1492 },
+      { "name": "VdB", "votes": 1219 }
+    ]
+  },
+  {
+    "name": "Brand-Laaben",
+    "results": [
+      { "name": "Hofer", "votes": 391 },
+      { "name": "VdB", "votes": 248 }
+    ]
+  },
+  {
+    "name": "Eichgraben",
+    "results": [
+      { "name": "Hofer", "votes": 908 },
+      { "name": "VdB", "votes": 1271 }
+    ]
+  },
+  {
+    "name": "Frankenfels",
+    "results": [
+      { "name": "Hofer", "votes": 634 },
+      { "name": "VdB", "votes": 503 }
+    ]
+  },
+  {
+    "name": "Gerersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 279 },
+      { "name": "VdB", "votes": 233 }
+    ]
+  },
+  {
+    "name": "Hofstetten-Grünau",
+    "results": [
+      { "name": "Hofer", "votes": 887 },
+      { "name": "VdB", "votes": 558 }
+    ]
+  },
+  {
+    "name": "Hafnerbach",
+    "results": [
+      { "name": "Hofer", "votes": 499 },
+      { "name": "VdB", "votes": 432 }
+    ]
+  },
+  {
+    "name": "Haunoldstein",
+    "results": [
+      { "name": "Hofer", "votes": 391 },
+      { "name": "VdB", "votes": 243 }
+    ]
+  },
+  {
+    "name": "Herzogenburg",
+    "results": [
+      { "name": "Hofer", "votes": 2111 },
+      { "name": "VdB", "votes": 1970 }
+    ]
+  },
+  {
+    "name": "Inzersdorf-Getzersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 530 },
+      { "name": "VdB", "votes": 319 }
+    ]
+  },
+  {
+    "name": "Kapelln",
+    "results": [
+      { "name": "Hofer", "votes": 481 },
+      { "name": "VdB", "votes": 274 }
+    ]
+  },
+  {
+    "name": "Karlstetten",
+    "results": [
+      { "name": "Hofer", "votes": 710 },
+      { "name": "VdB", "votes": 512 }
+    ]
+  },
+  {
+    "name": "Kasten bei Böheimkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 386 },
+      { "name": "VdB", "votes": 405 }
+    ]
+  },
+  {
+    "name": "Kirchberg an der Pielach",
+    "results": [
+      { "name": "Hofer", "votes": 940 },
+      { "name": "VdB", "votes": 706 }
+    ]
+  },
+  {
+    "name": "Kirchstetten",
+    "results": [
+      { "name": "Hofer", "votes": 558 },
+      { "name": "VdB", "votes": 518 }
+    ]
+  },
+  {
+    "name": "Loich",
+    "results": [
+      { "name": "Hofer", "votes": 173 },
+      { "name": "VdB", "votes": 105 }
+    ]
+  },
+  {
+    "name": "Maria-Anzbach",
+    "results": [
+      { "name": "Hofer", "votes": 707 },
+      { "name": "VdB", "votes": 840 }
+    ]
+  },
+  {
+    "name": "Markersdorf-Haindorf",
+    "results": [
+      { "name": "Hofer", "votes": 629 },
+      { "name": "VdB", "votes": 482 }
+    ]
+  },
+  {
+    "name": "Michelbach",
+    "results": [
+      { "name": "Hofer", "votes": 339 },
+      { "name": "VdB", "votes": 157 }
+    ]
+  },
+  {
+    "name": "Neidling",
+    "results": [
+      { "name": "Hofer", "votes": 417 },
+      { "name": "VdB", "votes": 424 }
+    ]
+  },
+  {
+    "name": "Neulengbach",
+    "results": [
+      { "name": "Hofer", "votes": 2025 },
+      { "name": "VdB", "votes": 1971 }
+    ]
+  },
+  {
+    "name": "Neustift-Innermanzing",
+    "results": [
+      { "name": "Hofer", "votes": 406 },
+      { "name": "VdB", "votes": 328 }
+    ]
+  },
+  {
+    "name": "Nußdorf ob der Traisen",
+    "results": [
+      { "name": "Hofer", "votes": 590 },
+      { "name": "VdB", "votes": 445 }
+    ]
+  },
+  {
+    "name": "Ober-Grafendorf",
+    "results": [
+      { "name": "Hofer", "votes": 1204 },
+      { "name": "VdB", "votes": 1276 }
+    ]
+  },
+  {
+    "name": "Obritzberg-Rust",
+    "results": [
+      { "name": "Hofer", "votes": 812 },
+      { "name": "VdB", "votes": 430 }
+    ]
+  },
+  {
+    "name": "Prinzersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 377 },
+      { "name": "VdB", "votes": 508 }
+    ]
+  },
+  {
+    "name": "Pyhra",
+    "results": [
+      { "name": "Hofer", "votes": 1084 },
+      { "name": "VdB", "votes": 822 }
+    ]
+  },
+  {
+    "name": "Rabenstein an der Pielach",
+    "results": [
+      { "name": "Hofer", "votes": 793 },
+      { "name": "VdB", "votes": 552 }
+    ]
+  },
+  {
+    "name": "St. Margarethen an der Sierning",
+    "results": [
+      { "name": "Hofer", "votes": 326 },
+      { "name": "VdB", "votes": 252 }
+    ]
+  },
+  {
+    "name": "Schwarzenbach an der Pielach",
+    "results": [
+      { "name": "Hofer", "votes": 162 },
+      { "name": "VdB", "votes": 67 }
+    ]
+  },
+  {
+    "name": "Statzendorf",
+    "results": [
+      { "name": "Hofer", "votes": 381 },
+      { "name": "VdB", "votes": 351 }
+    ]
+  },
+  {
+    "name": "Stössing",
+    "results": [
+      { "name": "Hofer", "votes": 252 },
+      { "name": "VdB", "votes": 158 }
+    ]
+  },
+  {
+    "name": "Traismauer",
+    "results": [
+      { "name": "Hofer", "votes": 1838 },
+      { "name": "VdB", "votes": 1424 }
+    ]
+  },
+  {
+    "name": "Weinburg",
+    "results": [
+      { "name": "Hofer", "votes": 420 },
+      { "name": "VdB", "votes": 359 }
+    ]
+  },
+  {
+    "name": "Perschling",
+    "results": [
+      { "name": "Hofer", "votes": 501 },
+      { "name": "VdB", "votes": 242 }
+    ]
+  },
+  {
+    "name": "Wilhelmsburg",
+    "results": [
+      { "name": "Hofer", "votes": 1815 },
+      { "name": "VdB", "votes": 1568 }
+    ]
+  },
+  {
+    "name": "Wölbling",
+    "results": [
+      { "name": "Hofer", "votes": 724 },
+      { "name": "VdB", "votes": 649 }
+    ]
+  },
+  {
+    "name": "Gaming",
+    "results": [
+      { "name": "Hofer", "votes": 834 },
+      { "name": "VdB", "votes": 780 }
+    ]
+  },
+  {
+    "name": "Göstling an der Ybbs",
+    "results": [
+      { "name": "Hofer", "votes": 604 },
+      { "name": "VdB", "votes": 546 }
+    ]
+  },
+  {
+    "name": "Gresten",
+    "results": [
+      { "name": "Hofer", "votes": 517 },
+      { "name": "VdB", "votes": 501 }
+    ]
+  },
+  {
+    "name": "Gresten-Land",
+    "results": [
+      { "name": "Hofer", "votes": 492 },
+      { "name": "VdB", "votes": 276 }
+    ]
+  },
+  {
+    "name": "Lunz am See",
+    "results": [
+      { "name": "Hofer", "votes": 521 },
+      { "name": "VdB", "votes": 416 }
+    ]
+  },
+  {
+    "name": "Oberndorf an der Melk",
+    "results": [
+      { "name": "Hofer", "votes": 1080 },
+      { "name": "VdB", "votes": 567 }
+    ]
+  },
+  {
+    "name": "Puchenstuben",
+    "results": [
+      { "name": "Hofer", "votes": 72 },
+      { "name": "VdB", "votes": 75 }
+    ]
+  },
+  {
+    "name": "Purgstall an der Erlauf",
+    "results": [
+      { "name": "Hofer", "votes": 1761 },
+      { "name": "VdB", "votes": 1032 }
+    ]
+  },
+  {
+    "name": "Randegg",
+    "results": [
+      { "name": "Hofer", "votes": 637 },
+      { "name": "VdB", "votes": 366 }
+    ]
+  },
+  {
+    "name": "Reinsberg",
+    "results": [
+      { "name": "Hofer", "votes": 338 },
+      { "name": "VdB", "votes": 223 }
+    ]
+  },
+  {
+    "name": "St. Anton an der Jeßnitz",
+    "results": [
+      { "name": "Hofer", "votes": 429 },
+      { "name": "VdB", "votes": 139 }
+    ]
+  },
+  {
+    "name": "St. Georgen an der Leys",
+    "results": [
+      { "name": "Hofer", "votes": 534 },
+      { "name": "VdB", "votes": 198 }
+    ]
+  },
+  {
+    "name": "Scheibbs",
+    "results": [
+      { "name": "Hofer", "votes": 932 },
+      { "name": "VdB", "votes": 1281 }
+    ]
+  },
+  {
+    "name": "Steinakirchen am Forst",
+    "results": [
+      { "name": "Hofer", "votes": 720 },
+      { "name": "VdB", "votes": 526 }
+    ]
+  },
+  {
+    "name": "Wang",
+    "results": [
+      { "name": "Hofer", "votes": 474 },
+      { "name": "VdB", "votes": 255 }
+    ]
+  },
+  {
+    "name": "Wieselburg",
+    "results": [
+      { "name": "Hofer", "votes": 917 },
+      { "name": "VdB", "votes": 908 }
+    ]
+  },
+  {
+    "name": "Wieselburg-Land",
+    "results": [
+      { "name": "Hofer", "votes": 1110 },
+      { "name": "VdB", "votes": 625 }
+    ]
+  },
+  {
+    "name": "Wolfpassing",
+    "results": [
+      { "name": "Hofer", "votes": 532 },
+      { "name": "VdB", "votes": 306 }
+    ]
+  },
+  {
+    "name": "Absdorf",
+    "results": [
+      { "name": "Hofer", "votes": 516 },
+      { "name": "VdB", "votes": 430 }
+    ]
+  },
+  {
+    "name": "Atzenbrugg",
+    "results": [
+      { "name": "Hofer", "votes": 947 },
+      { "name": "VdB", "votes": 571 }
+    ]
+  },
+  {
+    "name": "Fels am Wagram",
+    "results": [
+      { "name": "Hofer", "votes": 762 },
+      { "name": "VdB", "votes": 446 }
+    ]
+  },
+  {
+    "name": "Grafenwörth",
+    "results": [
+      { "name": "Hofer", "votes": 1021 },
+      { "name": "VdB", "votes": 692 }
+    ]
+  },
+  {
+    "name": "Großriedenthal",
+    "results": [
+      { "name": "Hofer", "votes": 304 },
+      { "name": "VdB", "votes": 246 }
+    ]
+  },
+  {
+    "name": "Großweikersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1001 },
+      { "name": "VdB", "votes": 775 }
+    ]
+  },
+  {
+    "name": "Judenau-Baumgarten",
+    "results": [
+      { "name": "Hofer", "votes": 651 },
+      { "name": "VdB", "votes": 486 }
+    ]
+  },
+  {
+    "name": "Kirchberg am Wagram",
+    "results": [
+      { "name": "Hofer", "votes": 1163 },
+      { "name": "VdB", "votes": 888 }
+    ]
+  },
+  {
+    "name": "Königsbrunn am Wagram",
+    "results": [
+      { "name": "Hofer", "votes": 423 },
+      { "name": "VdB", "votes": 289 }
+    ]
+  },
+  {
+    "name": "Königstetten",
+    "results": [
+      { "name": "Hofer", "votes": 596 },
+      { "name": "VdB", "votes": 679 }
+    ]
+  },
+  {
+    "name": "Langenrohr",
+    "results": [
+      { "name": "Hofer", "votes": 762 },
+      { "name": "VdB", "votes": 468 }
+    ]
+  },
+  {
+    "name": "Michelhausen",
+    "results": [
+      { "name": "Hofer", "votes": 882 },
+      { "name": "VdB", "votes": 574 }
+    ]
+  },
+  {
+    "name": "Sieghartskirchen",
+    "results": [
+      { "name": "Hofer", "votes": 2226 },
+      { "name": "VdB", "votes": 1714 }
+    ]
+  },
+  {
+    "name": "Sitzenberg-Reidling",
+    "results": [
+      { "name": "Hofer", "votes": 618 },
+      { "name": "VdB", "votes": 472 }
+    ]
+  },
+  {
+    "name": "Tulbing",
+    "results": [
+      { "name": "Hofer", "votes": 864 },
+      { "name": "VdB", "votes": 832 }
+    ]
+  },
+  {
+    "name": "Tulln an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 3531 },
+      { "name": "VdB", "votes": 4050 }
+    ]
+  },
+  {
+    "name": "Würmla",
+    "results": [
+      { "name": "Hofer", "votes": 405 },
+      { "name": "VdB", "votes": 328 }
+    ]
+  },
+  {
+    "name": "Zeiselmauer-Wolfpassing",
+    "results": [
+      { "name": "Hofer", "votes": 552 },
+      { "name": "VdB", "votes": 660 }
+    ]
+  },
+  {
+    "name": "Zwentendorf an der Donau",
+    "results": [
+      { "name": "Hofer", "votes": 1235 },
+      { "name": "VdB", "votes": 757 }
+    ]
+  },
+  {
+    "name": "St. Andrä-Wördern",
+    "results": [
+      { "name": "Hofer", "votes": 1731 },
+      { "name": "VdB", "votes": 2269 }
+    ]
+  },
+  {
+    "name": "Muckendorf-Wipfing",
+    "results": [
+      { "name": "Hofer", "votes": 449 },
+      { "name": "VdB", "votes": 348 }
+    ]
+  },
+  {
+    "name": "Dietmanns",
+    "results": [
+      { "name": "Hofer", "votes": 423 },
+      { "name": "VdB", "votes": 206 }
+    ]
+  },
+  {
+    "name": "Dobersberg",
+    "results": [
+      { "name": "Hofer", "votes": 576 },
+      { "name": "VdB", "votes": 268 }
+    ]
+  },
+  {
+    "name": "Gastern",
+    "results": [
+      { "name": "Hofer", "votes": 492 },
+      { "name": "VdB", "votes": 233 }
+    ]
+  },
+  {
+    "name": "Groß-Siegharts",
+    "results": [
+      { "name": "Hofer", "votes": 928 },
+      { "name": "VdB", "votes": 479 }
+    ]
+  },
+  {
+    "name": "Karlstein an der Thaya",
+    "results": [
+      { "name": "Hofer", "votes": 560 },
+      { "name": "VdB", "votes": 257 }
+    ]
+  },
+  {
+    "name": "Kautzen",
+    "results": [
+      { "name": "Hofer", "votes": 446 },
+      { "name": "VdB", "votes": 200 }
+    ]
+  },
+  {
+    "name": "Ludweis-Aigen",
+    "results": [
+      { "name": "Hofer", "votes": 324 },
+      { "name": "VdB", "votes": 196 }
+    ]
+  },
+  {
+    "name": "Pfaffenschlag bei Waidhofen a.d.Thaya",
+    "results": [
+      { "name": "Hofer", "votes": 319 },
+      { "name": "VdB", "votes": 190 }
+    ]
+  },
+  {
+    "name": "Raabs an der Thaya",
+    "results": [
+      { "name": "Hofer", "votes": 919 },
+      { "name": "VdB", "votes": 506 }
+    ]
+  },
+  {
+    "name": "Thaya",
+    "results": [
+      { "name": "Hofer", "votes": 533 },
+      { "name": "VdB", "votes": 212 }
+    ]
+  },
+  {
+    "name": "Vitis",
+    "results": [
+      { "name": "Hofer", "votes": 830 },
+      { "name": "VdB", "votes": 546 }
+    ]
+  },
+  {
+    "name": "Waidhofen an der Thaya",
+    "results": [
+      { "name": "Hofer", "votes": 1678 },
+      { "name": "VdB", "votes": 1338 }
+    ]
+  },
+  {
+    "name": "Waidhofen an der Thaya-Land",
+    "results": [
+      { "name": "Hofer", "votes": 434 },
+      { "name": "VdB", "votes": 236 }
+    ]
+  },
+  {
+    "name": "Waldkirchen an der Thaya",
+    "results": [
+      { "name": "Hofer", "votes": 213 },
+      { "name": "VdB", "votes": 114 }
+    ]
+  },
+  {
+    "name": "Windigsteig",
+    "results": [
+      { "name": "Hofer", "votes": 343 },
+      { "name": "VdB", "votes": 211 }
+    ]
+  },
+  {
+    "name": "Bad Fischau-Brunn",
+    "results": [
+      { "name": "Hofer", "votes": 840 },
+      { "name": "VdB", "votes": 919 }
+    ]
+  },
+  {
+    "name": "Bad Schönau",
+    "results": [
+      { "name": "Hofer", "votes": 313 },
+      { "name": "VdB", "votes": 88 }
+    ]
+  },
+  {
+    "name": "Ebenfurth",
+    "results": [
+      { "name": "Hofer", "votes": 775 },
+      { "name": "VdB", "votes": 574 }
+    ]
+  },
+  {
+    "name": "Eggendorf",
+    "results": [
+      { "name": "Hofer", "votes": 1538 },
+      { "name": "VdB", "votes": 932 }
+    ]
+  },
+  {
+    "name": "Bad Erlach",
+    "results": [
+      { "name": "Hofer", "votes": 927 },
+      { "name": "VdB", "votes": 721 }
+    ]
+  },
+  {
+    "name": "Felixdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1113 },
+      { "name": "VdB", "votes": 1012 }
+    ]
+  },
+  {
+    "name": "Gutenstein",
+    "results": [
+      { "name": "Hofer", "votes": 354 },
+      { "name": "VdB", "votes": 274 }
+    ]
+  },
+  {
+    "name": "Hochneukirchen-Gschaidt",
+    "results": [
+      { "name": "Hofer", "votes": 793 },
+      { "name": "VdB", "votes": 234 }
+    ]
+  },
+  {
+    "name": "Hochwolkersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 377 },
+      { "name": "VdB", "votes": 180 }
+    ]
+  },
+  {
+    "name": "Hohe Wand",
+    "results": [
+      { "name": "Hofer", "votes": 473 },
+      { "name": "VdB", "votes": 305 }
+    ]
+  },
+  {
+    "name": "Hollenthon",
+    "results": [
+      { "name": "Hofer", "votes": 381 },
+      { "name": "VdB", "votes": 188 }
+    ]
+  },
+  {
+    "name": "Katzelsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 907 },
+      { "name": "VdB", "votes": 917 }
+    ]
+  },
+  {
+    "name": "Kirchschlag in der Buckligen Welt",
+    "results": [
+      { "name": "Hofer", "votes": 1122 },
+      { "name": "VdB", "votes": 478 }
+    ]
+  },
+  {
+    "name": "Krumbach",
+    "results": [
+      { "name": "Hofer", "votes": 931 },
+      { "name": "VdB", "votes": 429 }
+    ]
+  },
+  {
+    "name": "Lanzenkirchen",
+    "results": [
+      { "name": "Hofer", "votes": 1224 },
+      { "name": "VdB", "votes": 905 }
+    ]
+  },
+  {
+    "name": "Lichtenegg",
+    "results": [
+      { "name": "Hofer", "votes": 328 },
+      { "name": "VdB", "votes": 251 }
+    ]
+  },
+  {
+    "name": "Lichtenwörth",
+    "results": [
+      { "name": "Hofer", "votes": 908 },
+      { "name": "VdB", "votes": 521 }
+    ]
+  },
+  {
+    "name": "Markt Piesting",
+    "results": [
+      { "name": "Hofer", "votes": 789 },
+      { "name": "VdB", "votes": 733 }
+    ]
+  },
+  {
+    "name": "Matzendorf-Hölles",
+    "results": [
+      { "name": "Hofer", "votes": 716 },
+      { "name": "VdB", "votes": 409 }
+    ]
+  },
+  {
+    "name": "Miesenbach",
+    "results": [
+      { "name": "Hofer", "votes": 258 },
+      { "name": "VdB", "votes": 122 }
+    ]
+  },
+  {
+    "name": "Muggendorf",
+    "results": [
+      { "name": "Hofer", "votes": 196 },
+      { "name": "VdB", "votes": 112 }
+    ]
+  },
+  {
+    "name": "Pernitz",
+    "results": [
+      { "name": "Hofer", "votes": 697 },
+      { "name": "VdB", "votes": 614 }
+    ]
+  },
+  {
+    "name": "Rohr im Gebirge",
+    "results": [
+      { "name": "Hofer", "votes": 148 },
+      { "name": "VdB", "votes": 91 }
+    ]
+  },
+  {
+    "name": "Bromberg",
+    "results": [
+      { "name": "Hofer", "votes": 472 },
+      { "name": "VdB", "votes": 240 }
+    ]
+  },
+  {
+    "name": "Schwarzenbach",
+    "results": [
+      { "name": "Hofer", "votes": 409 },
+      { "name": "VdB", "votes": 188 }
+    ]
+  },
+  {
+    "name": "Sollenau",
+    "results": [
+      { "name": "Hofer", "votes": 1507 },
+      { "name": "VdB", "votes": 980 }
+    ]
+  },
+  {
+    "name": "Theresienfeld",
+    "results": [
+      { "name": "Hofer", "votes": 876 },
+      { "name": "VdB", "votes": 598 }
+    ]
+  },
+  {
+    "name": "Waidmannsfeld",
+    "results": [
+      { "name": "Hofer", "votes": 452 },
+      { "name": "VdB", "votes": 407 }
+    ]
+  },
+  {
+    "name": "Waldegg",
+    "results": [
+      { "name": "Hofer", "votes": 526 },
+      { "name": "VdB", "votes": 461 }
+    ]
+  },
+  {
+    "name": "Walpersbach",
+    "results": [
+      { "name": "Hofer", "votes": 366 },
+      { "name": "VdB", "votes": 280 }
+    ]
+  },
+  {
+    "name": "Weikersdorf am Steinfelde",
+    "results": [
+      { "name": "Hofer", "votes": 442 },
+      { "name": "VdB", "votes": 176 }
+    ]
+  },
+  {
+    "name": "Wiesmath",
+    "results": [
+      { "name": "Hofer", "votes": 569 },
+      { "name": "VdB", "votes": 308 }
+    ]
+  },
+  {
+    "name": "Winzendorf-Muthmannsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 535 },
+      { "name": "VdB", "votes": 462 }
+    ]
+  },
+  {
+    "name": "Wöllersdorf-Steinabrückl",
+    "results": [
+      { "name": "Hofer", "votes": 1380 },
+      { "name": "VdB", "votes": 807 }
+    ]
+  },
+  {
+    "name": "Zillingdorf",
+    "results": [
+      { "name": "Hofer", "votes": 708 },
+      { "name": "VdB", "votes": 491 }
+    ]
+  },
+  {
+    "name": "Ebergassing",
+    "results": [
+      { "name": "Hofer", "votes": 952 },
+      { "name": "VdB", "votes": 796 }
+    ]
+  },
+  {
+    "name": "Fischamend",
+    "results": [
+      { "name": "Hofer", "votes": 1365 },
+      { "name": "VdB", "votes": 1142 }
+    ]
+  },
+  {
+    "name": "Gablitz",
+    "results": [
+      { "name": "Hofer", "votes": 1033 },
+      { "name": "VdB", "votes": 1305 }
+    ]
+  },
+  {
+    "name": "Gerasdorf bei Wien",
+    "results": [
+      { "name": "Hofer", "votes": 2975 },
+      { "name": "VdB", "votes": 2497 }
+    ]
+  },
+  {
+    "name": "Gramatneusiedl",
+    "results": [
+      { "name": "Hofer", "votes": 727 },
+      { "name": "VdB", "votes": 598 }
+    ]
+  },
+  {
+    "name": "Himberg",
+    "results": [
+      { "name": "Hofer", "votes": 2124 },
+      { "name": "VdB", "votes": 1515 }
+    ]
+  },
+  {
+    "name": "Klein-Neusiedl",
+    "results": [
+      { "name": "Hofer", "votes": 238 },
+      { "name": "VdB", "votes": 176 }
+    ]
+  },
+  {
+    "name": "Klosterneuburg",
+    "results": [
+      { "name": "Hofer", "votes": 4728 },
+      { "name": "VdB", "votes": 8540 }
+    ]
+  },
+  {
+    "name": "Lanzendorf",
+    "results": [
+      { "name": "Hofer", "votes": 485 },
+      { "name": "VdB", "votes": 401 }
+    ]
+  },
+  {
+    "name": "Leopoldsdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1305 },
+      { "name": "VdB", "votes": 1387 }
+    ]
+  },
+  {
+    "name": "Maria-Lanzendorf",
+    "results": [
+      { "name": "Hofer", "votes": 594 },
+      { "name": "VdB", "votes": 436 }
+    ]
+  },
+  {
+    "name": "Mauerbach",
+    "results": [
+      { "name": "Hofer", "votes": 746 },
+      { "name": "VdB", "votes": 1134 }
+    ]
+  },
+  {
+    "name": "Moosbrunn",
+    "results": [
+      { "name": "Hofer", "votes": 496 },
+      { "name": "VdB", "votes": 404 }
+    ]
+  },
+  {
+    "name": "Pressbaum",
+    "results": [
+      { "name": "Hofer", "votes": 1465 },
+      { "name": "VdB", "votes": 2026 }
+    ]
+  },
+  {
+    "name": "Purkersdorf",
+    "results": [
+      { "name": "Hofer", "votes": 1667 },
+      { "name": "VdB", "votes": 2695 }
+    ]
+  },
+  {
+    "name": "Rauchenwarth",
+    "results": [
+      { "name": "Hofer", "votes": 199 },
+      { "name": "VdB", "votes": 174 }
+    ]
+  },
+  {
+    "name": "Schwadorf",
+    "results": [
+      { "name": "Hofer", "votes": 524 },
+      { "name": "VdB", "votes": 413 }
+    ]
+  },
+  {
+    "name": "Schwechat",
+    "results": [
+      { "name": "Hofer", "votes": 4080 },
+      { "name": "VdB", "votes": 3510 }
+    ]
+  },
+  {
+    "name": "Tullnerbach",
+    "results": [
+      { "name": "Hofer", "votes": 548 },
+      { "name": "VdB", "votes": 871 }
+    ]
+  },
+  {
+    "name": "Wolfsgraben",
+    "results": [
+      { "name": "Hofer", "votes": 376 },
+      { "name": "VdB", "votes": 489 }
+    ]
+  },
+  {
+    "name": "Zwölfaxing",
+    "results": [
+      { "name": "Hofer", "votes": 506 },
+      { "name": "VdB", "votes": 339 }
+    ]
+  },
+  {
+    "name": "Allentsteig",
+    "results": [
+      { "name": "Hofer", "votes": 628 },
+      { "name": "VdB", "votes": 373 }
+    ]
+  },
+  {
+    "name": "Arbesbach",
+    "results": [
+      { "name": "Hofer", "votes": 628 },
+      { "name": "VdB", "votes": 312 }
+    ]
+  },
+  {
+    "name": "Bärnkopf",
+    "results": [
+      { "name": "Hofer", "votes": 112 },
+      { "name": "VdB", "votes": 89 }
+    ]
+  },
+  {
+    "name": "Echsenbach",
+    "results": [
+      { "name": "Hofer", "votes": 421 },
+      { "name": "VdB", "votes": 283 }
+    ]
+  },
+  {
+    "name": "Göpfritz an der Wild",
+    "results": [
+      { "name": "Hofer", "votes": 694 },
+      { "name": "VdB", "votes": 325 }
+    ]
+  },
+  {
+    "name": "Grafenschlag",
+    "results": [
+      { "name": "Hofer", "votes": 310 },
+      { "name": "VdB", "votes": 204 }
+    ]
+  },
+  {
+    "name": "Groß Gerungs",
+    "results": [
+      { "name": "Hofer", "votes": 1622 },
+      { "name": "VdB", "votes": 884 }
+    ]
+  },
+  {
+    "name": "Großgöttfritz",
+    "results": [
+      { "name": "Hofer", "votes": 572 },
+      { "name": "VdB", "votes": 254 }
+    ]
+  },
+  {
+    "name": "Gutenbrunn",
+    "results": [
+      { "name": "Hofer", "votes": 171 },
+      { "name": "VdB", "votes": 102 }
+    ]
+  },
+  {
+    "name": "Kirchschlag",
+    "results": [
+      { "name": "Hofer", "votes": 242 },
+      { "name": "VdB", "votes": 135 }
+    ]
+  },
+  {
+    "name": "Kottes-Purk",
+    "results": [
+      { "name": "Hofer", "votes": 509 },
+      { "name": "VdB", "votes": 269 }
+    ]
+  },
+  {
+    "name": "Langschlag",
+    "results": [
+      { "name": "Hofer", "votes": 614 },
+      { "name": "VdB", "votes": 328 }
+    ]
+  },
+  {
+    "name": "Martinsberg",
+    "results": [
+      { "name": "Hofer", "votes": 441 },
+      { "name": "VdB", "votes": 156 }
+    ]
+  },
+  {
+    "name": "Ottenschlag",
+    "results": [
+      { "name": "Hofer", "votes": 372 },
+      { "name": "VdB", "votes": 240 }
+    ]
+  },
+  {
+    "name": "Altmelon",
+    "results": [
+      { "name": "Hofer", "votes": 371 },
+      { "name": "VdB", "votes": 132 }
+    ]
+  },
+  {
+    "name": "Pölla",
+    "results": [
+      { "name": "Hofer", "votes": 342 },
+      { "name": "VdB", "votes": 167 }
+    ]
+  },
+  {
+    "name": "Rappottenstein",
+    "results": [
+      { "name": "Hofer", "votes": 539 },
+      { "name": "VdB", "votes": 380 }
+    ]
+  },
+  {
+    "name": "Sallingberg",
+    "results": [
+      { "name": "Hofer", "votes": 484 },
+      { "name": "VdB", "votes": 201 }
+    ]
+  },
+  {
+    "name": "Schönbach",
+    "results": [
+      { "name": "Hofer", "votes": 311 },
+      { "name": "VdB", "votes": 188 }
+    ]
+  },
+  {
+    "name": "Schwarzenau",
+    "results": [
+      { "name": "Hofer", "votes": 454 },
+      { "name": "VdB", "votes": 392 }
+    ]
+  },
+  {
+    "name": "Schweiggers",
+    "results": [
+      { "name": "Hofer", "votes": 724 },
+      { "name": "VdB", "votes": 340 }
+    ]
+  },
+  {
+    "name": "Bad Traunstein",
+    "results": [
+      { "name": "Hofer", "votes": 332 },
+      { "name": "VdB", "votes": 207 }
+    ]
+  },
+  {
+    "name": "Waldhausen",
+    "results": [
+      { "name": "Hofer", "votes": 447 },
+      { "name": "VdB", "votes": 223 }
+    ]
+  },
+  {
+    "name": "Zwettl-Niederösterreich",
+    "results": [
+      { "name": "Hofer", "votes": 3235 },
+      { "name": "VdB", "votes": 2688 }
+    ]
+  }
+]
