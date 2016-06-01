@@ -11,11 +11,11 @@
 |
 */
 
-$app->get('/', function () use ($app) {
-  return $app->version();
+Route::get('/', function () {
+    return view('welcome');
 });
 
-$app->get('/elections', function () {
+Route::get('/elections', function () {
   $elections = getElections();
 
   foreach ($elections as $election) {
@@ -25,7 +25,7 @@ $app->get('/elections', function () {
   return deliverJson($elections);
 });
 
-$app->get('/{electionSlug}/parties',
+Route::get('/{electionSlug}/parties',
   function ($electionSlug) {
     $elections = getElections();
     $parties = getParties($electionSlug);
@@ -34,14 +34,14 @@ $app->get('/{electionSlug}/parties',
   }
 );
 
-$app->get('/{electionSlug}/states',
+Route::get('/{electionSlug}/states',
   function ($electionSlug) {
     $states = getStates($electionSlug);
     return deliverJson($states);
   }
 );
 
-$app->get('/{electionSlug}/{stateSlug}/districts',
+Route::get('/{electionSlug}/{stateSlug}/districts',
   function ($electionSlug, $stateSlug) {
     $districts = getDistricts($electionSlug, $stateSlug);
 
@@ -53,10 +53,7 @@ $app->get('/{electionSlug}/{stateSlug}/districts',
   }
 );
 
-$app->get('/geolocation/{latitude},{longitude}', function($latitude,$longitude) use ($app) {
-    $controller = $app->make('App\Http\Controllers\GeoLocationController');
-    return $controller->getLocation($latitude,$longitude);
-});
+Route::get('/geolocation/{latitude},{longitude}', ['uses' =>'GeoLocationController@getLocation']);
 
 /// END routes
 
