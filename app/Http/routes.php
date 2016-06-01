@@ -27,19 +27,9 @@ Route::get('/elections', function () {
 
 Route::get('/{electionSlug}',
   function ($electionSlug) {
-    $elections = getElections();
-    $election = 'no election with slug "'.$electionSlug.'" found';
+    $electionDataObj = getElectionDataObj($electionSlug);
 
-    foreach ($elections as $electionObj) {
-      if ( $electionObj->slug == $electionSlug ) {
-        $districts = getDistricts($electionObj->slug, 'all');
-        $election = $electionObj;
-        $election->results = getDistrictsResults($districts);
-        break;
-      }
-    }
-
-    return deliverJson($election);
+    return deliverJson($electionDataObj);
   }
 );
 
@@ -96,6 +86,22 @@ function getElections () {
   $elections = json_decode($electionsData);
 
   return $elections;
+}
+
+function getElectionDataObj ($electionSlug) {
+  $elections = getElections();
+  $election = 'no election with slug "'.$electionSlug.'" found';
+
+  foreach ($elections as $electionObj) {
+    if ( $electionObj->slug == $electionSlug ) {
+      $districts = getDistricts($electionObj->slug, 'all');
+      $election = $electionObj;
+      $election->results = getDistrictsResults($districts);
+      break;
+    }
+  }
+
+  return $election;
 }
 
 /// Parties
