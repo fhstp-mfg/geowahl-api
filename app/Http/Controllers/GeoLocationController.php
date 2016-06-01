@@ -32,9 +32,10 @@ class GeoLocationController extends Controller
       foreach ($all_location_data['results'] as $component) {
         if (in_array('postal_town', $component['types'])) {
           $postal_town = $component['address_components'][0]['short_name'];
+          return deliverJson($postal_town);
         }
       }
-      return deliverJson($postal_town);
+      return deliverJson('No district for geolocation found!');
     } else {
       return deliverJson('No district for geolocation found!');
     }
