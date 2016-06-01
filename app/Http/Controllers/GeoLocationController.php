@@ -19,8 +19,8 @@ class GeoLocationController extends Controller
   *
   */
   public function getLocation ($latitude, $longitude) {
-    // NOTE TODO this should be better autoloaded
-    require_once dirname(__DIR__).'/includes/api_key.php';
+    //load API-Key from .env
+    $api_key = env('API_KEY');
     $url = 'https://maps.googleapis.com/maps/api/geocode/json?latlng='.$latitude.','.$longitude.'&key='.$api_key;
     // get the json response
     $resp_json = file_get_contents($url);
@@ -32,9 +32,10 @@ class GeoLocationController extends Controller
       foreach ($all_location_data['results'] as $component) {
         if (in_array('postal_town', $component['types'])) {
           $postal_town = $component['address_components'][0]['short_name'];
+          return deliverJson($postal_town);
         }
       }
-      return deliverJson($postal_town);
+      return deliverJson('No district for geolocation found!');
     } else {
       return deliverJson('No district for geolocation found!');
     }
