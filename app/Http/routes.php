@@ -25,6 +25,33 @@ $app->get('/elections', function () {
   return deliverJson($elections);
 });
 
+$app->get('/{electionSlug}',
+  function ($electionSlug) {
+    $elections = getElections();
+
+    foreach ($elections as $election) {
+      $districts = getDistricts($electionSlug, 'all');
+      $election->results = [];
+
+      foreach ($districts as $district) {
+        $parties = $district->results;
+
+        foreach ($parties as $party => $pIx) {
+          $election->results[$pIx] = [];
+          $election->results[$pIx]['name'] = $party->name;
+          $election->results[$pIx]['votes'] = 0;
+        }
+
+        foreach ($parties as $party => $pIx) {
+          $election->results[$pIx]['votes'] += $party->votes;
+        }
+      }
+    }
+
+    // return $elections;
+  }
+);
+
 $app->get('/{electionSlug}/parties',
   function ($electionSlug) {
     $elections = getElections();
@@ -53,10 +80,21 @@ $app->get('/{electionSlug}/{stateSlug}/districts',
   }
 );
 
-$app->get('/geolocation/{latitude},{longitude}', function($latitude,$longitude) use ($app) {
+
+/// Geolocation
+
+$app->get('{electionSlug}/{stateSlug}/{latitude},{longitude}',
+  function ($electionSlug, $stateSlug, $latitude, $longitude) {
+
+  }
+);
+
+$app->get('/geolocation/{latitude},{longitude}',
+  function($latitude, $longitude) use ($app) {
     $controller = $app->make('App\Http\Controllers\GeoLocationController');
-    return $controller->getLocation($latitude,$longitude);
-});
+    return $controller->getLocation($latitude, $longitude);
+  }
+);
 
 /// END routes
 

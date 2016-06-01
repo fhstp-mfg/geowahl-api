@@ -51,6 +51,37 @@
     ]
   },
   {
+    "id": 2,
+    "slug": "bpw16b",
+    "name": "BPW16 2. Wahlgang",
+
+    "states": [
+      { "id": "all", "slug": "all", "name": "Alle Bundesländer" },
+      { "id": 1, "slug": "w", "name": "Wien" },
+      { "id": 2, "slug": "noe", "name": "Niederösterreich" },
+      { "id": 3, "slug": "ooe", "name": "Oberösterreich" },
+      { "id": 4, "slug": "bgld", "name": "Burgenland" },
+      { "id": 5, "slug": "stmk", "name": "Steiermark" },
+      { "id": 6, "slug": "sbg", "name": "Salzburg" },
+      { "id": 7, "slug": "ktn", "name": "Kärnten" },
+      { "id": 8, "slug": "t", "name": "Tirol" },
+      { "id": 9, "slug": "vbg", "name": "Vorarlberg" }
+    ],
+
+    "parties" : [
+      {
+        "name": "Hofer",
+        "rgba": { "r": 14, "g": 66, "b": 142, "a": 1 },
+        "hex": "#0E428E"
+      },
+      {
+        "name": "VdB",
+        "rgba": { "r": 120, "g": 175, "b": 53, "a": 1 },
+        "hex": "#78AF35"
+      }
+    ]
+  },
+  {
     "id": 3,
     "slug": "nrw15",
     "name": "Nationalratswahlen",
