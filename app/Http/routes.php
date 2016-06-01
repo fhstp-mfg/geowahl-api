@@ -25,7 +25,7 @@ Route::get('/elections', function () {
   return deliverJson($elections);
 });
 
-Route::get('/{electionSlug}',
+$app->get('/{electionSlug}',
   function ($electionSlug) {
     $elections = getElections();
 
@@ -52,7 +52,7 @@ Route::get('/{electionSlug}',
   }
 );
 
-Route::get('/{electionSlug}/parties',
+$app->get('/{electionSlug}/parties',
   function ($electionSlug) {
     $elections = getElections();
     $parties = getParties($electionSlug);
