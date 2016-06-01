@@ -28,27 +28,18 @@ Route::get('/elections', function () {
 Route::get('/{electionSlug}',
   function ($electionSlug) {
     $elections = getElections();
+    $election = 'no election with slug "'.$electionSlug.'" found';
 
-    foreach ($elections as $election) {
-      $districts = getDistricts($electionSlug, 'all');
-      $election->results = [];
-
-      foreach ($districts as $district) {
-        $parties = $district->results;
-
-        foreach ($parties as $party => $pIx) {
-          $election->results[$pIx] = [];
-          $election->results[$pIx]['name'] = $party->name;
-          $election->results[$pIx]['votes'] = 0;
-        }
-
-        foreach ($parties as $party => $pIx) {
-          $election->results[$pIx]['votes'] += $party->votes;
-        }
+    foreach ($elections as $electionObj) {
+      if ( $electionObj->slug == $electionSlug ) {
+        $districts = getDistricts($electionObj->slug, 'all');
+        $election = $electionObj;
+        $election->results = getDistrictsResults($districts);
+        break;
       }
     }
 
-    // return $elections;
+    return deliverJson($election);
   }
 );
 
@@ -68,6 +59,16 @@ Route::get('/{electionSlug}/states',
   }
 );
 
+Route::get('/{electionSlug}/{stateSlug}',
+  function ($electionSlug, $stateSlug) {
+    $districts = getDistricts($electionSlug, $stateSlug);
+    $results = getDistrictsResults($districts);
+
+    return deliverJson($results);
+  }
+);
+
+
 Route::get('/{electionSlug}/{stateSlug}/districts',
   function ($electionSlug, $stateSlug) {
     $districts = getDistricts($electionSlug, $stateSlug);
@@ -81,6 +82,8 @@ Route::get('/{electionSlug}/{stateSlug}/districts',
 );
 
 Route::get('/geolocation/{latitude},{longitude}', ['uses' =>'GeoLocationController@getLocation']);
+
+Route::get('/{electionSlug}/visualization', ['uses' =>'VisualizationController@showDonutVis']);
 
 /// END routes
 
@@ -149,8 +152,28 @@ function getDistricts ($electionSlug, $stateSlug) {
   return $districts;
 }
 
-/// Visualizations
-Route::get('/{electionSlug}/visualization', ['uses' =>'VisualizationController@showDonutVis']);
+function getDistrictsResults ($districts) {
+  $results = null;
+
+  foreach ($districts as $district) {
+    // init results parties
+    if ( is_null($results) ) {
+      foreach ($district->results as $rIx => $result) {
+        $results[$rIx] = [];
+        $results[$rIx]['name'] = $result->name;
+        $results[$rIx]['votes'] = 0;
+      }
+    }
+
+    // calculate results
+    foreach ($district->results as $rIx => $result) {
+      $results[$rIx]['votes'] += $result->votes;
+    }
+  }
+
+  return $results;
+}
+
 
 /// Helper functions
 
@@ -163,4 +186,11 @@ function deliverJson ($data) {
   ];
 
   return response()->json($data, $responseCode, $header, JSON_UNESCAPED_UNICODE);
+}
+
+function logArray ($arr) {
+  echo '<pre>';
+  print_r($arr);
+  echo '</pre>';
+  echo '<hr>';
 }
