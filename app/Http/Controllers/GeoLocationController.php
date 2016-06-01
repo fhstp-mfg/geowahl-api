@@ -19,9 +19,8 @@ class GeoLocationController extends Controller
   *
   */
   public function getLocation ($latitude, $longitude) {
-    // NOTE TODO this should be better autoloaded
-    require_once dirname(__DIR__).'/includes/api_key.php';
-    
+    //load API-Key from .env
+    $api_key = env('API_KEY');
     $url = 'https://maps.googleapis.com/maps/api/geocode/json?latlng='.$latitude.','.$longitude.'&key='.$api_key;
     // get the json response
     $resp_json = file_get_contents($url);
