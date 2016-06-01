@@ -2,118 +2,64 @@
   {
     "name": "Burgenland",
     "results": [
-      {
-        "name": "Hofer",
-        "votes": 107128
-      },
-      {
-        "name": "VdB",
-        "votes": 67249
-      }
+      { "name": "Hofer", "votes": 107128 },
+      { "name": "VdB", "votes": 67249 }
     ]
   },
   {
     "name": "Kärnten",
     "results": [
-      {
-        "name": "Hofer",
-        "votes": 169564
-      },
-      {
-        "name": "VdB",
-        "votes": 122299
-      }
+      { "name": "Hofer", "votes": 169564 },
+      { "name": "VdB", "votes": 122299 }
     ]
   },
   {
     "name": "Niederösterreich",
     "results": [
-      {
-        "name": "Hofer",
-        "votes": 513814
-      },
-      {
-        "name": "VdB",
-        "votes": 462622
-      }
+      { "name": "Hofer", "votes": 513814 },
+      { "name": "VdB", "votes": 462622 }
     ]
   },
   {
     "name": "Oberösterreich",
     "results": [
-      {
-        "name": "Hofer",
-        "votes": 376647
-      },
-      {
-        "name": "VdB",
-        "votes": 397119
-      }
+      { "name": "Hofer", "votes": 376647 },
+      { "name": "VdB", "votes": 397119 }
     ]
   },
   {
     "name": "Salzburg",
     "results": [
-      {
-        "name": "Hofer",
-        "votes": 144938
-      },
-      {
-        "name": "VdB",
-        "votes": 129569
-      }
+      { "name": "Hofer", "votes": 144938 },
+      { "name": "VdB", "votes": 129569 }
     ]
   },
   {
     "name": "Steiermark",
     "results": [
-      {
-        "name": "Hofer",
-        "votes": 381955
-      },
-      {
-        "name": "VdB",
-        "votes": 297400
-      }
+      { "name": "Hofer", "votes": 381955 },
+      { "name": "VdB", "votes": 297400 }
     ]
   },
   {
     "name": "Tirol",
     "results": [
-      {
-        "name": "Hofer",
-        "votes": 169587
-      },
-      {
-        "name": "VdB",
-        "votes": 179281
-      }
+      { "name": "Hofer", "votes": 169587 },
+      { "name": "VdB", "votes": 179281 }
     ]
   },
   {
     "name": "Vorarlberg",
     "results": [
-      {
-        "name": "Hofer",
-        "votes": 71217
-      },
-      {
-        "name": "VdB",
-        "votes": 100777
-      }
+      { "name": "Hofer", "votes": 71217 },
+      { "name": "VdB", "votes": 100777 }
     ]
   },
   {
     "name": "Wien",
     "results": [
-      {
-        "name": "Hofer",
-        "votes": 288608
-      },
-      {
-        "name": "VdB",
-        "votes": 498168
-      }
+      { "name": "Hofer", "votes": 288608 },
+      { "name": "VdB", "votes": 498168 }
     ]
   }
 ]
