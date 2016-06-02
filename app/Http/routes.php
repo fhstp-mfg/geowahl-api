@@ -15,6 +15,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/map_vis', ['uses' =>'VisualizationController@showElectionMapVis']);
+
 Route::get('/elections', function () {
   $elections = getElections();
 
@@ -48,7 +50,11 @@ Route::get('/{electionSlug}/states',
     return deliverJson($states);
   }
 );
-Route::get('/{electionSlug}/visualization', ['uses' =>'VisualizationController@showDonutVis']);
+
+Route::get('/{electionSlug}/visualization', ['uses' =>'VisualizationController@showElectionDonutVis']);
+Route::get('/{electionSlug}/{stateSlug}/visualization', ['uses' =>'VisualizationController@showStateDonutVis']);
+
+
 
 Route::get('/{electionSlug}/{stateSlug}',
   function ($electionSlug, $stateSlug) {
