@@ -43,6 +43,7 @@ Route::get('/{electionSlug}/{stateSlug}/{latitude},{longitude}',
 /// END routes
 
 
+
 /// Elections
 
 function getElections () {
@@ -59,8 +60,8 @@ function getElectionDataObj ($electionSlug) {
   foreach ($elections as $electionObj) {
     if ( $electionObj->slug == $electionSlug ) {
       $districts = getDistricts($electionObj->slug, 'results');
-      $election = $electionObj;
-      $electionObj->results = getDistrictsResults($districts);
+      $election = clone $electionObj;
+      $election->results = getDistrictsResults($districts);
       break;
     }
   }

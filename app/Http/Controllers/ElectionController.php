@@ -17,8 +17,8 @@ class ElectionController extends Controller
   {
     $elections = getElections();
 
-    foreach ($elections as $election) {
-      unset($election->states);
+    foreach ($elections as $eIx => $election) {
+      $elections[$eIx] = getElectionDataObj($election->slug);
     }
 
     $electionsObj['elections'] = $elections;
