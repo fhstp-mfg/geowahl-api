@@ -56,7 +56,7 @@ function getElectionDataObj ($electionSlug) {
     if ( $electionObj->slug == $electionSlug ) {
       $districts = getDistricts($electionObj->slug, 'results');
       $election = $electionObj;
-      $election->results = getDistrictsResults($districts);
+      $electionObj->results = getDistrictsResults($districts);
       break;
     }
   }
@@ -111,9 +111,15 @@ function getDistricts ($electionSlug, $stateSlug) {
       break;
     }
   }
-//  logArray($districts);
+
+  // calculate percentage for each district
+  foreach ($districts as $district) {
+    $district->results = calculateResultsPercentage($district->results);
+  }
+
   return $districts;
 }
+
 
 function getDistrictsResults ($districts) {
   $results = null;
@@ -174,6 +180,8 @@ function getLocation ($latitude, $longitude) {
   }
 }
 
+
+
 /// Helper functions
 
 function deliverJson ($data) {
@@ -187,22 +195,31 @@ function deliverJson ($data) {
   return response()->json($data, $responseCode, $header, JSON_UNESCAPED_UNICODE);
 }
 
+
 function calculateResultsPercentage ($results) {
   // calculate total votes
   $totalVotes = 0;
   foreach ($results as $result) {
-    $totalVotes += $result['votes'];
+    $totalVotes += is_object($result) ? $result->votes : $result['votes'];
   }
 
   // calculate percentage
   foreach ($results as $rIx => $result) {
-    $percentage = ($result['votes'] * 100) / $totalVotes;
-    $results[$rIx]['percent'] = round($percentage, 2);
-    $results[$rIx]['exact'] = $percentage;
+    $votes = is_object($result) ? $result->votes : $result['votes'];
+    $percentage = ($votes * 100) / $totalVotes;
+
+    if ( is_object($results[$rIx]) ) {
+      $results[$rIx]->percent = round($percentage, 2);
+      $results[$rIx]->exact = $percentage;
+    } else {
+      $results[$rIx]['percent'] = round($percentage, 2);
+      $results[$rIx]['exact'] = $percentage;
+    }
   }
 
   return $results;
 }
+
 
 function logArray ($arr) {
   echo '<pre>';
@@ -211,7 +228,8 @@ function logArray ($arr) {
   echo '<hr>';
 }
 
-//returns slug of a state
+
+// returns slug of a state
 function mapStateNameToSlug ($stateName) {
   $elections = getElections();
 

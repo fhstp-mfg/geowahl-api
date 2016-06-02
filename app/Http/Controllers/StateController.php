@@ -25,25 +25,30 @@ class StateController extends Controller
   public function getDistricts ($electionSlug, $stateSlug)
   {
     $districts = getDistricts($electionSlug, $stateSlug);
+    $districtsObj['districts'] = $districts;
 
-    return deliverJson($districts);
+    return deliverJson($districtsObj);
   }
 
-  
-  public function getResultsForLocation ($electionSlug, $stateSlug, $latitude, $longitude) {
+
+  public function getResultsForLocation (
+    $electionSlug, $stateSlug, $latitude, $longitude
+  ) {
     $location = getLocation($latitude, $longitude);
     $districtName = $location['district'];
     $districts = getDistricts($electionSlug, $stateSlug);
-    $results = 'no results for coordinates "'.$latitude.','.$longitude.'" found';
+    // TODO implement error handling
+    // $results = 'no results for coordinates "'.$latitude.','.$longitude.'" found';
 
     $results = [];
     foreach ($districts as $district) {
-      if ( $district->name == $districtName) {
+      if ( $district->name == $districtName ) {
         $results['name'] = $districtName;
         $results['results'] = $district->results;
         break;
       }
     }
+
     return deliverJson($results);
   }
 }

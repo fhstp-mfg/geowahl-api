@@ -21,7 +21,9 @@ class ElectionController extends Controller
       unset($election->states);
     }
 
-    return deliverJson($elections);
+    $electionsObj['elections'] = $elections;
+
+    return deliverJson($electionsObj);
   }
 
 
@@ -36,16 +38,18 @@ class ElectionController extends Controller
   public function getParties ($electionSlug)
   {
     $parties = getParties($electionSlug);
+    $partiesObj['parties'] = $parties;
 
-    return deliverJson($parties);
+    return deliverJson($partiesObj);
   }
 
 
   public function getStates ($electionSlug)
   {
     $states = getStates($electionSlug);
+    $statesObj['states'] = $states;
 
-    return deliverJson($states);
+    return deliverJson($statesObj);
   }
 
 
@@ -53,7 +57,7 @@ class ElectionController extends Controller
   {
     $location = getLocation($latitude, $longitude);
     $state = $location['state'];
-    $state = mapStateNameToSlug ($state);
+    $state = mapStateNameToSlug($state);
 
     // NOTE Code duplication from geolocationcontroller:getResultsforlocation
     $districtName = $location['district'];
@@ -65,7 +69,7 @@ class ElectionController extends Controller
     // results for district
     $results['district'] = [];
     foreach ($districts as $district) {
-      if ( $district->name == $districtName) {
+      if ( $district->name == $districtName ) {
         $results['district']['name'] = $districtName;
         $results['district']['results'] = $district->results;
         break;
