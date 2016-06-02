@@ -26,23 +26,12 @@ Route::get('/{electionSlug}/{latitude},{longitude}',
   'ElectionController@getResultsForLocation'
 );
 
-Route::get('/{electionSlug}/{stateSlug}',
-  function ($electionSlug, $stateSlug) {
-    $districts = getDistricts($electionSlug, $stateSlug);
-    $results = getDistrictsResults($districts);
+/// VisualizationController
+Route::get('/{electionSlug}/visualization', 'VisualizationController@showDonutVis');
 
-    return deliverJson($results);
-  }
-);
-
-
-Route::get('/{electionSlug}/{stateSlug}/districts',
-  function ($electionSlug, $stateSlug) {
-    $districts = getDistricts($electionSlug, $stateSlug);
-    return deliverJson($districts);
-  }
-);
-
+/// StateController
+Route::get('/{electionSlug}/{stateSlug}', 'StateController@getState');
+Route::get('/{electionSlug}/{stateSlug}/districts', 'StateController@getDistricts');
 Route::get('/{electionSlug}/{stateSlug}/{latitude},{longitude}',
   'StateController@getResultsForLocation'
 );
