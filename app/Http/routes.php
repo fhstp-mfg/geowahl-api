@@ -15,7 +15,7 @@ Route::get('/', function () {
   return view('welcome');
 });
 
-Route::get('/map_vis', ['uses' =>'VisualizationController@showElectionMapVis']);
+Route::get('/map_vis', 'VisualizationController@showElectionMapVis');
 
 /// ElectionController
 Route::get('/elections', 'ElectionController@getAllElections');
