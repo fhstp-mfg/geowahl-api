@@ -27,7 +27,7 @@ Route::get('/{electionSlug}/{latitude},{longitude}',
 );
 
 /// VisualizationController
-Route::get('/{electionSlug}/visualization', 'VisualizationController@showDonutVis');
+Route::get('/{electionSlug}/visualization', 'VisualizationController@showElectionDonutVis');
 
 /// StateController
 Route::get('/{electionSlug}/{stateSlug}', 'StateController@getState');
@@ -142,10 +142,9 @@ function getDistrictsResults ($districts) {
 
 /// Locations
 
-/*
-  * Function for returning the District with latitude and longitude
-  *
-  */
+/**
+ * Function for returning the District with latitude and longitude
+ */
 function getLocation ($latitude, $longitude) {
   //load API-Key from .env
   $api_key = env('API_KEY');

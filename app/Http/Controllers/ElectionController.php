@@ -49,7 +49,7 @@ class ElectionController extends Controller
   }
 
 
-  public function getTest ($electionSlug, $latitude, $longitude)
+  public function getResultsForLocation ($electionSlug, $latitude, $longitude)
   {
     $location = getLocation($latitude, $longitude);
     $state = $location['state'];
@@ -62,6 +62,7 @@ class ElectionController extends Controller
 
     $results = [];
 
+    // results for district
     $results['district'] = [];
     foreach ($districts as $district) {
       if ( $district->name == $districtName) {
@@ -71,10 +72,14 @@ class ElectionController extends Controller
       }
     }
 
-    //get results for states
+    // results for states
     $districts = getDistricts($electionSlug, $state);
     $results['state']['name'] = $location['state'];
     $results['state']['results'] = getDistrictsResults($districts);
+
+    // results for election
+    $electionDataObj = getElectionDataObj($electionSlug);
+    $results['election'] = $electionDataObj->results;
 
     return deliverJson($results);
   }
