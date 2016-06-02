@@ -17,8 +17,9 @@ class StateController extends Controller
   {
     $districts = getDistricts($electionSlug, $stateSlug);
     $results = getDistrictsResults($districts);
+    $stateObj['results'] = $results;
 
-    return deliverJson($results);
+    return deliverJson($stateObj);
   }
 
 

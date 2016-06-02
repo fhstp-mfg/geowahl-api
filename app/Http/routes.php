@@ -29,7 +29,12 @@ Route::get('/{electionSlug}/{latitude},{longitude}',
 );
 
 /// VisualizationController
+// TODO deprecate in favor of /{electionSlug}/donut-chart
 Route::get('/{electionSlug}/visualization',
+  'VisualizationController@showElectionDonutVis'
+);
+// NOTE use this instead of /{electionSlug}/visualization !
+Route::get('/{electionSlug}/donut-chart',
   'VisualizationController@showElectionDonutVis'
 );
 

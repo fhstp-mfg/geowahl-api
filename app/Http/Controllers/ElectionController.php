@@ -83,7 +83,8 @@ class ElectionController extends Controller
 
     // results for election
     $electionDataObj = getElectionDataObj($electionSlug);
-    $results['election'] = $electionDataObj->results;
+    $results['election']['name'] = $electionDataObj->name;
+    $results['election']['results'] = $electionDataObj->results;
 
     return deliverJson($results);
   }
