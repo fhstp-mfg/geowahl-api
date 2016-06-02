@@ -87,7 +87,7 @@
     "name": "Nationalratswahlen 2013",
 
     "states": [
-      { "id": 0, "slug": "results", "name": "Alle Bundesländer" },
+      { "id": 0, "slug": "results", "name": "Alle verfügbaren Bundesländer" },
       { "id": 1, "slug": "w", "name": "Wien" },
       { "id": 2, "slug": "noe", "name": "Niederösterreich" },
       { "id": 3, "slug": "ooe", "name": "Oberösterreich" },
