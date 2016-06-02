@@ -100,7 +100,7 @@ function getElectionDataObj ($electionSlug) {
 
   foreach ($elections as $electionObj) {
     if ( $electionObj->slug == $electionSlug ) {
-      $districts = getDistricts($electionObj->slug, 'all');
+      $districts = getDistricts($electionObj->slug, 'results');
       $election = $electionObj;
       $election->results = getDistrictsResults($districts);
       break;

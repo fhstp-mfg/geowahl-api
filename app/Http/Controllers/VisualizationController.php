@@ -11,7 +11,7 @@ class VisualizationController extends Controller
     //
     public function showDonutVis($electionSlug)
     {
-      $electionPath = 'data/json/'.$electionSlug.'/all.json';
+      $electionPath = 'data/json/'.$electionSlug.'/results.json';
       $electionData = file_get_contents($electionPath);
       $election = json_decode($electionData);
 

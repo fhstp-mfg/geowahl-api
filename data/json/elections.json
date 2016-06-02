@@ -5,7 +5,7 @@
     "name": "BPW16 1. Wahlgang",
 
     "states": [
-      { "id": "all", "slug": "all", "name": "Alle Bundesländer" },
+      { "id": "all", "slug": "results", "name": "Alle Bundesländer" },
       { "id": 1, "slug": "w", "name": "Wien" },
       { "id": 2, "slug": "noe", "name": "Niederösterreich" },
       { "id": 3, "slug": "ooe", "name": "Oberösterreich" },
@@ -56,7 +56,7 @@
     "name": "BPW16 2. Wahlgang",
 
     "states": [
-      { "id": "all", "slug": "all", "name": "Alle Bundesländer" },
+      { "id": "all", "slug": "results", "name": "Alle Bundesländer" },
       { "id": 1, "slug": "w", "name": "Wien" },
       { "id": 2, "slug": "noe", "name": "Niederösterreich" },
       { "id": 3, "slug": "ooe", "name": "Oberösterreich" },
