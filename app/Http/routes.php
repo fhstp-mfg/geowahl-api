@@ -249,6 +249,3 @@ function mapStateNameToSlug ($stateName) {
   }
   return $stateSlug;
 }
-
-
-//TODO: /elections route -> return object
