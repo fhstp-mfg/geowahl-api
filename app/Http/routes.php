@@ -35,7 +35,7 @@ Route::get('/{electionSlug}',
 
 Route::get('/{electionSlug}/parties',
   function ($electionSlug) {
-    $elections = getElections();
+//    $elections = getElections();
     $parties = getParties($electionSlug);
 
     return deliverJson($parties);
@@ -48,6 +48,38 @@ Route::get('/{electionSlug}/states',
     return deliverJson($states);
   }
 );
+
+Route::get('/{electionSlug}/{latitude},{longitude}',
+  function ($electionSlug, $latitude, $longitude) {
+    $location = getLocation($latitude, $longitude);
+    $state = $location['state'];
+    $state = mapStateNameToSlug ($state);
+    
+    //Code duplication from geolocationcontroller:getResultsforlocation
+    $districtName = $location['district'];
+    $districts = getDistricts($electionSlug, $state);
+    $results = 'no results for the district "'.$districtName.' found.';
+
+    $results = [];
+
+    $results['district'] = [];
+    foreach ($districts as $district) {
+      if ( $district->name == $districtName) {
+        $results['district']['name'] = $districtName;
+        $results['district']['results'] = $district->results;
+        break;
+      }
+    }
+
+    //get results for states
+    $districts = getDistricts($electionSlug, $state);
+    $results['state']['name'] = $location['state'];
+    $results['state']['results'] = getDistrictsResults($districts);
+    return deliverJson($results);
+  }
+);
+
+
 Route::get('/{electionSlug}/visualization', ['uses' =>'VisualizationController@showDonutVis']);
 
 Route::get('/{electionSlug}/{stateSlug}',
@@ -63,11 +95,6 @@ Route::get('/{electionSlug}/{stateSlug}',
 Route::get('/{electionSlug}/{stateSlug}/districts',
   function ($electionSlug, $stateSlug) {
     $districts = getDistricts($electionSlug, $stateSlug);
-
-    // foreach ($districts as $district) {
-    //   unset($district->results);
-    // }
-
     return deliverJson($districts);
   }
 );
@@ -76,12 +103,7 @@ Route::get('/{electionSlug}/{stateSlug}/{latitude},{longitude}',
   'GeoLocationController@getResultsForLocation'
 );
 
-Route::get('/geolocation/{latitude},{longitude}', ['uses' =>'GeoLocationController@getLocation']);
-
 /// END routes
-
-
-
 
 
 /// Elections
@@ -137,7 +159,6 @@ function getStates ($electionSlug) {
       break;
     }
   }
-
   return $states;
 }
 
@@ -157,7 +178,7 @@ function getDistricts ($electionSlug, $stateSlug) {
       break;
     }
   }
-
+//  logArray($districts);
   return $districts;
 }
 
@@ -183,6 +204,40 @@ function getDistrictsResults ($districts) {
   return $results;
 }
 
+/// Locations
+
+/*
+  * Function for returning the District with latitude and longitude
+  *
+  */
+function getLocation ($latitude, $longitude) {
+  //load API-Key from .env
+  $api_key = env('API_KEY');
+  $url = 'https://maps.googleapis.com/maps/api/geocode/json?latlng='.$latitude.','.$longitude.'&language=de&key='.$api_key;
+  // get the json response
+  $resp_json = file_get_contents($url);
+
+  // decode the json
+  $all_location_data = json_decode($resp_json, true);
+
+  if ($all_location_data['status'] === 'OK') {
+    foreach ($all_location_data['results'] as $component) {
+
+      if (in_array('administrative_area_level_1', $component['types'])) {
+        $state = $component['address_components'][0]['short_name'];
+        $result['state'] = $state;
+      }
+      if (in_array('postal_town', $component['types'])) {
+        $postal_town = $component['address_components'][0]['short_name'];
+        $result['district'] = $postal_town;
+      }
+    }
+    return $result;
+  }
+  else{
+    return 'no district for geolocation found';
+  }
+}
 
 /// Helper functions
 
@@ -203,3 +258,22 @@ function logArray ($arr) {
   echo '</pre>';
   echo '<hr>';
 }
+
+//returns slug of a state
+function mapStateNameToSlug ($stateName){
+  $elections = getElections();
+
+  foreach ($elections as $election){
+    $states = $election->states;
+    foreach ($states as $state){
+      if($state->name == $stateName){
+        $stateSlug = $state->slug;
+      }
+    }
+
+  }
+  return $stateSlug;
+}
+
+
+//TODO: /elections route -> return object
