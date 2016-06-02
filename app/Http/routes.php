@@ -48,6 +48,7 @@ Route::get('/{electionSlug}/states',
     return deliverJson($states);
   }
 );
+Route::get('/{electionSlug}/visualization', ['uses' =>'VisualizationController@showDonutVis']);
 
 Route::get('/{electionSlug}/{stateSlug}',
   function ($electionSlug, $stateSlug) {
@@ -76,8 +77,6 @@ Route::get('/{electionSlug}/{stateSlug}/{latitude},{longitude}',
 );
 
 Route::get('/geolocation/{latitude},{longitude}', ['uses' =>'GeoLocationController@getLocation']);
-
-Route::get('/{electionSlug}/visualization', ['uses' =>'VisualizationController@showDonutVis']);
 
 /// END routes
 

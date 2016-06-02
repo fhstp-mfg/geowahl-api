@@ -11,10 +11,10 @@ class VisualizationController extends Controller
     //
     public function showDonutVis($electionSlug)
     {
-      $electionPath = 'data/json/'.$electionSlug.'/results.json';
-      $electionData = file_get_contents($electionPath);
-      $election = json_decode($electionData);
+      $electionDataObj = getElectionDataObj($electionSlug);
 
-      return view('visualization')->with($election);
+      $electionResult = json_encode($electionDataObj->results);
+      //return $electionResult;
+      return view('visualization')->with('visData',$electionResult);
     }
 }
