@@ -27,7 +27,9 @@ Route::get('/{electionSlug}/{latitude},{longitude}',
 );
 
 /// VisualizationController
-Route::get('/{electionSlug}/visualization', 'VisualizationController@showElectionDonutVis');
+Route::get('/{electionSlug}/visualization',
+  'VisualizationController@showElectionDonutVis'
+);
 
 /// StateController
 Route::get('/{electionSlug}/{stateSlug}', 'StateController@getState');
