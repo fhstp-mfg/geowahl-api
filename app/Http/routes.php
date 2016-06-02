@@ -12,9 +12,11 @@
 */
 
 Route::get('/', function () {
+  // TODO create welcome view for API
   return view('welcome');
 });
 
+/// NOTE temp routes
 Route::get('/map_vis', 'VisualizationController@showElectionMapVis');
 
 /// ElectionController
