@@ -12,95 +12,26 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+  return view('welcome');
 });
 
-Route::get('/elections', function () {
-  $elections = getElections();
-
-  foreach ($elections as $election) {
-    unset($election->states);
-  }
-
-  return deliverJson($elections);
-});
-
-Route::get('/{electionSlug}',
-  function ($electionSlug) {
-    $electionDataObj = getElectionDataObj($electionSlug);
-
-    return deliverJson($electionDataObj);
-  }
-);
-
-Route::get('/{electionSlug}/parties',
-  function ($electionSlug) {
-//    $elections = getElections();
-    $parties = getParties($electionSlug);
-
-    return deliverJson($parties);
-  }
-);
-
-Route::get('/{electionSlug}/states',
-  function ($electionSlug) {
-    $states = getStates($electionSlug);
-    return deliverJson($states);
-  }
-);
-
+/// ElectionController
+Route::get('/elections', 'ElectionController@getAllElections');
+Route::get('/{electionSlug}', 'ElectionController@getElection');
+Route::get('/{electionSlug}/parties', 'ElectionController@getParties');
+Route::get('/{electionSlug}/states', 'ElectionController@getStates');
 Route::get('/{electionSlug}/{latitude},{longitude}',
-  function ($electionSlug, $latitude, $longitude) {
-    $location = getLocation($latitude, $longitude);
-    $state = $location['state'];
-    $state = mapStateNameToSlug ($state);
-    
-    //Code duplication from geolocationcontroller:getResultsforlocation
-    $districtName = $location['district'];
-    $districts = getDistricts($electionSlug, $state);
-    $results = 'no results for the district "'.$districtName.' found.';
-
-    $results = [];
-
-    $results['district'] = [];
-    foreach ($districts as $district) {
-      if ( $district->name == $districtName) {
-        $results['district']['name'] = $districtName;
-        $results['district']['results'] = $district->results;
-        break;
-      }
-    }
-
-    //get results for states
-    $districts = getDistricts($electionSlug, $state);
-    $results['state']['name'] = $location['state'];
-    $results['state']['results'] = getDistrictsResults($districts);
-    return deliverJson($results);
-  }
+  'ElectionController@getResultsForLocation'
 );
 
+/// VisualizationController
+Route::get('/{electionSlug}/visualization', 'VisualizationController@showDonutVis');
 
-Route::get('/{electionSlug}/visualization', ['uses' =>'VisualizationController@showDonutVis']);
-
-Route::get('/{electionSlug}/{stateSlug}',
-  function ($electionSlug, $stateSlug) {
-    $districts = getDistricts($electionSlug, $stateSlug);
-    $results = getDistrictsResults($districts);
-
-    return deliverJson($results);
-  }
-);
-
-
-Route::get('/{electionSlug}/{stateSlug}/districts',
-  function ($electionSlug, $stateSlug) {
-    $districts = getDistricts($electionSlug, $stateSlug);
-    return deliverJson($districts);
-  }
-);
-
+/// StateController
+Route::get('/{electionSlug}/{stateSlug}', 'StateController@getState');
+Route::get('/{electionSlug}/{stateSlug}/districts', 'StateController@getDistricts');
 Route::get('/{electionSlug}/{stateSlug}/{latitude},{longitude}',
-  'GeoLocationController@getResultsForLocation'
+  'StateController@getResultsForLocation'
 );
 
 /// END routes
@@ -280,7 +211,7 @@ function logArray ($arr) {
 }
 
 //returns slug of a state
-function mapStateNameToSlug ($stateName){
+function mapStateNameToSlug ($stateName) {
   $elections = getElections();
 
   foreach ($elections as $election){
