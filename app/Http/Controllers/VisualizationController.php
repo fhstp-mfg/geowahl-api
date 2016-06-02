@@ -8,13 +8,33 @@ use App\Http\Requests;
 
 class VisualizationController extends Controller
 {
-    //
-    public function showDonutVis($electionSlug)
-    {
-      $electionPath = 'data/json/'.$electionSlug.'/all.json';
-      $electionData = file_get_contents($electionPath);
-      $election = json_decode($electionData);
+  public function __construct () {
+    // ...
+  }
+  
 
-      return view('visualization')->with($election);
-    }
+  public function showElectionDonutVis ($electionSlug)
+  {
+    $electionDataObj = getElectionDataObj($electionSlug);
+
+    $electionResult = json_encode($electionDataObj->results);
+    //return $electionResult;
+    return view('visualization')->with('visData', $electionResult);
+  }
+
+
+  public function showStateDonutVis ($electionSlug, $stateSlug)
+  {
+    $districts = getDistricts($electionSlug, $stateSlug);
+
+    $results = json_encode(getDistrictsResults($districts));
+    //return $results;
+    return view('visualization')->with('visData', $results);
+  }
+
+
+  public function showElectionMapVis ()
+  {
+    return view('map_visualization');
+  }
 }

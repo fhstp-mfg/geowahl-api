@@ -12,76 +12,40 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+  // TODO create welcome view for API
+  return view('welcome');
 });
 
-Route::get('/elections', function () {
-  $elections = getElections();
+/// NOTE temp routes
+Route::get('/map_vis', 'VisualizationController@showElectionMapVis');
 
-  foreach ($elections as $election) {
-    unset($election->states);
-  }
-
-  return deliverJson($elections);
-});
-
-Route::get('/{electionSlug}',
-  function ($electionSlug) {
-    $electionDataObj = getElectionDataObj($electionSlug);
-
-    return deliverJson($electionDataObj);
-  }
+/// ElectionController
+Route::get('/elections', 'ElectionController@getAllElections');
+Route::get('/{electionSlug}', 'ElectionController@getElection');
+Route::get('/{electionSlug}/parties', 'ElectionController@getParties');
+Route::get('/{electionSlug}/states', 'ElectionController@getStates');
+Route::get('/{electionSlug}/{latitude},{longitude}',
+  'ElectionController@getResultsForLocation'
 );
 
-Route::get('/{electionSlug}/parties',
-  function ($electionSlug) {
-    $elections = getElections();
-    $parties = getParties($electionSlug);
-
-    return deliverJson($parties);
-  }
+/// VisualizationController
+// TODO deprecate in favor of /{electionSlug}/donut-chart
+Route::get('/{electionSlug}/visualization',
+  'VisualizationController@showElectionDonutVis'
+);
+// NOTE use this instead of /{electionSlug}/visualization !
+Route::get('/{electionSlug}/donut-chart',
+  'VisualizationController@showElectionDonutVis'
 );
 
-Route::get('/{electionSlug}/states',
-  function ($electionSlug) {
-    $states = getStates($electionSlug);
-    return deliverJson($states);
-  }
-);
-
-Route::get('/{electionSlug}/{stateSlug}',
-  function ($electionSlug, $stateSlug) {
-    $districts = getDistricts($electionSlug, $stateSlug);
-    $results = getDistrictsResults($districts);
-
-    return deliverJson($results);
-  }
-);
-
-
-Route::get('/{electionSlug}/{stateSlug}/districts',
-  function ($electionSlug, $stateSlug) {
-    $districts = getDistricts($electionSlug, $stateSlug);
-
-    // foreach ($districts as $district) {
-    //   unset($district->results);
-    // }
-
-    return deliverJson($districts);
-  }
-);
-
+/// StateController
+Route::get('/{electionSlug}/{stateSlug}', 'StateController@getState');
+Route::get('/{electionSlug}/{stateSlug}/districts', 'StateController@getDistricts');
 Route::get('/{electionSlug}/{stateSlug}/{latitude},{longitude}',
-  'GeoLocationController@getResultsForLocation'
+  'StateController@getResultsForLocation'
 );
-
-Route::get('/geolocation/{latitude},{longitude}', ['uses' =>'GeoLocationController@getLocation']);
-
-Route::get('/{electionSlug}/visualization', ['uses' =>'VisualizationController@showDonutVis']);
 
 /// END routes
-
-
 
 
 
@@ -100,8 +64,8 @@ function getElectionDataObj ($electionSlug) {
 
   foreach ($elections as $electionObj) {
     if ( $electionObj->slug == $electionSlug ) {
-      $districts = getDistricts($electionObj->slug, 'all');
-      $election = $electionObj;
+      $districts = getDistricts($electionObj->slug, 'results');
+      $election = clone $electionObj;
       $election->results = getDistrictsResults($districts);
       break;
     }
@@ -138,7 +102,6 @@ function getStates ($electionSlug) {
       break;
     }
   }
-
   return $states;
 }
 
@@ -159,8 +122,14 @@ function getDistricts ($electionSlug, $stateSlug) {
     }
   }
 
+  // calculate percentage for each district
+  foreach ($districts as $district) {
+    $district->results = calculateResultsPercentage($district->results);
+  }
+
   return $districts;
 }
+
 
 function getDistrictsResults ($districts) {
   $results = null;
@@ -181,8 +150,46 @@ function getDistrictsResults ($districts) {
     }
   }
 
+  // calculate percentage
+  $results = calculateResultsPercentage($results);
+
   return $results;
 }
+
+/// Locations
+
+/**
+ * Function for returning the District with latitude and longitude
+ */
+function getLocation ($latitude, $longitude) {
+  //load API-Key from .env
+  $api_key = env('API_KEY');
+  $url = 'https://maps.googleapis.com/maps/api/geocode/json?latlng='.$latitude.','.$longitude.'&language=de&key='.$api_key;
+  // get the json response
+  $resp_json = file_get_contents($url);
+
+  // decode the json
+  $all_location_data = json_decode($resp_json, true);
+
+  if ($all_location_data['status'] === 'OK') {
+    foreach ($all_location_data['results'] as $component) {
+
+      if (in_array('administrative_area_level_1', $component['types'])) {
+        $state = $component['address_components'][0]['short_name'];
+        $result['state'] = $state;
+      }
+      if (in_array('postal_town', $component['types'])) {
+        $postal_town = $component['address_components'][0]['short_name'];
+        $result['district'] = $postal_town;
+      }
+    }
+    return $result;
+  }
+  else{
+    return 'no district for geolocation found';
+  }
+}
+
 
 
 /// Helper functions
@@ -198,9 +205,52 @@ function deliverJson ($data) {
   return response()->json($data, $responseCode, $header, JSON_UNESCAPED_UNICODE);
 }
 
+
+function calculateResultsPercentage ($results) {
+  // calculate total votes
+  $totalVotes = 0;
+  foreach ($results as $result) {
+    $totalVotes += is_object($result) ? $result->votes : $result['votes'];
+  }
+
+  // calculate percentage
+  foreach ($results as $rIx => $result) {
+    $votes = is_object($result) ? $result->votes : $result['votes'];
+    $percentage = ($votes * 100) / $totalVotes;
+
+    if ( is_object($results[$rIx]) ) {
+      $results[$rIx]->percent = round($percentage, 2);
+      $results[$rIx]->exact = $percentage;
+    } else {
+      $results[$rIx]['percent'] = round($percentage, 2);
+      $results[$rIx]['exact'] = $percentage;
+    }
+  }
+
+  return $results;
+}
+
+
 function logArray ($arr) {
   echo '<pre>';
   print_r($arr);
   echo '</pre>';
   echo '<hr>';
+}
+
+
+// returns slug of a state
+function mapStateNameToSlug ($stateName) {
+  $elections = getElections();
+
+  foreach ($elections as $election){
+    $states = $election->states;
+    foreach ($states as $state){
+      if($state->name == $stateName){
+        $stateSlug = $state->slug;
+      }
+    }
+
+  }
+  return $stateSlug;
 }
