@@ -180,6 +180,9 @@ function getDistrictsResults ($districts) {
     }
   }
 
+  // calculate percentage
+  $results = calculateResultsPercentage($results);
+
   return $results;
 }
 
@@ -195,6 +198,23 @@ function deliverJson ($data) {
   ];
 
   return response()->json($data, $responseCode, $header, JSON_UNESCAPED_UNICODE);
+}
+
+function calculateResultsPercentage ($results) {
+  // calculate total votes
+  $totalVotes = 0;
+  foreach ($results as $result) {
+    $totalVotes += $result['votes'];
+  }
+
+  // calculate percentage
+  foreach ($results as $rIx => $result) {
+    $percentage = ($result['votes'] * 100) / $totalVotes;
+    $results[$rIx]['percent'] = round($percentage, 2);
+    $results[$rIx]['exact'] = $percentage;
+  }
+
+  return $results;
 }
 
 function logArray ($arr) {
