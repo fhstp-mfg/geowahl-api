@@ -80,5 +80,55 @@
         "hex": "#78AF35"
       }
     ]
+  },
+  {
+    "id": 3,
+    "slug": "nrw13",
+    "name": "Nationalratswahlen 2013",
+
+    "states": [
+      { "id": 0, "slug": "results", "name": "Alle Bundesländer" },
+      { "id": 1, "slug": "w", "name": "Wien" },
+      { "id": 2, "slug": "noe", "name": "Niederösterreich" },
+      { "id": 3, "slug": "ooe", "name": "Oberösterreich" },
+      { "id": 4, "slug": "bgld", "name": "Burgenland" },
+      { "id": 6, "slug": "sbg", "name": "Salzburg" },
+      { "id": 7, "slug": "ktn", "name": "Kärnten" },
+      { "id": 8, "slug": "t", "name": "Tirol" },
+      { "id": 9, "slug": "vbg", "name": "Vorarlberg" }
+    ],
+
+    "parties" : [
+      {
+        "name": "SPOE",
+        "rgba": { "r": 243, "g": 17, "b": 55, "a": 1 },
+        "hex": "#F31137"
+      },
+      {
+        "name": "FPOE",
+        "rgba": { "r": 14, "g": 66, "b": 142, "a": 1 },
+        "hex": "#0E428E"
+      },
+      {
+        "name": "OEVP",
+        "rgba": { "r": 54, "g": 54, "b": 54, "a": 1 },
+        "hex": "#363636"
+      },
+      {
+        "name": "GRUE",
+        "rgba": { "r": 120, "g": 175, "b": 53, "a": 1 },
+        "hex": "#78AF35"
+      },
+      {
+        "name": "NEOS",
+        "rgba": { "r": 234, "g": 61, "b": 136, "a": 1 },
+        "hex": "#EA3D88"
+      },
+      {
+        "name": "FRANK",
+        "rgba": { "r": 248, "g": 227, "b": 35, "a": 1 },
+        "hex": "#F8E323"
+      }
+    ]
   }
 ]
