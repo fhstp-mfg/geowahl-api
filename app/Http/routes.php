@@ -284,5 +284,5 @@ function mapStateSlugToName ($stateSlug) {
     }
 
   }
-  return $state;
+  return $stateSlug;
 }
