@@ -41,9 +41,6 @@ Route::get('/{electionSlug}/donut-chart',
 /// StateController
 Route::get('/{electionSlug}/{stateSlug}', 'StateController@getState');
 Route::get('/{electionSlug}/{stateSlug}/districts', 'StateController@getDistricts');
-Route::get('/{electionSlug}/{stateSlug}/{latitude},{longitude}',
-  'StateController@getResultsForLocation'
-);
 
 /// END routes
 
