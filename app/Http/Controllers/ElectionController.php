@@ -75,8 +75,8 @@ class ElectionController extends Controller
         break;
       }
     }
-    
-    //get results for states and election
+
+    // results for states and election
     $results += getParentGranularityResults($electionSlug, $state);
     return deliverJson($results);
   }

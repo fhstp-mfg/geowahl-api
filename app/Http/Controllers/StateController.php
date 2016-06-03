@@ -36,8 +36,8 @@ class StateController extends Controller
     $districts = getDistricts($electionSlug, $stateSlug);
     $districtsObj['districts'] = $districts;
 
-    foreach ($districtsObj['districts'] as $district){
-      if($district->id == $districtId){
+    foreach ($districtsObj['districts'] as $district) {
+      if ($district->id == $districtId) {
         $results['district'] = $district;
       }
     }
@@ -45,7 +45,7 @@ class StateController extends Controller
     //get results for states and election
     $state = mapStateSlugToName($stateSlug);
     $results += getParentGranularityResults($electionSlug, $state);
+
     return deliverJson($results);
   }
-
 }
