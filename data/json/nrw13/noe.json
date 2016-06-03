@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Krems an der Donau",
     "results": [
       { "name": "SPOE", "votes": 3852 },
@@ -11,6 +12,7 @@
     ]
   },
   {
+    "id": 2,
     "name": "St. Pölten",
     "results": [
       { "name": "SPOE", "votes": 9881 },
@@ -22,6 +24,7 @@
     ]
   },
   {
+    "id": 3,
     "name": "Waidhofen an der Ybbs",
     "results": [
       { "name": "SPOE", "votes": 1450 },
@@ -33,6 +36,7 @@
     ]
   },
   {
+    "id": 4,
     "name": "Wiener Neustadt",
     "results": [
       { "name": "SPOE", "votes": 6501 },
@@ -44,6 +48,7 @@
     ]
   },
   {
+    "id": 5,
     "name": "Wahlkarten",
     "results": [
       { "name": "SPOE", "votes": 1810 },
@@ -55,6 +60,7 @@
     ]
   },
   {
+    "id": 6,
     "name": "Allhartsberg",
     "results": [
       { "name": "SPOE", "votes": 245 },
@@ -66,6 +72,7 @@
     ]
   },
   {
+    "id": 7,
     "name": "Amstetten",
     "results": [
       { "name": "SPOE", "votes": 4250 },
@@ -77,6 +84,7 @@
     ]
   },
   {
+    "id": 8,
     "name": "Ardagger",
     "results": [
       { "name": "SPOE", "votes": 351 },
@@ -88,6 +96,7 @@
     ]
   },
   {
+    "id": 9,
     "name": "Aschbach-Markt",
     "results": [
       { "name": "SPOE", "votes": 393 },
@@ -99,6 +108,7 @@
     ]
   },
   {
+    "id": 10,
     "name": "Behamberg",
     "results": [
       { "name": "SPOE", "votes": 487 },
@@ -110,6 +120,7 @@
     ]
   },
   {
+    "id": 11,
     "name": "Biberbach",
     "results": [
       { "name": "SPOE", "votes": 249 },
@@ -121,6 +132,7 @@
     ]
   },
   {
+    "id": 12,
     "name": "Ennsdorf",
     "results": [
       { "name": "SPOE", "votes": 664 },
@@ -132,6 +144,7 @@
     ]
   },
   {
+    "id": 13,
     "name": "Ernsthofen",
     "results": [
       { "name": "SPOE", "votes": 404 },
@@ -143,6 +156,7 @@
     ]
   },
   {
+    "id": 14,
     "name": "Ertl",
     "results": [
       { "name": "SPOE", "votes": 95 },
@@ -154,6 +168,7 @@
     ]
   },
   {
+    "id": 15,
     "name": "Euratsfeld",
     "results": [
       { "name": "SPOE", "votes": 218 },
@@ -165,6 +180,7 @@
     ]
   },
   {
+    "id": 16,
     "name": "Ferschnitz",
     "results": [
       { "name": "SPOE", "votes": 169 },
@@ -176,6 +192,7 @@
     ]
   },
   {
+    "id": 17,
     "name": "Haag",
     "results": [
       { "name": "SPOE", "votes": 775 },
@@ -187,6 +204,7 @@
     ]
   },
   {
+    "id": 18,
     "name": "Haidershofen",
     "results": [
       { "name": "SPOE", "votes": 602 },
@@ -198,6 +216,7 @@
     ]
   },
   {
+    "id": 19,
     "name": "Hollenstein an der Ybbs",
     "results": [
       { "name": "SPOE", "votes": 352 },
@@ -209,6 +228,7 @@
     ]
   },
   {
+    "id": 20,
     "name": "Kematen an der Ybbs",
     "results": [
       { "name": "SPOE", "votes": 614 },
@@ -220,6 +240,7 @@
     ]
   },
   {
+    "id": 21,
     "name": "Neuhofen an der Ybbs",
     "results": [
       { "name": "SPOE", "votes": 197 },
@@ -231,6 +252,7 @@
     ]
   },
   {
+    "id": 22,
     "name": "Neustadtl an der Donau",
     "results": [
       { "name": "SPOE", "votes": 264 },
@@ -242,6 +264,7 @@
     ]
   },
   {
+    "id": 23,
     "name": "Oed - Oehling",
     "results": [
       { "name": "SPOE", "votes": 201 },
@@ -253,6 +276,7 @@
     ]
   },
   {
+    "id": 24,
     "name": "Opponitz",
     "results": [
       { "name": "SPOE", "votes": 143 },
@@ -264,6 +288,7 @@
     ]
   },
   {
+    "id": 25,
     "name": "St. Georgen am Reith",
     "results": [
       { "name": "SPOE", "votes": 94 },
@@ -275,6 +300,7 @@
     ]
   },
   {
+    "id": 26,
     "name": "St. Georgen am Ybbsfelde",
     "results": [
       { "name": "SPOE", "votes": 350 },
@@ -286,6 +312,7 @@
     ]
   },
   {
+    "id": 27,
     "name": "St. Pantaleon - Erla",
     "results": [
       { "name": "SPOE", "votes": 549 },
@@ -297,6 +324,7 @@
     ]
   },
   {
+    "id": 28,
     "name": "St. Peter in der Au",
     "results": [
       { "name": "SPOE", "votes": 520 },
@@ -308,6 +336,7 @@
     ]
   },
   {
+    "id": 29,
     "name": "St. Valentin",
     "results": [
       { "name": "SPOE", "votes": 2236 },
@@ -319,6 +348,7 @@
     ]
   },
   {
+    "id": 30,
     "name": "Seitenstetten",
     "results": [
       { "name": "SPOE", "votes": 305 },
@@ -330,6 +360,7 @@
     ]
   },
   {
+    "id": 31,
     "name": "Sonntagberg",
     "results": [
       { "name": "SPOE", "votes": 893 },
@@ -341,6 +372,7 @@
     ]
   },
   {
+    "id": 32,
     "name": "Strengberg",
     "results": [
       { "name": "SPOE", "votes": 284 },
@@ -352,6 +384,7 @@
     ]
   },
   {
+    "id": 33,
     "name": "Viehdorf",
     "results": [
       { "name": "SPOE", "votes": 141 },
@@ -363,6 +396,7 @@
     ]
   },
   {
+    "id": 34,
     "name": "Wallsee - Sindelburg",
     "results": [
       { "name": "SPOE", "votes": 281 },
@@ -374,6 +408,7 @@
     ]
   },
   {
+    "id": 35,
     "name": "Weistrach",
     "results": [
       { "name": "SPOE", "votes": 193 },
@@ -385,6 +420,7 @@
     ]
   },
   {
+    "id": 36,
     "name": "Winklarn",
     "results": [
       { "name": "SPOE", "votes": 223 },
@@ -396,6 +432,7 @@
     ]
   },
   {
+    "id": 37,
     "name": "Wolfsbach",
     "results": [
       { "name": "SPOE", "votes": 164 },
@@ -407,6 +444,7 @@
     ]
   },
   {
+    "id": 38,
     "name": "Ybbsitz",
     "results": [
       { "name": "SPOE", "votes": 325 },
@@ -418,6 +456,7 @@
     ]
   },
   {
+    "id": 39,
     "name": "Zeillern",
     "results": [
       { "name": "SPOE", "votes": 161 },
@@ -429,6 +468,7 @@
     ]
   },
   {
+    "id": 40,
     "name": "Alland",
     "results": [
       { "name": "SPOE", "votes": 258 },
@@ -440,6 +480,7 @@
     ]
   },
   {
+    "id": 41,
     "name": "Altenmarkt an der Triesting",
     "results": [
       { "name": "SPOE", "votes": 247 },
@@ -451,6 +492,7 @@
     ]
   },
   {
+    "id": 42,
     "name": "Bad Vöslau",
     "results": [
       { "name": "SPOE", "votes": 1753 },
@@ -462,6 +504,7 @@
     ]
   },
   {
+    "id": 43,
     "name": "Baden",
     "results": [
       { "name": "SPOE", "votes": 2660 },
@@ -473,6 +516,7 @@
     ]
   },
   {
+    "id": 44,
     "name": "Berndorf",
     "results": [
       { "name": "SPOE", "votes": 1575 },
@@ -484,6 +528,7 @@
     ]
   },
   {
+    "id": 45,
     "name": "Ebreichsdorf",
     "results": [
       { "name": "SPOE", "votes": 1649 },
@@ -495,6 +540,7 @@
     ]
   },
   {
+    "id": 46,
     "name": "Enzesfeld - Lindabrunn",
     "results": [
       { "name": "SPOE", "votes": 799 },
@@ -506,6 +552,7 @@
     ]
   },
   {
+    "id": 47,
     "name": "Furth an der Triesting",
     "results": [
       { "name": "SPOE", "votes": 67 },
@@ -517,6 +564,7 @@
     ]
   },
   {
+    "id": 48,
     "name": "Günselsdorf",
     "results": [
       { "name": "SPOE", "votes": 372 },
@@ -528,6 +576,7 @@
     ]
   },
   {
+    "id": 49,
     "name": "Heiligenkreuz",
     "results": [
       { "name": "SPOE", "votes": 138 },
@@ -539,6 +588,7 @@
     ]
   },
   {
+    "id": 50,
     "name": "Hernstein",
     "results": [
       { "name": "SPOE", "votes": 219 },
@@ -550,6 +600,7 @@
     ]
   },
   {
+    "id": 51,
     "name": "Hirtenberg",
     "results": [
       { "name": "SPOE", "votes": 512 },
@@ -561,6 +612,7 @@
     ]
   },
   {
+    "id": 52,
     "name": "Klausen - Leopoldsdorf",
     "results": [
       { "name": "SPOE", "votes": 248 },
@@ -572,6 +624,7 @@
     ]
   },
   {
+    "id": 53,
     "name": "Kottingbrunn",
     "results": [
       { "name": "SPOE", "votes": 1314 },
@@ -583,6 +636,7 @@
     ]
   },
   {
+    "id": 54,
     "name": "Leobersdorf",
     "results": [
       { "name": "SPOE", "votes": 778 },
@@ -594,6 +648,7 @@
     ]
   },
   {
+    "id": 55,
     "name": "Mitterndorf an der Fischa",
     "results": [
       { "name": "SPOE", "votes": 403 },
@@ -605,6 +660,7 @@
     ]
   },
   {
+    "id": 56,
     "name": "Oberwaltersdorf",
     "results": [
       { "name": "SPOE", "votes": 615 },
@@ -616,6 +672,7 @@
     ]
   },
   {
+    "id": 57,
     "name": "Pfaffstätten",
     "results": [
       { "name": "SPOE", "votes": 416 },
@@ -627,6 +684,7 @@
     ]
   },
   {
+    "id": 58,
     "name": "Pottendorf",
     "results": [
       { "name": "SPOE", "votes": 1203 },
@@ -638,6 +696,7 @@
     ]
   },
   {
+    "id": 59,
     "name": "Pottenstein",
     "results": [
       { "name": "SPOE", "votes": 521 },
@@ -649,6 +708,7 @@
     ]
   },
   {
+    "id": 60,
     "name": "Reisenberg",
     "results": [
       { "name": "SPOE", "votes": 408 },
@@ -660,6 +720,7 @@
     ]
   },
   {
+    "id": 61,
     "name": "Schönau an der Triesting",
     "results": [
       { "name": "SPOE", "votes": 380 },
@@ -671,6 +732,7 @@
     ]
   },
   {
+    "id": 62,
     "name": "Seibersdorf",
     "results": [
       { "name": "SPOE", "votes": 192 },
@@ -682,6 +744,7 @@
     ]
   },
   {
+    "id": 63,
     "name": "Sooß",
     "results": [
       { "name": "SPOE", "votes": 118 },
@@ -693,6 +756,7 @@
     ]
   },
   {
+    "id": 64,
     "name": "Tattendorf",
     "results": [
       { "name": "SPOE", "votes": 243 },
@@ -704,6 +768,7 @@
     ]
   },
   {
+    "id": 65,
     "name": "Teesdorf",
     "results": [
       { "name": "SPOE", "votes": 434 },
@@ -715,6 +780,7 @@
     ]
   },
   {
+    "id": 66,
     "name": "Traiskirchen",
     "results": [
       { "name": "SPOE", "votes": 3325 },
@@ -726,6 +792,7 @@
     ]
   },
   {
+    "id": 67,
     "name": "Trumau",
     "results": [
       { "name": "SPOE", "votes": 803 },
@@ -737,6 +804,7 @@
     ]
   },
   {
+    "id": 68,
     "name": "Weissenbach an der Triesting",
     "results": [
       { "name": "SPOE", "votes": 319 },
@@ -748,6 +816,7 @@
     ]
   },
   {
+    "id": 69,
     "name": "Blumau - Neurißhof",
     "results": [
       { "name": "SPOE", "votes": 297 },
@@ -759,6 +828,7 @@
     ]
   },
   {
+    "id": 70,
     "name": "Au am Leithaberge",
     "results": [
       { "name": "SPOE", "votes": 111 },
@@ -770,6 +840,7 @@
     ]
   },
   {
+    "id": 71,
     "name": "Bad Deutsch-Altenburg",
     "results": [
       { "name": "SPOE", "votes": 232 },
@@ -781,6 +852,7 @@
     ]
   },
   {
+    "id": 72,
     "name": "Berg",
     "results": [
       { "name": "SPOE", "votes": 173 },
@@ -792,6 +864,7 @@
     ]
   },
   {
+    "id": 73,
     "name": "Bruck an der Leitha",
     "results": [
       { "name": "SPOE", "votes": 1469 },
@@ -803,6 +876,7 @@
     ]
   },
   {
+    "id": 74,
     "name": "Enzersdorf an der Fischa",
     "results": [
       { "name": "SPOE", "votes": 630 },
@@ -814,6 +888,7 @@
     ]
   },
   {
+    "id": 75,
     "name": "Göttlesbrunn - Arbesthal",
     "results": [
       { "name": "SPOE", "votes": 146 },
@@ -825,6 +900,7 @@
     ]
   },
   {
+    "id": 76,
     "name": "Götzendorf an der Leitha",
     "results": [
       { "name": "SPOE", "votes": 411 },
@@ -836,6 +912,7 @@
     ]
   },
   {
+    "id": 77,
     "name": "Hainburg a. d. Donau",
     "results": [
       { "name": "SPOE", "votes": 733 },
@@ -847,6 +924,7 @@
     ]
   },
   {
+    "id": 78,
     "name": "Haslau - Maria Ellend",
     "results": [
       { "name": "SPOE", "votes": 388 },
@@ -858,6 +936,7 @@
     ]
   },
   {
+    "id": 79,
     "name": "Höflein",
     "results": [
       { "name": "SPOE", "votes": 158 },
@@ -869,6 +948,7 @@
     ]
   },
   {
+    "id": 80,
     "name": "Hof am Leithaberge",
     "results": [
       { "name": "SPOE", "votes": 272 },
@@ -880,6 +960,7 @@
     ]
   },
   {
+    "id": 81,
     "name": "Hundsheim",
     "results": [
       { "name": "SPOE", "votes": 150 },
@@ -891,6 +972,7 @@
     ]
   },
   {
+    "id": 82,
     "name": "Mannersdorf am Leithagebirge",
     "results": [
       { "name": "SPOE", "votes": 1039 },
@@ -902,6 +984,7 @@
     ]
   },
   {
+    "id": 83,
     "name": "Petronell - Carnuntum",
     "results": [
       { "name": "SPOE", "votes": 246 },
@@ -913,6 +996,7 @@
     ]
   },
   {
+    "id": 84,
     "name": "Prellenkirchen",
     "results": [
       { "name": "SPOE", "votes": 205 },
@@ -924,6 +1008,7 @@
     ]
   },
   {
+    "id": 85,
     "name": "Rohrau",
     "results": [
       { "name": "SPOE", "votes": 253 },
@@ -935,6 +1020,7 @@
     ]
   },
   {
+    "id": 86,
     "name": "Scharndorf",
     "results": [
       { "name": "SPOE", "votes": 170 },
@@ -946,6 +1032,7 @@
     ]
   },
   {
+    "id": 87,
     "name": "Sommerein",
     "results": [
       { "name": "SPOE", "votes": 509 },
@@ -957,6 +1044,7 @@
     ]
   },
   {
+    "id": 88,
     "name": "Trautmannsdorf an der Leitha",
     "results": [
       { "name": "SPOE", "votes": 493 },
@@ -968,6 +1056,7 @@
     ]
   },
   {
+    "id": 89,
     "name": "Wolfsthal",
     "results": [
       { "name": "SPOE", "votes": 122 },
@@ -979,6 +1068,7 @@
     ]
   },
   {
+    "id": 90,
     "name": "Aderklaa",
     "results": [
       { "name": "SPOE", "votes": 4 },
@@ -990,6 +1080,7 @@
     ]
   },
   {
+    "id": 91,
     "name": "Andlersdorf",
     "results": [
       { "name": "SPOE", "votes": 14 },
@@ -1001,6 +1092,7 @@
     ]
   },
   {
+    "id": 92,
     "name": "Angern an der March",
     "results": [
       { "name": "SPOE", "votes": 813 },
@@ -1012,6 +1104,7 @@
     ]
   },
   {
+    "id": 93,
     "name": "Auersthal",
     "results": [
       { "name": "SPOE", "votes": 374 },
@@ -1023,6 +1116,7 @@
     ]
   },
   {
+    "id": 94,
     "name": "Bad Pirawarth",
     "results": [
       { "name": "SPOE", "votes": 300 },
@@ -1034,6 +1128,7 @@
     ]
   },
   {
+    "id": 95,
     "name": "Deutsch-Wagram",
     "results": [
       { "name": "SPOE", "votes": 1219 },
@@ -1045,6 +1140,7 @@
     ]
   },
   {
+    "id": 96,
     "name": "Drösing",
     "results": [
       { "name": "SPOE", "votes": 254 },
@@ -1056,6 +1152,7 @@
     ]
   },
   {
+    "id": 97,
     "name": "Dürnkrut",
     "results": [
       { "name": "SPOE", "votes": 567 },
@@ -1067,6 +1164,7 @@
     ]
   },
   {
+    "id": 98,
     "name": "Ebenthal",
     "results": [
       { "name": "SPOE", "votes": 131 },
@@ -1078,6 +1176,7 @@
     ]
   },
   {
+    "id": 99,
     "name": "Eckartsau",
     "results": [
       { "name": "SPOE", "votes": 155 },
@@ -1089,6 +1188,7 @@
     ]
   },
   {
+    "id": 100,
     "name": "Engelhartstetten",
     "results": [
       { "name": "SPOE", "votes": 340 },
@@ -1100,6 +1200,7 @@
     ]
   },
   {
+    "id": 101,
     "name": "Gänserndorf",
     "results": [
       { "name": "SPOE", "votes": 1803 },
@@ -1111,6 +1212,7 @@
     ]
   },
   {
+    "id": 102,
     "name": "Glinzendorf",
     "results": [
       { "name": "SPOE", "votes": 28 },
@@ -1122,6 +1224,7 @@
     ]
   },
   {
+    "id": 103,
     "name": "Groß-Enzersdorf",
     "results": [
       { "name": "SPOE", "votes": 1679 },
@@ -1133,6 +1236,7 @@
     ]
   },
   {
+    "id": 104,
     "name": "Großhofen",
     "results": [
       { "name": "SPOE", "votes": 4 },
@@ -1144,6 +1248,7 @@
     ]
   },
   {
+    "id": 105,
     "name": "Groß-Schweinbarth",
     "results": [
       { "name": "SPOE", "votes": 245 },
@@ -1155,6 +1260,7 @@
     ]
   },
   {
+    "id": 106,
     "name": "Haringsee",
     "results": [
       { "name": "SPOE", "votes": 178 },
@@ -1166,6 +1272,7 @@
     ]
   },
   {
+    "id": 107,
     "name": "Hauskirchen",
     "results": [
       { "name": "SPOE", "votes": 206 },
@@ -1177,6 +1284,7 @@
     ]
   },
   {
+    "id": 108,
     "name": "Hohenau an der March",
     "results": [
       { "name": "SPOE", "votes": 784 },
@@ -1188,6 +1296,7 @@
     ]
   },
   {
+    "id": 109,
     "name": "Hohenruppersdorf",
     "results": [
       { "name": "SPOE", "votes": 108 },
@@ -1199,6 +1308,7 @@
     ]
   },
   {
+    "id": 110,
     "name": "Jedenspeigen",
     "results": [
       { "name": "SPOE", "votes": 247 },
@@ -1210,6 +1320,7 @@
     ]
   },
   {
+    "id": 111,
     "name": "Lassee",
     "results": [
       { "name": "SPOE", "votes": 389 },
@@ -1221,6 +1332,7 @@
     ]
   },
   {
+    "id": 112,
     "name": "Leopoldsdorf im Marchfelde",
     "results": [
       { "name": "SPOE", "votes": 550 },
@@ -1232,6 +1344,7 @@
     ]
   },
   {
+    "id": 113,
     "name": "Mannsdorf an der Donau",
     "results": [
       { "name": "SPOE", "votes": 42 },
@@ -1243,6 +1356,7 @@
     ]
   },
   {
+    "id": 114,
     "name": "Marchegg",
     "results": [
       { "name": "SPOE", "votes": 634 },
@@ -1254,6 +1368,7 @@
     ]
   },
   {
+    "id": 115,
     "name": "Markgrafneusiedl",
     "results": [
       { "name": "SPOE", "votes": 185 },
@@ -1265,6 +1380,7 @@
     ]
   },
   {
+    "id": 116,
     "name": "Matzen - Raggendorf",
     "results": [
       { "name": "SPOE", "votes": 489 },
@@ -1276,6 +1392,7 @@
     ]
   },
   {
+    "id": 117,
     "name": "Neusiedl an der Zaya",
     "results": [
       { "name": "SPOE", "votes": 202 },
@@ -1287,6 +1404,7 @@
     ]
   },
   {
+    "id": 118,
     "name": "Obersiebenbrunn",
     "results": [
       { "name": "SPOE", "votes": 329 },
@@ -1298,6 +1416,7 @@
     ]
   },
   {
+    "id": 119,
     "name": "Orth an der Donau",
     "results": [
       { "name": "SPOE", "votes": 284 },
@@ -1309,6 +1428,7 @@
     ]
   },
   {
+    "id": 120,
     "name": "Palterndorf - Dobermannsdorf",
     "results": [
       { "name": "SPOE", "votes": 186 },
@@ -1320,6 +1440,7 @@
     ]
   },
   {
+    "id": 121,
     "name": "Parbasdorf",
     "results": [
       { "name": "SPOE", "votes": 9 },
@@ -1331,6 +1452,7 @@
     ]
   },
   {
+    "id": 122,
     "name": "Prottes",
     "results": [
       { "name": "SPOE", "votes": 260 },
@@ -1342,6 +1464,7 @@
     ]
   },
   {
+    "id": 123,
     "name": "Raasdorf",
     "results": [
       { "name": "SPOE", "votes": 94 },
@@ -1353,6 +1476,7 @@
     ]
   },
   {
+    "id": 124,
     "name": "Ringelsdorf - Niederabsdorf",
     "results": [
       { "name": "SPOE", "votes": 351 },
@@ -1364,6 +1488,7 @@
     ]
   },
   {
+    "id": 125,
     "name": "Schönkirchen - Reyersdorf",
     "results": [
       { "name": "SPOE", "votes": 364 },
@@ -1375,6 +1500,7 @@
     ]
   },
   {
+    "id": 126,
     "name": "Spannberg",
     "results": [
       { "name": "SPOE", "votes": 121 },
@@ -1386,6 +1512,7 @@
     ]
   },
   {
+    "id": 127,
     "name": "Strasshof an der Nordbahn",
     "results": [
       { "name": "SPOE", "votes": 1779 },
@@ -1397,6 +1524,7 @@
     ]
   },
   {
+    "id": 128,
     "name": "Sulz im Weinviertel",
     "results": [
       { "name": "SPOE", "votes": 160 },
@@ -1408,6 +1536,7 @@
     ]
   },
   {
+    "id": 129,
     "name": "Untersiebenbrunn",
     "results": [
       { "name": "SPOE", "votes": 372 },
@@ -1419,6 +1548,7 @@
     ]
   },
   {
+    "id": 130,
     "name": "Velm - Götzendorf",
     "results": [
       { "name": "SPOE", "votes": 125 },
@@ -1430,6 +1560,7 @@
     ]
   },
   {
+    "id": 131,
     "name": "Weikendorf",
     "results": [
       { "name": "SPOE", "votes": 315 },
@@ -1441,6 +1572,7 @@
     ]
   },
   {
+    "id": 132,
     "name": "Zistersdorf",
     "results": [
       { "name": "SPOE", "votes": 769 },
@@ -1452,6 +1584,7 @@
     ]
   },
   {
+    "id": 133,
     "name": "Weiden an der March",
     "results": [
       { "name": "SPOE", "votes": 102 },
@@ -1463,6 +1596,7 @@
     ]
   },
   {
+    "id": 134,
     "name": "Amaliendorf - Aalfang",
     "results": [
       { "name": "SPOE", "votes": 302 },
@@ -1474,6 +1608,7 @@
     ]
   },
   {
+    "id": 135,
     "name": "Brand - Nagelberg",
     "results": [
       { "name": "SPOE", "votes": 543 },
@@ -1485,6 +1620,7 @@
     ]
   },
   {
+    "id": 136,
     "name": "Eggern",
     "results": [
       { "name": "SPOE", "votes": 122 },
@@ -1496,6 +1632,7 @@
     ]
   },
   {
+    "id": 137,
     "name": "Eisgarn",
     "results": [
       { "name": "SPOE", "votes": 142 },
@@ -1507,6 +1644,7 @@
     ]
   },
   {
+    "id": 138,
     "name": "Gmünd",
     "results": [
       { "name": "SPOE", "votes": 1211 },
@@ -1518,6 +1656,7 @@
     ]
   },
   {
+    "id": 139,
     "name": "Großdietmanns",
     "results": [
       { "name": "SPOE", "votes": 393 },
@@ -1529,6 +1668,7 @@
     ]
   },
   {
+    "id": 140,
     "name": "Bad Großpertholz",
     "results": [
       { "name": "SPOE", "votes": 259 },
@@ -1540,6 +1680,7 @@
     ]
   },
   {
+    "id": 141,
     "name": "Großschönau",
     "results": [
       { "name": "SPOE", "votes": 103 },
@@ -1551,6 +1692,7 @@
     ]
   },
   {
+    "id": 142,
     "name": "Moorbad Harbach",
     "results": [
       { "name": "SPOE", "votes": 100 },
@@ -1562,6 +1704,7 @@
     ]
   },
   {
+    "id": 143,
     "name": "Haugschlag",
     "results": [
       { "name": "SPOE", "votes": 86 },
@@ -1573,6 +1716,7 @@
     ]
   },
   {
+    "id": 144,
     "name": "Heidenreichstein",
     "results": [
       { "name": "SPOE", "votes": 844 },
@@ -1584,6 +1728,7 @@
     ]
   },
   {
+    "id": 145,
     "name": "Hirschbach",
     "results": [
       { "name": "SPOE", "votes": 136 },
@@ -1595,6 +1740,7 @@
     ]
   },
   {
+    "id": 146,
     "name": "Hoheneich",
     "results": [
       { "name": "SPOE", "votes": 289 },
@@ -1606,6 +1752,7 @@
     ]
   },
   {
+    "id": 147,
     "name": "Kirchberg am Walde",
     "results": [
       { "name": "SPOE", "votes": 188 },
@@ -1617,6 +1764,7 @@
     ]
   },
   {
+    "id": 148,
     "name": "Litschau",
     "results": [
       { "name": "SPOE", "votes": 422 },
@@ -1628,6 +1776,7 @@
     ]
   },
   {
+    "id": 149,
     "name": "Reingers",
     "results": [
       { "name": "SPOE", "votes": 71 },
@@ -1639,6 +1788,7 @@
     ]
   },
   {
+    "id": 150,
     "name": "St. Martin",
     "results": [
       { "name": "SPOE", "votes": 167 },
@@ -1650,6 +1800,7 @@
     ]
   },
   {
+    "id": 151,
     "name": "Schrems",
     "results": [
       { "name": "SPOE", "votes": 1293 },
@@ -1661,6 +1812,7 @@
     ]
   },
   {
+    "id": 152,
     "name": "Unserfrau - Altweitra",
     "results": [
       { "name": "SPOE", "votes": 114 },
@@ -1672,6 +1824,7 @@
     ]
   },
   {
+    "id": 153,
     "name": "Waldenstein",
     "results": [
       { "name": "SPOE", "votes": 116 },
@@ -1683,6 +1836,7 @@
     ]
   },
   {
+    "id": 154,
     "name": "Weitra",
     "results": [
       { "name": "SPOE", "votes": 386 },
@@ -1694,6 +1848,7 @@
     ]
   },
   {
+    "id": 155,
     "name": "Alberndorf im Pulkautal",
     "results": [
       { "name": "SPOE", "votes": 125 },
@@ -1705,6 +1860,7 @@
     ]
   },
   {
+    "id": 156,
     "name": "Göllersdorf",
     "results": [
       { "name": "SPOE", "votes": 381 },
@@ -1716,6 +1872,7 @@
     ]
   },
   {
+    "id": 157,
     "name": "Grabern",
     "results": [
       { "name": "SPOE", "votes": 182 },
@@ -1727,6 +1884,7 @@
     ]
   },
   {
+    "id": 158,
     "name": "Guntersdorf",
     "results": [
       { "name": "SPOE", "votes": 152 },
@@ -1738,6 +1896,7 @@
     ]
   },
   {
+    "id": 159,
     "name": "Hadres",
     "results": [
       { "name": "SPOE", "votes": 282 },
@@ -1749,6 +1908,7 @@
     ]
   },
   {
+    "id": 160,
     "name": "Hardegg",
     "results": [
       { "name": "SPOE", "votes": 188 },
@@ -1760,6 +1920,7 @@
     ]
   },
   {
+    "id": 161,
     "name": "Haugsdorf",
     "results": [
       { "name": "SPOE", "votes": 319 },
@@ -1771,6 +1932,7 @@
     ]
   },
   {
+    "id": 162,
     "name": "Heldenberg",
     "results": [
       { "name": "SPOE", "votes": 146 },
@@ -1782,6 +1944,7 @@
     ]
   },
   {
+    "id": 163,
     "name": "Hohenwarth - Mühlbach am Manhartsberg",
     "results": [
       { "name": "SPOE", "votes": 167 },
@@ -1793,6 +1956,7 @@
     ]
   },
   {
+    "id": 164,
     "name": "Hollabrunn",
     "results": [
       { "name": "SPOE", "votes": 1493 },
@@ -1804,6 +1968,7 @@
     ]
   },
   {
+    "id": 165,
     "name": "Mailberg",
     "results": [
       { "name": "SPOE", "votes": 126 },
@@ -1815,6 +1980,7 @@
     ]
   },
   {
+    "id": 166,
     "name": "Maissau",
     "results": [
       { "name": "SPOE", "votes": 313 },
@@ -1826,6 +1992,7 @@
     ]
   },
   {
+    "id": 167,
     "name": "Nappersdorf - Kammersdorf",
     "results": [
       { "name": "SPOE", "votes": 170 },
@@ -1837,6 +2004,7 @@
     ]
   },
   {
+    "id": 168,
     "name": "Pernersdorf",
     "results": [
       { "name": "SPOE", "votes": 209 },
@@ -1848,6 +2016,7 @@
     ]
   },
   {
+    "id": 169,
     "name": "Pulkau",
     "results": [
       { "name": "SPOE", "votes": 240 },
@@ -1859,6 +2028,7 @@
     ]
   },
   {
+    "id": 170,
     "name": "Ravelsbach",
     "results": [
       { "name": "SPOE", "votes": 238 },
@@ -1870,6 +2040,7 @@
     ]
   },
   {
+    "id": 171,
     "name": "Retz",
     "results": [
       { "name": "SPOE", "votes": 567 },
@@ -1881,6 +2052,7 @@
     ]
   },
   {
+    "id": 172,
     "name": "Retzbach",
     "results": [
       { "name": "SPOE", "votes": 139 },
@@ -1892,6 +2064,7 @@
     ]
   },
   {
+    "id": 173,
     "name": "Schrattenthal",
     "results": [
       { "name": "SPOE", "votes": 152 },
@@ -1903,6 +2076,7 @@
     ]
   },
   {
+    "id": 174,
     "name": "Seefeld - Kadolz",
     "results": [
       { "name": "SPOE", "votes": 233 },
@@ -1914,6 +2088,7 @@
     ]
   },
   {
+    "id": 175,
     "name": "Sitzendorf an der Schmida",
     "results": [
       { "name": "SPOE", "votes": 267 },
@@ -1925,6 +2100,7 @@
     ]
   },
   {
+    "id": 176,
     "name": "Wullersdorf",
     "results": [
       { "name": "SPOE", "votes": 337 },
@@ -1936,6 +2112,7 @@
     ]
   },
   {
+    "id": 177,
     "name": "Zellerndorf",
     "results": [
       { "name": "SPOE", "votes": 469 },
@@ -1947,6 +2124,7 @@
     ]
   },
   {
+    "id": 178,
     "name": "Ziersdorf",
     "results": [
       { "name": "SPOE", "votes": 491 },
@@ -1958,6 +2136,7 @@
     ]
   },
   {
+    "id": 179,
     "name": "Altenburg",
     "results": [
       { "name": "SPOE", "votes": 99 },
@@ -1969,6 +2148,7 @@
     ]
   },
   {
+    "id": 180,
     "name": "Brunn an der Wild",
     "results": [
       { "name": "SPOE", "votes": 69 },
@@ -1980,6 +2160,7 @@
     ]
   },
   {
+    "id": 181,
     "name": "Burgschleinitz - Kühnring",
     "results": [
       { "name": "SPOE", "votes": 182 },
@@ -1991,6 +2172,7 @@
     ]
   },
   {
+    "id": 182,
     "name": "Drosendorf - Zissersdorf",
     "results": [
       { "name": "SPOE", "votes": 116 },
@@ -2002,6 +2184,7 @@
     ]
   },
   {
+    "id": 183,
     "name": "Eggenburg",
     "results": [
       { "name": "SPOE", "votes": 535 },
@@ -2013,6 +2196,7 @@
     ]
   },
   {
+    "id": 184,
     "name": "Gars am Kamp",
     "results": [
       { "name": "SPOE", "votes": 528 },
@@ -2024,6 +2208,7 @@
     ]
   },
   {
+    "id": 185,
     "name": "Geras",
     "results": [
       { "name": "SPOE", "votes": 167 },
@@ -2035,6 +2220,7 @@
     ]
   },
   {
+    "id": 186,
     "name": "Horn",
     "results": [
       { "name": "SPOE", "votes": 772 },
@@ -2046,6 +2232,7 @@
     ]
   },
   {
+    "id": 187,
     "name": "Irnfritz - Messern",
     "results": [
       { "name": "SPOE", "votes": 157 },
@@ -2057,6 +2244,7 @@
     ]
   },
   {
+    "id": 188,
     "name": "Japons",
     "results": [
       { "name": "SPOE", "votes": 56 },
@@ -2068,6 +2256,7 @@
     ]
   },
   {
+    "id": 189,
     "name": "Langau",
     "results": [
       { "name": "SPOE", "votes": 100 },
@@ -2079,6 +2268,7 @@
     ]
   },
   {
+    "id": 190,
     "name": "Meiseldorf",
     "results": [
       { "name": "SPOE", "votes": 134 },
@@ -2090,6 +2280,7 @@
     ]
   },
   {
+    "id": 191,
     "name": "Pernegg",
     "results": [
       { "name": "SPOE", "votes": 83 },
@@ -2101,6 +2292,7 @@
     ]
   },
   {
+    "id": 192,
     "name": "Röhrenbach",
     "results": [
       { "name": "SPOE", "votes": 33 },
@@ -2112,6 +2304,7 @@
     ]
   },
   {
+    "id": 193,
     "name": "Röschitz",
     "results": [
       { "name": "SPOE", "votes": 172 },
@@ -2123,6 +2316,7 @@
     ]
   },
   {
+    "id": 194,
     "name": "Rosenburg - Mold",
     "results": [
       { "name": "SPOE", "votes": 101 },
@@ -2134,6 +2328,7 @@
     ]
   },
   {
+    "id": 195,
     "name": "St. Bernhard - Frauenhofen",
     "results": [
       { "name": "SPOE", "votes": 120 },
@@ -2145,6 +2340,7 @@
     ]
   },
   {
+    "id": 196,
     "name": "Sigmundsherberg",
     "results": [
       { "name": "SPOE", "votes": 375 },
@@ -2156,6 +2352,7 @@
     ]
   },
   {
+    "id": 197,
     "name": "Weitersfeld",
     "results": [
       { "name": "SPOE", "votes": 140 },
@@ -2167,6 +2364,7 @@
     ]
   },
   {
+    "id": 198,
     "name": "Straning - Grafenberg",
     "results": [
       { "name": "SPOE", "votes": 118 },
@@ -2178,6 +2376,7 @@
     ]
   },
   {
+    "id": 199,
     "name": "Bisamberg",
     "results": [
       { "name": "SPOE", "votes": 522 },
@@ -2189,6 +2388,7 @@
     ]
   },
   {
+    "id": 200,
     "name": "Enzersfeld im Weinviertel",
     "results": [
       { "name": "SPOE", "votes": 309 },
@@ -2200,6 +2400,7 @@
     ]
   },
   {
+    "id": 201,
     "name": "Ernstbrunn",
     "results": [
       { "name": "SPOE", "votes": 364 },
@@ -2211,6 +2412,7 @@
     ]
   },
   {
+    "id": 202,
     "name": "Großmugl",
     "results": [
       { "name": "SPOE", "votes": 144 },
@@ -2222,6 +2424,7 @@
     ]
   },
   {
+    "id": 203,
     "name": "Großrußbach",
     "results": [
       { "name": "SPOE", "votes": 228 },
@@ -2233,6 +2436,7 @@
     ]
   },
   {
+    "id": 204,
     "name": "Hagenbrunn",
     "results": [
       { "name": "SPOE", "votes": 247 },
@@ -2244,6 +2448,7 @@
     ]
   },
   {
+    "id": 205,
     "name": "Harmannsdorf",
     "results": [
       { "name": "SPOE", "votes": 546 },
@@ -2255,6 +2460,7 @@
     ]
   },
   {
+    "id": 206,
     "name": "Hausleiten",
     "results": [
       { "name": "SPOE", "votes": 485 },
@@ -2266,6 +2472,7 @@
     ]
   },
   {
+    "id": 207,
     "name": "Korneuburg",
     "results": [
       { "name": "SPOE", "votes": 1629 },
@@ -2277,6 +2484,7 @@
     ]
   },
   {
+    "id": 208,
     "name": "Langenzersdorf",
     "results": [
       { "name": "SPOE", "votes": 951 },
@@ -2288,6 +2496,7 @@
     ]
   },
   {
+    "id": 209,
     "name": "Leitzersdorf",
     "results": [
       { "name": "SPOE", "votes": 140 },
@@ -2299,6 +2508,7 @@
     ]
   },
   {
+    "id": 210,
     "name": "Leobendorf",
     "results": [
       { "name": "SPOE", "votes": 681 },
@@ -2310,6 +2520,7 @@
     ]
   },
   {
+    "id": 211,
     "name": "Rußbach",
     "results": [
       { "name": "SPOE", "votes": 197 },
@@ -2321,6 +2532,7 @@
     ]
   },
   {
+    "id": 212,
     "name": "Sierndorf",
     "results": [
       { "name": "SPOE", "votes": 476 },
@@ -2332,6 +2544,7 @@
     ]
   },
   {
+    "id": 213,
     "name": "Spillern",
     "results": [
       { "name": "SPOE", "votes": 431 },
@@ -2343,6 +2556,7 @@
     ]
   },
   {
+    "id": 214,
     "name": "Stetteldorf am Wagram",
     "results": [
       { "name": "SPOE", "votes": 120 },
@@ -2354,6 +2568,7 @@
     ]
   },
   {
+    "id": 215,
     "name": "Stetten",
     "results": [
       { "name": "SPOE", "votes": 273 },
@@ -2365,6 +2580,7 @@
     ]
   },
   {
+    "id": 216,
     "name": "Stockerau",
     "results": [
       { "name": "SPOE", "votes": 2715 },
@@ -2376,6 +2592,7 @@
     ]
   },
   {
+    "id": 217,
     "name": "Niederhollabrunn",
     "results": [
       { "name": "SPOE", "votes": 191 },
@@ -2387,6 +2604,7 @@
     ]
   },
   {
+    "id": 218,
     "name": "Aggsbach",
     "results": [
       { "name": "SPOE", "votes": 160 },
@@ -2398,6 +2616,7 @@
     ]
   },
   {
+    "id": 219,
     "name": "Albrechtsberg an der großen Krems",
     "results": [
       { "name": "SPOE", "votes": 183 },
@@ -2409,6 +2628,7 @@
     ]
   },
   {
+    "id": 220,
     "name": "Bergern im Dunkelsteinerwald",
     "results": [
       { "name": "SPOE", "votes": 190 },
@@ -2420,6 +2640,7 @@
     ]
   },
   {
+    "id": 221,
     "name": "Dürnstein",
     "results": [
       { "name": "SPOE", "votes": 115 },
@@ -2431,6 +2652,7 @@
     ]
   },
   {
+    "id": 222,
     "name": "Grafenegg",
     "results": [
       { "name": "SPOE", "votes": 426 },
@@ -2442,6 +2664,7 @@
     ]
   },
   {
+    "id": 223,
     "name": "Furth bei Göttweig",
     "results": [
       { "name": "SPOE", "votes": 522 },
@@ -2453,6 +2676,7 @@
     ]
   },
   {
+    "id": 224,
     "name": "Gedersdorf",
     "results": [
       { "name": "SPOE", "votes": 432 },
@@ -2464,6 +2688,7 @@
     ]
   },
   {
+    "id": 225,
     "name": "Gföhl",
     "results": [
       { "name": "SPOE", "votes": 540 },
@@ -2475,6 +2700,7 @@
     ]
   },
   {
+    "id": 226,
     "name": "Hadersdorf - Kammern",
     "results": [
       { "name": "SPOE", "votes": 375 },
@@ -2486,6 +2712,7 @@
     ]
   },
   {
+    "id": 227,
     "name": "Jaidhof",
     "results": [
       { "name": "SPOE", "votes": 136 },
@@ -2497,6 +2724,7 @@
     ]
   },
   {
+    "id": 228,
     "name": "Krumau am Kamp",
     "results": [
       { "name": "SPOE", "votes": 104 },
@@ -2508,6 +2736,7 @@
     ]
   },
   {
+    "id": 229,
     "name": "Langenlois",
     "results": [
       { "name": "SPOE", "votes": 911 },
@@ -2519,6 +2748,7 @@
     ]
   },
   {
+    "id": 230,
     "name": "Lengenfeld",
     "results": [
       { "name": "SPOE", "votes": 222 },
@@ -2530,6 +2760,7 @@
     ]
   },
   {
+    "id": 231,
     "name": "Lichtenau im Waldviertel",
     "results": [
       { "name": "SPOE", "votes": 220 },
@@ -2541,6 +2772,7 @@
     ]
   },
   {
+    "id": 232,
     "name": "Maria Laach am Jauerling",
     "results": [
       { "name": "SPOE", "votes": 99 },
@@ -2552,6 +2784,7 @@
     ]
   },
   {
+    "id": 233,
     "name": "Mautern an der Donau",
     "results": [
       { "name": "SPOE", "votes": 469 },
@@ -2563,6 +2796,7 @@
     ]
   },
   {
+    "id": 234,
     "name": "Mühldorf",
     "results": [
       { "name": "SPOE", "votes": 269 },
@@ -2574,6 +2808,7 @@
     ]
   },
   {
+    "id": 235,
     "name": "Paudorf",
     "results": [
       { "name": "SPOE", "votes": 567 },
@@ -2585,6 +2820,7 @@
     ]
   },
   {
+    "id": 236,
     "name": "Rastenfeld",
     "results": [
       { "name": "SPOE", "votes": 172 },
@@ -2596,6 +2832,7 @@
     ]
   },
   {
+    "id": 237,
     "name": "Rohrendorf bei Krems",
     "results": [
       { "name": "SPOE", "votes": 327 },
@@ -2607,6 +2844,7 @@
     ]
   },
   {
+    "id": 238,
     "name": "Rossatz - Arnsdorf",
     "results": [
       { "name": "SPOE", "votes": 196 },
@@ -2618,6 +2856,7 @@
     ]
   },
   {
+    "id": 239,
     "name": "St. Leonhard am Hornerwald",
     "results": [
       { "name": "SPOE", "votes": 118 },
@@ -2629,6 +2868,7 @@
     ]
   },
   {
+    "id": 240,
     "name": "Senftenberg",
     "results": [
       { "name": "SPOE", "votes": 353 },
@@ -2640,6 +2880,7 @@
     ]
   },
   {
+    "id": 241,
     "name": "Spitz",
     "results": [
       { "name": "SPOE", "votes": 209 },
@@ -2651,6 +2892,7 @@
     ]
   },
   {
+    "id": 242,
     "name": "Straß im Straßertale",
     "results": [
       { "name": "SPOE", "votes": 201 },
@@ -2662,6 +2904,7 @@
     ]
   },
   {
+    "id": 243,
     "name": "Stratzing",
     "results": [
       { "name": "SPOE", "votes": 105 },
@@ -2673,6 +2916,7 @@
     ]
   },
   {
+    "id": 244,
     "name": "Weinzierl am Walde",
     "results": [
       { "name": "SPOE", "votes": 169 },
@@ -2684,6 +2928,7 @@
     ]
   },
   {
+    "id": 245,
     "name": "Weißenkirchen in der Wachau",
     "results": [
       { "name": "SPOE", "votes": 210 },
@@ -2695,6 +2940,7 @@
     ]
   },
   {
+    "id": 246,
     "name": "Schönberg am Kamp",
     "results": [
       { "name": "SPOE", "votes": 219 },
@@ -2706,6 +2952,7 @@
     ]
   },
   {
+    "id": 247,
     "name": "Droß",
     "results": [
       { "name": "SPOE", "votes": 120 },
@@ -2717,6 +2964,7 @@
     ]
   },
   {
+    "id": 248,
     "name": "Annaberg",
     "results": [
       { "name": "SPOE", "votes": 81 },
@@ -2728,6 +2976,7 @@
     ]
   },
   {
+    "id": 249,
     "name": "Eschenau",
     "results": [
       { "name": "SPOE", "votes": 157 },
@@ -2739,6 +2988,7 @@
     ]
   },
   {
+    "id": 250,
     "name": "Hainfeld",
     "results": [
       { "name": "SPOE", "votes": 798 },
@@ -2750,6 +3000,7 @@
     ]
   },
   {
+    "id": 251,
     "name": "Hohenberg",
     "results": [
       { "name": "SPOE", "votes": 432 },
@@ -2761,6 +3012,7 @@
     ]
   },
   {
+    "id": 252,
     "name": "Kaumberg",
     "results": [
       { "name": "SPOE", "votes": 97 },
@@ -2772,6 +3024,7 @@
     ]
   },
   {
+    "id": 253,
     "name": "Kleinzell",
     "results": [
       { "name": "SPOE", "votes": 76 },
@@ -2783,6 +3036,7 @@
     ]
   },
   {
+    "id": 254,
     "name": "Lilienfeld",
     "results": [
       { "name": "SPOE", "votes": 427 },
@@ -2794,6 +3048,7 @@
     ]
   },
   {
+    "id": 255,
     "name": "Mitterbach am Erlaufsee",
     "results": [
       { "name": "SPOE", "votes": 66 },
@@ -2805,6 +3060,7 @@
     ]
   },
   {
+    "id": 256,
     "name": "Ramsau",
     "results": [
       { "name": "SPOE", "votes": 110 },
@@ -2816,6 +3072,7 @@
     ]
   },
   {
+    "id": 257,
     "name": "Rohrbach an der Gölsen",
     "results": [
       { "name": "SPOE", "votes": 282 },
@@ -2827,6 +3084,7 @@
     ]
   },
   {
+    "id": 258,
     "name": "St. Aegyd am Neuwalde",
     "results": [
       { "name": "SPOE", "votes": 565 },
@@ -2838,6 +3096,7 @@
     ]
   },
   {
+    "id": 259,
     "name": "St. Veit an der Gölsen",
     "results": [
       { "name": "SPOE", "votes": 858 },
@@ -2849,6 +3108,7 @@
     ]
   },
   {
+    "id": 260,
     "name": "Traisen",
     "results": [
       { "name": "SPOE", "votes": 877 },
@@ -2860,6 +3120,7 @@
     ]
   },
   {
+    "id": 261,
     "name": "Türnitz",
     "results": [
       { "name": "SPOE", "votes": 324 },
@@ -2871,6 +3132,7 @@
     ]
   },
   {
+    "id": 262,
     "name": "Artstetten - Pöbring",
     "results": [
       { "name": "SPOE", "votes": 143 },
@@ -2882,6 +3144,7 @@
     ]
   },
   {
+    "id": 263,
     "name": "Bergland",
     "results": [
       { "name": "SPOE", "votes": 220 },
@@ -2893,6 +3156,7 @@
     ]
   },
   {
+    "id": 264,
     "name": "Bischofstetten",
     "results": [
       { "name": "SPOE", "votes": 230 },
@@ -2904,6 +3168,7 @@
     ]
   },
   {
+    "id": 265,
     "name": "Blindenmarkt",
     "results": [
       { "name": "SPOE", "votes": 281 },
@@ -2915,6 +3180,7 @@
     ]
   },
   {
+    "id": 266,
     "name": "Dorfstetten",
     "results": [
       { "name": "SPOE", "votes": 107 },
@@ -2926,6 +3192,7 @@
     ]
   },
   {
+    "id": 267,
     "name": "Dunkelsteinerwald",
     "results": [
       { "name": "SPOE", "votes": 276 },
@@ -2937,6 +3204,7 @@
     ]
   },
   {
+    "id": 268,
     "name": "Erlauf",
     "results": [
       { "name": "SPOE", "votes": 169 },
@@ -2948,6 +3216,7 @@
     ]
   },
   {
+    "id": 269,
     "name": "Golling an der Erlauf",
     "results": [
       { "name": "SPOE", "votes": 445 },
@@ -2959,6 +3228,7 @@
     ]
   },
   {
+    "id": 270,
     "name": "Hofamt Priel",
     "results": [
       { "name": "SPOE", "votes": 312 },
@@ -2970,6 +3240,7 @@
     ]
   },
   {
+    "id": 271,
     "name": "Hürm",
     "results": [
       { "name": "SPOE", "votes": 114 },
@@ -2981,6 +3252,7 @@
     ]
   },
   {
+    "id": 272,
     "name": "Kilb",
     "results": [
       { "name": "SPOE", "votes": 237 },
@@ -2992,6 +3264,7 @@
     ]
   },
   {
+    "id": 273,
     "name": "Kirnberg an der Mank",
     "results": [
       { "name": "SPOE", "votes": 59 },
@@ -3003,6 +3276,7 @@
     ]
   },
   {
+    "id": 274,
     "name": "Klein-Pöchlarn",
     "results": [
       { "name": "SPOE", "votes": 249 },
@@ -3014,6 +3288,7 @@
     ]
   },
   {
+    "id": 275,
     "name": "Krummnußbaum",
     "results": [
       { "name": "SPOE", "votes": 303 },
@@ -3025,6 +3300,7 @@
     ]
   },
   {
+    "id": 276,
     "name": "Leiben",
     "results": [
       { "name": "SPOE", "votes": 311 },
@@ -3036,6 +3312,7 @@
     ]
   },
   {
+    "id": 277,
     "name": "Loosdorf",
     "results": [
       { "name": "SPOE", "votes": 771 },
@@ -3047,6 +3324,7 @@
     ]
   },
   {
+    "id": 278,
     "name": "Mank",
     "results": [
       { "name": "SPOE", "votes": 256 },
@@ -3058,6 +3336,7 @@
     ]
   },
   {
+    "id": 279,
     "name": "Marbach an der Donau",
     "results": [
       { "name": "SPOE", "votes": 407 },
@@ -3069,6 +3348,7 @@
     ]
   },
   {
+    "id": 280,
     "name": "Maria Taferl",
     "results": [
       { "name": "SPOE", "votes": 158 },
@@ -3080,6 +3360,7 @@
     ]
   },
   {
+    "id": 281,
     "name": "Melk",
     "results": [
       { "name": "SPOE", "votes": 632 },
@@ -3091,6 +3372,7 @@
     ]
   },
   {
+    "id": 282,
     "name": "Münichreith - Laimbach",
     "results": [
       { "name": "SPOE", "votes": 343 },
@@ -3102,6 +3384,7 @@
     ]
   },
   {
+    "id": 283,
     "name": "Neumarkt an der Ybbs",
     "results": [
       { "name": "SPOE", "votes": 351 },
@@ -3113,6 +3396,7 @@
     ]
   },
   {
+    "id": 284,
     "name": "Nöchling",
     "results": [
       { "name": "SPOE", "votes": 132 },
@@ -3124,6 +3408,7 @@
     ]
   },
   {
+    "id": 285,
     "name": "Persenbeug - Gottsdorf",
     "results": [
       { "name": "SPOE", "votes": 560 },
@@ -3135,6 +3420,7 @@
     ]
   },
   {
+    "id": 286,
     "name": "Petzenkirchen",
     "results": [
       { "name": "SPOE", "votes": 299 },
@@ -3146,6 +3432,7 @@
     ]
   },
   {
+    "id": 287,
     "name": "Pöchlarn",
     "results": [
       { "name": "SPOE", "votes": 640 },
@@ -3157,6 +3444,7 @@
     ]
   },
   {
+    "id": 288,
     "name": "Pöggstall",
     "results": [
       { "name": "SPOE", "votes": 320 },
@@ -3168,6 +3456,7 @@
     ]
   },
   {
+    "id": 289,
     "name": "Raxendorf",
     "results": [
       { "name": "SPOE", "votes": 152 },
@@ -3179,6 +3468,7 @@
     ]
   },
   {
+    "id": 290,
     "name": "Ruprechtshofen",
     "results": [
       { "name": "SPOE", "votes": 148 },
@@ -3190,6 +3480,7 @@
     ]
   },
   {
+    "id": 291,
     "name": "St. Leonhard am Forst",
     "results": [
       { "name": "SPOE", "votes": 289 },
@@ -3201,6 +3492,7 @@
     ]
   },
   {
+    "id": 292,
     "name": "St. Martin - Karlsbach",
     "results": [
       { "name": "SPOE", "votes": 341 },
@@ -3212,6 +3504,7 @@
     ]
   },
   {
+    "id": 293,
     "name": "St. Oswald",
     "results": [
       { "name": "SPOE", "votes": 143 },
@@ -3223,6 +3516,7 @@
     ]
   },
   {
+    "id": 294,
     "name": "Schönbühel - Aggsbach",
     "results": [
       { "name": "SPOE", "votes": 150 },
@@ -3234,6 +3528,7 @@
     ]
   },
   {
+    "id": 295,
     "name": "Schollach",
     "results": [
       { "name": "SPOE", "votes": 160 },
@@ -3245,6 +3540,7 @@
     ]
   },
   {
+    "id": 296,
     "name": "Weiten",
     "results": [
       { "name": "SPOE", "votes": 123 },
@@ -3256,6 +3552,7 @@
     ]
   },
   {
+    "id": 297,
     "name": "Ybbs an der Donau",
     "results": [
       { "name": "SPOE", "votes": 1257 },
@@ -3267,6 +3564,7 @@
     ]
   },
   {
+    "id": 298,
     "name": "Zelking - Matzleinsdorf",
     "results": [
       { "name": "SPOE", "votes": 198 },
@@ -3278,6 +3576,7 @@
     ]
   },
   {
+    "id": 299,
     "name": "Texingtal",
     "results": [
       { "name": "SPOE", "votes": 117 },
@@ -3289,6 +3588,7 @@
     ]
   },
   {
+    "id": 300,
     "name": "Yspertal",
     "results": [
       { "name": "SPOE", "votes": 351 },
@@ -3300,6 +3600,7 @@
     ]
   },
   {
+    "id": 301,
     "name": "Emmersdorf an der Donau",
     "results": [
       { "name": "SPOE", "votes": 277 },
@@ -3311,6 +3612,7 @@
     ]
   },
   {
+    "id": 302,
     "name": "Altlichtenwarth",
     "results": [
       { "name": "SPOE", "votes": 112 },
@@ -3322,6 +3624,7 @@
     ]
   },
   {
+    "id": 303,
     "name": "Asparn an der Zaya",
     "results": [
       { "name": "SPOE", "votes": 301 },
@@ -3333,6 +3636,7 @@
     ]
   },
   {
+    "id": 304,
     "name": "Bernhardsthal",
     "results": [
       { "name": "SPOE", "votes": 366 },
@@ -3344,6 +3648,7 @@
     ]
   },
   {
+    "id": 305,
     "name": "Bockfließ",
     "results": [
       { "name": "SPOE", "votes": 244 },
@@ -3355,6 +3660,7 @@
     ]
   },
   {
+    "id": 306,
     "name": "Drasenhofen",
     "results": [
       { "name": "SPOE", "votes": 102 },
@@ -3366,6 +3672,7 @@
     ]
   },
   {
+    "id": 307,
     "name": "Falkenstein",
     "results": [
       { "name": "SPOE", "votes": 30 },
@@ -3377,6 +3684,7 @@
     ]
   },
   {
+    "id": 308,
     "name": "Fallbach",
     "results": [
       { "name": "SPOE", "votes": 72 },
@@ -3388,6 +3696,7 @@
     ]
   },
   {
+    "id": 309,
     "name": "Gaubitsch",
     "results": [
       { "name": "SPOE", "votes": 63 },
@@ -3399,6 +3708,7 @@
     ]
   },
   {
+    "id": 310,
     "name": "Gaweinstal",
     "results": [
       { "name": "SPOE", "votes": 617 },
@@ -3410,6 +3720,7 @@
     ]
   },
   {
+    "id": 311,
     "name": "Gnadendorf",
     "results": [
       { "name": "SPOE", "votes": 133 },
@@ -3421,6 +3732,7 @@
     ]
   },
   {
+    "id": 312,
     "name": "Großebersdorf",
     "results": [
       { "name": "SPOE", "votes": 308 },
@@ -3432,6 +3744,7 @@
     ]
   },
   {
+    "id": 313,
     "name": "Großengersdorf",
     "results": [
       { "name": "SPOE", "votes": 333 },
@@ -3443,6 +3756,7 @@
     ]
   },
   {
+    "id": 314,
     "name": "Großharras",
     "results": [
       { "name": "SPOE", "votes": 148 },
@@ -3454,6 +3768,7 @@
     ]
   },
   {
+    "id": 315,
     "name": "Großkrut",
     "results": [
       { "name": "SPOE", "votes": 259 },
@@ -3465,6 +3780,7 @@
     ]
   },
   {
+    "id": 316,
     "name": "Hausbrunn",
     "results": [
       { "name": "SPOE", "votes": 256 },
@@ -3476,6 +3792,7 @@
     ]
   },
   {
+    "id": 317,
     "name": "Herrnbaumgarten",
     "results": [
       { "name": "SPOE", "votes": 84 },
@@ -3487,6 +3804,7 @@
     ]
   },
   {
+    "id": 318,
     "name": "Hochleithen",
     "results": [
       { "name": "SPOE", "votes": 210 },
@@ -3498,6 +3816,7 @@
     ]
   },
   {
+    "id": 319,
     "name": "Kreuttal",
     "results": [
       { "name": "SPOE", "votes": 253 },
@@ -3509,6 +3828,7 @@
     ]
   },
   {
+    "id": 320,
     "name": "Kreuzstetten",
     "results": [
       { "name": "SPOE", "votes": 234 },
@@ -3520,6 +3840,7 @@
     ]
   },
   {
+    "id": 321,
     "name": "Laa an der Thaya",
     "results": [
       { "name": "SPOE", "votes": 1114 },
@@ -3531,6 +3852,7 @@
     ]
   },
   {
+    "id": 322,
     "name": "Ladendorf",
     "results": [
       { "name": "SPOE", "votes": 318 },
@@ -3542,6 +3864,7 @@
     ]
   },
   {
+    "id": 323,
     "name": "Mistelbach",
     "results": [
       { "name": "SPOE", "votes": 1649 },
@@ -3553,6 +3876,7 @@
     ]
   },
   {
+    "id": 324,
     "name": "Neudorf bei Staatz",
     "results": [
       { "name": "SPOE", "votes": 249 },
@@ -3564,6 +3888,7 @@
     ]
   },
   {
+    "id": 325,
     "name": "Niederleis",
     "results": [
       { "name": "SPOE", "votes": 173 },
@@ -3575,6 +3900,7 @@
     ]
   },
   {
+    "id": 326,
     "name": "Pillichsdorf",
     "results": [
       { "name": "SPOE", "votes": 165 },
@@ -3586,6 +3912,7 @@
     ]
   },
   {
+    "id": 327,
     "name": "Poysdorf",
     "results": [
       { "name": "SPOE", "votes": 694 },
@@ -3597,6 +3924,7 @@
     ]
   },
   {
+    "id": 328,
     "name": "Rabensburg",
     "results": [
       { "name": "SPOE", "votes": 300 },
@@ -3608,6 +3936,7 @@
     ]
   },
   {
+    "id": 329,
     "name": "Schrattenberg",
     "results": [
       { "name": "SPOE", "votes": 89 },
@@ -3619,6 +3948,7 @@
     ]
   },
   {
+    "id": 330,
     "name": "Staatz",
     "results": [
       { "name": "SPOE", "votes": 354 },
@@ -3630,6 +3960,7 @@
     ]
   },
   {
+    "id": 331,
     "name": "Stronsdorf",
     "results": [
       { "name": "SPOE", "votes": 154 },
@@ -3641,6 +3972,7 @@
     ]
   },
   {
+    "id": 332,
     "name": "Ulrichskirchen - Schleinbach",
     "results": [
       { "name": "SPOE", "votes": 455 },
@@ -3652,6 +3984,7 @@
     ]
   },
   {
+    "id": 333,
     "name": "Unterstinkenbrunn",
     "results": [
       { "name": "SPOE", "votes": 54 },
@@ -3663,6 +3996,7 @@
     ]
   },
   {
+    "id": 334,
     "name": "Wildendürnbach",
     "results": [
       { "name": "SPOE", "votes": 149 },
@@ -3674,6 +4008,7 @@
     ]
   },
   {
+    "id": 335,
     "name": "Wilfersdorf",
     "results": [
       { "name": "SPOE", "votes": 393 },
@@ -3685,6 +4020,7 @@
     ]
   },
   {
+    "id": 336,
     "name": "Wolkersdorf im Weinviertel",
     "results": [
       { "name": "SPOE", "votes": 872 },
@@ -3696,6 +4032,7 @@
     ]
   },
   {
+    "id": 337,
     "name": "Ottenthal",
     "results": [
       { "name": "SPOE", "votes": 50 },
@@ -3707,6 +4044,7 @@
     ]
   },
   {
+    "id": 338,
     "name": "Achau",
     "results": [
       { "name": "SPOE", "votes": 233 },
@@ -3718,6 +4056,7 @@
     ]
   },
   {
+    "id": 339,
     "name": "Biedermannsdorf",
     "results": [
       { "name": "SPOE", "votes": 349 },
@@ -3729,6 +4068,7 @@
     ]
   },
   {
+    "id": 340,
     "name": "Breitenfurt bei Wien",
     "results": [
       { "name": "SPOE", "votes": 780 },
@@ -3740,6 +4080,7 @@
     ]
   },
   {
+    "id": 341,
     "name": "Brunn am Gebirge",
     "results": [
       { "name": "SPOE", "votes": 1612 },
@@ -3751,6 +4092,7 @@
     ]
   },
   {
+    "id": 342,
     "name": "Gaaden",
     "results": [
       { "name": "SPOE", "votes": 177 },
@@ -3762,6 +4104,7 @@
     ]
   },
   {
+    "id": 343,
     "name": "Gießhübl",
     "results": [
       { "name": "SPOE", "votes": 206 },
@@ -3773,6 +4116,7 @@
     ]
   },
   {
+    "id": 344,
     "name": "Gumpoldskirchen",
     "results": [
       { "name": "SPOE", "votes": 464 },
@@ -3784,6 +4128,7 @@
     ]
   },
   {
+    "id": 345,
     "name": "Guntramsdorf",
     "results": [
       { "name": "SPOE", "votes": 1620 },
@@ -3795,6 +4140,7 @@
     ]
   },
   {
+    "id": 346,
     "name": "Hennersdorf",
     "results": [
       { "name": "SPOE", "votes": 301 },
@@ -3806,6 +4152,7 @@
     ]
   },
   {
+    "id": 347,
     "name": "Hinterbrühl",
     "results": [
       { "name": "SPOE", "votes": 317 },
@@ -3817,6 +4164,7 @@
     ]
   },
   {
+    "id": 348,
     "name": "Kaltenleutgeben",
     "results": [
       { "name": "SPOE", "votes": 575 },
@@ -3828,6 +4176,7 @@
     ]
   },
   {
+    "id": 349,
     "name": "Laab im Walde",
     "results": [
       { "name": "SPOE", "votes": 140 },
@@ -3839,6 +4188,7 @@
     ]
   },
   {
+    "id": 350,
     "name": "Laxenburg",
     "results": [
       { "name": "SPOE", "votes": 318 },
@@ -3850,6 +4200,7 @@
     ]
   },
   {
+    "id": 351,
     "name": "Maria Enzersdorf",
     "results": [
       { "name": "SPOE", "votes": 628 },
@@ -3861,6 +4212,7 @@
     ]
   },
   {
+    "id": 352,
     "name": "Mödling",
     "results": [
       { "name": "SPOE", "votes": 2057 },
@@ -3872,6 +4224,7 @@
     ]
   },
   {
+    "id": 353,
     "name": "Münchendorf",
     "results": [
       { "name": "SPOE", "votes": 476 },
@@ -3883,6 +4236,7 @@
     ]
   },
   {
+    "id": 354,
     "name": "Perchtoldsdorf",
     "results": [
       { "name": "SPOE", "votes": 1440 },
@@ -3894,6 +4248,7 @@
     ]
   },
   {
+    "id": 355,
     "name": "Vösendorf",
     "results": [
       { "name": "SPOE", "votes": 1053 },
@@ -3905,6 +4260,7 @@
     ]
   },
   {
+    "id": 356,
     "name": "Wiener Neudorf",
     "results": [
       { "name": "SPOE", "votes": 1564 },
@@ -3916,6 +4272,7 @@
     ]
   },
   {
+    "id": 357,
     "name": "Wienerwald",
     "results": [
       { "name": "SPOE", "votes": 319 },
@@ -3927,6 +4284,7 @@
     ]
   },
   {
+    "id": 358,
     "name": "Altendorf",
     "results": [
       { "name": "SPOE", "votes": 20 },
@@ -3938,6 +4296,7 @@
     ]
   },
   {
+    "id": 359,
     "name": "Aspang-Markt",
     "results": [
       { "name": "SPOE", "votes": 339 },
@@ -3949,6 +4308,7 @@
     ]
   },
   {
+    "id": 360,
     "name": "Aspangberg - St. Peter",
     "results": [
       { "name": "SPOE", "votes": 242 },
@@ -3960,6 +4320,7 @@
     ]
   },
   {
+    "id": 361,
     "name": "Breitenau",
     "results": [
       { "name": "SPOE", "votes": 381 },
@@ -3971,6 +4332,7 @@
     ]
   },
   {
+    "id": 362,
     "name": "Breitenstein",
     "results": [
       { "name": "SPOE", "votes": 56 },
@@ -3982,6 +4344,7 @@
     ]
   },
   {
+    "id": 363,
     "name": "Buchbach",
     "results": [
       { "name": "SPOE", "votes": 89 },
@@ -3993,6 +4356,7 @@
     ]
   },
   {
+    "id": 364,
     "name": "Edlitz",
     "results": [
       { "name": "SPOE", "votes": 128 },
@@ -4004,6 +4368,7 @@
     ]
   },
   {
+    "id": 365,
     "name": "Enzenreith",
     "results": [
       { "name": "SPOE", "votes": 395 },
@@ -4015,6 +4380,7 @@
     ]
   },
   {
+    "id": 366,
     "name": "Feistritz am Wechsel",
     "results": [
       { "name": "SPOE", "votes": 129 },
@@ -4026,6 +4392,7 @@
     ]
   },
   {
+    "id": 367,
     "name": "Gloggnitz",
     "results": [
       { "name": "SPOE", "votes": 1117 },
@@ -4037,6 +4404,7 @@
     ]
   },
   {
+    "id": 368,
     "name": "Grafenbach - St. Valentin",
     "results": [
       { "name": "SPOE", "votes": 515 },
@@ -4048,6 +4416,7 @@
     ]
   },
   {
+    "id": 369,
     "name": "Grimmenstein",
     "results": [
       { "name": "SPOE", "votes": 234 },
@@ -4059,6 +4428,7 @@
     ]
   },
   {
+    "id": 370,
     "name": "Grünbach am Schneeberg",
     "results": [
       { "name": "SPOE", "votes": 370 },
@@ -4070,6 +4440,7 @@
     ]
   },
   {
+    "id": 371,
     "name": "Kirchberg am Wechsel",
     "results": [
       { "name": "SPOE", "votes": 212 },
@@ -4081,6 +4452,7 @@
     ]
   },
   {
+    "id": 372,
     "name": "Mönichkirchen",
     "results": [
       { "name": "SPOE", "votes": 78 },
@@ -4092,6 +4464,7 @@
     ]
   },
   {
+    "id": 373,
     "name": "Natschbach - Loipersbach",
     "results": [
       { "name": "SPOE", "votes": 256 },
@@ -4103,6 +4476,7 @@
     ]
   },
   {
+    "id": 374,
     "name": "Neunkirchen",
     "results": [
       { "name": "SPOE", "votes": 2197 },
@@ -4114,6 +4488,7 @@
     ]
   },
   {
+    "id": 375,
     "name": "Otterthal",
     "results": [
       { "name": "SPOE", "votes": 111 },
@@ -4125,6 +4500,7 @@
     ]
   },
   {
+    "id": 376,
     "name": "Payerbach",
     "results": [
       { "name": "SPOE", "votes": 451 },
@@ -4136,6 +4512,7 @@
     ]
   },
   {
+    "id": 377,
     "name": "Pitten",
     "results": [
       { "name": "SPOE", "votes": 451 },
@@ -4147,6 +4524,7 @@
     ]
   },
   {
+    "id": 378,
     "name": "Prigglitz",
     "results": [
       { "name": "SPOE", "votes": 69 },
@@ -4158,6 +4536,7 @@
     ]
   },
   {
+    "id": 379,
     "name": "Puchberg am Schneeberg",
     "results": [
       { "name": "SPOE", "votes": 564 },
@@ -4169,6 +4548,7 @@
     ]
   },
   {
+    "id": 380,
     "name": "Raach am Hochgebirge",
     "results": [
       { "name": "SPOE", "votes": 26 },
@@ -4180,6 +4560,7 @@
     ]
   },
   {
+    "id": 381,
     "name": "Reichenau an der Rax",
     "results": [
       { "name": "SPOE", "votes": 472 },
@@ -4191,6 +4572,7 @@
     ]
   },
   {
+    "id": 382,
     "name": "St. Corona am Wechsel",
     "results": [
       { "name": "SPOE", "votes": 13 },
@@ -4202,6 +4584,7 @@
     ]
   },
   {
+    "id": 383,
     "name": "St. Egyden am Steinfeld",
     "results": [
       { "name": "SPOE", "votes": 311 },
@@ -4213,6 +4596,7 @@
     ]
   },
   {
+    "id": 384,
     "name": "Scheiblingkirchen - Thernberg",
     "results": [
       { "name": "SPOE", "votes": 240 },
@@ -4224,6 +4608,7 @@
     ]
   },
   {
+    "id": 385,
     "name": "Schottwien",
     "results": [
       { "name": "SPOE", "votes": 91 },
@@ -4235,6 +4620,7 @@
     ]
   },
   {
+    "id": 386,
     "name": "Schrattenbach",
     "results": [
       { "name": "SPOE", "votes": 48 },
@@ -4246,6 +4632,7 @@
     ]
   },
   {
+    "id": 387,
     "name": "Schwarzau am Steinfeld",
     "results": [
       { "name": "SPOE", "votes": 416 },
@@ -4257,6 +4644,7 @@
     ]
   },
   {
+    "id": 388,
     "name": "Schwarzau im Gebirge",
     "results": [
       { "name": "SPOE", "votes": 174 },
@@ -4268,6 +4656,7 @@
     ]
   },
   {
+    "id": 389,
     "name": "Seebenstein",
     "results": [
       { "name": "SPOE", "votes": 277 },
@@ -4279,6 +4668,7 @@
     ]
   },
   {
+    "id": 390,
     "name": "Semmering",
     "results": [
       { "name": "SPOE", "votes": 74 },
@@ -4290,6 +4680,7 @@
     ]
   },
   {
+    "id": 391,
     "name": "Ternitz",
     "results": [
       { "name": "SPOE", "votes": 3721 },
@@ -4301,6 +4692,7 @@
     ]
   },
   {
+    "id": 392,
     "name": "Thomasberg",
     "results": [
       { "name": "SPOE", "votes": 183 },
@@ -4312,6 +4704,7 @@
     ]
   },
   {
+    "id": 393,
     "name": "Trattenbach",
     "results": [
       { "name": "SPOE", "votes": 57 },
@@ -4323,6 +4716,7 @@
     ]
   },
   {
+    "id": 394,
     "name": "Bürg-Vöstenhof",
     "results": [
       { "name": "SPOE", "votes": 27 },
@@ -4334,6 +4728,7 @@
     ]
   },
   {
+    "id": 395,
     "name": "Warth",
     "results": [
       { "name": "SPOE", "votes": 218 },
@@ -4345,6 +4740,7 @@
     ]
   },
   {
+    "id": 396,
     "name": "Wartmannstetten",
     "results": [
       { "name": "SPOE", "votes": 241 },
@@ -4356,6 +4752,7 @@
     ]
   },
   {
+    "id": 397,
     "name": "Willendorf",
     "results": [
       { "name": "SPOE", "votes": 159 },
@@ -4367,6 +4764,7 @@
     ]
   },
   {
+    "id": 398,
     "name": "Wimpassing im Schwarzatale",
     "results": [
       { "name": "SPOE", "votes": 462 },
@@ -4378,6 +4776,7 @@
     ]
   },
   {
+    "id": 399,
     "name": "Würflach",
     "results": [
       { "name": "SPOE", "votes": 324 },
@@ -4389,6 +4788,7 @@
     ]
   },
   {
+    "id": 400,
     "name": "Zöbern",
     "results": [
       { "name": "SPOE", "votes": 152 },
@@ -4400,6 +4800,7 @@
     ]
   },
   {
+    "id": 401,
     "name": "Höflein an der Hohen Wand",
     "results": [
       { "name": "SPOE", "votes": 221 },
@@ -4411,6 +4812,7 @@
     ]
   },
   {
+    "id": 402,
     "name": "Altlengbach",
     "results": [
       { "name": "SPOE", "votes": 404 },
@@ -4422,6 +4824,7 @@
     ]
   },
   {
+    "id": 403,
     "name": "Asperhofen",
     "results": [
       { "name": "SPOE", "votes": 185 },
@@ -4433,6 +4836,7 @@
     ]
   },
   {
+    "id": 404,
     "name": "Böheimkirchen",
     "results": [
       { "name": "SPOE", "votes": 803 },
@@ -4444,6 +4848,7 @@
     ]
   },
   {
+    "id": 405,
     "name": "Brand - Laaben",
     "results": [
       { "name": "SPOE", "votes": 126 },
@@ -4455,6 +4860,7 @@
     ]
   },
   {
+    "id": 406,
     "name": "Eichgraben",
     "results": [
       { "name": "SPOE", "votes": 552 },
@@ -4466,6 +4872,7 @@
     ]
   },
   {
+    "id": 407,
     "name": "Frankenfels",
     "results": [
       { "name": "SPOE", "votes": 324 },
@@ -4477,6 +4884,7 @@
     ]
   },
   {
+    "id": 408,
     "name": "Gerersdorf",
     "results": [
       { "name": "SPOE", "votes": 116 },
@@ -4488,6 +4896,7 @@
     ]
   },
   {
+    "id": 409,
     "name": "Hofstetten - Grünau",
     "results": [
       { "name": "SPOE", "votes": 340 },
@@ -4499,6 +4908,7 @@
     ]
   },
   {
+    "id": 410,
     "name": "Hafnerbach",
     "results": [
       { "name": "SPOE", "votes": 229 },
@@ -4510,6 +4920,7 @@
     ]
   },
   {
+    "id": 411,
     "name": "Haunoldstein",
     "results": [
       { "name": "SPOE", "votes": 174 },
@@ -4521,6 +4932,7 @@
     ]
   },
   {
+    "id": 412,
     "name": "Herzogenburg",
     "results": [
       { "name": "SPOE", "votes": 1792 },
@@ -4532,6 +4944,7 @@
     ]
   },
   {
+    "id": 413,
     "name": "Inzersdorf - Getzersdorf",
     "results": [
       { "name": "SPOE", "votes": 252 },
@@ -4543,6 +4956,7 @@
     ]
   },
   {
+    "id": 414,
     "name": "Kapelln",
     "results": [
       { "name": "SPOE", "votes": 137 },
@@ -4554,6 +4968,7 @@
     ]
   },
   {
+    "id": 415,
     "name": "Karlstetten",
     "results": [
       { "name": "SPOE", "votes": 335 },
@@ -4565,6 +4980,7 @@
     ]
   },
   {
+    "id": 416,
     "name": "Kasten bei Böheimkirchen",
     "results": [
       { "name": "SPOE", "votes": 151 },
@@ -4576,6 +4992,7 @@
     ]
   },
   {
+    "id": 417,
     "name": "Kirchberg an der Pielach",
     "results": [
       { "name": "SPOE", "votes": 416 },
@@ -4587,6 +5004,7 @@
     ]
   },
   {
+    "id": 418,
     "name": "Kirchstetten",
     "results": [
       { "name": "SPOE", "votes": 284 },
@@ -4598,6 +5016,7 @@
     ]
   },
   {
+    "id": 419,
     "name": "Loich",
     "results": [
       { "name": "SPOE", "votes": 103 },
@@ -4609,6 +5028,7 @@
     ]
   },
   {
+    "id": 420,
     "name": "Maria-Anzbach",
     "results": [
       { "name": "SPOE", "votes": 347 },
@@ -4620,6 +5040,7 @@
     ]
   },
   {
+    "id": 421,
     "name": "Markersdorf - Haindorf",
     "results": [
       { "name": "SPOE", "votes": 288 },
@@ -4631,6 +5052,7 @@
     ]
   },
   {
+    "id": 422,
     "name": "Michelbach",
     "results": [
       { "name": "SPOE", "votes": 49 },
@@ -4642,6 +5064,7 @@
     ]
   },
   {
+    "id": 423,
     "name": "Neidling",
     "results": [
       { "name": "SPOE", "votes": 241 },
@@ -4653,6 +5076,7 @@
     ]
   },
   {
+    "id": 424,
     "name": "Neulengbach",
     "results": [
       { "name": "SPOE", "votes": 936 },
@@ -4664,6 +5088,7 @@
     ]
   },
   {
+    "id": 425,
     "name": "Neustift - Innermanzing",
     "results": [
       { "name": "SPOE", "votes": 187 },
@@ -4675,6 +5100,7 @@
     ]
   },
   {
+    "id": 426,
     "name": "Nußdorf ob der Traisen",
     "results": [
       { "name": "SPOE", "votes": 314 },
@@ -4686,6 +5112,7 @@
     ]
   },
   {
+    "id": 427,
     "name": "Ober-Grafendorf",
     "results": [
       { "name": "SPOE", "votes": 992 },
@@ -4697,6 +5124,7 @@
     ]
   },
   {
+    "id": 428,
     "name": "Obritzberg - Rust",
     "results": [
       { "name": "SPOE", "votes": 295 },
@@ -4708,6 +5136,7 @@
     ]
   },
   {
+    "id": 429,
     "name": "Prinzersdorf",
     "results": [
       { "name": "SPOE", "votes": 286 },
@@ -4719,6 +5148,7 @@
     ]
   },
   {
+    "id": 430,
     "name": "Pyhra",
     "results": [
       { "name": "SPOE", "votes": 385 },
@@ -4730,6 +5160,7 @@
     ]
   },
   {
+    "id": 431,
     "name": "Rabenstein an der Pielach",
     "results": [
       { "name": "SPOE", "votes": 409 },
@@ -4741,6 +5172,7 @@
     ]
   },
   {
+    "id": 432,
     "name": "St. Margarethen an der Sierning",
     "results": [
       { "name": "SPOE", "votes": 112 },
@@ -4752,6 +5184,7 @@
     ]
   },
   {
+    "id": 433,
     "name": "Schwarzenbach an der Pielach",
     "results": [
       { "name": "SPOE", "votes": 65 },
@@ -4763,6 +5196,7 @@
     ]
   },
   {
+    "id": 434,
     "name": "Statzendorf",
     "results": [
       { "name": "SPOE", "votes": 315 },
@@ -4774,6 +5208,7 @@
     ]
   },
   {
+    "id": 435,
     "name": "Stössing",
     "results": [
       { "name": "SPOE", "votes": 58 },
@@ -4785,6 +5220,7 @@
     ]
   },
   {
+    "id": 436,
     "name": "Traismauer",
     "results": [
       { "name": "SPOE", "votes": 1229 },
@@ -4796,6 +5232,7 @@
     ]
   },
   {
+    "id": 437,
     "name": "Weinburg",
     "results": [
       { "name": "SPOE", "votes": 373 },
@@ -4807,6 +5244,7 @@
     ]
   },
   {
+    "id": 438,
     "name": "Weißenkirchen an der Perschling",
     "results": [
       { "name": "SPOE", "votes": 103 },
@@ -4818,6 +5256,7 @@
     ]
   },
   {
+    "id": 439,
     "name": "Wilhelmsburg",
     "results": [
       { "name": "SPOE", "votes": 1291 },
@@ -4829,6 +5268,7 @@
     ]
   },
   {
+    "id": 440,
     "name": "Wölbling",
     "results": [
       { "name": "SPOE", "votes": 480 },
@@ -4840,6 +5280,7 @@
     ]
   },
   {
+    "id": 441,
     "name": "Gaming",
     "results": [
       { "name": "SPOE", "votes": 799 },
@@ -4851,6 +5292,7 @@
     ]
   },
   {
+    "id": 442,
     "name": "Göstling an der Ybbs",
     "results": [
       { "name": "SPOE", "votes": 372 },
@@ -4862,6 +5304,7 @@
     ]
   },
   {
+    "id": 443,
     "name": "Gresten",
     "results": [
       { "name": "SPOE", "votes": 326 },
@@ -4873,6 +5316,7 @@
     ]
   },
   {
+    "id": 444,
     "name": "Gresten-Land",
     "results": [
       { "name": "SPOE", "votes": 133 },
@@ -4884,6 +5328,7 @@
     ]
   },
   {
+    "id": 445,
     "name": "Lunz am See",
     "results": [
       { "name": "SPOE", "votes": 373 },
@@ -4895,6 +5340,7 @@
     ]
   },
   {
+    "id": 446,
     "name": "Oberndorf an der Melk",
     "results": [
       { "name": "SPOE", "votes": 202 },
@@ -4906,6 +5352,7 @@
     ]
   },
   {
+    "id": 447,
     "name": "Puchenstuben",
     "results": [
       { "name": "SPOE", "votes": 66 },
@@ -4917,6 +5364,7 @@
     ]
   },
   {
+    "id": 448,
     "name": "Purgstall an der Erlauf",
     "results": [
       { "name": "SPOE", "votes": 607 },
@@ -4928,6 +5376,7 @@
     ]
   },
   {
+    "id": 449,
     "name": "Randegg",
     "results": [
       { "name": "SPOE", "votes": 157 },
@@ -4939,6 +5388,7 @@
     ]
   },
   {
+    "id": 450,
     "name": "Reinsberg",
     "results": [
       { "name": "SPOE", "votes": 83 },
@@ -4950,6 +5400,7 @@
     ]
   },
   {
+    "id": 451,
     "name": "St. Anton an der Jeßnitz",
     "results": [
       { "name": "SPOE", "votes": 128 },
@@ -4961,6 +5412,7 @@
     ]
   },
   {
+    "id": 452,
     "name": "St. Georgen an der Leys",
     "results": [
       { "name": "SPOE", "votes": 91 },
@@ -4972,6 +5424,7 @@
     ]
   },
   {
+    "id": 453,
     "name": "Scheibbs",
     "results": [
       { "name": "SPOE", "votes": 621 },
@@ -4983,6 +5436,7 @@
     ]
   },
   {
+    "id": 454,
     "name": "Steinakirchen am Forst",
     "results": [
       { "name": "SPOE", "votes": 201 },
@@ -4994,6 +5448,7 @@
     ]
   },
   {
+    "id": 455,
     "name": "Wang",
     "results": [
       { "name": "SPOE", "votes": 127 },
@@ -5005,6 +5460,7 @@
     ]
   },
   {
+    "id": 456,
     "name": "Wieselburg",
     "results": [
       { "name": "SPOE", "votes": 771 },
@@ -5016,6 +5472,7 @@
     ]
   },
   {
+    "id": 457,
     "name": "Wieselburg-Land",
     "results": [
       { "name": "SPOE", "votes": 443 },
@@ -5027,6 +5484,7 @@
     ]
   },
   {
+    "id": 458,
     "name": "Wolfpassing",
     "results": [
       { "name": "SPOE", "votes": 115 },
@@ -5038,6 +5496,7 @@
     ]
   },
   {
+    "id": 459,
     "name": "Absdorf",
     "results": [
       { "name": "SPOE", "votes": 336 },
@@ -5049,6 +5508,7 @@
     ]
   },
   {
+    "id": 460,
     "name": "Atzenbrugg",
     "results": [
       { "name": "SPOE", "votes": 321 },
@@ -5060,6 +5520,7 @@
     ]
   },
   {
+    "id": 461,
     "name": "Fels am Wagram",
     "results": [
       { "name": "SPOE", "votes": 377 },
@@ -5071,6 +5532,7 @@
     ]
   },
   {
+    "id": 462,
     "name": "Grafenwörth",
     "results": [
       { "name": "SPOE", "votes": 543 },
@@ -5082,6 +5544,7 @@
     ]
   },
   {
+    "id": 463,
     "name": "Großriedenthal",
     "results": [
       { "name": "SPOE", "votes": 142 },
@@ -5093,6 +5556,7 @@
     ]
   },
   {
+    "id": 464,
     "name": "Großweikersdorf",
     "results": [
       { "name": "SPOE", "votes": 463 },
@@ -5104,6 +5568,7 @@
     ]
   },
   {
+    "id": 465,
     "name": "Judenau - Baumgarten",
     "results": [
       { "name": "SPOE", "votes": 281 },
@@ -5115,6 +5580,7 @@
     ]
   },
   {
+    "id": 466,
     "name": "Kirchberg am Wagram",
     "results": [
       { "name": "SPOE", "votes": 567 },
@@ -5126,6 +5592,7 @@
     ]
   },
   {
+    "id": 467,
     "name": "Königsbrunn am Wagram",
     "results": [
       { "name": "SPOE", "votes": 249 },
@@ -5137,6 +5604,7 @@
     ]
   },
   {
+    "id": 468,
     "name": "Königstetten",
     "results": [
       { "name": "SPOE", "votes": 302 },
@@ -5148,6 +5616,7 @@
     ]
   },
   {
+    "id": 469,
     "name": "Langenrohr",
     "results": [
       { "name": "SPOE", "votes": 250 },
@@ -5159,6 +5628,7 @@
     ]
   },
   {
+    "id": 470,
     "name": "Michelhausen",
     "results": [
       { "name": "SPOE", "votes": 283 },
@@ -5170,6 +5640,7 @@
     ]
   },
   {
+    "id": 471,
     "name": "Sieghartskirchen",
     "results": [
       { "name": "SPOE", "votes": 921 },
@@ -5181,6 +5652,7 @@
     ]
   },
   {
+    "id": 472,
     "name": "Sitzenberg - Reidling",
     "results": [
       { "name": "SPOE", "votes": 313 },
@@ -5192,6 +5664,7 @@
     ]
   },
   {
+    "id": 473,
     "name": "Tulbing",
     "results": [
       { "name": "SPOE", "votes": 412 },
@@ -5203,6 +5676,7 @@
     ]
   },
   {
+    "id": 474,
     "name": "Tulln an der Donau",
     "results": [
       { "name": "SPOE", "votes": 1932 },
@@ -5214,6 +5688,7 @@
     ]
   },
   {
+    "id": 475,
     "name": "Würmla",
     "results": [
       { "name": "SPOE", "votes": 104 },
@@ -5225,6 +5700,7 @@
     ]
   },
   {
+    "id": 476,
     "name": "Zeiselmauer - Wolfpassing",
     "results": [
       { "name": "SPOE", "votes": 374 },
@@ -5236,6 +5712,7 @@
     ]
   },
   {
+    "id": 477,
     "name": "Zwentendorf an der Donau",
     "results": [
       { "name": "SPOE", "votes": 778 },
@@ -5247,6 +5724,7 @@
     ]
   },
   {
+    "id": 478,
     "name": "St. Andrä - Wördern",
     "results": [
       { "name": "SPOE", "votes": 1091 },
@@ -5258,6 +5736,7 @@
     ]
   },
   {
+    "id": 479,
     "name": "Muckendorf - Wipfing",
     "results": [
       { "name": "SPOE", "votes": 211 },
@@ -5269,6 +5748,7 @@
     ]
   },
   {
+    "id": 480,
     "name": "Dietmanns",
     "results": [
       { "name": "SPOE", "votes": 270 },
@@ -5280,6 +5760,7 @@
     ]
   },
   {
+    "id": 481,
     "name": "Dobersberg",
     "results": [
       { "name": "SPOE", "votes": 142 },
@@ -5291,6 +5772,7 @@
     ]
   },
   {
+    "id": 482,
     "name": "Gastern",
     "results": [
       { "name": "SPOE", "votes": 177 },
@@ -5302,6 +5784,7 @@
     ]
   },
   {
+    "id": 483,
     "name": "Groß-Siegharts",
     "results": [
       { "name": "SPOE", "votes": 566 },
@@ -5313,6 +5796,7 @@
     ]
   },
   {
+    "id": 484,
     "name": "Karlstein an der Thaya",
     "results": [
       { "name": "SPOE", "votes": 186 },
@@ -5324,6 +5808,7 @@
     ]
   },
   {
+    "id": 485,
     "name": "Kautzen",
     "results": [
       { "name": "SPOE", "votes": 145 },
@@ -5335,6 +5820,7 @@
     ]
   },
   {
+    "id": 486,
     "name": "Ludweis - Aigen",
     "results": [
       { "name": "SPOE", "votes": 112 },
@@ -5346,6 +5832,7 @@
     ]
   },
   {
+    "id": 487,
     "name": "Pfaffenschlag bei Waidhofen a. d. Thaya",
     "results": [
       { "name": "SPOE", "votes": 89 },
@@ -5357,6 +5844,7 @@
     ]
   },
   {
+    "id": 488,
     "name": "Raabs an der Thaya",
     "results": [
       { "name": "SPOE", "votes": 290 },
@@ -5368,6 +5856,7 @@
     ]
   },
   {
+    "id": 489,
     "name": "Thaya",
     "results": [
       { "name": "SPOE", "votes": 155 },
@@ -5379,6 +5868,7 @@
     ]
   },
   {
+    "id": 490,
     "name": "Vitis",
     "results": [
       { "name": "SPOE", "votes": 389 },
@@ -5390,6 +5880,7 @@
     ]
   },
   {
+    "id": 491,
     "name": "Waidhofen an der Thaya",
     "results": [
       { "name": "SPOE", "votes": 633 },
@@ -5401,6 +5892,7 @@
     ]
   },
   {
+    "id": 492,
     "name": "Waidhofen an der Thaya-Land",
     "results": [
       { "name": "SPOE", "votes": 108 },
@@ -5412,6 +5904,7 @@
     ]
   },
   {
+    "id": 493,
     "name": "Waldkirchen an der Thaya",
     "results": [
       { "name": "SPOE", "votes": 72 },
@@ -5423,6 +5916,7 @@
     ]
   },
   {
+    "id": 494,
     "name": "Windigsteig",
     "results": [
       { "name": "SPOE", "votes": 149 },
@@ -5434,6 +5928,7 @@
     ]
   },
   {
+    "id": 495,
     "name": "Bad Fischau - Brunn",
     "results": [
       { "name": "SPOE", "votes": 457 },
@@ -5445,6 +5940,7 @@
     ]
   },
   {
+    "id": 496,
     "name": "Bad Schönau",
     "results": [
       { "name": "SPOE", "votes": 73 },
@@ -5456,6 +5952,7 @@
     ]
   },
   {
+    "id": 497,
     "name": "Ebenfurth",
     "results": [
       { "name": "SPOE", "votes": 645 },
@@ -5467,6 +5964,7 @@
     ]
   },
   {
+    "id": 498,
     "name": "Eggendorf",
     "results": [
       { "name": "SPOE", "votes": 936 },
@@ -5478,6 +5976,7 @@
     ]
   },
   {
+    "id": 499,
     "name": "Bad Erlach",
     "results": [
       { "name": "SPOE", "votes": 395 },
@@ -5489,6 +5988,7 @@
     ]
   },
   {
+    "id": 500,
     "name": "Felixdorf",
     "results": [
       { "name": "SPOE", "votes": 909 },
@@ -5500,6 +6000,7 @@
     ]
   },
   {
+    "id": 501,
     "name": "Gutenstein",
     "results": [
       { "name": "SPOE", "votes": 186 },
@@ -5511,6 +6012,7 @@
     ]
   },
   {
+    "id": 502,
     "name": "Hochneukirchen - Gschaidt",
     "results": [
       { "name": "SPOE", "votes": 148 },
@@ -5522,6 +6024,7 @@
     ]
   },
   {
+    "id": 503,
     "name": "Hochwolkersdorf",
     "results": [
       { "name": "SPOE", "votes": 220 },
@@ -5533,6 +6036,7 @@
     ]
   },
   {
+    "id": 504,
     "name": "Hohe Wand",
     "results": [
       { "name": "SPOE", "votes": 170 },
@@ -5544,6 +6048,7 @@
     ]
   },
   {
+    "id": 505,
     "name": "Hollenthon",
     "results": [
       { "name": "SPOE", "votes": 127 },
@@ -5555,6 +6060,7 @@
     ]
   },
   {
+    "id": 506,
     "name": "Katzelsdorf",
     "results": [
       { "name": "SPOE", "votes": 430 },
@@ -5566,6 +6072,7 @@
     ]
   },
   {
+    "id": 507,
     "name": "Kirchschlag in der Buckligen Welt",
     "results": [
       { "name": "SPOE", "votes": 260 },
@@ -5577,6 +6084,7 @@
     ]
   },
   {
+    "id": 508,
     "name": "Krumbach",
     "results": [
       { "name": "SPOE", "votes": 235 },
@@ -5588,6 +6096,7 @@
     ]
   },
   {
+    "id": 509,
     "name": "Lanzenkirchen",
     "results": [
       { "name": "SPOE", "votes": 706 },
@@ -5599,6 +6108,7 @@
     ]
   },
   {
+    "id": 510,
     "name": "Lichtenegg",
     "results": [
       { "name": "SPOE", "votes": 50 },
@@ -5610,6 +6120,7 @@
     ]
   },
   {
+    "id": 511,
     "name": "Lichtenwörth",
     "results": [
       { "name": "SPOE", "votes": 516 },
@@ -5621,6 +6132,7 @@
     ]
   },
   {
+    "id": 512,
     "name": "Markt Piesting",
     "results": [
       { "name": "SPOE", "votes": 343 },
@@ -5632,6 +6144,7 @@
     ]
   },
   {
+    "id": 513,
     "name": "Matzendorf - Hölles",
     "results": [
       { "name": "SPOE", "votes": 312 },
@@ -5643,6 +6156,7 @@
     ]
   },
   {
+    "id": 514,
     "name": "Miesenbach",
     "results": [
       { "name": "SPOE", "votes": 89 },
@@ -5654,6 +6168,7 @@
     ]
   },
   {
+    "id": 515,
     "name": "Muggendorf",
     "results": [
       { "name": "SPOE", "votes": 60 },
@@ -5665,6 +6180,7 @@
     ]
   },
   {
+    "id": 516,
     "name": "Pernitz",
     "results": [
       { "name": "SPOE", "votes": 440 },
@@ -5676,6 +6192,7 @@
     ]
   },
   {
+    "id": 517,
     "name": "Rohr im Gebirge",
     "results": [
       { "name": "SPOE", "votes": 56 },
@@ -5687,6 +6204,7 @@
     ]
   },
   {
+    "id": 518,
     "name": "Bromberg",
     "results": [
       { "name": "SPOE", "votes": 130 },
@@ -5698,6 +6216,7 @@
     ]
   },
   {
+    "id": 519,
     "name": "Schwarzenbach",
     "results": [
       { "name": "SPOE", "votes": 301 },
@@ -5709,6 +6228,7 @@
     ]
   },
   {
+    "id": 520,
     "name": "Sollenau",
     "results": [
       { "name": "SPOE", "votes": 1043 },
@@ -5720,6 +6240,7 @@
     ]
   },
   {
+    "id": 521,
     "name": "Theresienfeld",
     "results": [
       { "name": "SPOE", "votes": 539 },
@@ -5731,6 +6252,7 @@
     ]
   },
   {
+    "id": 522,
     "name": "Waidmannsfeld",
     "results": [
       { "name": "SPOE", "votes": 372 },
@@ -5742,6 +6264,7 @@
     ]
   },
   {
+    "id": 523,
     "name": "Waldegg",
     "results": [
       { "name": "SPOE", "votes": 359 },
@@ -5753,6 +6276,7 @@
     ]
   },
   {
+    "id": 524,
     "name": "Walpersbach",
     "results": [
       { "name": "SPOE", "votes": 197 },
@@ -5764,6 +6288,7 @@
     ]
   },
   {
+    "id": 525,
     "name": "Weikersdorf am Steinfelde",
     "results": [
       { "name": "SPOE", "votes": 109 },
@@ -5775,6 +6300,7 @@
     ]
   },
   {
+    "id": 526,
     "name": "Wiesmath",
     "results": [
       { "name": "SPOE", "votes": 213 },
@@ -5786,6 +6312,7 @@
     ]
   },
   {
+    "id": 527,
     "name": "Winzendorf - Muthmannsdorf",
     "results": [
       { "name": "SPOE", "votes": 302 },
@@ -5797,6 +6324,7 @@
     ]
   },
   {
+    "id": 528,
     "name": "Wöllersdorf - Steinabrückl",
     "results": [
       { "name": "SPOE", "votes": 740 },
@@ -5808,6 +6336,7 @@
     ]
   },
   {
+    "id": 529,
     "name": "Zillingdorf",
     "results": [
       { "name": "SPOE", "votes": 456 },
@@ -5819,6 +6348,7 @@
     ]
   },
   {
+    "id": 530,
     "name": "Ebergassing",
     "results": [
       { "name": "SPOE", "votes": 773 },
@@ -5830,6 +6360,7 @@
     ]
   },
   {
+    "id": 531,
     "name": "Fischamend",
     "results": [
       { "name": "SPOE", "votes": 931 },
@@ -5841,6 +6372,7 @@
     ]
   },
   {
+    "id": 532,
     "name": "Gablitz",
     "results": [
       { "name": "SPOE", "votes": 586 },
@@ -5852,6 +6384,7 @@
     ]
   },
   {
+    "id": 533,
     "name": "Gerasdorf bei Wien",
     "results": [
       { "name": "SPOE", "votes": 1819 },
@@ -5863,6 +6396,7 @@
     ]
   },
   {
+    "id": 534,
     "name": "Gramatneusiedl",
     "results": [
       { "name": "SPOE", "votes": 507 },
@@ -5874,6 +6408,7 @@
     ]
   },
   {
+    "id": 535,
     "name": "Himberg",
     "results": [
       { "name": "SPOE", "votes": 1357 },
@@ -5885,6 +6420,7 @@
     ]
   },
   {
+    "id": 536,
     "name": "Klein-Neusiedl",
     "results": [
       { "name": "SPOE", "votes": 240 },
@@ -5896,6 +6432,7 @@
     ]
   },
   {
+    "id": 537,
     "name": "Klosterneuburg",
     "results": [
       { "name": "SPOE", "votes": 2394 },
@@ -5907,6 +6444,7 @@
     ]
   },
   {
+    "id": 538,
     "name": "Lanzendorf",
     "results": [
       { "name": "SPOE", "votes": 353 },
@@ -5918,6 +6456,7 @@
     ]
   },
   {
+    "id": 539,
     "name": "Leopoldsdorf",
     "results": [
       { "name": "SPOE", "votes": 810 },
@@ -5929,6 +6468,7 @@
     ]
   },
   {
+    "id": 540,
     "name": "Maria-Lanzendorf",
     "results": [
       { "name": "SPOE", "votes": 341 },
@@ -5940,6 +6480,7 @@
     ]
   },
   {
+    "id": 541,
     "name": "Mauerbach",
     "results": [
       { "name": "SPOE", "votes": 429 },
@@ -5951,6 +6492,7 @@
     ]
   },
   {
+    "id": 542,
     "name": "Moosbrunn",
     "results": [
       { "name": "SPOE", "votes": 295 },
@@ -5962,6 +6504,7 @@
     ]
   },
   {
+    "id": 543,
     "name": "Pressbaum",
     "results": [
       { "name": "SPOE", "votes": 776 },
@@ -5973,6 +6516,7 @@
     ]
   },
   {
+    "id": 544,
     "name": "Purkersdorf",
     "results": [
       { "name": "SPOE", "votes": 1255 },
@@ -5984,6 +6528,7 @@
     ]
   },
   {
+    "id": 545,
     "name": "Rauchenwarth",
     "results": [
       { "name": "SPOE", "votes": 73 },
@@ -5995,6 +6540,7 @@
     ]
   },
   {
+    "id": 546,
     "name": "Schwadorf",
     "results": [
       { "name": "SPOE", "votes": 435 },
@@ -6006,6 +6552,7 @@
     ]
   },
   {
+    "id": 547,
     "name": "Schwechat",
     "results": [
       { "name": "SPOE", "votes": 3052 },
@@ -6017,6 +6564,7 @@
     ]
   },
   {
+    "id": 548,
     "name": "Tullnerbach",
     "results": [
       { "name": "SPOE", "votes": 306 },
@@ -6028,6 +6576,7 @@
     ]
   },
   {
+    "id": 549,
     "name": "Wolfsgraben",
     "results": [
       { "name": "SPOE", "votes": 177 },
@@ -6039,6 +6588,7 @@
     ]
   },
   {
+    "id": 550,
     "name": "Zwölfaxing",
     "results": [
       { "name": "SPOE", "votes": 247 },
@@ -6050,6 +6600,7 @@
     ]
   },
   {
+    "id": 551,
     "name": "Allentsteig",
     "results": [
       { "name": "SPOE", "votes": 251 },
@@ -6061,6 +6612,7 @@
     ]
   },
   {
+    "id": 552,
     "name": "Arbesbach",
     "results": [
       { "name": "SPOE", "votes": 104 },
@@ -6072,6 +6624,7 @@
     ]
   },
   {
+    "id": 553,
     "name": "Bärnkopf",
     "results": [
       { "name": "SPOE", "votes": 121 },
@@ -6083,6 +6636,7 @@
     ]
   },
   {
+    "id": 554,
     "name": "Echsenbach",
     "results": [
       { "name": "SPOE", "votes": 121 },
@@ -6094,6 +6648,7 @@
     ]
   },
   {
+    "id": 555,
     "name": "Göpfritz an der Wild",
     "results": [
       { "name": "SPOE", "votes": 263 },
@@ -6105,6 +6660,7 @@
     ]
   },
   {
+    "id": 556,
     "name": "Grafenschlag",
     "results": [
       { "name": "SPOE", "votes": 88 },
@@ -6116,6 +6672,7 @@
     ]
   },
   {
+    "id": 557,
     "name": "Groß Gerungs",
     "results": [
       { "name": "SPOE", "votes": 474 },
@@ -6127,6 +6684,7 @@
     ]
   },
   {
+    "id": 558,
     "name": "Großgöttfritz",
     "results": [
       { "name": "SPOE", "votes": 162 },
@@ -6138,6 +6696,7 @@
     ]
   },
   {
+    "id": 559,
     "name": "Gutenbrunn",
     "results": [
       { "name": "SPOE", "votes": 138 },
@@ -6149,6 +6708,7 @@
     ]
   },
   {
+    "id": 560,
     "name": "Kirchschlag",
     "results": [
       { "name": "SPOE", "votes": 94 },
@@ -6160,6 +6720,7 @@
     ]
   },
   {
+    "id": 561,
     "name": "Kottes - Purk",
     "results": [
       { "name": "SPOE", "votes": 175 },
@@ -6171,6 +6732,7 @@
     ]
   },
   {
+    "id": 562,
     "name": "Langschlag",
     "results": [
       { "name": "SPOE", "votes": 212 },
@@ -6182,6 +6744,7 @@
     ]
   },
   {
+    "id": 563,
     "name": "Martinsberg",
     "results": [
       { "name": "SPOE", "votes": 171 },
@@ -6193,6 +6756,7 @@
     ]
   },
   {
+    "id": 564,
     "name": "Ottenschlag",
     "results": [
       { "name": "SPOE", "votes": 123 },
@@ -6204,6 +6768,7 @@
     ]
   },
   {
+    "id": 565,
     "name": "Altmelon",
     "results": [
       { "name": "SPOE", "votes": 107 },
@@ -6215,6 +6780,7 @@
     ]
   },
   {
+    "id": 566,
     "name": "Pölla",
     "results": [
       { "name": "SPOE", "votes": 115 },
@@ -6226,6 +6792,7 @@
     ]
   },
   {
+    "id": 567,
     "name": "Rappottenstein",
     "results": [
       { "name": "SPOE", "votes": 148 },
@@ -6237,6 +6804,7 @@
     ]
   },
   {
+    "id": 568,
     "name": "Sallingberg",
     "results": [
       { "name": "SPOE", "votes": 106 },
@@ -6248,6 +6816,7 @@
     ]
   },
   {
+    "id": 569,
     "name": "Schönbach",
     "results": [
       { "name": "SPOE", "votes": 90 },
@@ -6259,6 +6828,7 @@
     ]
   },
   {
+    "id": 570,
     "name": "Schwarzenau",
     "results": [
       { "name": "SPOE", "votes": 286 },
@@ -6270,6 +6840,7 @@
     ]
   },
   {
+    "id": 571,
     "name": "Schweiggers",
     "results": [
       { "name": "SPOE", "votes": 93 },
@@ -6281,6 +6852,7 @@
     ]
   },
   {
+    "id": 572,
     "name": "Bad Traunstein",
     "results": [
       { "name": "SPOE", "votes": 73 },
@@ -6292,6 +6864,7 @@
     ]
   },
   {
+    "id": 573,
     "name": "Waldhausen",
     "results": [
       { "name": "SPOE", "votes": 143 },
@@ -6303,6 +6876,7 @@
     ]
   },
   {
+    "id": 574,
     "name": "Zwettl-Niederösterreich",
     "results": [
       { "name": "SPOE", "votes": 1145 },
