@@ -70,6 +70,7 @@ class ElectionController extends Controller
     $results['district'] = [];
     foreach ($districts as $district) {
       if ( $district->name == $districtName ) {
+        $results['district']['id'] = $district->id;
         $results['district']['name'] = $districtName;
         $results['district']['results'] = $district->results;
         break;
@@ -78,6 +79,7 @@ class ElectionController extends Controller
 
     // results for states and election
     $results += getParentGranularityResults($electionSlug, $state);
+    $results['state']['slug'] = $stateSlug;
     return deliverJson($results);
   }
 }
