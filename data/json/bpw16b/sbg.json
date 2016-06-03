@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Salzburg",
     "results": [
       { "name": "Hofer", "votes": 23682 },
@@ -7,6 +8,7 @@
     ]
   },
   {
+    "id": 2,
     "name": "Abtenau",
     "results": [
       { "name": "Hofer", "votes": 1671 },
@@ -14,6 +16,7 @@
     ]
   },
   {
+    "id": 3,
     "name": "Adnet",
     "results": [
       { "name": "Hofer", "votes": 1075 },
@@ -21,6 +24,7 @@
     ]
   },
   {
+    "id": 4,
     "name": "Annaberg-Lungötz",
     "results": [
       { "name": "Hofer", "votes": 706 },
@@ -28,6 +32,7 @@
     ]
   },
   {
+    "id": 5,
     "name": "Golling an der Salzach",
     "results": [
       { "name": "Hofer", "votes": 1038 },
@@ -35,6 +40,7 @@
     ]
   },
   {
+    "id": 6,
     "name": "Hallein",
     "results": [
       { "name": "Hofer", "votes": 4132 },
@@ -42,6 +48,7 @@
     ]
   },
   {
+    "id": 7,
     "name": "Krispl",
     "results": [
       { "name": "Hofer", "votes": 332 },
@@ -49,6 +56,7 @@
     ]
   },
   {
+    "id": 8,
     "name": "Kuchl",
     "results": [
       { "name": "Hofer", "votes": 1913 },
@@ -56,6 +64,7 @@
     ]
   },
   {
+    "id": 9,
     "name": "Oberalm",
     "results": [
       { "name": "Hofer", "votes": 958 },
@@ -63,6 +72,7 @@
     ]
   },
   {
+    "id": 10,
     "name": "Puch bei Hallein",
     "results": [
       { "name": "Hofer", "votes": 1032 },
@@ -70,6 +80,7 @@
     ]
   },
   {
+    "id": 11,
     "name": "Rußbach am Paß Gschütt",
     "results": [
       { "name": "Hofer", "votes": 255 },
@@ -77,6 +88,7 @@
     ]
   },
   {
+    "id": 12,
     "name": "Sankt Koloman",
     "results": [
       { "name": "Hofer", "votes": 691 },
@@ -84,6 +96,7 @@
     ]
   },
   {
+    "id": 13,
     "name": "Scheffau am Tennengebirge",
     "results": [
       { "name": "Hofer", "votes": 449 },
@@ -91,6 +104,7 @@
     ]
   },
   {
+    "id": 14,
     "name": "Bad Vigaun",
     "results": [
       { "name": "Hofer", "votes": 593 },
@@ -98,6 +112,7 @@
     ]
   },
   {
+    "id": 15,
     "name": "Anif",
     "results": [
       { "name": "Hofer", "votes": 837 },
@@ -105,6 +120,7 @@
     ]
   },
   {
+    "id": 16,
     "name": "Anthering",
     "results": [
       { "name": "Hofer", "votes": 1019 },
@@ -112,6 +128,7 @@
     ]
   },
   {
+    "id": 17,
     "name": "Bergheim",
     "results": [
       { "name": "Hofer", "votes": 1216 },
@@ -119,6 +136,7 @@
     ]
   },
   {
+    "id": 18,
     "name": "Berndorf bei Salzburg",
     "results": [
       { "name": "Hofer", "votes": 495 },
@@ -126,6 +144,7 @@
     ]
   },
   {
+    "id": 19,
     "name": "Bürmoos",
     "results": [
       { "name": "Hofer", "votes": 1204 },
@@ -133,6 +152,7 @@
     ]
   },
   {
+    "id": 20,
     "name": "Dorfbeuern",
     "results": [
       { "name": "Hofer", "votes": 400 },
@@ -140,6 +160,7 @@
     ]
   },
   {
+    "id": 21,
     "name": "Ebenau",
     "results": [
       { "name": "Hofer", "votes": 395 },
@@ -147,6 +168,7 @@
     ]
   },
   {
+    "id": 22,
     "name": "Elixhausen",
     "results": [
       { "name": "Hofer", "votes": 681 },
@@ -154,6 +176,7 @@
     ]
   },
   {
+    "id": 23,
     "name": "Elsbethen",
     "results": [
       { "name": "Hofer", "votes": 1196 },
@@ -161,6 +184,7 @@
     ]
   },
   {
+    "id": 24,
     "name": "Eugendorf",
     "results": [
       { "name": "Hofer", "votes": 1954 },
@@ -168,6 +192,7 @@
     ]
   },
   {
+    "id": 25,
     "name": "Faistenau",
     "results": [
       { "name": "Hofer", "votes": 1008 },
@@ -175,6 +200,7 @@
     ]
   },
   {
+    "id": 26,
     "name": "Fuschl am See",
     "results": [
       { "name": "Hofer", "votes": 325 },
@@ -182,6 +208,7 @@
     ]
   },
   {
+    "id": 27,
     "name": "Göming",
     "results": [
       { "name": "Hofer", "votes": 217 },
@@ -189,6 +216,7 @@
     ]
   },
   {
+    "id": 28,
     "name": "Grödig",
     "results": [
       { "name": "Hofer", "votes": 1592 },
@@ -196,6 +224,7 @@
     ]
   },
   {
+    "id": 29,
     "name": "Großgmain",
     "results": [
       { "name": "Hofer", "votes": 591 },
@@ -203,6 +232,7 @@
     ]
   },
   {
+    "id": 30,
     "name": "Hallwang",
     "results": [
       { "name": "Hofer", "votes": 990 },
@@ -210,6 +240,7 @@
     ]
   },
   {
+    "id": 31,
     "name": "Henndorf am Wallersee",
     "results": [
       { "name": "Hofer", "votes": 1292 },
@@ -217,6 +248,7 @@
     ]
   },
   {
+    "id": 32,
     "name": "Hintersee",
     "results": [
       { "name": "Hofer", "votes": 157 },
@@ -224,6 +256,7 @@
     ]
   },
   {
+    "id": 33,
     "name": "Hof bei Salzburg",
     "results": [
       { "name": "Hofer", "votes": 896 },
@@ -231,6 +264,7 @@
     ]
   },
   {
+    "id": 34,
     "name": "Köstendorf",
     "results": [
       { "name": "Hofer", "votes": 717 },
@@ -238,6 +272,7 @@
     ]
   },
   {
+    "id": 35,
     "name": "Koppl",
     "results": [
       { "name": "Hofer", "votes": 848 },
@@ -245,6 +280,7 @@
     ]
   },
   {
+    "id": 36,
     "name": "Lamprechtshausen",
     "results": [
       { "name": "Hofer", "votes": 1099 },
@@ -252,6 +288,7 @@
     ]
   },
   {
+    "id": 37,
     "name": "Mattsee",
     "results": [
       { "name": "Hofer", "votes": 696 },
@@ -259,6 +296,7 @@
     ]
   },
   {
+    "id": 38,
     "name": "Neumarkt am Wallersee",
     "results": [
       { "name": "Hofer", "votes": 1545 },
@@ -266,6 +304,7 @@
     ]
   },
   {
+    "id": 39,
     "name": "Nußdorf am Haunsberg",
     "results": [
       { "name": "Hofer", "votes": 746 },
@@ -273,6 +312,7 @@
     ]
   },
   {
+    "id": 40,
     "name": "Oberndorf bei Salzburg",
     "results": [
       { "name": "Hofer", "votes": 1241 },
@@ -280,6 +320,7 @@
     ]
   },
   {
+    "id": 41,
     "name": "Obertrum am See",
     "results": [
       { "name": "Hofer", "votes": 1146 },
@@ -287,6 +328,7 @@
     ]
   },
   {
+    "id": 42,
     "name": "Plainfeld",
     "results": [
       { "name": "Hofer", "votes": 334 },
@@ -294,6 +336,7 @@
     ]
   },
   {
+    "id": 43,
     "name": "Sankt Georgen bei Salzburg",
     "results": [
       { "name": "Hofer", "votes": 915 },
@@ -301,6 +344,7 @@
     ]
   },
   {
+    "id": 44,
     "name": "Sankt Gilgen",
     "results": [
       { "name": "Hofer", "votes": 892 },
@@ -308,6 +352,7 @@
     ]
   },
   {
+    "id": 45,
     "name": "Schleedorf",
     "results": [
       { "name": "Hofer", "votes": 338 },
@@ -315,6 +360,7 @@
     ]
   },
   {
+    "id": 46,
     "name": "Seeham",
     "results": [
       { "name": "Hofer", "votes": 439 },
@@ -322,6 +368,7 @@
     ]
   },
   {
+    "id": 47,
     "name": "Straßwalchen",
     "results": [
       { "name": "Hofer", "votes": 2317 },
@@ -329,6 +376,7 @@
     ]
   },
   {
+    "id": 48,
     "name": "Strobl",
     "results": [
       { "name": "Hofer", "votes": 848 },
@@ -336,6 +384,7 @@
     ]
   },
   {
+    "id": 49,
     "name": "Thalgau",
     "results": [
       { "name": "Hofer", "votes": 1659 },
@@ -343,6 +392,7 @@
     ]
   },
   {
+    "id": 50,
     "name": "Wals-Siezenheim",
     "results": [
       { "name": "Hofer", "votes": 3536 },
@@ -350,6 +400,7 @@
     ]
   },
   {
+    "id": 51,
     "name": "Seekirchen am Wallersee",
     "results": [
       { "name": "Hofer", "votes": 2636 },
@@ -357,6 +408,7 @@
     ]
   },
   {
+    "id": 52,
     "name": "Altenmarkt im Pongau",
     "results": [
       { "name": "Hofer", "votes": 1070 },
@@ -364,6 +416,7 @@
     ]
   },
   {
+    "id": 53,
     "name": "Bad Hofgastein",
     "results": [
       { "name": "Hofer", "votes": 1856 },
@@ -371,6 +424,7 @@
     ]
   },
   {
+    "id": 54,
     "name": "Bad Gastein",
     "results": [
       { "name": "Hofer", "votes": 1106 },
@@ -378,6 +432,7 @@
     ]
   },
   {
+    "id": 55,
     "name": "Bischofshofen",
     "results": [
       { "name": "Hofer", "votes": 2600 },
@@ -385,6 +440,7 @@
     ]
   },
   {
+    "id": 56,
     "name": "Dorfgastein",
     "results": [
       { "name": "Hofer", "votes": 581 },
@@ -392,6 +448,7 @@
     ]
   },
   {
+    "id": 57,
     "name": "Eben im Pongau",
     "results": [
       { "name": "Hofer", "votes": 758 },
@@ -399,6 +456,7 @@
     ]
   },
   {
+    "id": 58,
     "name": "Filzmoos",
     "results": [
       { "name": "Hofer", "votes": 466 },
@@ -406,6 +464,7 @@
     ]
   },
   {
+    "id": 59,
     "name": "Flachau",
     "results": [
       { "name": "Hofer", "votes": 879 },
@@ -413,6 +472,7 @@
     ]
   },
   {
+    "id": 60,
     "name": "Forstau",
     "results": [
       { "name": "Hofer", "votes": 189 },
@@ -420,6 +480,7 @@
     ]
   },
   {
+    "id": 61,
     "name": "Goldegg",
     "results": [
       { "name": "Hofer", "votes": 832 },
@@ -427,6 +488,7 @@
     ]
   },
   {
+    "id": 62,
     "name": "Großarl",
     "results": [
       { "name": "Hofer", "votes": 1234 },
@@ -434,6 +496,7 @@
     ]
   },
   {
+    "id": 63,
     "name": "Hüttau",
     "results": [
       { "name": "Hofer", "votes": 530 },
@@ -441,6 +504,7 @@
     ]
   },
   {
+    "id": 64,
     "name": "Hüttschlag",
     "results": [
       { "name": "Hofer", "votes": 325 },
@@ -448,6 +512,7 @@
     ]
   },
   {
+    "id": 65,
     "name": "Kleinarl",
     "results": [
       { "name": "Hofer", "votes": 228 },
@@ -455,6 +520,7 @@
     ]
   },
   {
+    "id": 66,
     "name": "Mühlbach am Hochkönig",
     "results": [
       { "name": "Hofer", "votes": 384 },
@@ -462,6 +528,7 @@
     ]
   },
   {
+    "id": 67,
     "name": "Pfarrwerfen",
     "results": [
       { "name": "Hofer", "votes": 658 },
@@ -469,6 +536,7 @@
     ]
   },
   {
+    "id": 68,
     "name": "Radstadt",
     "results": [
       { "name": "Hofer", "votes": 1332 },
@@ -476,6 +544,7 @@
     ]
   },
   {
+    "id": 69,
     "name": "Sankt Johann im Pongau",
     "results": [
       { "name": "Hofer", "votes": 2903 },
@@ -483,6 +552,7 @@
     ]
   },
   {
+    "id": 70,
     "name": "Sankt Martin am Tennengebirge",
     "results": [
       { "name": "Hofer", "votes": 520 },
@@ -490,6 +560,7 @@
     ]
   },
   {
+    "id": 71,
     "name": "Sankt Veit im Pongau",
     "results": [
       { "name": "Hofer", "votes": 1042 },
@@ -497,6 +568,7 @@
     ]
   },
   {
+    "id": 72,
     "name": "Schwarzach im Pongau",
     "results": [
       { "name": "Hofer", "votes": 793 },
@@ -504,6 +576,7 @@
     ]
   },
   {
+    "id": 73,
     "name": "Untertauern",
     "results": [
       { "name": "Hofer", "votes": 95 },
@@ -511,6 +584,7 @@
     ]
   },
   {
+    "id": 74,
     "name": "Wagrain",
     "results": [
       { "name": "Hofer", "votes": 969 },
@@ -518,6 +592,7 @@
     ]
   },
   {
+    "id": 75,
     "name": "Werfen",
     "results": [
       { "name": "Hofer", "votes": 812 },
@@ -525,6 +600,7 @@
     ]
   },
   {
+    "id": 76,
     "name": "Werfenweng",
     "results": [
       { "name": "Hofer", "votes": 307 },
@@ -532,6 +608,7 @@
     ]
   },
   {
+    "id": 77,
     "name": "Göriach",
     "results": [
       { "name": "Hofer", "votes": 115 },
@@ -539,6 +616,7 @@
     ]
   },
   {
+    "id": 78,
     "name": "Lessach",
     "results": [
       { "name": "Hofer", "votes": 173 },
@@ -546,6 +624,7 @@
     ]
   },
   {
+    "id": 79,
     "name": "Mariapfarr",
     "results": [
       { "name": "Hofer", "votes": 679 },
@@ -553,6 +632,7 @@
     ]
   },
   {
+    "id": 80,
     "name": "Mauterndorf",
     "results": [
       { "name": "Hofer", "votes": 488 },
@@ -560,6 +640,7 @@
     ]
   },
   {
+    "id": 81,
     "name": "Muhr",
     "results": [
       { "name": "Hofer", "votes": 251 },
@@ -567,6 +648,7 @@
     ]
   },
   {
+    "id": 82,
     "name": "Ramingstein",
     "results": [
       { "name": "Hofer", "votes": 426 },
@@ -574,6 +656,7 @@
     ]
   },
   {
+    "id": 83,
     "name": "Sankt Andrä im Lungau",
     "results": [
       { "name": "Hofer", "votes": 254 },
@@ -581,6 +664,7 @@
     ]
   },
   {
+    "id": 84,
     "name": "Sankt Margarethen im Lungau",
     "results": [
       { "name": "Hofer", "votes": 244 },
@@ -588,6 +672,7 @@
     ]
   },
   {
+    "id": 85,
     "name": "Sankt Michael im Lungau",
     "results": [
       { "name": "Hofer", "votes": 1227 },
@@ -595,6 +680,7 @@
     ]
   },
   {
+    "id": 86,
     "name": "Tamsweg",
     "results": [
       { "name": "Hofer", "votes": 1645 },
@@ -602,6 +688,7 @@
     ]
   },
   {
+    "id": 87,
     "name": "Thomatal",
     "results": [
       { "name": "Hofer", "votes": 120 },
@@ -609,6 +696,7 @@
     ]
   },
   {
+    "id": 88,
     "name": "Tweng",
     "results": [
       { "name": "Hofer", "votes": 53 },
@@ -616,6 +704,7 @@
     ]
   },
   {
+    "id": 89,
     "name": "Unternberg",
     "results": [
       { "name": "Hofer", "votes": 349 },
@@ -623,6 +712,7 @@
     ]
   },
   {
+    "id": 90,
     "name": "Weißpriach",
     "results": [
       { "name": "Hofer", "votes": 100 },
@@ -630,6 +720,7 @@
     ]
   },
   {
+    "id": 91,
     "name": "Zederhaus",
     "results": [
       { "name": "Hofer", "votes": 454 },
@@ -637,6 +728,7 @@
     ]
   },
   {
+    "id": 92,
     "name": "Bramberg am Wildkogel",
     "results": [
       { "name": "Hofer", "votes": 1252 },
@@ -644,6 +736,7 @@
     ]
   },
   {
+    "id": 93,
     "name": "Bruck an der Großglocknerstraße",
     "results": [
       { "name": "Hofer", "votes": 1222 },
@@ -651,6 +744,7 @@
     ]
   },
   {
+    "id": 94,
     "name": "Dienten am Hochkönig",
     "results": [
       { "name": "Hofer", "votes": 223 },
@@ -658,6 +752,7 @@
     ]
   },
   {
+    "id": 95,
     "name": "Fusch an der Großglocknerstraße",
     "results": [
       { "name": "Hofer", "votes": 170 },
@@ -665,6 +760,7 @@
     ]
   },
   {
+    "id": 96,
     "name": "Hollersbach im Pinzgau",
     "results": [
       { "name": "Hofer", "votes": 416 },
@@ -672,6 +768,7 @@
     ]
   },
   {
+    "id": 97,
     "name": "Kaprun",
     "results": [
       { "name": "Hofer", "votes": 707 },
@@ -679,6 +776,7 @@
     ]
   },
   {
+    "id": 98,
     "name": "Krimml",
     "results": [
       { "name": "Hofer", "votes": 243 },
@@ -686,6 +784,7 @@
     ]
   },
   {
+    "id": 99,
     "name": "Lend",
     "results": [
       { "name": "Hofer", "votes": 432 },
@@ -693,6 +792,7 @@
     ]
   },
   {
+    "id": 100,
     "name": "Leogang",
     "results": [
       { "name": "Hofer", "votes": 696 },
@@ -700,6 +800,7 @@
     ]
   },
   {
+    "id": 101,
     "name": "Lofer",
     "results": [
       { "name": "Hofer", "votes": 525 },
@@ -707,6 +808,7 @@
     ]
   },
   {
+    "id": 102,
     "name": "Maishofen",
     "results": [
       { "name": "Hofer", "votes": 861 },
@@ -714,6 +816,7 @@
     ]
   },
   {
+    "id": 103,
     "name": "Maria Alm am Steinernen Meer",
     "results": [
       { "name": "Hofer", "votes": 552 },
@@ -721,6 +824,7 @@
     ]
   },
   {
+    "id": 104,
     "name": "Mittersill",
     "results": [
       { "name": "Hofer", "votes": 1535 },
@@ -728,6 +832,7 @@
     ]
   },
   {
+    "id": 105,
     "name": "Neukirchen am Großvenediger",
     "results": [
       { "name": "Hofer", "votes": 692 },
@@ -735,6 +840,7 @@
     ]
   },
   {
+    "id": 106,
     "name": "Niedernsill",
     "results": [
       { "name": "Hofer", "votes": 807 },
@@ -742,6 +848,7 @@
     ]
   },
   {
+    "id": 107,
     "name": "Piesendorf",
     "results": [
       { "name": "Hofer", "votes": 961 },
@@ -749,6 +856,7 @@
     ]
   },
   {
+    "id": 108,
     "name": "Rauris",
     "results": [
       { "name": "Hofer", "votes": 933 },
@@ -756,6 +864,7 @@
     ]
   },
   {
+    "id": 109,
     "name": "Saalbach-Hinterglemm",
     "results": [
       { "name": "Hofer", "votes": 713 },
@@ -763,6 +872,7 @@
     ]
   },
   {
+    "id": 110,
     "name": "Saalfelden am Steinernen Meer",
     "results": [
       { "name": "Hofer", "votes": 3849 },
@@ -770,6 +880,7 @@
     ]
   },
   {
+    "id": 111,
     "name": "Sankt Martin bei Lofer",
     "results": [
       { "name": "Hofer", "votes": 268 },
@@ -777,6 +888,7 @@
     ]
   },
   {
+    "id": 112,
     "name": "Stuhlfelden",
     "results": [
       { "name": "Hofer", "votes": 575 },
@@ -784,6 +896,7 @@
     ]
   },
   {
+    "id": 113,
     "name": "Taxenbach",
     "results": [
       { "name": "Hofer", "votes": 892 },
@@ -791,6 +904,7 @@
     ]
   },
   {
+    "id": 114,
     "name": "Unken",
     "results": [
       { "name": "Hofer", "votes": 541 },
@@ -798,6 +912,7 @@
     ]
   },
   {
+    "id": 115,
     "name": "Uttendorf",
     "results": [
       { "name": "Hofer", "votes": 838 },
@@ -805,6 +920,7 @@
     ]
   },
   {
+    "id": 116,
     "name": "Viehhofen",
     "results": [
       { "name": "Hofer", "votes": 199 },
@@ -812,6 +928,7 @@
     ]
   },
   {
+    "id": 117,
     "name": "Wald im Pinzgau",
     "results": [
       { "name": "Hofer", "votes": 341 },
@@ -819,6 +936,7 @@
     ]
   },
   {
+    "id": 118,
     "name": "Weißbach bei Lofer",
     "results": [
       { "name": "Hofer", "votes": 112 },
@@ -826,6 +944,7 @@
     ]
   },
   {
+    "id": 119,
     "name": "Zell am See",
     "results": [
       { "name": "Hofer", "votes": 2046 },

@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Innere Stadt",
     "results": [
       { "name": "Hofer", "votes": 1514 },
@@ -7,6 +8,7 @@
     ]
   },
   {
+    "id": 2,
     "name": "Leopoldstadt",
     "results": [
       { "name": "Hofer", "votes": 9703 },
@@ -14,6 +16,7 @@
     ]
   },
   {
+    "id": 3,
     "name": "Landstraße",
     "results": [
       { "name": "Hofer", "votes": 8638 },
@@ -21,6 +24,7 @@
     ]
   },
   {
+    "id": 4,
     "name": "Wieden",
     "results": [
       { "name": "Hofer", "votes": 2567 },
@@ -28,6 +32,7 @@
     ]
   },
   {
+    "id": 5,
     "name": "Margareten",
     "results": [
       { "name": "Hofer", "votes": 4406 },
@@ -35,6 +40,7 @@
     ]
   },
   {
+    "id": 6,
     "name": "Mariahilf",
     "results": [
       { "name": "Hofer", "votes": 2465 },
@@ -42,6 +48,7 @@
     ]
   },
   {
+    "id": 7,
     "name": "Neubau",
     "results": [
       { "name": "Hofer", "votes": 2182 },
@@ -49,6 +56,7 @@
     ]
   },
   {
+    "id": 8,
     "name": "Josefstadt",
     "results": [
       { "name": "Hofer", "votes": 1880 },
@@ -56,6 +64,7 @@
     ]
   },
   {
+    "id": 9,
     "name": "Alsergrund",
     "results": [
       { "name": "Hofer", "votes": 3219 },
@@ -63,6 +72,7 @@
     ]
   },
   {
+    "id": 10,
     "name": "Favoriten",
     "results": [
       { "name": "Hofer", "votes": 26334 },
@@ -70,6 +80,7 @@
     ]
   },
   {
+    "id": 11,
     "name": "Simmering",
     "results": [
       { "name": "Hofer", "votes": 16222 },
@@ -77,6 +88,7 @@
     ]
   },
   {
+    "id": 12,
     "name": "Meidling",
     "results": [
       { "name": "Hofer", "votes": 11227 },
@@ -84,6 +96,7 @@
     ]
   },
   {
+    "id": 13,
     "name": "Hietzing",
     "results": [
       { "name": "Hofer", "votes": 7219 },
@@ -91,6 +104,7 @@
     ]
   },
   {
+    "id": 14,
     "name": "Penzing",
     "results": [
       { "name": "Hofer", "votes": 12148 },
@@ -98,6 +112,7 @@
     ]
   },
   {
+    "id": 15,
     "name": "Rudolfsheim-Fünfhaus",
     "results": [
       { "name": "Hofer", "votes": 6451 },
@@ -105,6 +120,7 @@
     ]
   },
   {
+    "id": 16,
     "name": "Ottakring",
     "results": [
       { "name": "Hofer", "votes": 10792 },
@@ -112,6 +128,7 @@
     ]
   },
   {
+    "id": 17,
     "name": "Hernals",
     "results": [
       { "name": "Hofer", "votes": 5492 },
@@ -119,6 +136,7 @@
     ]
   },
   {
+    "id": 18,
     "name": "Währing",
     "results": [
       { "name": "Hofer", "votes": 4642 },
@@ -126,6 +144,7 @@
     ]
   },
   {
+    "id": 19,
     "name": "Döbling",
     "results": [
       { "name": "Hofer", "votes": 8928 },
@@ -133,6 +152,7 @@
     ]
   },
   {
+    "id": 20,
     "name": "Brigittenau",
     "results": [
       { "name": "Hofer", "votes": 9139 },
@@ -140,6 +160,7 @@
     ]
   },
   {
+    "id": 21,
     "name": "Floridsdorf",
     "results": [
       { "name": "Hofer", "votes": 29528 },
@@ -147,6 +168,7 @@
     ]
   },
   {
+    "id": 22,
     "name": "Donaustadt",
     "results": [
       { "name": "Hofer", "votes": 32729 },
@@ -154,6 +176,7 @@
     ]
   },
   {
+    "id": 23,
     "name": "Liesing",
     "results": [
       { "name": "Hofer", "votes": 17492 },
