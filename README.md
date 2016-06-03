@@ -6,7 +6,6 @@ Provides data API for geo–political data for Web and provides data visualizati
 GeoWahl visualizes geo–political data for Web, Smartphone (iPhone, Android) and Smartwatch (Apple Watch, Android Wear).
 
 Platform-specific projects can be found here:
-- [GeoWahl API](https://github.com/fhstp-mfg/geowahl-api)
 - [GeoWahl Android](https://github.com/fhstp-mfg/geowahl-android)
 - [GeoWahl iOS](https://github.com/fhstp-mfg/geowahl-ios)
 
