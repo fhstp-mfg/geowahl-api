@@ -57,11 +57,11 @@ class ElectionController extends Controller
   {
     $location = getLocation($latitude, $longitude);
     $state = $location['state'];
-    $state = mapStateNameToSlug($state);
+    $stateSlug = mapStateNameToSlug($state);
 
     // NOTE Code duplication from geolocationcontroller:getResultsforlocation
     $districtName = $location['district'];
-    $districts = getDistricts($electionSlug, $state);
+    $districts = getDistricts($electionSlug, $stateSlug);
     $results = 'no results for the district "'.$districtName.' found.';
 
     $results = [];
@@ -75,17 +75,9 @@ class ElectionController extends Controller
         break;
       }
     }
-
-    // results for states
-    $districts = getDistricts($electionSlug, $state);
-    $results['state']['name'] = $location['state'];
-    $results['state']['results'] = getDistrictsResults($districts);
-
-    // results for election
-    $electionDataObj = getElectionDataObj($electionSlug);
-    $results['election']['name'] = $electionDataObj->name;
-    $results['election']['results'] = $electionDataObj->results;
-
+    
+    //get results for states and election
+    $results += getParentGranularityResults($electionSlug, $state);
     return deliverJson($results);
   }
 }

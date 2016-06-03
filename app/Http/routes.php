@@ -41,6 +41,7 @@ Route::get('/{electionSlug}/donut-chart',
 /// StateController
 Route::get('/{electionSlug}/{stateSlug}', 'StateController@getState');
 Route::get('/{electionSlug}/{stateSlug}/districts', 'StateController@getDistricts');
+Route::get('/{electionSlug}/{stateSlug}/{districtId}', 'StateController@getDistrictById');
 
 /// END routes
 
@@ -153,6 +154,23 @@ function getDistrictsResults ($districts) {
   return $results;
 }
 
+//get results for states and election
+function getParentGranularityResults($electionSlug, $state){
+  // results for states
+  $stateSlug = mapStateNameToSlug($state);
+  $districts = getDistricts($electionSlug, $stateSlug);
+  $results['state']['name'] = $state;
+  $results['state']['results'] = getDistrictsResults($districts);
+
+// results for election
+  $electionDataObj = getElectionDataObj($electionSlug);
+  $results['election']['name'] = $electionDataObj->name;
+  $results['election']['results'] = $electionDataObj->results;
+
+  return $results;
+}
+
+
 /// Locations
 
 /**
@@ -250,4 +268,20 @@ function mapStateNameToSlug ($stateName) {
 
   }
   return $stateSlug;
+}
+
+// returns name of a state
+function mapStateSlugToName ($stateSlug) {
+  $elections = getElections();
+
+  foreach ($elections as $election){
+    $states = $election->states;
+    foreach ($states as $state){
+      if($state->slug == $stateSlug){
+        $stateName = $state->name;
+      }
+    }
+
+  }
+  return $stateName;
 }
