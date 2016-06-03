@@ -1,4 +1,4 @@
-# GeoWahl API
+# GeoWahl
 Provides data API for geo–political data for Web and provides data visualization views.
 
 ![alt tag](https://github.com/fhstp-mfg/geowahl/blob/master/design/Logo/logo_round.png)
@@ -9,7 +9,9 @@ Platform-specific projects can be found here:
 - [GeoWahl Android](https://github.com/fhstp-mfg/geowahl-android)
 - [GeoWahl iOS](https://github.com/fhstp-mfg/geowahl-ios)
 
-## JSON Data
+## GeoWahl API
+
+### JSON Data
 The following routes return **JSON** data.
 
 ### All Elections
