@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Innere Stadt",
     "results": [
       { "name": "Griss", "votes": 1629 },
@@ -11,6 +12,7 @@
     ]
   },
   {
+    "id": 2,
     "name": "Leopoldstadt",
     "results": [
       { "name": "Griss", "votes": 5153 },
@@ -22,6 +24,7 @@
     ]
   },
   {
+    "id": 3,
     "name": "Landstraße",
     "results": [
       { "name": "Griss", "votes": 5873 },
@@ -33,6 +36,7 @@
     ]
   },
   {
+    "id": 4,
     "name": "Wieden",
     "results": [
       { "name": "Griss", "votes": 2500 },
@@ -44,6 +48,7 @@
     ]
   },
   {
+    "id": 5,
     "name": "Margareten",
     "results": [
       { "name": "Griss", "votes": 2723 },
@@ -55,6 +60,7 @@
     ]
   },
   {
+    "id": 6,
     "name": "Mariahilf",
     "results": [
       { "name": "Griss", "votes": 2135 },
@@ -66,6 +72,7 @@
     ]
   },
   {
+    "id": 7,
     "name": "Neubau",
     "results": [
       { "name": "Griss", "votes": 2203 },
@@ -77,6 +84,7 @@
     ]
   },
   {
+    "id": 8,
     "name": "Josefstadt",
     "results": [
       { "name": "Griss", "votes": 2058 },
@@ -88,6 +96,7 @@
     ]
   },
   {
+    "id": 9,
     "name": "Alsergrund",
     "results": [
       { "name": "Griss", "votes": 3164 },
@@ -99,6 +108,7 @@
     ]
   },
   {
+    "id": 10,
     "name": "Favoriten",
     "results": [
       { "name": "Griss", "votes": 7592 },
@@ -110,6 +120,7 @@
     ]
   },
   {
+    "id": 11,
     "name": "Simmering",
     "results": [
       { "name": "Griss", "votes": 4032 },
@@ -121,6 +132,7 @@
     ]
   },
   {
+    "id": 12,
     "name": "Meidling",
     "results": [
       { "name": "Griss", "votes": 4565 },
@@ -132,6 +144,7 @@
     ]
   },
   {
+    "id": 13,
     "name": "Hietzing",
     "results": [
       { "name": "Griss", "votes": 6029 },
@@ -143,6 +156,7 @@
     ]
   },
   {
+    "id": 14,
     "name": "Penzing",
     "results": [
       { "name": "Griss", "votes": 6770 },
@@ -154,6 +168,7 @@
     ]
   },
   {
+    "id": 15,
     "name": "Rudolfsheim-Fünfhaus",
     "results": [
       { "name": "Griss", "votes": 2825 },
@@ -165,6 +180,7 @@
     ]
   },
   {
+    "id": 16,
     "name": "Ottakring",
     "results": [
       { "name": "Griss", "votes": 4816 },
@@ -176,6 +192,7 @@
     ]
   },
   {
+    "id": 17,
     "name": "Hernals",
     "results": [
       { "name": "Griss", "votes": 3513 },
@@ -187,6 +204,7 @@
     ]
   },
   {
+    "id": 18,
     "name": "Währing",
     "results": [
       { "name": "Griss", "votes": 4450 },
@@ -198,6 +216,7 @@
     ]
   },
   {
+    "id": 19,
     "name": "Döbling",
     "results": [
       { "name": "Griss", "votes": 7003 },
@@ -209,6 +228,7 @@
     ]
   },
   {
+    "id": 20,
     "name": "Brigittenau",
     "results": [
       { "name": "Griss", "votes": 3402 },
@@ -220,6 +240,7 @@
     ]
   },
   {
+    "id": 21,
     "name": "Floridsdorf",
     "results": [
       { "name": "Griss", "votes": 9093 },
@@ -231,6 +252,7 @@
     ]
   },
   {
+    "id": 22,
     "name": "Donaustadt",
     "results": [
       { "name": "Griss", "votes": 11896 },
@@ -242,6 +264,7 @@
     ]
   },
   {
+    "id": 23,
     "name": "Liesing",
     "results": [
       { "name": "Griss", "votes": 8261 },

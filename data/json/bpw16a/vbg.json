@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Bartholomäberg",
     "results": [
       { "name": "Griss", "votes": 198 },
@@ -11,6 +12,7 @@
     ]
   },
   {
+    "id": 2,
     "name": "Blons",
     "results": [
       { "name": "Griss", "votes": 26 },
@@ -22,6 +24,7 @@
     ]
   },
   {
+    "id": 3,
     "name": "Bludenz",
     "results": [
       { "name": "Griss", "votes": 813 },
@@ -33,6 +36,7 @@
     ]
   },
   {
+    "id": 4,
     "name": "Bludesch",
     "results": [
       { "name": "Griss", "votes": 162 },
@@ -44,6 +48,7 @@
     ]
   },
   {
+    "id": 5,
     "name": "Brand",
     "results": [
       { "name": "Griss", "votes": 60 },
@@ -55,6 +60,7 @@
     ]
   },
   {
+    "id": 6,
     "name": "Bürs",
     "results": [
       { "name": "Griss", "votes": 222 },
@@ -66,6 +72,7 @@
     ]
   },
   {
+    "id": 7,
     "name": "Bürserberg",
     "results": [
       { "name": "Griss", "votes": 34 },
@@ -77,6 +84,7 @@
     ]
   },
   {
+    "id": 8,
     "name": "Dalaas",
     "results": [
       { "name": "Griss", "votes": 152 },
@@ -88,6 +96,7 @@
     ]
   },
   {
+    "id": 9,
     "name": "Fontanella",
     "results": [
       { "name": "Griss", "votes": 31 },
@@ -99,6 +108,7 @@
     ]
   },
   {
+    "id": 10,
     "name": "Gaschurn",
     "results": [
       { "name": "Griss", "votes": 90 },
@@ -110,6 +120,7 @@
     ]
   },
   {
+    "id": 11,
     "name": "Innerbraz",
     "results": [
       { "name": "Griss", "votes": 86 },
@@ -121,6 +132,7 @@
     ]
   },
   {
+    "id": 12,
     "name": "Klösterle",
     "results": [
       { "name": "Griss", "votes": 80 },
@@ -132,6 +144,7 @@
     ]
   },
   {
+    "id": 13,
     "name": "Lech",
     "results": [
       { "name": "Griss", "votes": 154 },
@@ -143,6 +156,7 @@
     ]
   },
   {
+    "id": 14,
     "name": "Lorüns",
     "results": [
       { "name": "Griss", "votes": 17 },
@@ -154,6 +168,7 @@
     ]
   },
   {
+    "id": 15,
     "name": "Ludesch",
     "results": [
       { "name": "Griss", "votes": 266 },
@@ -165,6 +180,7 @@
     ]
   },
   {
+    "id": 16,
     "name": "Nenzing",
     "results": [
       { "name": "Griss", "votes": 472 },
@@ -176,6 +192,7 @@
     ]
   },
   {
+    "id": 17,
     "name": "Nüziders",
     "results": [
       { "name": "Griss", "votes": 505 },
@@ -187,6 +204,7 @@
     ]
   },
   {
+    "id": 18,
     "name": "Raggal",
     "results": [
       { "name": "Griss", "votes": 98 },
@@ -198,6 +216,7 @@
     ]
   },
   {
+    "id": 19,
     "name": "St. Anton im Montafon",
     "results": [
       { "name": "Griss", "votes": 61 },
@@ -209,6 +228,7 @@
     ]
   },
   {
+    "id": 20,
     "name": "St. Gallenkirch",
     "results": [
       { "name": "Griss", "votes": 140 },
@@ -220,6 +240,7 @@
     ]
   },
   {
+    "id": 21,
     "name": "St. Gerold",
     "results": [
       { "name": "Griss", "votes": 35 },
@@ -231,6 +252,7 @@
     ]
   },
   {
+    "id": 22,
     "name": "Schruns",
     "results": [
       { "name": "Griss", "votes": 325 },
@@ -242,6 +264,7 @@
     ]
   },
   {
+    "id": 23,
     "name": "Silbertal",
     "results": [
       { "name": "Griss", "votes": 57 },
@@ -253,6 +276,7 @@
     ]
   },
   {
+    "id": 24,
     "name": "Sonntag",
     "results": [
       { "name": "Griss", "votes": 76 },
@@ -264,6 +288,7 @@
     ]
   },
   {
+    "id": 25,
     "name": "Stallehr",
     "results": [
       { "name": "Griss", "votes": 21 },
@@ -275,6 +300,7 @@
     ]
   },
   {
+    "id": 26,
     "name": "Thüringen",
     "results": [
       { "name": "Griss", "votes": 212 },
@@ -286,6 +312,7 @@
     ]
   },
   {
+    "id": 27,
     "name": "Thüringerberg",
     "results": [
       { "name": "Griss", "votes": 96 },
@@ -297,6 +324,7 @@
     ]
   },
   {
+    "id": 28,
     "name": "Tschagguns",
     "results": [
       { "name": "Griss", "votes": 187 },
@@ -308,6 +336,7 @@
     ]
   },
   {
+    "id": 29,
     "name": "Vandans",
     "results": [
       { "name": "Griss", "votes": 220 },
@@ -319,6 +348,7 @@
     ]
   },
   {
+    "id": 30,
     "name": "Alberschwende",
     "results": [
       { "name": "Griss", "votes": 349 },
@@ -330,6 +360,7 @@
     ]
   },
   {
+    "id": 31,
     "name": "Andelsbuch",
     "results": [
       { "name": "Griss", "votes": 219 },
@@ -341,6 +372,7 @@
     ]
   },
   {
+    "id": 32,
     "name": "Au",
     "results": [
       { "name": "Griss", "votes": 158 },
@@ -352,6 +384,7 @@
     ]
   },
   {
+    "id": 33,
     "name": "Bezau",
     "results": [
       { "name": "Griss", "votes": 150 },
@@ -363,6 +396,7 @@
     ]
   },
   {
+    "id": 34,
     "name": "Bildstein",
     "results": [
       { "name": "Griss", "votes": 93 },
@@ -374,6 +408,7 @@
     ]
   },
   {
+    "id": 35,
     "name": "Bizau",
     "results": [
       { "name": "Griss", "votes": 87 },
@@ -385,6 +420,7 @@
     ]
   },
   {
+    "id": 36,
     "name": "Bregenz",
     "results": [
       { "name": "Griss", "votes": 1865 },
@@ -396,6 +432,7 @@
     ]
   },
   {
+    "id": 37,
     "name": "Buch",
     "results": [
       { "name": "Griss", "votes": 76 },
@@ -407,6 +444,7 @@
     ]
   },
   {
+    "id": 38,
     "name": "Damüls",
     "results": [
       { "name": "Griss", "votes": 31 },
@@ -418,6 +456,7 @@
     ]
   },
   {
+    "id": 39,
     "name": "Doren",
     "results": [
       { "name": "Griss", "votes": 120 },
@@ -429,6 +468,7 @@
     ]
   },
   {
+    "id": 40,
     "name": "Egg",
     "results": [
       { "name": "Griss", "votes": 378 },
@@ -440,6 +480,7 @@
     ]
   },
   {
+    "id": 41,
     "name": "Eichenberg",
     "results": [
       { "name": "Griss", "votes": 35 },
@@ -451,6 +492,7 @@
     ]
   },
   {
+    "id": 42,
     "name": "Fußach",
     "results": [
       { "name": "Griss", "votes": 253 },
@@ -462,6 +504,7 @@
     ]
   },
   {
+    "id": 43,
     "name": "Gaißau",
     "results": [
       { "name": "Griss", "votes": 162 },
@@ -473,6 +516,7 @@
     ]
   },
   {
+    "id": 44,
     "name": "Hard",
     "results": [
       { "name": "Griss", "votes": 965 },
@@ -484,6 +528,7 @@
     ]
   },
   {
+    "id": 45,
     "name": "Hittisau",
     "results": [
       { "name": "Griss", "votes": 180 },
@@ -495,6 +540,7 @@
     ]
   },
   {
+    "id": 46,
     "name": "Höchst",
     "results": [
       { "name": "Griss", "votes": 511 },
@@ -506,6 +552,7 @@
     ]
   },
   {
+    "id": 47,
     "name": "Hörbranz",
     "results": [
       { "name": "Griss", "votes": 494 },
@@ -517,6 +564,7 @@
     ]
   },
   {
+    "id": 48,
     "name": "Hohenweiler",
     "results": [
       { "name": "Griss", "votes": 116 },
@@ -528,6 +576,7 @@
     ]
   },
   {
+    "id": 49,
     "name": "Kennelbach",
     "results": [
       { "name": "Griss", "votes": 175 },
@@ -539,6 +588,7 @@
     ]
   },
   {
+    "id": 50,
     "name": "Krumbach",
     "results": [
       { "name": "Griss", "votes": 78 },
@@ -550,6 +600,7 @@
     ]
   },
   {
+    "id": 51,
     "name": "Langen bei Bregenz",
     "results": [
       { "name": "Griss", "votes": 138 },
@@ -561,6 +612,7 @@
     ]
   },
   {
+    "id": 52,
     "name": "Langenegg",
     "results": [
       { "name": "Griss", "votes": 124 },
@@ -572,6 +624,7 @@
     ]
   },
   {
+    "id": 53,
     "name": "Lauterach",
     "results": [
       { "name": "Griss", "votes": 754 },
@@ -583,6 +636,7 @@
     ]
   },
   {
+    "id": 54,
     "name": "Lingenau",
     "results": [
       { "name": "Griss", "votes": 182 },
@@ -594,6 +648,7 @@
     ]
   },
   {
+    "id": 55,
     "name": "Lochau",
     "results": [
       { "name": "Griss", "votes": 464 },
@@ -605,6 +660,7 @@
     ]
   },
   {
+    "id": 56,
     "name": "Mellau",
     "results": [
       { "name": "Griss", "votes": 92 },
@@ -616,6 +672,7 @@
     ]
   },
   {
+    "id": 57,
     "name": "Mittelberg",
     "results": [
       { "name": "Griss", "votes": 171 },
@@ -627,6 +684,7 @@
     ]
   },
   {
+    "id": 58,
     "name": "Möggers",
     "results": [
       { "name": "Griss", "votes": 53 },
@@ -638,6 +696,7 @@
     ]
   },
   {
+    "id": 59,
     "name": "Reuthe",
     "results": [
       { "name": "Griss", "votes": 50 },
@@ -649,6 +708,7 @@
     ]
   },
   {
+    "id": 60,
     "name": "Riefensberg",
     "results": [
       { "name": "Griss", "votes": 108 },
@@ -660,6 +720,7 @@
     ]
   },
   {
+    "id": 61,
     "name": "Schnepfau",
     "results": [
       { "name": "Griss", "votes": 44 },
@@ -671,6 +732,7 @@
     ]
   },
   {
+    "id": 62,
     "name": "Schoppernau",
     "results": [
       { "name": "Griss", "votes": 108 },
@@ -682,6 +744,7 @@
     ]
   },
   {
+    "id": 63,
     "name": "Schröcken",
     "results": [
       { "name": "Griss", "votes": 11 },
@@ -693,6 +756,7 @@
     ]
   },
   {
+    "id": 64,
     "name": "Schwarzach",
     "results": [
       { "name": "Griss", "votes": 393 },
@@ -704,6 +768,7 @@
     ]
   },
   {
+    "id": 65,
     "name": "Schwarzenberg",
     "results": [
       { "name": "Griss", "votes": 191 },
@@ -715,6 +780,7 @@
     ]
   },
   {
+    "id": 66,
     "name": "Sibratsgfäll",
     "results": [
       { "name": "Griss", "votes": 41 },
@@ -726,6 +792,7 @@
     ]
   },
   {
+    "id": 67,
     "name": "Sulzberg",
     "results": [
       { "name": "Griss", "votes": 205 },
@@ -737,6 +804,7 @@
     ]
   },
   {
+    "id": 68,
     "name": "Warth",
     "results": [
       { "name": "Griss", "votes": 14 },
@@ -748,6 +816,7 @@
     ]
   },
   {
+    "id": 69,
     "name": "Wolfurt",
     "results": [
       { "name": "Griss", "votes": 819 },
@@ -759,6 +828,7 @@
     ]
   },
   {
+    "id": 70,
     "name": "Dornbirn",
     "results": [
       { "name": "Griss", "votes": 3768 },
@@ -770,6 +840,7 @@
     ]
   },
   {
+    "id": 71,
     "name": "Hohenems",
     "results": [
       { "name": "Griss", "votes": 920 },
@@ -781,6 +852,7 @@
     ]
   },
   {
+    "id": 72,
     "name": "Lustenau",
     "results": [
       { "name": "Griss", "votes": 1457 },
@@ -792,6 +864,7 @@
     ]
   },
   {
+    "id": 73,
     "name": "Altach",
     "results": [
       { "name": "Griss", "votes": 609 },
@@ -803,6 +876,7 @@
     ]
   },
   {
+    "id": 74,
     "name": "Düns",
     "results": [
       { "name": "Griss", "votes": 37 },
@@ -814,6 +888,7 @@
     ]
   },
   {
+    "id": 75,
     "name": "Dünserberg",
     "results": [
       { "name": "Griss", "votes": 11 },
@@ -825,6 +900,7 @@
     ]
   },
   {
+    "id": 76,
     "name": "Feldkirch",
     "results": [
       { "name": "Griss", "votes": 2477 },
@@ -836,6 +912,7 @@
     ]
   },
   {
+    "id": 77,
     "name": "Frastanz",
     "results": [
       { "name": "Griss", "votes": 426 },
@@ -847,6 +924,7 @@
     ]
   },
   {
+    "id": 78,
     "name": "Fraxern",
     "results": [
       { "name": "Griss", "votes": 85 },
@@ -858,6 +936,7 @@
     ]
   },
   {
+    "id": 79,
     "name": "Göfis",
     "results": [
       { "name": "Griss", "votes": 379 },
@@ -869,6 +948,7 @@
     ]
   },
   {
+    "id": 80,
     "name": "Götzis",
     "results": [
       { "name": "Griss", "votes": 857 },
@@ -880,6 +960,7 @@
     ]
   },
   {
+    "id": 81,
     "name": "Klaus",
     "results": [
       { "name": "Griss", "votes": 332 },
@@ -891,6 +972,7 @@
     ]
   },
   {
+    "id": 82,
     "name": "Koblach",
     "results": [
       { "name": "Griss", "votes": 370 },
@@ -902,6 +984,7 @@
     ]
   },
   {
+    "id": 83,
     "name": "Laterns",
     "results": [
       { "name": "Griss", "votes": 83 },
@@ -913,6 +996,7 @@
     ]
   },
   {
+    "id": 84,
     "name": "Mäder",
     "results": [
       { "name": "Griss", "votes": 280 },
@@ -924,6 +1008,7 @@
     ]
   },
   {
+    "id": 85,
     "name": "Meiningen",
     "results": [
       { "name": "Griss", "votes": 166 },
@@ -935,6 +1020,7 @@
     ]
   },
   {
+    "id": 86,
     "name": "Rankweil",
     "results": [
       { "name": "Griss", "votes": 991 },
@@ -946,6 +1032,7 @@
     ]
   },
   {
+    "id": 87,
     "name": "Röns",
     "results": [
       { "name": "Griss", "votes": 30 },
@@ -957,6 +1044,7 @@
     ]
   },
   {
+    "id": 88,
     "name": "Röthis",
     "results": [
       { "name": "Griss", "votes": 204 },
@@ -968,6 +1056,7 @@
     ]
   },
   {
+    "id": 89,
     "name": "Satteins",
     "results": [
       { "name": "Griss", "votes": 263 },
@@ -979,6 +1068,7 @@
     ]
   },
   {
+    "id": 90,
     "name": "Schlins",
     "results": [
       { "name": "Griss", "votes": 195 },
@@ -990,6 +1080,7 @@
     ]
   },
   {
+    "id": 91,
     "name": "Schnifis",
     "results": [
       { "name": "Griss", "votes": 102 },
@@ -1001,6 +1092,7 @@
     ]
   },
   {
+    "id": 92,
     "name": "Sulz",
     "results": [
       { "name": "Griss", "votes": 269 },
@@ -1012,6 +1104,7 @@
     ]
   },
   {
+    "id": 93,
     "name": "Übersaxen",
     "results": [
       { "name": "Griss", "votes": 75 },
@@ -1023,6 +1116,7 @@
     ]
   },
   {
+    "id": 94,
     "name": "Viktorsberg",
     "results": [
       { "name": "Griss", "votes": 47 },
@@ -1034,6 +1128,7 @@
     ]
   },
   {
+    "id": 95,
     "name": "Weiler",
     "results": [
       { "name": "Griss", "votes": 177 },
@@ -1045,6 +1140,7 @@
     ]
   },
   {
+    "id": 96,
     "name": "Zwischenwasser",
     "results": [
       { "name": "Griss", "votes": 294 },

@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Graz",
     "results": [
       { "name": "Griss", "votes": 29468 },
@@ -11,6 +12,7 @@
     ]
   },
   {
+    "id": 2,
     "name": "Frauental an der Laßnitz",
     "results": [
       { "name": "Griss", "votes": 434 },
@@ -22,6 +24,7 @@
     ]
   },
   {
+    "id": 3,
     "name": "Lannach",
     "results": [
       { "name": "Griss", "votes": 379 },
@@ -33,6 +36,7 @@
     ]
   },
   {
+    "id": 4,
     "name": "Pölfing-Brunn",
     "results": [
       { "name": "Griss", "votes": 159 },
@@ -44,6 +48,7 @@
     ]
   },
   {
+    "id": 5,
     "name": "Preding",
     "results": [
       { "name": "Griss", "votes": 196 },
@@ -55,6 +60,7 @@
     ]
   },
   {
+    "id": 6,
     "name": "Sankt Josef (Weststeiermark)",
     "results": [
       { "name": "Griss", "votes": 202 },
@@ -66,6 +72,7 @@
     ]
   },
   {
+    "id": 7,
     "name": "Sankt Peter im Sulmtal",
     "results": [
       { "name": "Griss", "votes": 165 },
@@ -77,6 +84,7 @@
     ]
   },
   {
+    "id": 8,
     "name": "Wettmannstätten",
     "results": [
       { "name": "Griss", "votes": 178 },
@@ -88,6 +96,7 @@
     ]
   },
   {
+    "id": 9,
     "name": "Deutschlandsberg",
     "results": [
       { "name": "Griss", "votes": 1681 },
@@ -99,6 +108,7 @@
     ]
   },
   {
+    "id": 10,
     "name": "Eibiswald",
     "results": [
       { "name": "Griss", "votes": 619 },
@@ -110,6 +120,7 @@
     ]
   },
   {
+    "id": 11,
     "name": "Groß Sankt Florian",
     "results": [
       { "name": "Griss", "votes": 585 },
@@ -121,6 +132,7 @@
     ]
   },
   {
+    "id": 12,
     "name": "Sankt Martin im Sulmtal",
     "results": [
       { "name": "Griss", "votes": 404 },
@@ -132,6 +144,7 @@
     ]
   },
   {
+    "id": 13,
     "name": "Sankt Stefan ob Stainz",
     "results": [
       { "name": "Griss", "votes": 410 },
@@ -143,6 +156,7 @@
     ]
   },
   {
+    "id": 14,
     "name": "Schwanberg",
     "results": [
       { "name": "Griss", "votes": 605 },
@@ -154,6 +168,7 @@
     ]
   },
   {
+    "id": 15,
     "name": "Stainz",
     "results": [
       { "name": "Griss", "votes": 1135 },
@@ -165,6 +180,7 @@
     ]
   },
   {
+    "id": 16,
     "name": "Wies",
     "results": [
       { "name": "Griss", "votes": 416 },
@@ -176,6 +192,7 @@
     ]
   },
   {
+    "id": 17,
     "name": "Feldkirchen bei Graz",
     "results": [
       { "name": "Griss", "votes": 505 },
@@ -187,6 +204,7 @@
     ]
   },
   {
+    "id": 18,
     "name": "Gössendorf",
     "results": [
       { "name": "Griss", "votes": 341 },
@@ -198,6 +216,7 @@
     ]
   },
   {
+    "id": 19,
     "name": "Gratkorn",
     "results": [
       { "name": "Griss", "votes": 665 },
@@ -209,6 +228,7 @@
     ]
   },
   {
+    "id": 20,
     "name": "Hart bei Graz",
     "results": [
       { "name": "Griss", "votes": 625 },
@@ -220,6 +240,7 @@
     ]
   },
   {
+    "id": 21,
     "name": "Haselsdorf-Tobelbad",
     "results": [
       { "name": "Griss", "votes": 159 },
@@ -231,6 +252,7 @@
     ]
   },
   {
+    "id": 22,
     "name": "Hausmannstätten",
     "results": [
       { "name": "Griss", "votes": 423 },
@@ -242,6 +264,7 @@
     ]
   },
   {
+    "id": 23,
     "name": "Kainbach bei Graz",
     "results": [
       { "name": "Griss", "votes": 340 },
@@ -253,6 +276,7 @@
     ]
   },
   {
+    "id": 24,
     "name": "Kalsdorf bei Graz",
     "results": [
       { "name": "Griss", "votes": 458 },
@@ -264,6 +288,7 @@
     ]
   },
   {
+    "id": 25,
     "name": "Kumberg",
     "results": [
       { "name": "Griss", "votes": 423 },
@@ -275,6 +300,7 @@
     ]
   },
   {
+    "id": 26,
     "name": "Laßnitzhöhe",
     "results": [
       { "name": "Griss", "votes": 371 },
@@ -286,6 +312,7 @@
     ]
   },
   {
+    "id": 27,
     "name": "Lieboch",
     "results": [
       { "name": "Griss", "votes": 538 },
@@ -297,6 +324,7 @@
     ]
   },
   {
+    "id": 28,
     "name": "Peggau",
     "results": [
       { "name": "Griss", "votes": 193 },
@@ -308,6 +336,7 @@
     ]
   },
   {
+    "id": 29,
     "name": "Sankt Bartholomä",
     "results": [
       { "name": "Griss", "votes": 161 },
@@ -319,6 +348,7 @@
     ]
   },
   {
+    "id": 30,
     "name": "Sankt Oswald bei Plankenwarth",
     "results": [
       { "name": "Griss", "votes": 158 },
@@ -330,6 +360,7 @@
     ]
   },
   {
+    "id": 31,
     "name": "Sankt Radegund bei Graz",
     "results": [
       { "name": "Griss", "votes": 260 },
@@ -341,6 +372,7 @@
     ]
   },
   {
+    "id": 32,
     "name": "Semriach",
     "results": [
       { "name": "Griss", "votes": 274 },
@@ -352,6 +384,7 @@
     ]
   },
   {
+    "id": 33,
     "name": "Stattegg",
     "results": [
       { "name": "Griss", "votes": 425 },
@@ -363,6 +396,7 @@
     ]
   },
   {
+    "id": 34,
     "name": "Stiwoll",
     "results": [
       { "name": "Griss", "votes": 64 },
@@ -374,6 +408,7 @@
     ]
   },
   {
+    "id": 35,
     "name": "Thal",
     "results": [
       { "name": "Griss", "votes": 297 },
@@ -385,6 +420,7 @@
     ]
   },
   {
+    "id": 36,
     "name": "Übelbach",
     "results": [
       { "name": "Griss", "votes": 180 },
@@ -396,6 +432,7 @@
     ]
   },
   {
+    "id": 37,
     "name": "Vasoldsberg",
     "results": [
       { "name": "Griss", "votes": 486 },
@@ -407,6 +444,7 @@
     ]
   },
   {
+    "id": 38,
     "name": "Weinitzen",
     "results": [
       { "name": "Griss", "votes": 341 },
@@ -418,6 +456,7 @@
     ]
   },
   {
+    "id": 39,
     "name": "Werndorf",
     "results": [
       { "name": "Griss", "votes": 186 },
@@ -429,6 +468,7 @@
     ]
   },
   {
+    "id": 40,
     "name": "Wundschuh",
     "results": [
       { "name": "Griss", "votes": 173 },
@@ -440,6 +480,7 @@
     ]
   },
   {
+    "id": 41,
     "name": "Deutschfeistritz",
     "results": [
       { "name": "Griss", "votes": 377 },
@@ -451,6 +492,7 @@
     ]
   },
   {
+    "id": 42,
     "name": "Dobl-Zwaring",
     "results": [
       { "name": "Griss", "votes": 381 },
@@ -462,6 +504,7 @@
     ]
   },
   {
+    "id": 43,
     "name": "Eggersdorf bei Graz",
     "results": [
       { "name": "Griss", "votes": 753 },
@@ -473,6 +516,7 @@
     ]
   },
   {
+    "id": 44,
     "name": "Fernitz-Mellach",
     "results": [
       { "name": "Griss", "votes": 560 },
@@ -484,6 +528,7 @@
     ]
   },
   {
+    "id": 45,
     "name": "Frohnleiten",
     "results": [
       { "name": "Griss", "votes": 727 },
@@ -495,6 +540,7 @@
     ]
   },
   {
+    "id": 46,
     "name": "Gratwein-Straßengel",
     "results": [
       { "name": "Griss", "votes": 1447 },
@@ -506,6 +552,7 @@
     ]
   },
   {
+    "id": 47,
     "name": "Hitzendorf",
     "results": [
       { "name": "Griss", "votes": 878 },
@@ -517,6 +564,7 @@
     ]
   },
   {
+    "id": 48,
     "name": "Nestelbach bei Graz",
     "results": [
       { "name": "Griss", "votes": 327 },
@@ -528,6 +576,7 @@
     ]
   },
   {
+    "id": 49,
     "name": "Raaba-Grambach",
     "results": [
       { "name": "Griss", "votes": 557 },
@@ -539,6 +588,7 @@
     ]
   },
   {
+    "id": 50,
     "name": "Sankt Marein bei Graz",
     "results": [
       { "name": "Griss", "votes": 378 },
@@ -550,6 +600,7 @@
     ]
   },
   {
+    "id": 51,
     "name": "Seiersberg-Pirka",
     "results": [
       { "name": "Griss", "votes": 1202 },
@@ -561,6 +612,7 @@
     ]
   },
   {
+    "id": 52,
     "name": "Premstätten",
     "results": [
       { "name": "Griss", "votes": 597 },
@@ -572,6 +624,7 @@
     ]
   },
   {
+    "id": 53,
     "name": "Allerheiligen bei Wildon",
     "results": [
       { "name": "Griss", "votes": 195 },
@@ -583,6 +636,7 @@
     ]
   },
   {
+    "id": 54,
     "name": "Arnfels",
     "results": [
       { "name": "Griss", "votes": 111 },
@@ -594,6 +648,7 @@
     ]
   },
   {
+    "id": 55,
     "name": "Empersdorf",
     "results": [
       { "name": "Griss", "votes": 133 },
@@ -605,6 +660,7 @@
     ]
   },
   {
+    "id": 56,
     "name": "Gabersdorf",
     "results": [
       { "name": "Griss", "votes": 121 },
@@ -616,6 +672,7 @@
     ]
   },
   {
+    "id": 57,
     "name": "Gralla",
     "results": [
       { "name": "Griss", "votes": 179 },
@@ -627,6 +684,7 @@
     ]
   },
   {
+    "id": 58,
     "name": "Großklein",
     "results": [
       { "name": "Griss", "votes": 249 },
@@ -638,6 +696,7 @@
     ]
   },
   {
+    "id": 59,
     "name": "Heimschuh",
     "results": [
       { "name": "Griss", "votes": 202 },
@@ -649,6 +708,7 @@
     ]
   },
   {
+    "id": 60,
     "name": "Hengsberg",
     "results": [
       { "name": "Griss", "votes": 149 },
@@ -660,6 +720,7 @@
     ]
   },
   {
+    "id": 61,
     "name": "Kitzeck im Sausal",
     "results": [
       { "name": "Griss", "votes": 141 },
@@ -671,6 +732,7 @@
     ]
   },
   {
+    "id": 62,
     "name": "Lang",
     "results": [
       { "name": "Griss", "votes": 140 },
@@ -682,6 +744,7 @@
     ]
   },
   {
+    "id": 63,
     "name": "Lebring-Sankt Margarethen",
     "results": [
       { "name": "Griss", "votes": 221 },
@@ -693,6 +756,7 @@
     ]
   },
   {
+    "id": 64,
     "name": "Oberhaag",
     "results": [
       { "name": "Griss", "votes": 164 },
@@ -704,6 +768,7 @@
     ]
   },
   {
+    "id": 65,
     "name": "Ragnitz",
     "results": [
       { "name": "Griss", "votes": 156 },
@@ -715,6 +780,7 @@
     ]
   },
   {
+    "id": 66,
     "name": "Sankt Andrä-Höch",
     "results": [
       { "name": "Griss", "votes": 172 },
@@ -726,6 +792,7 @@
     ]
   },
   {
+    "id": 67,
     "name": "Sankt Johann im Saggautal",
     "results": [
       { "name": "Griss", "votes": 202 },
@@ -737,6 +804,7 @@
     ]
   },
   {
+    "id": 68,
     "name": "Sankt Nikolai im Sausal",
     "results": [
       { "name": "Griss", "votes": 207 },
@@ -748,6 +816,7 @@
     ]
   },
   {
+    "id": 69,
     "name": "Tillmitsch",
     "results": [
       { "name": "Griss", "votes": 289 },
@@ -759,6 +828,7 @@
     ]
   },
   {
+    "id": 70,
     "name": "Wagna",
     "results": [
       { "name": "Griss", "votes": 452 },
@@ -770,6 +840,7 @@
     ]
   },
   {
+    "id": 71,
     "name": "Ehrenhausen an der Weinstraße",
     "results": [
       { "name": "Griss", "votes": 206 },
@@ -781,6 +852,7 @@
     ]
   },
   {
+    "id": 72,
     "name": "Gamlitz",
     "results": [
       { "name": "Griss", "votes": 269 },
@@ -792,6 +864,7 @@
     ]
   },
   {
+    "id": 73,
     "name": "Gleinstätten",
     "results": [
       { "name": "Griss", "votes": 295 },
@@ -803,6 +876,7 @@
     ]
   },
   {
+    "id": 74,
     "name": "Heiligenkreuz am Waasen",
     "results": [
       { "name": "Griss", "votes": 264 },
@@ -814,6 +888,7 @@
     ]
   },
   {
+    "id": 75,
     "name": "Leibnitz",
     "results": [
       { "name": "Griss", "votes": 1125 },
@@ -825,6 +900,7 @@
     ]
   },
   {
+    "id": 76,
     "name": "Leutschach an der Weinstraße",
     "results": [
       { "name": "Griss", "votes": 342 },
@@ -836,6 +912,7 @@
     ]
   },
   {
+    "id": 77,
     "name": "Sankt Georgen an der Stiefing",
     "results": [
       { "name": "Griss", "votes": 182 },
@@ -847,6 +924,7 @@
     ]
   },
   {
+    "id": 78,
     "name": "Sankt Veit in der Südsteiermark",
     "results": [
       { "name": "Griss", "votes": 406 },
@@ -858,6 +936,7 @@
     ]
   },
   {
+    "id": 79,
     "name": "Schwarzautal",
     "results": [
       { "name": "Griss", "votes": 304 },
@@ -869,6 +948,7 @@
     ]
   },
   {
+    "id": 80,
     "name": "Straß in Steiermark",
     "results": [
       { "name": "Griss", "votes": 390 },
@@ -880,6 +960,7 @@
     ]
   },
   {
+    "id": 81,
     "name": "Wildon",
     "results": [
       { "name": "Griss", "votes": 516 },
@@ -891,6 +972,7 @@
     ]
   },
   {
+    "id": 82,
     "name": "Eisenerz",
     "results": [
       { "name": "Griss", "votes": 347 },
@@ -902,6 +984,7 @@
     ]
   },
   {
+    "id": 83,
     "name": "Kalwang",
     "results": [
       { "name": "Griss", "votes": 93 },
@@ -913,6 +996,7 @@
     ]
   },
   {
+    "id": 84,
     "name": "Kammern im Liesingtal",
     "results": [
       { "name": "Griss", "votes": 175 },
@@ -924,6 +1008,7 @@
     ]
   },
   {
+    "id": 85,
     "name": "Kraubath an der Mur",
     "results": [
       { "name": "Griss", "votes": 125 },
@@ -935,6 +1020,7 @@
     ]
   },
   {
+    "id": 86,
     "name": "Leoben",
     "results": [
       { "name": "Griss", "votes": 1867 },
@@ -946,6 +1032,7 @@
     ]
   },
   {
+    "id": 87,
     "name": "Mautern in Steiermark",
     "results": [
       { "name": "Griss", "votes": 165 },
@@ -957,6 +1044,7 @@
     ]
   },
   {
+    "id": 88,
     "name": "Niklasdorf",
     "results": [
       { "name": "Griss", "votes": 178 },
@@ -968,6 +1056,7 @@
     ]
   },
   {
+    "id": 89,
     "name": "Proleb",
     "results": [
       { "name": "Griss", "votes": 157 },
@@ -979,6 +1068,7 @@
     ]
   },
   {
+    "id": 90,
     "name": "Radmer",
     "results": [
       { "name": "Griss", "votes": 43 },
@@ -990,6 +1080,7 @@
     ]
   },
   {
+    "id": 91,
     "name": "Sankt Michael in Obersteiermark",
     "results": [
       { "name": "Griss", "votes": 249 },
@@ -1001,6 +1092,7 @@
     ]
   },
   {
+    "id": 92,
     "name": "Sankt Peter-Freienstein",
     "results": [
       { "name": "Griss", "votes": 210 },
@@ -1012,6 +1104,7 @@
     ]
   },
   {
+    "id": 93,
     "name": "Sankt Stefan ob Leoben",
     "results": [
       { "name": "Griss", "votes": 171 },
@@ -1023,6 +1116,7 @@
     ]
   },
   {
+    "id": 94,
     "name": "Traboch",
     "results": [
       { "name": "Griss", "votes": 112 },
@@ -1034,6 +1128,7 @@
     ]
   },
   {
+    "id": 95,
     "name": "Vordernberg",
     "results": [
       { "name": "Griss", "votes": 63 },
@@ -1045,6 +1140,7 @@
     ]
   },
   {
+    "id": 96,
     "name": "Wald am Schoberpaß",
     "results": [
       { "name": "Griss", "votes": 55 },
@@ -1056,6 +1152,7 @@
     ]
   },
   {
+    "id": 97,
     "name": "Trofaiach",
     "results": [
       { "name": "Griss", "votes": 1082 },
@@ -1067,6 +1164,7 @@
     ]
   },
   {
+    "id": 98,
     "name": "Aigen im Ennstal",
     "results": [
       { "name": "Griss", "votes": 254 },
@@ -1078,6 +1176,7 @@
     ]
   },
   {
+    "id": 99,
     "name": "Altaussee",
     "results": [
       { "name": "Griss", "votes": 181 },
@@ -1089,6 +1188,7 @@
     ]
   },
   {
+    "id": 100,
     "name": "Altenmarkt bei Sankt Gallen",
     "results": [
       { "name": "Griss", "votes": 74 },
@@ -1100,6 +1200,7 @@
     ]
   },
   {
+    "id": 101,
     "name": "Ardning",
     "results": [
       { "name": "Griss", "votes": 101 },
@@ -1111,6 +1212,7 @@
     ]
   },
   {
+    "id": 102,
     "name": "Bad Aussee",
     "results": [
       { "name": "Griss", "votes": 387 },
@@ -1122,6 +1224,7 @@
     ]
   },
   {
+    "id": 103,
     "name": "Gröbming",
     "results": [
       { "name": "Griss", "votes": 289 },
@@ -1133,6 +1236,7 @@
     ]
   },
   {
+    "id": 104,
     "name": "Grundlsee",
     "results": [
       { "name": "Griss", "votes": 122 },
@@ -1144,6 +1248,7 @@
     ]
   },
   {
+    "id": 105,
     "name": "Haus",
     "results": [
       { "name": "Griss", "votes": 220 },
@@ -1155,6 +1260,7 @@
     ]
   },
   {
+    "id": 106,
     "name": "Lassing",
     "results": [
       { "name": "Griss", "votes": 151 },
@@ -1166,6 +1272,7 @@
     ]
   },
   {
+    "id": 107,
     "name": "Ramsau am Dachstein",
     "results": [
       { "name": "Griss", "votes": 256 },
@@ -1177,6 +1284,7 @@
     ]
   },
   {
+    "id": 108,
     "name": "Selzthal",
     "results": [
       { "name": "Griss", "votes": 102 },
@@ -1188,6 +1296,7 @@
     ]
   },
   {
+    "id": 109,
     "name": "Trieben",
     "results": [
       { "name": "Griss", "votes": 242 },
@@ -1199,6 +1308,7 @@
     ]
   },
   {
+    "id": 110,
     "name": "Wildalpen",
     "results": [
       { "name": "Griss", "votes": 40 },
@@ -1210,6 +1320,7 @@
     ]
   },
   {
+    "id": 111,
     "name": "Wörschach",
     "results": [
       { "name": "Griss", "votes": 99 },
@@ -1221,6 +1332,7 @@
     ]
   },
   {
+    "id": 112,
     "name": "Admont",
     "results": [
       { "name": "Griss", "votes": 382 },
@@ -1232,6 +1344,7 @@
     ]
   },
   {
+    "id": 113,
     "name": "Aich",
     "results": [
       { "name": "Griss", "votes": 91 },
@@ -1243,6 +1356,7 @@
     ]
   },
   {
+    "id": 114,
     "name": "Bad Mitterndorf",
     "results": [
       { "name": "Griss", "votes": 400 },
@@ -1254,6 +1368,7 @@
     ]
   },
   {
+    "id": 115,
     "name": "Gaishorn am See",
     "results": [
       { "name": "Griss", "votes": 120 },
@@ -1265,6 +1380,7 @@
     ]
   },
   {
+    "id": 116,
     "name": "Irdning-Donnersbachtal",
     "results": [
       { "name": "Griss", "votes": 376 },
@@ -1276,6 +1392,7 @@
     ]
   },
   {
+    "id": 117,
     "name": "Landl",
     "results": [
       { "name": "Griss", "votes": 232 },
@@ -1287,6 +1404,7 @@
     ]
   },
   {
+    "id": 118,
     "name": "Liezen",
     "results": [
       { "name": "Griss", "votes": 657 },
@@ -1298,6 +1416,7 @@
     ]
   },
   {
+    "id": 119,
     "name": "Michaelerberg-Pruggern",
     "results": [
       { "name": "Griss", "votes": 102 },
@@ -1309,6 +1428,7 @@
     ]
   },
   {
+    "id": 120,
     "name": "Mitterberg-Sankt Martin",
     "results": [
       { "name": "Griss", "votes": 188 },
@@ -1320,6 +1440,7 @@
     ]
   },
   {
+    "id": 121,
     "name": "Öblarn",
     "results": [
       { "name": "Griss", "votes": 199 },
@@ -1331,6 +1452,7 @@
     ]
   },
   {
+    "id": 122,
     "name": "Rottenmann",
     "results": [
       { "name": "Griss", "votes": 382 },
@@ -1342,6 +1464,7 @@
     ]
   },
   {
+    "id": 123,
     "name": "Sankt Gallen",
     "results": [
       { "name": "Griss", "votes": 153 },
@@ -1353,6 +1476,7 @@
     ]
   },
   {
+    "id": 124,
     "name": "Schladming",
     "results": [
       { "name": "Griss", "votes": 513 },
@@ -1364,6 +1488,7 @@
     ]
   },
   {
+    "id": 125,
     "name": "Sölk",
     "results": [
       { "name": "Griss", "votes": 128 },
@@ -1375,6 +1500,7 @@
     ]
   },
   {
+    "id": 126,
     "name": "Stainach-Pürgg",
     "results": [
       { "name": "Griss", "votes": 263 },
@@ -1386,6 +1512,7 @@
     ]
   },
   {
+    "id": 127,
     "name": "Mühlen",
     "results": [
       { "name": "Griss", "votes": 86 },
@@ -1397,6 +1524,7 @@
     ]
   },
   {
+    "id": 128,
     "name": "Niederwölz",
     "results": [
       { "name": "Griss", "votes": 59 },
@@ -1408,6 +1536,7 @@
     ]
   },
   {
+    "id": 129,
     "name": "St. Peter am Kammersberg",
     "results": [
       { "name": "Griss", "votes": 196 },
@@ -1419,6 +1548,7 @@
     ]
   },
   {
+    "id": 130,
     "name": "Schöder",
     "results": [
       { "name": "Griss", "votes": 86 },
@@ -1430,6 +1560,7 @@
     ]
   },
   {
+    "id": 131,
     "name": "Krakau",
     "results": [
       { "name": "Griss", "votes": 97 },
@@ -1441,6 +1572,7 @@
     ]
   },
   {
+    "id": 132,
     "name": "Murau",
     "results": [
       { "name": "Griss", "votes": 362 },
@@ -1452,6 +1584,7 @@
     ]
   },
   {
+    "id": 133,
     "name": "Neumarkt in Steiermark",
     "results": [
       { "name": "Griss", "votes": 475 },
@@ -1463,6 +1596,7 @@
     ]
   },
   {
+    "id": 134,
     "name": "Oberwölz",
     "results": [
       { "name": "Griss", "votes": 294 },
@@ -1474,6 +1608,7 @@
     ]
   },
   {
+    "id": 135,
     "name": "Ranten",
     "results": [
       { "name": "Griss", "votes": 107 },
@@ -1485,6 +1620,7 @@
     ]
   },
   {
+    "id": 136,
     "name": "Sankt Georgen am Kreischberg",
     "results": [
       { "name": "Griss", "votes": 150 },
@@ -1496,6 +1632,7 @@
     ]
   },
   {
+    "id": 137,
     "name": "Sankt Lambrecht",
     "results": [
       { "name": "Griss", "votes": 162 },
@@ -1507,6 +1644,7 @@
     ]
   },
   {
+    "id": 138,
     "name": "Scheifling",
     "results": [
       { "name": "Griss", "votes": 176 },
@@ -1518,6 +1656,7 @@
     ]
   },
   {
+    "id": 139,
     "name": "Stadl-Predlitz",
     "results": [
       { "name": "Griss", "votes": 131 },
@@ -1529,6 +1668,7 @@
     ]
   },
   {
+    "id": 140,
     "name": "Teufenbach-Katsch",
     "results": [
       { "name": "Griss", "votes": 164 },
@@ -1540,6 +1680,7 @@
     ]
   },
   {
+    "id": 141,
     "name": "Krottendorf-Gaisfeld",
     "results": [
       { "name": "Griss", "votes": 257 },
@@ -1551,6 +1692,7 @@
     ]
   },
   {
+    "id": 142,
     "name": "Ligist",
     "results": [
       { "name": "Griss", "votes": 312 },
@@ -1562,6 +1704,7 @@
     ]
   },
   {
+    "id": 143,
     "name": "Mooskirchen",
     "results": [
       { "name": "Griss", "votes": 237 },
@@ -1573,6 +1716,7 @@
     ]
   },
   {
+    "id": 144,
     "name": "Rosental an der Kainach",
     "results": [
       { "name": "Griss", "votes": 141 },
@@ -1584,6 +1728,7 @@
     ]
   },
   {
+    "id": 145,
     "name": "Sankt Martin am Wöllmißberg",
     "results": [
       { "name": "Griss", "votes": 69 },
@@ -1595,6 +1740,7 @@
     ]
   },
   {
+    "id": 146,
     "name": "Stallhofen",
     "results": [
       { "name": "Griss", "votes": 305 },
@@ -1606,6 +1752,7 @@
     ]
   },
   {
+    "id": 147,
     "name": "Voitsberg",
     "results": [
       { "name": "Griss", "votes": 854 },
@@ -1617,6 +1764,7 @@
     ]
   },
   {
+    "id": 148,
     "name": "Bärnbach",
     "results": [
       { "name": "Griss", "votes": 473 },
@@ -1628,6 +1776,7 @@
     ]
   },
   {
+    "id": 149,
     "name": "Edelschrott",
     "results": [
       { "name": "Griss", "votes": 196 },
@@ -1639,6 +1788,7 @@
     ]
   },
   {
+    "id": 150,
     "name": "Geistthal-Södingberg",
     "results": [
       { "name": "Griss", "votes": 102 },
@@ -1650,6 +1800,7 @@
     ]
   },
   {
+    "id": 151,
     "name": "Hirschegg-Pack",
     "results": [
       { "name": "Griss", "votes": 103 },
@@ -1661,6 +1812,7 @@
     ]
   },
   {
+    "id": 152,
     "name": "Kainach bei Voitsberg",
     "results": [
       { "name": "Griss", "votes": 134 },
@@ -1672,6 +1824,7 @@
     ]
   },
   {
+    "id": 153,
     "name": "Köflach",
     "results": [
       { "name": "Griss", "votes": 889 },
@@ -1683,6 +1836,7 @@
     ]
   },
   {
+    "id": 154,
     "name": "Maria Lankowitz",
     "results": [
       { "name": "Griss", "votes": 293 },
@@ -1694,6 +1848,7 @@
     ]
   },
   {
+    "id": 155,
     "name": "Söding-Sankt Johann",
     "results": [
       { "name": "Griss", "votes": 437 },
@@ -1705,6 +1860,7 @@
     ]
   },
   {
+    "id": 156,
     "name": "Albersdorf-Prebuch",
     "results": [
       { "name": "Griss", "votes": 216 },
@@ -1716,6 +1872,7 @@
     ]
   },
   {
+    "id": 157,
     "name": "Fischbach",
     "results": [
       { "name": "Griss", "votes": 106 },
@@ -1727,6 +1884,7 @@
     ]
   },
   {
+    "id": 158,
     "name": "Floing",
     "results": [
       { "name": "Griss", "votes": 100 },
@@ -1738,6 +1896,7 @@
     ]
   },
   {
+    "id": 159,
     "name": "Gasen",
     "results": [
       { "name": "Griss", "votes": 72 },
@@ -1749,6 +1908,7 @@
     ]
   },
   {
+    "id": 160,
     "name": "Markt Hartmannsdorf",
     "results": [
       { "name": "Griss", "votes": 295 },
@@ -1760,6 +1920,7 @@
     ]
   },
   {
+    "id": 161,
     "name": "Hofstätten an der Raab",
     "results": [
       { "name": "Griss", "votes": 238 },
@@ -1771,6 +1932,7 @@
     ]
   },
   {
+    "id": 162,
     "name": "Ludersdorf-Wilfersdorf",
     "results": [
       { "name": "Griss", "votes": 204 },
@@ -1782,6 +1944,7 @@
     ]
   },
   {
+    "id": 163,
     "name": "Miesenbach bei Birkfeld",
     "results": [
       { "name": "Griss", "votes": 56 },
@@ -1793,6 +1956,7 @@
     ]
   },
   {
+    "id": 164,
     "name": "Mitterdorf an der Raab",
     "results": [
       { "name": "Griss", "votes": 220 },
@@ -1804,6 +1968,7 @@
     ]
   },
   {
+    "id": 165,
     "name": "Mortantsch",
     "results": [
       { "name": "Griss", "votes": 214 },
@@ -1815,6 +1980,7 @@
     ]
   },
   {
+    "id": 166,
     "name": "Naas",
     "results": [
       { "name": "Griss", "votes": 119 },
@@ -1826,6 +1992,7 @@
     ]
   },
   {
+    "id": 167,
     "name": "Puch bei Weiz",
     "results": [
       { "name": "Griss", "votes": 253 },
@@ -1837,6 +2004,7 @@
     ]
   },
   {
+    "id": 168,
     "name": "Ratten",
     "results": [
       { "name": "Griss", "votes": 97 },
@@ -1848,6 +2016,7 @@
     ]
   },
   {
+    "id": 169,
     "name": "Rettenegg",
     "results": [
       { "name": "Griss", "votes": 69 },
@@ -1859,6 +2028,7 @@
     ]
   },
   {
+    "id": 170,
     "name": "St. Kathrein am Hauenstein",
     "results": [
       { "name": "Griss", "votes": 61 },
@@ -1870,6 +2040,7 @@
     ]
   },
   {
+    "id": 171,
     "name": "Sankt Kathrein am Offenegg",
     "results": [
       { "name": "Griss", "votes": 106 },
@@ -1881,6 +2052,7 @@
     ]
   },
   {
+    "id": 172,
     "name": "St. Margarethen an der Raab",
     "results": [
       { "name": "Griss", "votes": 432 },
@@ -1892,6 +2064,7 @@
     ]
   },
   {
+    "id": 173,
     "name": "Sinabelkirchen",
     "results": [
       { "name": "Griss", "votes": 329 },
@@ -1903,6 +2076,7 @@
     ]
   },
   {
+    "id": 174,
     "name": "Strallegg",
     "results": [
       { "name": "Griss", "votes": 181 },
@@ -1914,6 +2088,7 @@
     ]
   },
   {
+    "id": 175,
     "name": "Thannhausen",
     "results": [
       { "name": "Griss", "votes": 265 },
@@ -1925,6 +2100,7 @@
     ]
   },
   {
+    "id": 176,
     "name": "Anger",
     "results": [
       { "name": "Griss", "votes": 405 },
@@ -1936,6 +2112,7 @@
     ]
   },
   {
+    "id": 177,
     "name": "Birkfeld",
     "results": [
       { "name": "Griss", "votes": 448 },
@@ -1947,6 +2124,7 @@
     ]
   },
   {
+    "id": 178,
     "name": "Fladnitz an der Teichalm",
     "results": [
       { "name": "Griss", "votes": 152 },
@@ -1958,6 +2136,7 @@
     ]
   },
   {
+    "id": 179,
     "name": "Gersdorf an der Feistritz",
     "results": [
       { "name": "Griss", "votes": 155 },
@@ -1969,6 +2148,7 @@
     ]
   },
   {
+    "id": 180,
     "name": "Gleisdorf",
     "results": [
       { "name": "Griss", "votes": 982 },
@@ -1980,6 +2160,7 @@
     ]
   },
   {
+    "id": 181,
     "name": "Gutenberg-Stenzengreith",
     "results": [
       { "name": "Griss", "votes": 150 },
@@ -1991,6 +2172,7 @@
     ]
   },
   {
+    "id": 182,
     "name": "Ilztal",
     "results": [
       { "name": "Griss", "votes": 242 },
@@ -2002,6 +2184,7 @@
     ]
   },
   {
+    "id": 183,
     "name": "Passail",
     "results": [
       { "name": "Griss", "votes": 433 },
@@ -2013,6 +2196,7 @@
     ]
   },
   {
+    "id": 184,
     "name": "Pischelsdorf am Kulm",
     "results": [
       { "name": "Griss", "votes": 335 },
@@ -2024,6 +2208,7 @@
     ]
   },
   {
+    "id": 185,
     "name": "Sankt Ruprecht an der Raab",
     "results": [
       { "name": "Griss", "votes": 532 },
@@ -2035,6 +2220,7 @@
     ]
   },
   {
+    "id": 186,
     "name": "Weiz",
     "results": [
       { "name": "Griss", "votes": 1117 },
@@ -2046,6 +2232,7 @@
     ]
   },
   {
+    "id": 187,
     "name": "Fohnsdorf",
     "results": [
       { "name": "Griss", "votes": 621 },
@@ -2057,6 +2244,7 @@
     ]
   },
   {
+    "id": 188,
     "name": "Gaal",
     "results": [
       { "name": "Griss", "votes": 156 },
@@ -2068,6 +2256,7 @@
     ]
   },
   {
+    "id": 189,
     "name": "Hohentauern",
     "results": [
       { "name": "Griss", "votes": 45 },
@@ -2079,6 +2268,7 @@
     ]
   },
   {
+    "id": 190,
     "name": "Kobenz",
     "results": [
       { "name": "Griss", "votes": 219 },
@@ -2090,6 +2280,7 @@
     ]
   },
   {
+    "id": 191,
     "name": "Pusterwald",
     "results": [
       { "name": "Griss", "votes": 48 },
@@ -2101,6 +2292,7 @@
     ]
   },
   {
+    "id": 192,
     "name": "Sankt Georgen ob Judenburg",
     "results": [
       { "name": "Griss", "votes": 85 },
@@ -2112,6 +2304,7 @@
     ]
   },
   {
+    "id": 193,
     "name": "Sankt Peter ob Judenburg",
     "results": [
       { "name": "Griss", "votes": 116 },
@@ -2123,6 +2316,7 @@
     ]
   },
   {
+    "id": 194,
     "name": "Seckau",
     "results": [
       { "name": "Griss", "votes": 154 },
@@ -2134,6 +2328,7 @@
     ]
   },
   {
+    "id": 195,
     "name": "Unzmarkt-Frauenburg",
     "results": [
       { "name": "Griss", "votes": 111 },
@@ -2145,6 +2340,7 @@
     ]
   },
   {
+    "id": 196,
     "name": "Zeltweg",
     "results": [
       { "name": "Griss", "votes": 483 },
@@ -2156,6 +2352,7 @@
     ]
   },
   {
+    "id": 197,
     "name": "Lobmingtal",
     "results": [
       { "name": "Griss", "votes": 190 },
@@ -2167,6 +2364,7 @@
     ]
   },
   {
+    "id": 198,
     "name": "Judenburg",
     "results": [
       { "name": "Griss", "votes": 744 },
@@ -2178,6 +2376,7 @@
     ]
   },
   {
+    "id": 199,
     "name": "Knittelfeld",
     "results": [
       { "name": "Griss", "votes": 801 },
@@ -2189,6 +2388,7 @@
     ]
   },
   {
+    "id": 200,
     "name": "Obdach",
     "results": [
       { "name": "Griss", "votes": 277 },
@@ -2200,6 +2400,7 @@
     ]
   },
   {
+    "id": 201,
     "name": "Pöls-Oberkurzheim",
     "results": [
       { "name": "Griss", "votes": 271 },
@@ -2211,6 +2412,7 @@
     ]
   },
   {
+    "id": 202,
     "name": "Pölstal",
     "results": [
       { "name": "Griss", "votes": 244 },
@@ -2222,6 +2424,7 @@
     ]
   },
   {
+    "id": 203,
     "name": "Sankt Marein-Feistritz",
     "results": [
       { "name": "Griss", "votes": 237 },
@@ -2233,6 +2436,7 @@
     ]
   },
   {
+    "id": 204,
     "name": "Sankt Margarethen bei Knittelfeld",
     "results": [
       { "name": "Griss", "votes": 270 },
@@ -2244,6 +2448,7 @@
     ]
   },
   {
+    "id": 205,
     "name": "Spielberg",
     "results": [
       { "name": "Griss", "votes": 517 },
@@ -2255,6 +2460,7 @@
     ]
   },
   {
+    "id": 206,
     "name": "Weißkirchen in Steiermark",
     "results": [
       { "name": "Griss", "votes": 573 },
@@ -2266,6 +2472,7 @@
     ]
   },
   {
+    "id": 207,
     "name": "Breitenau am Hochlantsch",
     "results": [
       { "name": "Griss", "votes": 207 },
@@ -2277,6 +2484,7 @@
     ]
   },
   {
+    "id": 208,
     "name": "Krieglach",
     "results": [
       { "name": "Griss", "votes": 548 },
@@ -2288,6 +2496,7 @@
     ]
   },
   {
+    "id": 209,
     "name": "Langenwang",
     "results": [
       { "name": "Griss", "votes": 413 },
@@ -2299,6 +2508,7 @@
     ]
   },
   {
+    "id": 210,
     "name": "Pernegg an der Mur",
     "results": [
       { "name": "Griss", "votes": 256 },
@@ -2310,6 +2520,7 @@
     ]
   },
   {
+    "id": 211,
     "name": "Sankt Lorenzen im Mürztal",
     "results": [
       { "name": "Griss", "votes": 338 },
@@ -2321,6 +2532,7 @@
     ]
   },
   {
+    "id": 212,
     "name": "Spital am Semmering",
     "results": [
       { "name": "Griss", "votes": 142 },
@@ -2332,6 +2544,7 @@
     ]
   },
   {
+    "id": 213,
     "name": "Stanz im Mürztal",
     "results": [
       { "name": "Griss", "votes": 171 },
@@ -2343,6 +2556,7 @@
     ]
   },
   {
+    "id": 214,
     "name": "Turnau",
     "results": [
       { "name": "Griss", "votes": 166 },
@@ -2354,6 +2568,7 @@
     ]
   },
   {
+    "id": 215,
     "name": "Aflenz",
     "results": [
       { "name": "Griss", "votes": 271 },
@@ -2365,6 +2580,7 @@
     ]
   },
   {
+    "id": 216,
     "name": "Bruck an der Mur",
     "results": [
       { "name": "Griss", "votes": 1444 },
@@ -2376,6 +2592,7 @@
     ]
   },
   {
+    "id": 217,
     "name": "Kapfenberg",
     "results": [
       { "name": "Griss", "votes": 1562 },
@@ -2387,6 +2604,7 @@
     ]
   },
   {
+    "id": 218,
     "name": "Kindberg",
     "results": [
       { "name": "Griss", "votes": 874 },
@@ -2398,6 +2616,7 @@
     ]
   },
   {
+    "id": 219,
     "name": "Mariazell",
     "results": [
       { "name": "Griss", "votes": 379 },
@@ -2409,6 +2628,7 @@
     ]
   },
   {
+    "id": 220,
     "name": "Mürzzuschlag",
     "results": [
       { "name": "Griss", "votes": 706 },
@@ -2420,6 +2640,7 @@
     ]
   },
   {
+    "id": 221,
     "name": "Neuberg an der Mürz",
     "results": [
       { "name": "Griss", "votes": 234 },
@@ -2431,6 +2652,7 @@
     ]
   },
   {
+    "id": 222,
     "name": "Sankt Barbara im Mürztal",
     "results": [
       { "name": "Griss", "votes": 589 },
@@ -2442,6 +2664,7 @@
     ]
   },
   {
+    "id": 223,
     "name": "Sankt Marein im Mürztal",
     "results": [
       { "name": "Griss", "votes": 223 },
@@ -2453,6 +2676,7 @@
     ]
   },
   {
+    "id": 224,
     "name": "Thörl",
     "results": [
       { "name": "Griss", "votes": 232 },
@@ -2464,6 +2688,7 @@
     ]
   },
   {
+    "id": 225,
     "name": "Tragöß - Sankt Katharein",
     "results": [
       { "name": "Griss", "votes": 213 },
@@ -2475,6 +2700,7 @@
     ]
   },
   {
+    "id": 226,
     "name": "Bad Blumau",
     "results": [
       { "name": "Griss", "votes": 137 },
@@ -2486,6 +2712,7 @@
     ]
   },
   {
+    "id": 227,
     "name": "Buch-St. Magdalena",
     "results": [
       { "name": "Griss", "votes": 186 },
@@ -2497,6 +2724,7 @@
     ]
   },
   {
+    "id": 228,
     "name": "Burgau",
     "results": [
       { "name": "Griss", "votes": 96 },
@@ -2508,6 +2736,7 @@
     ]
   },
   {
+    "id": 229,
     "name": "Ebersdorf",
     "results": [
       { "name": "Griss", "votes": 117 },
@@ -2519,6 +2748,7 @@
     ]
   },
   {
+    "id": 230,
     "name": "Friedberg",
     "results": [
       { "name": "Griss", "votes": 216 },
@@ -2530,6 +2760,7 @@
     ]
   },
   {
+    "id": 231,
     "name": "Greinbach",
     "results": [
       { "name": "Griss", "votes": 130 },
@@ -2541,6 +2772,7 @@
     ]
   },
   {
+    "id": 232,
     "name": "Großsteinbach",
     "results": [
       { "name": "Griss", "votes": 148 },
@@ -2552,6 +2784,7 @@
     ]
   },
   {
+    "id": 233,
     "name": "Hartberg",
     "results": [
       { "name": "Griss", "votes": 754 },
@@ -2563,6 +2796,7 @@
     ]
   },
   {
+    "id": 234,
     "name": "Hartberg Umgebung",
     "results": [
       { "name": "Griss", "votes": 235 },
@@ -2574,6 +2808,7 @@
     ]
   },
   {
+    "id": 235,
     "name": "Lafnitz",
     "results": [
       { "name": "Griss", "votes": 114 },
@@ -2585,6 +2820,7 @@
     ]
   },
   {
+    "id": 236,
     "name": "Ottendorf an der Rittschein",
     "results": [
       { "name": "Griss", "votes": 107 },
@@ -2596,6 +2832,7 @@
     ]
   },
   {
+    "id": 237,
     "name": "Pinggau",
     "results": [
       { "name": "Griss", "votes": 282 },
@@ -2607,6 +2844,7 @@
     ]
   },
   {
+    "id": 238,
     "name": "Pöllauberg",
     "results": [
       { "name": "Griss", "votes": 202 },
@@ -2618,6 +2856,7 @@
     ]
   },
   {
+    "id": 239,
     "name": "Sankt Jakob im Walde",
     "results": [
       { "name": "Griss", "votes": 95 },
@@ -2629,6 +2868,7 @@
     ]
   },
   {
+    "id": 240,
     "name": "Sankt Johann in der Haide",
     "results": [
       { "name": "Griss", "votes": 151 },
@@ -2640,6 +2880,7 @@
     ]
   },
   {
+    "id": 241,
     "name": "Sankt Lorenzen am Wechsel",
     "results": [
       { "name": "Griss", "votes": 141 },
@@ -2651,6 +2892,7 @@
     ]
   },
   {
+    "id": 242,
     "name": "Schäffern",
     "results": [
       { "name": "Griss", "votes": 104 },
@@ -2662,6 +2904,7 @@
     ]
   },
   {
+    "id": 243,
     "name": "Söchau",
     "results": [
       { "name": "Griss", "votes": 134 },
@@ -2673,6 +2916,7 @@
     ]
   },
   {
+    "id": 244,
     "name": "Stubenberg",
     "results": [
       { "name": "Griss", "votes": 190 },
@@ -2684,6 +2928,7 @@
     ]
   },
   {
+    "id": 245,
     "name": "Wenigzell",
     "results": [
       { "name": "Griss", "votes": 163 },
@@ -2695,6 +2940,7 @@
     ]
   },
   {
+    "id": 246,
     "name": "Bad Waltersdorf",
     "results": [
       { "name": "Griss", "votes": 369 },
@@ -2706,6 +2952,7 @@
     ]
   },
   {
+    "id": 247,
     "name": "Dechantskirchen",
     "results": [
       { "name": "Griss", "votes": 187 },
@@ -2717,6 +2964,7 @@
     ]
   },
   {
+    "id": 248,
     "name": "Feistritztal",
     "results": [
       { "name": "Griss", "votes": 189 },
@@ -2728,6 +2976,7 @@
     ]
   },
   {
+    "id": 249,
     "name": "Fürstenfeld",
     "results": [
       { "name": "Griss", "votes": 827 },
@@ -2739,6 +2988,7 @@
     ]
   },
   {
+    "id": 250,
     "name": "Grafendorf bei Hartberg",
     "results": [
       { "name": "Griss", "votes": 297 },
@@ -2750,6 +3000,7 @@
     ]
   },
   {
+    "id": 251,
     "name": "Großwilfersdorf",
     "results": [
       { "name": "Griss", "votes": 208 },
@@ -2761,6 +3012,7 @@
     ]
   },
   {
+    "id": 252,
     "name": "Hartl",
     "results": [
       { "name": "Griss", "votes": 155 },
@@ -2772,6 +3024,7 @@
     ]
   },
   {
+    "id": 253,
     "name": "Ilz",
     "results": [
       { "name": "Griss", "votes": 404 },
@@ -2783,6 +3036,7 @@
     ]
   },
   {
+    "id": 254,
     "name": "Kaindorf",
     "results": [
       { "name": "Griss", "votes": 278 },
@@ -2794,6 +3048,7 @@
     ]
   },
   {
+    "id": 255,
     "name": "Loipersdorf bei Fürstenfeld",
     "results": [
       { "name": "Griss", "votes": 162 },
@@ -2805,6 +3060,7 @@
     ]
   },
   {
+    "id": 256,
     "name": "Neudau",
     "results": [
       { "name": "Griss", "votes": 95 },
@@ -2816,6 +3072,7 @@
     ]
   },
   {
+    "id": 257,
     "name": "Pöllau",
     "results": [
       { "name": "Griss", "votes": 588 },
@@ -2827,6 +3084,7 @@
     ]
   },
   {
+    "id": 258,
     "name": "Rohr bei Hartberg",
     "results": [
       { "name": "Griss", "votes": 97 },
@@ -2838,6 +3096,7 @@
     ]
   },
   {
+    "id": 259,
     "name": "Rohrbach an der Lafnitz",
     "results": [
       { "name": "Griss", "votes": 234 },
@@ -2849,6 +3108,7 @@
     ]
   },
   {
+    "id": 260,
     "name": "Vorau",
     "results": [
       { "name": "Griss", "votes": 367 },
@@ -2860,6 +3120,7 @@
     ]
   },
   {
+    "id": 261,
     "name": "Waldbach-Mönichwald",
     "results": [
       { "name": "Griss", "votes": 151 },
@@ -2871,6 +3132,7 @@
     ]
   },
   {
+    "id": 262,
     "name": "Edelsbach bei Feldbach",
     "results": [
       { "name": "Griss", "votes": 177 },
@@ -2882,6 +3144,7 @@
     ]
   },
   {
+    "id": 263,
     "name": "Eichkögl",
     "results": [
       { "name": "Griss", "votes": 98 },
@@ -2893,6 +3156,7 @@
     ]
   },
   {
+    "id": 264,
     "name": "Halbenrain",
     "results": [
       { "name": "Griss", "votes": 183 },
@@ -2904,6 +3168,7 @@
     ]
   },
   {
+    "id": 265,
     "name": "Jagerberg",
     "results": [
       { "name": "Griss", "votes": 143 },
@@ -2915,6 +3180,7 @@
     ]
   },
   {
+    "id": 266,
     "name": "Kapfenstein",
     "results": [
       { "name": "Griss", "votes": 150 },
@@ -2926,6 +3192,7 @@
     ]
   },
   {
+    "id": 267,
     "name": "Klöch",
     "results": [
       { "name": "Griss", "votes": 150 },
@@ -2937,6 +3204,7 @@
     ]
   },
   {
+    "id": 268,
     "name": "Mettersdorf am Saßbach",
     "results": [
       { "name": "Griss", "votes": 136 },
@@ -2948,6 +3216,7 @@
     ]
   },
   {
+    "id": 269,
     "name": "Murfeld",
     "results": [
       { "name": "Griss", "votes": 187 },
@@ -2959,6 +3228,7 @@
     ]
   },
   {
+    "id": 270,
     "name": "Tieschen",
     "results": [
       { "name": "Griss", "votes": 132 },
@@ -2970,6 +3240,7 @@
     ]
   },
   {
+    "id": 271,
     "name": "Unterlamm",
     "results": [
       { "name": "Griss", "votes": 63 },
@@ -2981,6 +3252,7 @@
     ]
   },
   {
+    "id": 272,
     "name": "Bad Gleichenberg",
     "results": [
       { "name": "Griss", "votes": 458 },
@@ -2992,6 +3264,7 @@
     ]
   },
   {
+    "id": 273,
     "name": "Bad Radkersburg",
     "results": [
       { "name": "Griss", "votes": 361 },
@@ -3003,6 +3276,7 @@
     ]
   },
   {
+    "id": 274,
     "name": "Deutsch Goritz",
     "results": [
       { "name": "Griss", "votes": 188 },
@@ -3014,6 +3288,7 @@
     ]
   },
   {
+    "id": 275,
     "name": "Fehring",
     "results": [
       { "name": "Griss", "votes": 688 },
@@ -3025,6 +3300,7 @@
     ]
   },
   {
+    "id": 276,
     "name": "Feldbach",
     "results": [
       { "name": "Griss", "votes": 1250 },
@@ -3036,6 +3312,7 @@
     ]
   },
   {
+    "id": 277,
     "name": "Gnas",
     "results": [
       { "name": "Griss", "votes": 680 },
@@ -3047,6 +3324,7 @@
     ]
   },
   {
+    "id": 278,
     "name": "Kirchbach-Zerlach",
     "results": [
       { "name": "Griss", "votes": 350 },
@@ -3058,6 +3336,7 @@
     ]
   },
   {
+    "id": 279,
     "name": "Kirchberg an der Raab",
     "results": [
       { "name": "Griss", "votes": 431 },
@@ -3069,6 +3348,7 @@
     ]
   },
   {
+    "id": 280,
     "name": "Mureck",
     "results": [
       { "name": "Griss", "votes": 359 },
@@ -3080,6 +3360,7 @@
     ]
   },
   {
+    "id": 281,
     "name": "Paldau",
     "results": [
       { "name": "Griss", "votes": 267 },
@@ -3091,6 +3372,7 @@
     ]
   },
   {
+    "id": 282,
     "name": "Pirching am Traubenberg",
     "results": [
       { "name": "Griss", "votes": 228 },
@@ -3102,6 +3384,7 @@
     ]
   },
   {
+    "id": 283,
     "name": "Riegersburg",
     "results": [
       { "name": "Griss", "votes": 488 },
@@ -3113,6 +3396,7 @@
     ]
   },
   {
+    "id": 284,
     "name": "Sankt Anna am Aigen",
     "results": [
       { "name": "Griss", "votes": 204 },
@@ -3124,6 +3408,7 @@
     ]
   },
   {
+    "id": 285,
     "name": "Sankt Peter am Ottersbach",
     "results": [
       { "name": "Griss", "votes": 283 },
@@ -3135,6 +3420,7 @@
     ]
   },
   {
+    "id": 286,
     "name": "Sankt Stefan im Rosental",
     "results": [
       { "name": "Griss", "votes": 453 },
@@ -3146,6 +3432,7 @@
     ]
   },
   {
+    "id": 287,
     "name": "Straden",
     "results": [
       { "name": "Griss", "votes": 365 },
