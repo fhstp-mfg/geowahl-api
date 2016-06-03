@@ -1,0 +1,1154 @@
+[
+  {
+    "id": 1,
+    "name": "Bartholomäberg",
+    "results": [
+      { "name": "Griss", "votes": 198 },
+      { "name": "Hofer", "votes": 385 },
+      { "name": "Hundstorfer", "voters": 35 },
+      { "name": "Khol", "voters": 92 },
+      { "name": "Lugner", "votes": 24 } ,
+      { "name": "VdB", "votes": 159 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Blons",
+    "results": [
+      { "name": "Griss", "votes": 26 },
+      { "name": "Hofer", "votes": 41 },
+      { "name": "Hundstorfer", "voters": 1 },
+      { "name": "Khol", "voters": 50 },
+      { "name": "Lugner", "votes": 2 } ,
+      { "name": "VdB", "votes": 34 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bludenz",
+    "results": [
+      { "name": "Griss", "votes": 813 },
+      { "name": "Hofer", "votes": 1335 },
+      { "name": "Hundstorfer", "voters": 372 },
+      { "name": "Khol", "voters": 377 },
+      { "name": "Lugner", "votes": 93 } ,
+      { "name": "VdB", "votes": 1103 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bludesch",
+    "results": [
+      { "name": "Griss", "votes": 162 },
+      { "name": "Hofer", "votes": 276 },
+      { "name": "Hundstorfer", "voters": 42 },
+      { "name": "Khol", "voters": 39 },
+      { "name": "Lugner", "votes": 17 } ,
+      { "name": "VdB", "votes": 186 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Brand",
+    "results": [
+      { "name": "Griss", "votes": 60 },
+      { "name": "Hofer", "votes": 78 },
+      { "name": "Hundstorfer", "voters": 9 },
+      { "name": "Khol", "voters": 28 },
+      { "name": "Lugner", "votes": 6 } ,
+      { "name": "VdB", "votes": 40 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Bürs",
+    "results": [
+      { "name": "Griss", "votes": 222 },
+      { "name": "Hofer", "votes": 335 },
+      { "name": "Hundstorfer", "voters": 107 },
+      { "name": "Khol", "voters": 83 },
+      { "name": "Lugner", "votes": 19 } ,
+      { "name": "VdB", "votes": 293 }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Bürserberg",
+    "results": [
+      { "name": "Griss", "votes": 34 },
+      { "name": "Hofer", "votes": 66 },
+      { "name": "Hundstorfer", "voters": 11 },
+      { "name": "Khol", "voters": 24 },
+      { "name": "Lugner", "votes": 3 } ,
+      { "name": "VdB", "votes": 29 }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dalaas",
+    "results": [
+      { "name": "Griss", "votes": 152 },
+      { "name": "Hofer", "votes": 210 },
+      { "name": "Hundstorfer", "voters": 37 },
+      { "name": "Khol", "voters": 69 },
+      { "name": "Lugner", "votes": 17 } ,
+      { "name": "VdB", "votes": 134 }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Fontanella",
+    "results": [
+      { "name": "Griss", "votes": 31 },
+      { "name": "Hofer", "votes": 44 },
+      { "name": "Hundstorfer", "voters": 1 },
+      { "name": "Khol", "voters": 69 },
+      { "name": "Lugner", "votes": 1 } ,
+      { "name": "VdB", "votes": 28 }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Gaschurn",
+    "results": [
+      { "name": "Griss", "votes": 90 },
+      { "name": "Hofer", "votes": 236 },
+      { "name": "Hundstorfer", "voters": 35 },
+      { "name": "Khol", "voters": 81 },
+      { "name": "Lugner", "votes": 16 } ,
+      { "name": "VdB", "votes": 77 }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Innerbraz",
+    "results": [
+      { "name": "Griss", "votes": 86 },
+      { "name": "Hofer", "votes": 131 },
+      { "name": "Hundstorfer", "voters": 45 },
+      { "name": "Khol", "voters": 40 },
+      { "name": "Lugner", "votes": 10 } ,
+      { "name": "VdB", "votes": 106 }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Klösterle",
+    "results": [
+      { "name": "Griss", "votes": 80 },
+      { "name": "Hofer", "votes": 83 },
+      { "name": "Hundstorfer", "voters": 19 },
+      { "name": "Khol", "voters": 46 },
+      { "name": "Lugner", "votes": 4 } ,
+      { "name": "VdB", "votes": 50 }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Lech",
+    "results": [
+      { "name": "Griss", "votes": 154 },
+      { "name": "Hofer", "votes": 76 },
+      { "name": "Hundstorfer", "voters": 9 },
+      { "name": "Khol", "voters": 61 },
+      { "name": "Lugner", "votes": 7 } ,
+      { "name": "VdB", "votes": 105 }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Lorüns",
+    "results": [
+      { "name": "Griss", "votes": 17 },
+      { "name": "Hofer", "votes": 27 },
+      { "name": "Hundstorfer", "voters": 6 },
+      { "name": "Khol", "voters": 19 },
+      { "name": "Lugner", "votes": 3 } ,
+      { "name": "VdB", "votes": 35 }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Ludesch",
+    "results": [
+      { "name": "Griss", "votes": 266 },
+      { "name": "Hofer", "votes": 390 },
+      { "name": "Hundstorfer", "voters": 60 },
+      { "name": "Khol", "voters": 84 },
+      { "name": "Lugner", "votes": 31 } ,
+      { "name": "VdB", "votes": 286 }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Nenzing",
+    "results": [
+      { "name": "Griss", "votes": 472 },
+      { "name": "Hofer", "votes": 920 },
+      { "name": "Hundstorfer", "voters": 91 },
+      { "name": "Khol", "voters": 179 },
+      { "name": "Lugner", "votes": 51 } ,
+      { "name": "VdB", "votes": 545 }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Nüziders",
+    "results": [
+      { "name": "Griss", "votes": 505 },
+      { "name": "Hofer", "votes": 499 },
+      { "name": "Hundstorfer", "voters": 155 },
+      { "name": "Khol", "voters": 173 },
+      { "name": "Lugner", "votes": 37 } ,
+      { "name": "VdB", "votes": 552 }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Raggal",
+    "results": [
+      { "name": "Griss", "votes": 98 },
+      { "name": "Hofer", "votes": 88 },
+      { "name": "Hundstorfer", "voters": 2 },
+      { "name": "Khol", "voters": 85 },
+      { "name": "Lugner", "votes": 3 } ,
+      { "name": "VdB", "votes": 77 }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "St. Anton im Montafon",
+    "results": [
+      { "name": "Griss", "votes": 61 },
+      { "name": "Hofer", "votes": 110 },
+      { "name": "Hundstorfer", "voters": 16 },
+      { "name": "Khol", "voters": 30 },
+      { "name": "Lugner", "votes": 9 } ,
+      { "name": "VdB", "votes": 52 }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "St. Gallenkirch",
+    "results": [
+      { "name": "Griss", "votes": 140 },
+      { "name": "Hofer", "votes": 342 },
+      { "name": "Hundstorfer", "voters": 54 },
+      { "name": "Khol", "voters": 91 },
+      { "name": "Lugner", "votes": 24 } ,
+      { "name": "VdB", "votes": 124 }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "St. Gerold",
+    "results": [
+      { "name": "Griss", "votes": 35 },
+      { "name": "Hofer", "votes": 49 },
+      { "name": "Hundstorfer", "voters": 2 },
+      { "name": "Khol", "voters": 38 },
+      { "name": "Lugner", "votes": 3 } ,
+      { "name": "VdB", "votes": 22 }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Schruns",
+    "results": [
+      { "name": "Griss", "votes": 325 },
+      { "name": "Hofer", "votes": 384 },
+      { "name": "Hundstorfer", "voters": 60 },
+      { "name": "Khol", "voters": 125 },
+      { "name": "Lugner", "votes": 31 } ,
+      { "name": "VdB", "votes": 328 }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Silbertal",
+    "results": [
+      { "name": "Griss", "votes": 57 },
+      { "name": "Hofer", "votes": 150 },
+      { "name": "Hundstorfer", "voters": 31 },
+      { "name": "Khol", "voters": 72 },
+      { "name": "Lugner", "votes": 8 } ,
+      { "name": "VdB", "votes": 46 }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Sonntag",
+    "results": [
+      { "name": "Griss", "votes": 76 },
+      { "name": "Hofer", "votes": 66 },
+      { "name": "Hundstorfer", "voters": 6 },
+      { "name": "Khol", "voters": 97 },
+      { "name": "Lugner", "votes": 2 } ,
+      { "name": "VdB", "votes": 69 }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Stallehr",
+    "results": [
+      { "name": "Griss", "votes": 21 },
+      { "name": "Hofer", "votes": 32 },
+      { "name": "Hundstorfer", "voters": 7 },
+      { "name": "Khol", "voters": 28 },
+      { "name": "Lugner", "votes": 3 } ,
+      { "name": "VdB", "votes": 28 }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Thüringen",
+    "results": [
+      { "name": "Griss", "votes": 212 },
+      { "name": "Hofer", "votes": 218 },
+      { "name": "Hundstorfer", "voters": 27 },
+      { "name": "Khol", "voters": 96 },
+      { "name": "Lugner", "votes": 21 } ,
+      { "name": "VdB", "votes": 175 }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Thüringerberg",
+    "results": [
+      { "name": "Griss", "votes": 96 },
+      { "name": "Hofer", "votes": 79 },
+      { "name": "Hundstorfer", "voters": 8 },
+      { "name": "Khol", "voters": 47 },
+      { "name": "Lugner", "votes": 4 } ,
+      { "name": "VdB", "votes": 72 }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Tschagguns",
+    "results": [
+      { "name": "Griss", "votes": 187 },
+      { "name": "Hofer", "votes": 301 },
+      { "name": "Hundstorfer", "voters": 37 },
+      { "name": "Khol", "voters": 77 },
+      { "name": "Lugner", "votes": 33 } ,
+      { "name": "VdB", "votes": 192 }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Vandans",
+    "results": [
+      { "name": "Griss", "votes": 220 },
+      { "name": "Hofer", "votes": 391 },
+      { "name": "Hundstorfer", "voters": 52 },
+      { "name": "Khol", "voters": 89 },
+      { "name": "Lugner", "votes": 26 } ,
+      { "name": "VdB", "votes": 185 }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Alberschwende",
+    "results": [
+      { "name": "Griss", "votes": 349 },
+      { "name": "Hofer", "votes": 434 },
+      { "name": "Hundstorfer", "voters": 29 },
+      { "name": "Khol", "voters": 209 },
+      { "name": "Lugner", "votes": 30 } ,
+      { "name": "VdB", "votes": 370 }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Andelsbuch",
+    "results": [
+      { "name": "Griss", "votes": 219 },
+      { "name": "Hofer", "votes": 170 },
+      { "name": "Hundstorfer", "voters": 11 },
+      { "name": "Khol", "voters": 208 },
+      { "name": "Lugner", "votes": 16 } ,
+      { "name": "VdB", "votes": 276 }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Au",
+    "results": [
+      { "name": "Griss", "votes": 158 },
+      { "name": "Hofer", "votes": 220 },
+      { "name": "Hundstorfer", "voters": 12 },
+      { "name": "Khol", "voters": 114 },
+      { "name": "Lugner", "votes": 6 } ,
+      { "name": "VdB", "votes": 129 }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Bezau",
+    "results": [
+      { "name": "Griss", "votes": 150 },
+      { "name": "Hofer", "votes": 152 },
+      { "name": "Hundstorfer", "voters": 12 },
+      { "name": "Khol", "voters": 131 },
+      { "name": "Lugner", "votes": 10 } ,
+      { "name": "VdB", "votes": 165 }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Bildstein",
+    "results": [
+      { "name": "Griss", "votes": 93 },
+      { "name": "Hofer", "votes": 86 },
+      { "name": "Hundstorfer", "voters": 11 },
+      { "name": "Khol", "voters": 38 },
+      { "name": "Lugner", "votes": 4 } ,
+      { "name": "VdB", "votes": 58 }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Bizau",
+    "results": [
+      { "name": "Griss", "votes": 87 },
+      { "name": "Hofer", "votes": 93 },
+      { "name": "Hundstorfer", "voters": 7 },
+      { "name": "Khol", "voters": 91 },
+      { "name": "Lugner", "votes": 5 } ,
+      { "name": "VdB", "votes": 89 }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Bregenz",
+    "results": [
+      { "name": "Griss", "votes": 1865 },
+      { "name": "Hofer", "votes": 2596 },
+      { "name": "Hundstorfer", "voters": 567 },
+      { "name": "Khol", "voters": 811 },
+      { "name": "Lugner", "votes": 225 } ,
+      { "name": "VdB", "votes": 2714 }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Buch",
+    "results": [
+      { "name": "Griss", "votes": 76 },
+      { "name": "Hofer", "votes": 100 },
+      { "name": "Hundstorfer", "voters": 3 },
+      { "name": "Khol", "voters": 54 },
+      { "name": "Lugner", "votes": 10 } ,
+      { "name": "VdB", "votes": 43 }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Damüls",
+    "results": [
+      { "name": "Griss", "votes": 31 },
+      { "name": "Hofer", "votes": 29 },
+      { "name": "Hundstorfer", "voters": 1 },
+      { "name": "Khol", "voters": 23 },
+      { "name": "Lugner", "votes": 2 } ,
+      { "name": "VdB", "votes": 22 }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Doren",
+    "results": [
+      { "name": "Griss", "votes": 120 },
+      { "name": "Hofer", "votes": 126 },
+      { "name": "Hundstorfer", "voters": 3 },
+      { "name": "Khol", "voters": 90 },
+      { "name": "Lugner", "votes": 6 } ,
+      { "name": "VdB", "votes": 81 }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Egg",
+    "results": [
+      { "name": "Griss", "votes": 378 },
+      { "name": "Hofer", "votes": 346 },
+      { "name": "Hundstorfer", "voters": 19 },
+      { "name": "Khol", "voters": 242 },
+      { "name": "Lugner", "votes": 16 } ,
+      { "name": "VdB", "votes": 376 }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Eichenberg",
+    "results": [
+      { "name": "Griss", "votes": 35 },
+      { "name": "Hofer", "votes": 25 },
+      { "name": "Hundstorfer", "voters": 2 },
+      { "name": "Khol", "voters": 42 },
+      { "name": "Lugner", "votes": 1 } ,
+      { "name": "VdB", "votes": 27 }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Fußach",
+    "results": [
+      { "name": "Griss", "votes": 253 },
+      { "name": "Hofer", "votes": 493 },
+      { "name": "Hundstorfer", "voters": 65 },
+      { "name": "Khol", "voters": 99 },
+      { "name": "Lugner", "votes": 34 } ,
+      { "name": "VdB", "votes": 325 }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Gaißau",
+    "results": [
+      { "name": "Griss", "votes": 162 },
+      { "name": "Hofer", "votes": 214 },
+      { "name": "Hundstorfer", "voters": 23 },
+      { "name": "Khol", "voters": 56 },
+      { "name": "Lugner", "votes": 14 } ,
+      { "name": "VdB", "votes": 147 }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Hard",
+    "results": [
+      { "name": "Griss", "votes": 965 },
+      { "name": "Hofer", "votes": 1307 },
+      { "name": "Hundstorfer", "voters": 213 },
+      { "name": "Khol", "voters": 349 },
+      { "name": "Lugner", "votes": 107 } ,
+      { "name": "VdB", "votes": 1220 }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Hittisau",
+    "results": [
+      { "name": "Griss", "votes": 180 },
+      { "name": "Hofer", "votes": 186 },
+      { "name": "Hundstorfer", "voters": 14 },
+      { "name": "Khol", "voters": 106 },
+      { "name": "Lugner", "votes": 10 } ,
+      { "name": "VdB", "votes": 147 }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Höchst",
+    "results": [
+      { "name": "Griss", "votes": 511 },
+      { "name": "Hofer", "votes": 774 },
+      { "name": "Hundstorfer", "voters": 81 },
+      { "name": "Khol", "voters": 184 },
+      { "name": "Lugner", "votes": 45 } ,
+      { "name": "VdB", "votes": 605 }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Hörbranz",
+    "results": [
+      { "name": "Griss", "votes": 494 },
+      { "name": "Hofer", "votes": 757 },
+      { "name": "Hundstorfer", "voters": 88 },
+      { "name": "Khol", "voters": 243 },
+      { "name": "Lugner", "votes": 60 } ,
+      { "name": "VdB", "votes": 623 }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Hohenweiler",
+    "results": [
+      { "name": "Griss", "votes": 116 },
+      { "name": "Hofer", "votes": 139 },
+      { "name": "Hundstorfer", "voters": 15 },
+      { "name": "Khol", "voters": 66 },
+      { "name": "Lugner", "votes": 8 } ,
+      { "name": "VdB", "votes": 118 }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Kennelbach",
+    "results": [
+      { "name": "Griss", "votes": 175 },
+      { "name": "Hofer", "votes": 195 },
+      { "name": "Hundstorfer", "voters": 30 },
+      { "name": "Khol", "voters": 79 },
+      { "name": "Lugner", "votes": 18 } ,
+      { "name": "VdB", "votes": 169 }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Krumbach",
+    "results": [
+      { "name": "Griss", "votes": 78 },
+      { "name": "Hofer", "votes": 153 },
+      { "name": "Hundstorfer", "voters": 9 },
+      { "name": "Khol", "voters": 72 },
+      { "name": "Lugner", "votes": 11 } ,
+      { "name": "VdB", "votes": 75 }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Langen bei Bregenz",
+    "results": [
+      { "name": "Griss", "votes": 138 },
+      { "name": "Hofer", "votes": 200 },
+      { "name": "Hundstorfer", "voters": 12 },
+      { "name": "Khol", "voters": 92 },
+      { "name": "Lugner", "votes": 12 } ,
+      { "name": "VdB", "votes": 107 }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Langenegg",
+    "results": [
+      { "name": "Griss", "votes": 124 },
+      { "name": "Hofer", "votes": 109 },
+      { "name": "Hundstorfer", "voters": 7 },
+      { "name": "Khol", "voters": 105 },
+      { "name": "Lugner", "votes": 1 } ,
+      { "name": "VdB", "votes": 65 }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Lauterach",
+    "results": [
+      { "name": "Griss", "votes": 754 },
+      { "name": "Hofer", "votes": 1244 },
+      { "name": "Hundstorfer", "voters": 163 },
+      { "name": "Khol", "voters": 353 },
+      { "name": "Lugner", "votes": 96 } ,
+      { "name": "VdB", "votes": 899 }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Lingenau",
+    "results": [
+      { "name": "Griss", "votes": 182 },
+      { "name": "Hofer", "votes": 114 },
+      { "name": "Hundstorfer", "voters": 14 },
+      { "name": "Khol", "voters": 142 },
+      { "name": "Lugner", "votes": 2 } ,
+      { "name": "VdB", "votes": 143 }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Lochau",
+    "results": [
+      { "name": "Griss", "votes": 464 },
+      { "name": "Hofer", "votes": 504 },
+      { "name": "Hundstorfer", "voters": 93 },
+      { "name": "Khol", "voters": 176 },
+      { "name": "Lugner", "votes": 47 } ,
+      { "name": "VdB", "votes": 621 }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Mellau",
+    "results": [
+      { "name": "Griss", "votes": 92 },
+      { "name": "Hofer", "votes": 166 },
+      { "name": "Hundstorfer", "voters": 7 },
+      { "name": "Khol", "voters": 54 },
+      { "name": "Lugner", "votes": 10 } ,
+      { "name": "VdB", "votes": 95 }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Mittelberg",
+    "results": [
+      { "name": "Griss", "votes": 171 },
+      { "name": "Hofer", "votes": 216 },
+      { "name": "Hundstorfer", "voters": 22 },
+      { "name": "Khol", "voters": 144 },
+      { "name": "Lugner", "votes": 30 } ,
+      { "name": "VdB", "votes": 250 }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Möggers",
+    "results": [
+      { "name": "Griss", "votes": 53 },
+      { "name": "Hofer", "votes": 50 },
+      { "name": "Hundstorfer", "voters": 1 },
+      { "name": "Khol", "voters": 48 },
+      { "name": "Lugner", "votes": 3 } ,
+      { "name": "VdB", "votes": 56 }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Reuthe",
+    "results": [
+      { "name": "Griss", "votes": 50 },
+      { "name": "Hofer", "votes": 67 },
+      { "name": "Hundstorfer", "voters": 5 },
+      { "name": "Khol", "voters": 26 },
+      { "name": "Lugner", "votes": 6 } ,
+      { "name": "VdB", "votes": 47 }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Riefensberg",
+    "results": [
+      { "name": "Griss", "votes": 108 },
+      { "name": "Hofer", "votes": 108 },
+      { "name": "Hundstorfer", "voters": 3 },
+      { "name": "Khol", "voters": 67 },
+      { "name": "Lugner", "votes": 11 } ,
+      { "name": "VdB", "votes": 46 }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Schnepfau",
+    "results": [
+      { "name": "Griss", "votes": 44 },
+      { "name": "Hofer", "votes": 53 },
+      { "name": "Hundstorfer", "voters": 1 },
+      { "name": "Khol", "voters": 32 },
+      { "name": "Lugner", "votes": 0 } ,
+      { "name": "VdB", "votes": 33 }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Schoppernau",
+    "results": [
+      { "name": "Griss", "votes": 108 },
+      { "name": "Hofer", "votes": 132 },
+      { "name": "Hundstorfer", "voters": 1 },
+      { "name": "Khol", "voters": 91 },
+      { "name": "Lugner", "votes": 6 } ,
+      { "name": "VdB", "votes": 62 }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Schröcken",
+    "results": [
+      { "name": "Griss", "votes": 11 },
+      { "name": "Hofer", "votes": 22 },
+      { "name": "Hundstorfer", "voters": 5 },
+      { "name": "Khol", "voters": 21 },
+      { "name": "Lugner", "votes": 2 } ,
+      { "name": "VdB", "votes": 18 }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Schwarzach",
+    "results": [
+      { "name": "Griss", "votes": 393 },
+      { "name": "Hofer", "votes": 466 },
+      { "name": "Hundstorfer", "voters": 62 },
+      { "name": "Khol", "voters": 130 },
+      { "name": "Lugner", "votes": 36 } ,
+      { "name": "VdB", "votes": 439 }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Schwarzenberg",
+    "results": [
+      { "name": "Griss", "votes": 191 },
+      { "name": "Hofer", "votes": 161 },
+      { "name": "Hundstorfer", "voters": 9 },
+      { "name": "Khol", "voters": 140 },
+      { "name": "Lugner", "votes": 13 } ,
+      { "name": "VdB", "votes": 207 }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Sibratsgfäll",
+    "results": [
+      { "name": "Griss", "votes": 41 },
+      { "name": "Hofer", "votes": 41 },
+      { "name": "Hundstorfer", "voters": 2 },
+      { "name": "Khol", "voters": 62 },
+      { "name": "Lugner", "votes": 2 } ,
+      { "name": "VdB", "votes": 33 }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Sulzberg",
+    "results": [
+      { "name": "Griss", "votes": 205 },
+      { "name": "Hofer", "votes": 183 },
+      { "name": "Hundstorfer", "voters": 7 },
+      { "name": "Khol", "voters": 143 },
+      { "name": "Lugner", "votes": 15 } ,
+      { "name": "VdB", "votes": 180 }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Warth",
+    "results": [
+      { "name": "Griss", "votes": 14 },
+      { "name": "Hofer", "votes": 14 },
+      { "name": "Hundstorfer", "voters": 2 },
+      { "name": "Khol", "voters": 12 },
+      { "name": "Lugner", "votes": 0 } ,
+      { "name": "VdB", "votes": 2 }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Wolfurt",
+    "results": [
+      { "name": "Griss", "votes": 819 },
+      { "name": "Hofer", "votes": 874 },
+      { "name": "Hundstorfer", "voters": 119 },
+      { "name": "Khol", "voters": 336 },
+      { "name": "Lugner", "votes": 64 } ,
+      { "name": "VdB", "votes": 925 }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Dornbirn",
+    "results": [
+      { "name": "Griss", "votes": 3768 },
+      { "name": "Hofer", "votes": 4746 },
+      { "name": "Hundstorfer", "voters": 666 },
+      { "name": "Khol", "voters": 1425 },
+      { "name": "Lugner", "votes": 341 } ,
+      { "name": "VdB", "votes": 4671 }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Hohenems",
+    "results": [
+      { "name": "Griss", "votes": 920 },
+      { "name": "Hofer", "votes": 1603 },
+      { "name": "Hundstorfer", "voters": 136 },
+      { "name": "Khol", "voters": 354 },
+      { "name": "Lugner", "votes": 66 } ,
+      { "name": "VdB", "votes": 1118 }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Lustenau",
+    "results": [
+      { "name": "Griss", "votes": 1457 },
+      { "name": "Hofer", "votes": 2269 },
+      { "name": "Hundstorfer", "voters": 202 },
+      { "name": "Khol", "voters": 681 },
+      { "name": "Lugner", "votes": 114 } ,
+      { "name": "VdB", "votes": 1719 }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Altach",
+    "results": [
+      { "name": "Griss", "votes": 609 },
+      { "name": "Hofer", "votes": 690 },
+      { "name": "Hundstorfer", "voters": 84 },
+      { "name": "Khol", "voters": 180 },
+      { "name": "Lugner", "votes": 46 } ,
+      { "name": "VdB", "votes": 701 }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Düns",
+    "results": [
+      { "name": "Griss", "votes": 37 },
+      { "name": "Hofer", "votes": 52 },
+      { "name": "Hundstorfer", "voters": 2 },
+      { "name": "Khol", "voters": 23 },
+      { "name": "Lugner", "votes": 4 } ,
+      { "name": "VdB", "votes": 53 }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Dünserberg",
+    "results": [
+      { "name": "Griss", "votes": 11 },
+      { "name": "Hofer", "votes": 20 },
+      { "name": "Hundstorfer", "voters": 0 },
+      { "name": "Khol", "voters": 13 },
+      { "name": "Lugner", "votes": 1 } ,
+      { "name": "VdB", "votes": 5 }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Feldkirch",
+    "results": [
+      { "name": "Griss", "votes": 2477 },
+      { "name": "Hofer", "votes": 3142 },
+      { "name": "Hundstorfer", "voters": 454 },
+      { "name": "Khol", "voters": 837 },
+      { "name": "Lugner", "votes": 266 } ,
+      { "name": "VdB", "votes": 3411 }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Frastanz",
+    "results": [
+      { "name": "Griss", "votes": 426 },
+      { "name": "Hofer", "votes": 631 },
+      { "name": "Hundstorfer", "voters": 90 },
+      { "name": "Khol", "voters": 218 },
+      { "name": "Lugner", "votes": 40 } ,
+      { "name": "VdB", "votes": 503 }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Fraxern",
+    "results": [
+      { "name": "Griss", "votes": 85 },
+      { "name": "Hofer", "votes": 72 },
+      { "name": "Hundstorfer", "voters": 3 },
+      { "name": "Khol", "voters": 54 },
+      { "name": "Lugner", "votes": 11 } ,
+      { "name": "VdB", "votes": 69 }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Göfis",
+    "results": [
+      { "name": "Griss", "votes": 379 },
+      { "name": "Hofer", "votes": 377 },
+      { "name": "Hundstorfer", "voters": 41 },
+      { "name": "Khol", "voters": 121 },
+      { "name": "Lugner", "votes": 37 } ,
+      { "name": "VdB", "votes": 361 }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Götzis",
+    "results": [
+      { "name": "Griss", "votes": 857 },
+      { "name": "Hofer", "votes": 1138 },
+      { "name": "Hundstorfer", "voters": 147 },
+      { "name": "Khol", "voters": 314 },
+      { "name": "Lugner", "votes": 85 } ,
+      { "name": "VdB", "votes": 1119 }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Klaus",
+    "results": [
+      { "name": "Griss", "votes": 332 },
+      { "name": "Hofer", "votes": 268 },
+      { "name": "Hundstorfer", "voters": 40 },
+      { "name": "Khol", "voters": 130 },
+      { "name": "Lugner", "votes": 22 } ,
+      { "name": "VdB", "votes": 368 }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Koblach",
+    "results": [
+      { "name": "Griss", "votes": 370 },
+      { "name": "Hofer", "votes": 419 },
+      { "name": "Hundstorfer", "voters": 52 },
+      { "name": "Khol", "voters": 107 },
+      { "name": "Lugner", "votes": 43 } ,
+      { "name": "VdB", "votes": 446 }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Laterns",
+    "results": [
+      { "name": "Griss", "votes": 83 },
+      { "name": "Hofer", "votes": 89 },
+      { "name": "Hundstorfer", "voters": 7 },
+      { "name": "Khol", "voters": 41 },
+      { "name": "Lugner", "votes": 4 } ,
+      { "name": "VdB", "votes": 35 }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Mäder",
+    "results": [
+      { "name": "Griss", "votes": 280 },
+      { "name": "Hofer", "votes": 503 },
+      { "name": "Hundstorfer", "voters": 60 },
+      { "name": "Khol", "voters": 78 },
+      { "name": "Lugner", "votes": 22 } ,
+      { "name": "VdB", "votes": 284 }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Meiningen",
+    "results": [
+      { "name": "Griss", "votes": 166 },
+      { "name": "Hofer", "votes": 250 },
+      { "name": "Hundstorfer", "voters": 47 },
+      { "name": "Khol", "voters": 55 },
+      { "name": "Lugner", "votes": 16 } ,
+      { "name": "VdB", "votes": 192 }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Rankweil",
+    "results": [
+      { "name": "Griss", "votes": 991 },
+      { "name": "Hofer", "votes": 1104 },
+      { "name": "Hundstorfer", "voters": 180 },
+      { "name": "Khol", "voters": 309 },
+      { "name": "Lugner", "votes": 74 } ,
+      { "name": "VdB", "votes": 1216 }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Röns",
+    "results": [
+      { "name": "Griss", "votes": 30 },
+      { "name": "Hofer", "votes": 45 },
+      { "name": "Hundstorfer", "voters": 0 },
+      { "name": "Khol", "voters": 28 },
+      { "name": "Lugner", "votes": 0 } ,
+      { "name": "VdB", "votes": 34 }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Röthis",
+    "results": [
+      { "name": "Griss", "votes": 204 },
+      { "name": "Hofer", "votes": 162 },
+      { "name": "Hundstorfer", "voters": 24 },
+      { "name": "Khol", "voters": 68 },
+      { "name": "Lugner", "votes": 10 } ,
+      { "name": "VdB", "votes": 210 }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Satteins",
+    "results": [
+      { "name": "Griss", "votes": 263 },
+      { "name": "Hofer", "votes": 310 },
+      { "name": "Hundstorfer", "voters": 56 },
+      { "name": "Khol", "voters": 108 },
+      { "name": "Lugner", "votes": 17 } ,
+      { "name": "VdB", "votes": 304 }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Schlins",
+    "results": [
+      { "name": "Griss", "votes": 195 },
+      { "name": "Hofer", "votes": 222 },
+      { "name": "Hundstorfer", "voters": 46 },
+      { "name": "Khol", "voters": 88 },
+      { "name": "Lugner", "votes": 19 } ,
+      { "name": "VdB", "votes": 235 }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Schnifis",
+    "results": [
+      { "name": "Griss", "votes": 102 },
+      { "name": "Hofer", "votes": 92 },
+      { "name": "Hundstorfer", "voters": 9 },
+      { "name": "Khol", "voters": 49 },
+      { "name": "Lugner", "votes": 4 } ,
+      { "name": "VdB", "votes": 92 }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Sulz",
+    "results": [
+      { "name": "Griss", "votes": 269 },
+      { "name": "Hofer", "votes": 251 },
+      { "name": "Hundstorfer", "voters": 42 },
+      { "name": "Khol", "voters": 83 },
+      { "name": "Lugner", "votes": 19 } ,
+      { "name": "VdB", "votes": 295 }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Übersaxen",
+    "results": [
+      { "name": "Griss", "votes": 75 },
+      { "name": "Hofer", "votes": 103 },
+      { "name": "Hundstorfer", "voters": 3 },
+      { "name": "Khol", "voters": 50 },
+      { "name": "Lugner", "votes": 7 } ,
+      { "name": "VdB", "votes": 62 }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Viktorsberg",
+    "results": [
+      { "name": "Griss", "votes": 47 },
+      { "name": "Hofer", "votes": 56 },
+      { "name": "Hundstorfer", "voters": 7 },
+      { "name": "Khol", "voters": 23 },
+      { "name": "Lugner", "votes": 2 } ,
+      { "name": "VdB", "votes": 36 }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Weiler",
+    "results": [
+      { "name": "Griss", "votes": 177 },
+      { "name": "Hofer", "votes": 221 },
+      { "name": "Hundstorfer", "voters": 36 },
+      { "name": "Khol", "voters": 61 },
+      { "name": "Lugner", "votes": 12 } ,
+      { "name": "VdB", "votes": 242 }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Zwischenwasser",
+    "results": [
+      { "name": "Griss", "votes": 294 },
+      { "name": "Hofer", "votes": 368 },
+      { "name": "Hundstorfer", "voters": 29 },
+      { "name": "Khol", "voters": 128 },
+      { "name": "Lugner", "votes": 15 } ,
+      { "name": "VdB", "votes": 357 }
+    ]
+  }
+]
