@@ -32,6 +32,12 @@ Route::get('/{electionSlug}/{latitude},{longitude}',
 Route::get('/{electionSlug}/donut-chart',
   'VisualizationController@showElectionDonutVis'
 );
+Route::get('/{electionSlug}/{stateSlug}/donut-chart',
+  'VisualizationController@showStateDonutVis'
+);
+Route::get('/{electionSlug}/{stateSlug}/{districtId}/donut-chart',
+  'VisualizationController@showDistrictDonutVis'
+);
 
 /// StateController
 Route::get('/{electionSlug}/{stateSlug}', 'StateController@getState');
@@ -273,10 +279,10 @@ function mapStateSlugToName ($stateSlug) {
     $states = $election->states;
     foreach ($states as $state){
       if($state->slug == $stateSlug){
-        $stateName = $state->name;
+        $stateSlug = $state->name;
       }
     }
 
   }
-  return $stateName;
+  return $sta;
 }
