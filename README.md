@@ -233,9 +233,8 @@ The following routes return **HTML** views using [D3](https://github.com/d3/d3) 
 
 ### Donut Chart
 `/{electionSlug}/donut-chart`
-![Donut Chart Visualization Example](https://github.com/fhstp-mfg/geowahl/blob/master/design/Wiki/donut-chart-example-01.png)
 
-_that's all folks_
+![Donut Chart Visualization Example](https://github.com/fhstp-mfg/geowahl/blob/master/design/Wiki/donut-chart-example-01.png)
 
 ## Google API
 
@@ -352,3 +351,6 @@ Data errors should not be excluded, as all files have been curated to `.json` fo
 ## License
 
 [The MIT License](https://opensource.org/licenses/MIT) (MIT)
+
+
+_that's all folks_
