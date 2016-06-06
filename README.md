@@ -237,43 +237,43 @@ The following routes return **HTML** views using [D3](https://github.com/d3/d3) 
 
 _that's all folks_
 
-##Google API
+## Google API
 
 ### Setup
 
-In order to use Google APIs, you have to add your own Server API key.
+In order to use Google APIs, you have to add your own **Server API key**.
 
-Go to the Google Developer Console
+1. Go to the [Google Developer Console](https://console.developers.google.com/project/_/apiui/apis/library)
 
-From the project drop-down, select an existing project, or create a new one by selecting Create a new project.
+2. From the project drop-down, select an existing project, or create a new one by selecting **Create a new project**.
 
-In the sidebar under "API Manager", select Credentials, then select the OAuth consent screen tab.
+3. In the sidebar under "API Manager", select **Credentials**, then select the **OAuth consent screen** tab.
+  - Choose an **Email Address**, specify a **Product Name** (e.g. "GeoWahl"), and press **Save**.
 
-Choose an Email Address, specify a Product Name (e.g. "GeoWahl"), and press Save.
-In the Credentials tab, select the New credentials drop-down list, and choose API key.
+4. In the **Credentials** tab, select the **New credentials** drop-down list, and choose **API key**.
 
-In the Create a new key dialog box select Server key.
+5. In the **Create a new key dialog box** select **Server key**.
 
-Specify a Name for the Server key (e.g. "GeoWahl Server").
+6. Specify a **Name** for the Server key (e.g. "GeoWahl Server"). 
+  - Optionally you can limit requests to a list of **IP addresses**.
 
-Optionally you can limit requests to a list of IP addresses.
-Finally press the Create button.
+7. Finally press the **Create** button.
 
-NOTE It may take up to 5 minutes for settings to take effect.
+**NOTE** It may take up to 5 minutes for settings to take effect.
 
-- Activate APIs
+### Activate APIs
 
 The following Google APIs have to be activated:
+  - Google Maps Geocoding API
+  - Google Places API Web Service 
 
-Google Maps Geocoding API
-Google Places API Web Service
-In the sidebar under "API Manager", select Google APIs, the search and select the afore mentioned APIs and press the Enable button.
+In the sidebar under "API Manager", select **Google APIs**, the search and select the afore mentioned APIs and press the **Enable** button.
 
-- Usage
+### Usage
 
-In the sidebar under "API Manager", select Credentials, then copy your key from the API keys section.
+1. In the sidebar under "API Manager", select **Credentials**, then copy your key from the **API keys** section.
 
-Change the environment variable API_KEY in your .env file to your selected API key.
+2. Change the environment variable `API_KEY` in your `.env` file to your selected API key.
 
 ## Available Data 
 
