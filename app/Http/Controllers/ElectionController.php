@@ -79,7 +79,6 @@ class ElectionController extends Controller
 
     // results for states and election
     $results += getParentGranularityResults($electionSlug, $state);
-    $results['state']['slug'] = $stateSlug;
     return deliverJson($results);
   }
 }

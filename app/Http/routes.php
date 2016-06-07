@@ -160,6 +160,7 @@ function getParentGranularityResults($electionSlug, $state){
   // results for states
   $stateSlug = mapStateNameToSlug($state);
   $districts = getDistricts($electionSlug, $stateSlug);
+  $results['state']['slug'] = $stateSlug;
   $results['state']['name'] = $state;
   $results['state']['results'] = getDistrictsResults($districts);
 
