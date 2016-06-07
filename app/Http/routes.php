@@ -165,8 +165,8 @@ function getParentGranularityResults($electionSlug, $state){
 
 // results for election
   $electionDataObj = getElectionDataObj($electionSlug);
-  $results['election']['name'] = $electionDataObj->name;
   $results['election']['slug'] = $electionDataObj->slug;
+  $results['election']['name'] = $electionDataObj->name;
   $results['election']['results'] = $electionDataObj->results;
 
   return $results;
