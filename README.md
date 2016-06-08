@@ -9,16 +9,17 @@ Platform–specific projects can be found here:
 - [GeoWahl iOS](https://github.com/fhstp-mfg/geowahl-ios)
 
 ## API
-This repository provides an API for geo–political data and a few data visualization views.
+This repository provides an API for geo–political data and data visualization views.
 
 ### JSON Data
 The following routes return a `Content-Type: application/json` response.
 
-### `/elections`
+### All Elections
+`/elections`
 
 Returns all available elections, plus the associated data from the [states](https://github.com/fhstp-mfg/geowahl-web/wiki/GeoWahl-API/#states), [parties](https://github.com/fhstp-mfg/geowahl-web/wiki/GeoWahl-API/#parties) and [results](https://github.com/fhstp-mfg/geowahl-web/wiki/GeoWahl-API/#results) web services.
 
-**Response example for `/elections`**
+**Response example:** `/elections`
 ```js
 {
   "elections": [
@@ -41,12 +42,12 @@ Returns all available elections, plus the associated data from the [states](http
 
 Returns an available election for the provided `electionSlug`, plus the associated data from the [states](https://github.com/fhstp-mfg/geowahl-web/wiki/GeoWahl-API/#states), [parties](https://github.com/fhstp-mfg/geowahl-web/wiki/GeoWahl-API/#parties) and [results](https://github.com/fhstp-mfg/geowahl-web/wiki/GeoWahl-API/#results) web services.
 
-**JSON format example:**
+**Response example:** `/bpw16b`
 ```js
 {
-  "id": 1,
-  "slug": "bpw16a"
-  "name": "BPW16 1. Wahlgang",
+  "id": 2,
+  "slug": "bpw16b"
+  "name": "BPW16 2. Wahlgang",
 
   "states": [ ... ], // also retrieved by: /{electionSlug}/states
   "parties": [ ... ], // also retrieved by: /{electionSlug}/parties
@@ -54,12 +55,12 @@ Returns an available election for the provided `electionSlug`, plus the associat
 }
 ```
 
-### States
+### Election States
 `/{electionSlug}/states`
 
-Returns all available states for an election.
+Returns all available states for an election, specified by `electionSlug`.
 
-**JSON format example:** `/bpw16b/states`
+**Response example:** `/bpw16b/states`
 ```js
 {
   "states": [
@@ -73,17 +74,19 @@ Returns all available states for an election.
       "slug": "w",
       "name": "Wien"
     },
-    ...
+    ... // further states
   ]
 }
 ```
 
-### Parties
+### Election Parties
 `/{electionSlug}/parties`
 
-Returns all parties for an election. Each party contains corresponding colors, which you can look up under the [Parties Color Definition](https://github.com/fhstp-mfg/geowahl-web/wiki/Parties-Color-Definition) page.
+Returns all parties for an election, specified by `electionSlug`.
 
-**JSON format example:** `/bpw16b/parties`
+**NOTE** Each party contains corresponding colors, which you can look up under the [Parties Color Definition](https://github.com/fhstp-mfg/geowahl-web/wiki/Parties-Color-Definition) page.
+
+**Response example:** `/bpw16b/parties`
 ```js
 {
   "parties": [
@@ -101,20 +104,20 @@ Returns all parties for an election. Each party contains corresponding colors, w
 }
 ```
 
-### Results
+### State Results
 `/{electionSlug}/{stateSlug}`
 
 Returns the total results for the provided `stateSlug`.
 
-**NOTE** If `stateSlug` is set to `results`, then the **total results** of **all available states** are returned.
+**NOTE** When `stateSlug` is set to `results`, then the **total results** of **all available states** are returned.
 
-**NOTE** Results arrays always contain:
-- PARTY_NAME (String)
-- PARTY_VOTES (Integer)
-- PARTY_PERCENT_ROUNDED (Float w/ 2 decimals)
-- PARTY_PERCENT_EXACT (Float w/ all decimals)
+**NOTE** The `results` arrays always contain the following props:
+- `name`: String – the party name
+- `votes`: Integer – how many votes the party received (in context)
+- `percent`: Float (2 decimals) – the rounded votes percentage
+- `exact`: Float (all decimals) – the exact votes percentage
 
-**JSON format example:** `/bpw16b/results` or `/bpw16b/w`
+**Response example:** `/bpw16b/results` or `/bpw16b/w`
 ```js
 {
   "results": [
@@ -134,27 +137,30 @@ Returns the total results for the provided `stateSlug`.
 }
 ```
 
-### Districts
+### State Districts
 `/{electionSlug}/{stateSlug}/districts`
 
-Returns all districts and the corresponding results for the provided `stateSlug`. (The results array format stays the same.)
+Returns all districts and the corresponding results for the provided `electionSlug` and `stateSlug`.
 
-**JSON format example:** `/bpw16a/w`
+**NOTE** The `results` array format stays the same.
+
+**Response example:** `/bpw16a/w/districts`
 ```js
 {
   "districts": [
     {
+      "id": 1,
       "name": "Innere Stadt",
       "results": [ ... ]
     },
-    ...
+    ... // further districts
   ]
 }
 ```
 
-**NOTE** If `stateSlug` is set to `results` (see example below), then the **total results** of **each available state** are returned. In this case the property `districts` actually contains an array of `states` and the total results for each corresponding state.
+**NOTE** If `stateSlug` is set to `results` _(see example below)_, then the **total results** of **each available state** are returned. In this case the property `districts` will actually contain an array of `states` and the **total results** for **each corresponding state**.
 
-**JSON format example:** `/bpw16b/results`
+**Response example:** `/bpw16b/results/districts`
 ```js
 {
   "districts": [
@@ -175,52 +181,65 @@ Returns all districts and the corresponding results for the provided `stateSlug`
         }
       ]
     },
-    ...
+    ... // further districts
   ]
 }
 ```
 
-### District by Id
+### District Results _by id_
 `/{electionSlug}/{stateSlug}/{districtId}`
 
-Returns the result for the provided `districtId`. (The results arrays format stays the same.)
+**All–In–One** – Returns the results for a district, specified by `districtId`. Furthermore it returns the results for the parent state, specified by `stateSlug`, and the results for the election, specified by `electionSlug`.
 
-**JSON format example:** `/bpw16a/bgld/2`
+**NOTE** The `results` array format stays the same.
+
+**Response example:** `/bpw16b/w/1`
 ```js
 {
-  district: {
-    id: 2,
-    name: "Rust",
-    results: [ ... ]
+  "district": {
+    "id": 1,
+    "name": "Innere Stadt",
+    "results": [ ... ]
   },
-  state: {
-    name: "Burgenland",
-    results: [ ... ]
+
+  "state": {
+    "slug": "w",
+    "name": "Wien",
+    "results": [ ... ]
   },
-  election: {
-    name: "BPW16 1. Wahlgang",
-    results: [ ... ]
+
+  "election": {
+    "slug": "bpw16b",
+    "name": "BPW16 2. Wahlgang",
+    "results": [ ... ]
   }
 }
 ```
 
-### District by Geolocation for Election (single)
+### District Results _by Geolocation_
 `/{electionSlug}/{latitude},{longitude}`
 
-**All-In-One** – Searches for a district by `latitude` and `longitude` for an election, defined by `electionSlug` and returns the corresponding district results, the district's parent state results and the state's parent election results. (The results arrays format stays the same.)
+**All–In–One** – Searches for a district by `latitude` and `longitude` and returns the corresponding district results. Furthermore it returns the results for the parent state, specified by `stateSlug`, and the results for the election, specified by `electionSlug`.
 
-**JSON format example:** `/bpw16b/48.014223,16.5558545`
+**NOTE** The `results` array format stays the same.
+
+**Response example:** `/bpw16b/48.014223,16.5558545`
 ```js
 {
   "district": {
+    "id": 75,
     "name": "Götzendorf an der Leitha",    
     "results": [ ... ]
   },
+
   "state": {
+    "slug": "noe",
     "name": "Niederösterreich",
     "results": [ ... ]
   },
+
   "election": {
+    "slug": "bpw16b"
     "name": "BPW16 2. Wahlgang",
     "results": [ ... ]
   }
@@ -228,12 +247,22 @@ Returns the result for the provided `districtId`. (The results arrays format sta
 ```
 
 ### Visualizations
-The following routes return **HTML** views using [D3](https://github.com/d3/d3) for visualization.
+The following routes return `Content-Type: text/html` views using [D3](https://github.com/d3/d3) for visualizing data.
 
-### Donut Chart
+### Election Results Donut–Chart
 `/{electionSlug}/donut-chart`
 
-![Donut Chart Visualization Example](https://github.com/fhstp-mfg/geowahl/blob/master/design/Wiki/donut-chart-example-01.png)
+![Election Results Donut–Chart Visualization](https://github.com/fhstp-mfg/geowahl/blob/master/design/Wiki/donut-chart-example-01.png)
+
+### State Results Donut Chart
+`/{electionSlug}/{stateSlug}/donut-chart`
+
+_(State Results Donut–Chart Visualization example coming soon ...)_
+
+### District Results Donut–Chart
+`/{electionSlug}/{stateSlug}/{districtId}/donut-chart`
+
+_(District Results Donut–Chart Visualization example coming soon ...)_
 
 ## Google API
 
@@ -294,9 +323,10 @@ Data errors should not be excluded, as all files have been curated to `.json` fo
 
 **We assume no liability for possible mistakes !**
 
-##Parties Color Definition
+## Parties Color Definition
 
 ![Parties Color Definition](https://github.com/fhstp-mfg/geowahl/blob/master/design/Wiki/parties-colors.png)
+
 ### GRÜNE, VDB:
 `#78AF35`
 
@@ -338,14 +368,14 @@ Data errors should not be excluded, as all files have been curated to `.json` fo
 `rgba(14, 66, 142, 1)`
 
 ## Contributors
-- [Michaela Würz](https://github.com/michiw)
 - [Daniel Koller](https://github.com/danielkoller)
-- [Iosif Miclaus](https://github.com/miclaus)
-- [Sebastian Ulbel](https://github.com/suits-at)
-- [Martina Hack](https://github.com/maelen92)
-- [Patrick Eberhardt](https://github.com/eberhapa)
 - [Gerald Strobl](https://github.com/gstrobl)
+- [Iosif Miclaus](https://github.com/miclaus)
 - [Katrin Rudisch](https://github.com/katrinrudisch)
+- [Martina Hack](https://github.com/maelen92)
+- [Michaela Würz](https://github.com/michiw)
+- [Patrick Eberhardt](https://github.com/eberhapa)
+- [Sebastian Ulbel](https://github.com/suits-at)
 
 ## License
 
