@@ -44,8 +44,6 @@
         	.append("g")
         	.attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
-
-
         var g = svg.selectAll(".arc")
         	.data(pie(data))
         	.enter().append("g")

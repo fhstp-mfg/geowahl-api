@@ -24,10 +24,19 @@ class VisualizationController extends Controller
 
   public function showStateDonutVis ($electionSlug, $stateSlug)
   {
-    $districts = getDistricts($electionSlug, $stateSlug);
-    $results = json_encode(getDistrictsResults($districts));
+    $electionDataObj = getElectionDataObj($electionSlug);
 
-    return view('visualization')->with('visData', $results);
+    $electionResult = json_encode($electionDataObj->results);
+    $electionParties = json_encode($electionDataObj->parties);
+
+    //logArray($electionParties);
+    $colorData = array();
+    foreach ($electionDataObj->parties as $key) {
+      $colorData[$key->name] = $key->hex;
+    }
+    logArray($colorData);
+    //return $electionResult;
+    return view('donut_visualization')->with('visData', $electionResult);
   }
 
   public function showDistrictDonutVis ($electionSlug, $stateSlug, $districtId)
