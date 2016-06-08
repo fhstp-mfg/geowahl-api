@@ -32,22 +32,23 @@ class StateController extends Controller
   }
 
 
-  public function getResultsForLocation (
-    $electionSlug, $stateSlug, $latitude, $longitude
-  ) {
-    $location = getLocation($latitude, $longitude);
-    $districtName = $location['district'];
+  public function getDistrictById ($electionSlug, $stateSlug, $districtId)
+  {
     $districts = getDistricts($electionSlug, $stateSlug);
-    // TODO implement error handling
-    // $results = 'no results for coordinates "'.$latitude.','.$longitude.'" found';
-
     $results = [];
+
     foreach ($districts as $district) {
-      if ( $district->name == $districtName ) {
-        $results['name'] = $districtName;
-        $results['results'] = $district->results;
-        break;
+      if ($district->id == $districtId) {
+        $results['district'] = $district;
       }
+    }
+
+    // results for states and election
+    $state = mapStateSlugToName($stateSlug);
+    $parentGranularityResults = getParentGranularityResults($electionSlug, $state);
+
+    if ( ! empty($results) ) {
+      $results = array_merge($results, $parentGranularityResults);
     }
 
     return deliverJson($results);

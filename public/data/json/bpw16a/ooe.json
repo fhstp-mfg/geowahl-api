@@ -1,0 +1,5306 @@
+[
+  {
+    "id": 1,
+    "name": "Linz",
+    "results": [
+      { "name": "Griss", "votes": 12648 },
+      { "name": "Hofer", "votes": 21824 },
+      { "name": "Hundstorfer", "votes": 10190 },
+      { "name": "Khol", "votes": 5174 },
+      { "name": "Lugner", "votes": 1537 },
+      { "name": "VdB", "votes": 20913 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Steyr",
+    "results": [
+      { "name": "Griss", "votes": 2552 },
+      { "name": "Hofer", "votes": 5685 },
+      { "name": "Hundstorfer", "votes": 2916 },
+      { "name": "Khol", "votes": 964 },
+      { "name": "Lugner", "votes": 352 },
+      { "name": "VdB", "votes": 3454 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Wels",
+    "results": [
+      { "name": "Griss", "votes": 3655 },
+      { "name": "Hofer", "votes": 8743 },
+      { "name": "Hundstorfer", "votes": 2641 },
+      { "name": "Khol", "votes": 1526 },
+      { "name": "Lugner", "votes": 387 },
+      { "name": "VdB", "votes": 4644 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Altheim",
+    "results": [
+      { "name": "Griss", "votes": 329 },
+      { "name": "Hofer", "votes": 936 },
+      { "name": "Hundstorfer", "votes": 270 },
+      { "name": "Khol", "votes": 232 },
+      { "name": "Lugner", "votes": 46 },
+      { "name": "VdB", "votes": 275 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Aspach",
+    "results": [
+      { "name": "Griss", "votes": 150 },
+      { "name": "Hofer", "votes": 420 },
+      { "name": "Hundstorfer", "votes": 56 },
+      { "name": "Khol", "votes": 209 },
+      { "name": "Lugner", "votes": 17 },
+      { "name": "VdB", "votes": 124 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Auerbach",
+    "results": [
+      { "name": "Griss", "votes": 22 },
+      { "name": "Hofer", "votes": 137 },
+      { "name": "Hundstorfer", "votes": 8 },
+      { "name": "Khol", "votes": 73 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 30 }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Braunau am Inn",
+    "results": [
+      { "name": "Griss", "votes": 1048 },
+      { "name": "Hofer", "votes": 2327 },
+      { "name": "Hundstorfer", "votes": 726 },
+      { "name": "Khol", "votes": 498 },
+      { "name": "Lugner", "votes": 119 },
+      { "name": "VdB", "votes": 1212 }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Burgkirchen",
+    "results": [
+      { "name": "Griss", "votes": 157 },
+      { "name": "Hofer", "votes": 487 },
+      { "name": "Hundstorfer", "votes": 81 },
+      { "name": "Khol", "votes": 233 },
+      { "name": "Lugner", "votes": 25 },
+      { "name": "VdB", "votes": 158 }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Eggelsberg",
+    "results": [
+      { "name": "Griss", "votes": 139 },
+      { "name": "Hofer", "votes": 421 },
+      { "name": "Hundstorfer", "votes": 84 },
+      { "name": "Khol", "votes": 137 },
+      { "name": "Lugner", "votes": 24 },
+      { "name": "VdB", "votes": 144 }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Feldkirchen bei Mattighofen",
+    "results": [
+      { "name": "Griss", "votes": 113 },
+      { "name": "Hofer", "votes": 472 },
+      { "name": "Hundstorfer", "votes": 67 },
+      { "name": "Khol", "votes": 177 },
+      { "name": "Lugner", "votes": 17 },
+      { "name": "VdB", "votes": 116 }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Franking",
+    "results": [
+      { "name": "Griss", "votes": 64 },
+      { "name": "Hofer", "votes": 182 },
+      { "name": "Hundstorfer", "votes": 28 },
+      { "name": "Khol", "votes": 95 },
+      { "name": "Lugner", "votes": 12 },
+      { "name": "VdB", "votes": 50 }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Geretsberg",
+    "results": [
+      { "name": "Griss", "votes": 89 },
+      { "name": "Hofer", "votes": 207 },
+      { "name": "Hundstorfer", "votes": 36 },
+      { "name": "Khol", "votes": 122 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 68 }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Gilgenberg am Weilhart",
+    "results": [
+      { "name": "Griss", "votes": 76 },
+      { "name": "Hofer", "votes": 247 },
+      { "name": "Hundstorfer", "votes": 25 },
+      { "name": "Khol", "votes": 133 },
+      { "name": "Lugner", "votes": 19 },
+      { "name": "VdB", "votes": 66 }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Haigermoos",
+    "results": [
+      { "name": "Griss", "votes": 53 },
+      { "name": "Hofer", "votes": 112 },
+      { "name": "Hundstorfer", "votes": 30 },
+      { "name": "Khol", "votes": 62 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 46 }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Handenberg",
+    "results": [
+      { "name": "Griss", "votes": 81 },
+      { "name": "Hofer", "votes": 249 },
+      { "name": "Hundstorfer", "votes": 31 },
+      { "name": "Khol", "votes": 162 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 83 }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Helpfau-Uttendorf",
+    "results": [
+      { "name": "Griss", "votes": 195 },
+      { "name": "Hofer", "votes": 623 },
+      { "name": "Hundstorfer", "votes": 125 },
+      { "name": "Khol", "votes": 199 },
+      { "name": "Lugner", "votes": 41 },
+      { "name": "VdB", "votes": 149 }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Hochburg-Ach",
+    "results": [
+      { "name": "Griss", "votes": 237 },
+      { "name": "Hofer", "votes": 385 },
+      { "name": "Hundstorfer", "votes": 89 },
+      { "name": "Khol", "votes": 214 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 225 }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Höhnhart",
+    "results": [
+      { "name": "Griss", "votes": 73 },
+      { "name": "Hofer", "votes": 300 },
+      { "name": "Hundstorfer", "votes": 69 },
+      { "name": "Khol", "votes": 110 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 45 }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Jeging",
+    "results": [
+      { "name": "Griss", "votes": 55 },
+      { "name": "Hofer", "votes": 126 },
+      { "name": "Hundstorfer", "votes": 31 },
+      { "name": "Khol", "votes": 76 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 37 }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Kirchberg bei Mattighofen",
+    "results": [
+      { "name": "Griss", "votes": 89 },
+      { "name": "Hofer", "votes": 249 },
+      { "name": "Hundstorfer", "votes": 35 },
+      { "name": "Khol", "votes": 117 },
+      { "name": "Lugner", "votes": 13 },
+      { "name": "VdB", "votes": 71 }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Lengau",
+    "results": [
+      { "name": "Griss", "votes": 274 },
+      { "name": "Hofer", "votes": 944 },
+      { "name": "Hundstorfer", "votes": 273 },
+      { "name": "Khol", "votes": 246 },
+      { "name": "Lugner", "votes": 55 },
+      { "name": "VdB", "votes": 282 }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Lochen am See",
+    "results": [
+      { "name": "Griss", "votes": 205 },
+      { "name": "Hofer", "votes": 637 },
+      { "name": "Hundstorfer", "votes": 73 },
+      { "name": "Khol", "votes": 234 },
+      { "name": "Lugner", "votes": 32 },
+      { "name": "VdB", "votes": 139 }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Maria Schmolln",
+    "results": [
+      { "name": "Griss", "votes": 101 },
+      { "name": "Hofer", "votes": 257 },
+      { "name": "Hundstorfer", "votes": 52 },
+      { "name": "Khol", "votes": 136 },
+      { "name": "Lugner", "votes": 17 },
+      { "name": "VdB", "votes": 90 }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Mattighofen",
+    "results": [
+      { "name": "Griss", "votes": 318 },
+      { "name": "Hofer", "votes": 781 },
+      { "name": "Hundstorfer", "votes": 255 },
+      { "name": "Khol", "votes": 192 },
+      { "name": "Lugner", "votes": 60 },
+      { "name": "VdB", "votes": 318 }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Mauerkirchen",
+    "results": [
+      { "name": "Griss", "votes": 119 },
+      { "name": "Hofer", "votes": 333 },
+      { "name": "Hundstorfer", "votes": 88 },
+      { "name": "Khol", "votes": 79 },
+      { "name": "Lugner", "votes": 22 },
+      { "name": "VdB", "votes": 109 }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Mining",
+    "results": [
+      { "name": "Griss", "votes": 139 },
+      { "name": "Hofer", "votes": 197 },
+      { "name": "Hundstorfer", "votes": 47 },
+      { "name": "Khol", "votes": 107 },
+      { "name": "Lugner", "votes": 3 },
+      { "name": "VdB", "votes": 100 }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Moosbach",
+    "results": [
+      { "name": "Griss", "votes": 53 },
+      { "name": "Hofer", "votes": 214 },
+      { "name": "Hundstorfer", "votes": 22 },
+      { "name": "Khol", "votes": 71 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 50 }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Moosdorf",
+    "results": [
+      { "name": "Griss", "votes": 85 },
+      { "name": "Hofer", "votes": 298 },
+      { "name": "Hundstorfer", "votes": 106 },
+      { "name": "Khol", "votes": 108 },
+      { "name": "Lugner", "votes": 23 },
+      { "name": "VdB", "votes": 119 }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Munderfing",
+    "results": [
+      { "name": "Griss", "votes": 203 },
+      { "name": "Hofer", "votes": 567 },
+      { "name": "Hundstorfer", "votes": 151 },
+      { "name": "Khol", "votes": 243 },
+      { "name": "Lugner", "votes": 22 },
+      { "name": "VdB", "votes": 183 }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Neukirchen an der Enknach",
+    "results": [
+      { "name": "Griss", "votes": 174 },
+      { "name": "Hofer", "votes": 478 },
+      { "name": "Hundstorfer", "votes": 108 },
+      { "name": "Khol", "votes": 145 },
+      { "name": "Lugner", "votes": 32 },
+      { "name": "VdB", "votes": 111 }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Ostermiething",
+    "results": [
+      { "name": "Griss", "votes": 191 },
+      { "name": "Hofer", "votes": 522 },
+      { "name": "Hundstorfer", "votes": 105 },
+      { "name": "Khol", "votes": 196 },
+      { "name": "Lugner", "votes": 30 },
+      { "name": "VdB", "votes": 215 }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Palting",
+    "results": [
+      { "name": "Griss", "votes": 59 },
+      { "name": "Hofer", "votes": 215 },
+      { "name": "Hundstorfer", "votes": 28 },
+      { "name": "Khol", "votes": 86 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 61 }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Perwang am Grabensee",
+    "results": [
+      { "name": "Griss", "votes": 81 },
+      { "name": "Hofer", "votes": 184 },
+      { "name": "Hundstorfer", "votes": 28 },
+      { "name": "Khol", "votes": 77 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 86 }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Pfaffstätt",
+    "results": [
+      { "name": "Griss", "votes": 77 },
+      { "name": "Hofer", "votes": 166 },
+      { "name": "Hundstorfer", "votes": 41 },
+      { "name": "Khol", "votes": 67 },
+      { "name": "Lugner", "votes": 20 },
+      { "name": "VdB", "votes": 59 }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Pischelsdorf am Engelbach",
+    "results": [
+      { "name": "Griss", "votes": 98 },
+      { "name": "Hofer", "votes": 368 },
+      { "name": "Hundstorfer", "votes": 51 },
+      { "name": "Khol", "votes": 162 },
+      { "name": "Lugner", "votes": 34 },
+      { "name": "VdB", "votes": 43 }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Polling im Innkreis",
+    "results": [
+      { "name": "Griss", "votes": 42 },
+      { "name": "Hofer", "votes": 248 },
+      { "name": "Hundstorfer", "votes": 40 },
+      { "name": "Khol", "votes": 101 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 37 }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Roßbach",
+    "results": [
+      { "name": "Griss", "votes": 57 },
+      { "name": "Hofer", "votes": 201 },
+      { "name": "Hundstorfer", "votes": 66 },
+      { "name": "Khol", "votes": 81 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 40 }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Sankt Georgen am Fillmannsbach",
+    "results": [
+      { "name": "Griss", "votes": 22 },
+      { "name": "Hofer", "votes": 101 },
+      { "name": "Hundstorfer", "votes": 3 },
+      { "name": "Khol", "votes": 46 },
+      { "name": "Lugner", "votes": 2 },
+      { "name": "VdB", "votes": 11 }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Sankt Johann am Walde",
+    "results": [
+      { "name": "Griss", "votes": 119 },
+      { "name": "Hofer", "votes": 377 },
+      { "name": "Hundstorfer", "votes": 136 },
+      { "name": "Khol", "votes": 162 },
+      { "name": "Lugner", "votes": 22 },
+      { "name": "VdB", "votes": 107 }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Sankt Pantaleon",
+    "results": [
+      { "name": "Griss", "votes": 183 },
+      { "name": "Hofer", "votes": 551 },
+      { "name": "Hundstorfer", "votes": 145 },
+      { "name": "Khol", "votes": 195 },
+      { "name": "Lugner", "votes": 24 },
+      { "name": "VdB", "votes": 187 }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Sankt Peter am Hart",
+    "results": [
+      { "name": "Griss", "votes": 199 },
+      { "name": "Hofer", "votes": 400 },
+      { "name": "Hundstorfer", "votes": 98 },
+      { "name": "Khol", "votes": 118 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 169 }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Sankt Radegund",
+    "results": [
+      { "name": "Griss", "votes": 46 },
+      { "name": "Hofer", "votes": 54 },
+      { "name": "Hundstorfer", "votes": 10 },
+      { "name": "Khol", "votes": 97 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 59 }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Sankt Veit im Innkreis",
+    "results": [
+      { "name": "Griss", "votes": 25 },
+      { "name": "Hofer", "votes": 86 },
+      { "name": "Hundstorfer", "votes": 31 },
+      { "name": "Khol", "votes": 36 },
+      { "name": "Lugner", "votes": 2 },
+      { "name": "VdB", "votes": 19 }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Schalchen",
+    "results": [
+      { "name": "Griss", "votes": 247 },
+      { "name": "Hofer", "votes": 686 },
+      { "name": "Hundstorfer", "votes": 177 },
+      { "name": "Khol", "votes": 168 },
+      { "name": "Lugner", "votes": 34 },
+      { "name": "VdB", "votes": 270 }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Schwand im Innkreis",
+    "results": [
+      { "name": "Griss", "votes": 62 },
+      { "name": "Hofer", "votes": 181 },
+      { "name": "Hundstorfer", "votes": 28 },
+      { "name": "Khol", "votes": 99 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 62 }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Tarsdorf",
+    "results": [
+      { "name": "Griss", "votes": 139 },
+      { "name": "Hofer", "votes": 361 },
+      { "name": "Hundstorfer", "votes": 40 },
+      { "name": "Khol", "votes": 204 },
+      { "name": "Lugner", "votes": 20 },
+      { "name": "VdB", "votes": 125 }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Treubach",
+    "results": [
+      { "name": "Griss", "votes": 32 },
+      { "name": "Hofer", "votes": 144 },
+      { "name": "Hundstorfer", "votes": 19 },
+      { "name": "Khol", "votes": 87 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 24 }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Überackern",
+    "results": [
+      { "name": "Griss", "votes": 36 },
+      { "name": "Hofer", "votes": 108 },
+      { "name": "Hundstorfer", "votes": 14 },
+      { "name": "Khol", "votes": 41 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 28 }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Weng im Innkreis",
+    "results": [
+      { "name": "Griss", "votes": 81 },
+      { "name": "Hofer", "votes": 310 },
+      { "name": "Hundstorfer", "votes": 62 },
+      { "name": "Khol", "votes": 114 },
+      { "name": "Lugner", "votes": 3 },
+      { "name": "VdB", "votes": 80 }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Alkoven",
+    "results": [
+      { "name": "Griss", "votes": 496 },
+      { "name": "Hofer", "votes": 1081 },
+      { "name": "Hundstorfer", "votes": 430 },
+      { "name": "Khol", "votes": 315 },
+      { "name": "Lugner", "votes": 49 },
+      { "name": "VdB", "votes": 533 }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Aschach an der Donau",
+    "results": [
+      { "name": "Griss", "votes": 140 },
+      { "name": "Hofer", "votes": 364 },
+      { "name": "Hundstorfer", "votes": 154 },
+      { "name": "Khol", "votes": 119 },
+      { "name": "Lugner", "votes": 29 },
+      { "name": "VdB", "votes": 201 }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Eferding",
+    "results": [
+      { "name": "Griss", "votes": 265 },
+      { "name": "Hofer", "votes": 553 },
+      { "name": "Hundstorfer", "votes": 200 },
+      { "name": "Khol", "votes": 214 },
+      { "name": "Lugner", "votes": 23 },
+      { "name": "VdB", "votes": 352 }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Fraham",
+    "results": [
+      { "name": "Griss", "votes": 190 },
+      { "name": "Hofer", "votes": 443 },
+      { "name": "Hundstorfer", "votes": 141 },
+      { "name": "Khol", "votes": 97 },
+      { "name": "Lugner", "votes": 17 },
+      { "name": "VdB", "votes": 224 }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Haibach ob der Donau",
+    "results": [
+      { "name": "Griss", "votes": 90 },
+      { "name": "Hofer", "votes": 236 },
+      { "name": "Hundstorfer", "votes": 75 },
+      { "name": "Khol", "votes": 120 },
+      { "name": "Lugner", "votes": 12 },
+      { "name": "VdB", "votes": 119 }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Hartkirchen",
+    "results": [
+      { "name": "Griss", "votes": 349 },
+      { "name": "Hofer", "votes": 985 },
+      { "name": "Hundstorfer", "votes": 253 },
+      { "name": "Khol", "votes": 334 },
+      { "name": "Lugner", "votes": 40 },
+      { "name": "VdB", "votes": 337 }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Hinzenbach",
+    "results": [
+      { "name": "Griss", "votes": 140 },
+      { "name": "Hofer", "votes": 420 },
+      { "name": "Hundstorfer", "votes": 109 },
+      { "name": "Khol", "votes": 150 },
+      { "name": "Lugner", "votes": 19 },
+      { "name": "VdB", "votes": 163 }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Prambachkirchen",
+    "results": [
+      { "name": "Griss", "votes": 211 },
+      { "name": "Hofer", "votes": 607 },
+      { "name": "Hundstorfer", "votes": 138 },
+      { "name": "Khol", "votes": 240 },
+      { "name": "Lugner", "votes": 29 },
+      { "name": "VdB", "votes": 203 }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Pupping",
+    "results": [
+      { "name": "Griss", "votes": 156 },
+      { "name": "Hofer", "votes": 394 },
+      { "name": "Hundstorfer", "votes": 94 },
+      { "name": "Khol", "votes": 127 },
+      { "name": "Lugner", "votes": 13 },
+      { "name": "VdB", "votes": 174 }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Sankt Marienkirchen an der Polsenz",
+    "results": [
+      { "name": "Griss", "votes": 175 },
+      { "name": "Hofer", "votes": 493 },
+      { "name": "Hundstorfer", "votes": 126 },
+      { "name": "Khol", "votes": 177 },
+      { "name": "Lugner", "votes": 20 },
+      { "name": "VdB", "votes": 219 }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Scharten",
+    "results": [
+      { "name": "Griss", "votes": 184 },
+      { "name": "Hofer", "votes": 463 },
+      { "name": "Hundstorfer", "votes": 127 },
+      { "name": "Khol", "votes": 133 },
+      { "name": "Lugner", "votes": 25 },
+      { "name": "VdB", "votes": 244 }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Stroheim",
+    "results": [
+      { "name": "Griss", "votes": 138 },
+      { "name": "Hofer", "votes": 375 },
+      { "name": "Hundstorfer", "votes": 47 },
+      { "name": "Khol", "votes": 176 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 106 }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Freistadt",
+    "results": [
+      { "name": "Griss", "votes": 605 },
+      { "name": "Hofer", "votes": 1204 },
+      { "name": "Hundstorfer", "votes": 497 },
+      { "name": "Khol", "votes": 470 },
+      { "name": "Lugner", "votes": 56 },
+      { "name": "VdB", "votes": 848 }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Grünbach",
+    "results": [
+      { "name": "Griss", "votes": 173 },
+      { "name": "Hofer", "votes": 322 },
+      { "name": "Hundstorfer", "votes": 93 },
+      { "name": "Khol", "votes": 150 },
+      { "name": "Lugner", "votes": 21 },
+      { "name": "VdB", "votes": 143 }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Gutau",
+    "results": [
+      { "name": "Griss", "votes": 186 },
+      { "name": "Hofer", "votes": 468 },
+      { "name": "Hundstorfer", "votes": 185 },
+      { "name": "Khol", "votes": 249 },
+      { "name": "Lugner", "votes": 31 },
+      { "name": "VdB", "votes": 260 }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Hagenberg im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 244 },
+      { "name": "Hofer", "votes": 505 },
+      { "name": "Hundstorfer", "votes": 169 },
+      { "name": "Khol", "votes": 163 },
+      { "name": "Lugner", "votes": 43 },
+      { "name": "VdB", "votes": 297 }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Hirschbach im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 125 },
+      { "name": "Hofer", "votes": 144 },
+      { "name": "Hundstorfer", "votes": 67 },
+      { "name": "Khol", "votes": 175 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 111 }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Kaltenberg",
+    "results": [
+      { "name": "Griss", "votes": 34 },
+      { "name": "Hofer", "votes": 134 },
+      { "name": "Hundstorfer", "votes": 12 },
+      { "name": "Khol", "votes": 158 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 26 }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Kefermarkt",
+    "results": [
+      { "name": "Griss", "votes": 209 },
+      { "name": "Hofer", "votes": 377 },
+      { "name": "Hundstorfer", "votes": 128 },
+      { "name": "Khol", "votes": 197 },
+      { "name": "Lugner", "votes": 20 },
+      { "name": "VdB", "votes": 179 }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Königswiesen",
+    "results": [
+      { "name": "Griss", "votes": 186 },
+      { "name": "Hofer", "votes": 658 },
+      { "name": "Hundstorfer", "votes": 142 },
+      { "name": "Khol", "votes": 370 },
+      { "name": "Lugner", "votes": 30 },
+      { "name": "VdB", "votes": 238 }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Lasberg",
+    "results": [
+      { "name": "Griss", "votes": 248 },
+      { "name": "Hofer", "votes": 493 },
+      { "name": "Hundstorfer", "votes": 139 },
+      { "name": "Khol", "votes": 304 },
+      { "name": "Lugner", "votes": 31 },
+      { "name": "VdB", "votes": 267 }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Leopoldschlag",
+    "results": [
+      { "name": "Griss", "votes": 95 },
+      { "name": "Hofer", "votes": 191 },
+      { "name": "Hundstorfer", "votes": 35 },
+      { "name": "Khol", "votes": 157 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 80 }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Liebenau",
+    "results": [
+      { "name": "Griss", "votes": 100 },
+      { "name": "Hofer", "votes": 316 },
+      { "name": "Hundstorfer", "votes": 95 },
+      { "name": "Khol", "votes": 255 },
+      { "name": "Lugner", "votes": 17 },
+      { "name": "VdB", "votes": 72 }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Neumarkt im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 287 },
+      { "name": "Hofer", "votes": 499 },
+      { "name": "Hundstorfer", "votes": 163 },
+      { "name": "Khol", "votes": 296 },
+      { "name": "Lugner", "votes": 37 },
+      { "name": "VdB", "votes": 377 }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Pierbach",
+    "results": [
+      { "name": "Griss", "votes": 65 },
+      { "name": "Hofer", "votes": 222 },
+      { "name": "Hundstorfer", "votes": 36 },
+      { "name": "Khol", "votes": 110 },
+      { "name": "Lugner", "votes": 9 },
+      { "name": "VdB", "votes": 69 }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Pregarten",
+    "results": [
+      { "name": "Griss", "votes": 469 },
+      { "name": "Hofer", "votes": 1001 },
+      { "name": "Hundstorfer", "votes": 362 },
+      { "name": "Khol", "votes": 329 },
+      { "name": "Lugner", "votes": 50 },
+      { "name": "VdB", "votes": 518 }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Rainbach im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 266 },
+      { "name": "Hofer", "votes": 352 },
+      { "name": "Hundstorfer", "votes": 176 },
+      { "name": "Khol", "votes": 327 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 255 }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Sandl",
+    "results": [
+      { "name": "Griss", "votes": 114 },
+      { "name": "Hofer", "votes": 259 },
+      { "name": "Hundstorfer", "votes": 115 },
+      { "name": "Khol", "votes": 115 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 117 }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Sankt Leonhard bei Freistadt",
+    "results": [
+      { "name": "Griss", "votes": 115 },
+      { "name": "Hofer", "votes": 261 },
+      { "name": "Hundstorfer", "votes": 93 },
+      { "name": "Khol", "votes": 175 },
+      { "name": "Lugner", "votes": 17 },
+      { "name": "VdB", "votes": 102 }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Sankt Oswald bei Freistadt",
+    "results": [
+      { "name": "Griss", "votes": 170 },
+      { "name": "Hofer", "votes": 565 },
+      { "name": "Hundstorfer", "votes": 199 },
+      { "name": "Khol", "votes": 277 },
+      { "name": "Lugner", "votes": 26 },
+      { "name": "VdB", "votes": 190 }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Schönau im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 176 },
+      { "name": "Hofer", "votes": 448 },
+      { "name": "Hundstorfer", "votes": 101 },
+      { "name": "Khol", "votes": 244 },
+      { "name": "Lugner", "votes": 17 },
+      { "name": "VdB", "votes": 137 }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Tragwein",
+    "results": [
+      { "name": "Griss", "votes": 257 },
+      { "name": "Hofer", "votes": 516 },
+      { "name": "Hundstorfer", "votes": 256 },
+      { "name": "Khol", "votes": 286 },
+      { "name": "Lugner", "votes": 27 },
+      { "name": "VdB", "votes": 335 }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Unterweißenbach",
+    "results": [
+      { "name": "Griss", "votes": 145 },
+      { "name": "Hofer", "votes": 488 },
+      { "name": "Hundstorfer", "votes": 66 },
+      { "name": "Khol", "votes": 251 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 130 }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Unterweitersdorf",
+    "results": [
+      { "name": "Griss", "votes": 210 },
+      { "name": "Hofer", "votes": 374 },
+      { "name": "Hundstorfer", "votes": 195 },
+      { "name": "Khol", "votes": 159 },
+      { "name": "Lugner", "votes": 21 },
+      { "name": "VdB", "votes": 223 }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Waldburg",
+    "results": [
+      { "name": "Griss", "votes": 142 },
+      { "name": "Hofer", "votes": 233 },
+      { "name": "Hundstorfer", "votes": 71 },
+      { "name": "Khol", "votes": 138 },
+      { "name": "Lugner", "votes": 9 },
+      { "name": "VdB", "votes": 164 }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Wartberg ob der Aist",
+    "results": [
+      { "name": "Griss", "votes": 344 },
+      { "name": "Hofer", "votes": 716 },
+      { "name": "Hundstorfer", "votes": 275 },
+      { "name": "Khol", "votes": 265 },
+      { "name": "Lugner", "votes": 40 },
+      { "name": "VdB", "votes": 479 }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Weitersfelden",
+    "results": [
+      { "name": "Griss", "votes": 71 },
+      { "name": "Hofer", "votes": 136 },
+      { "name": "Hundstorfer", "votes": 56 },
+      { "name": "Khol", "votes": 166 },
+      { "name": "Lugner", "votes": 9 },
+      { "name": "VdB", "votes": 80 }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Windhaag bei Freistadt",
+    "results": [
+      { "name": "Griss", "votes": 128 },
+      { "name": "Hofer", "votes": 251 },
+      { "name": "Hundstorfer", "votes": 79 },
+      { "name": "Khol", "votes": 235 },
+      { "name": "Lugner", "votes": 19 },
+      { "name": "VdB", "votes": 95 }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Bad Zell",
+    "results": [
+      { "name": "Griss", "votes": 239 },
+      { "name": "Hofer", "votes": 500 },
+      { "name": "Hundstorfer", "votes": 117 },
+      { "name": "Khol", "votes": 334 },
+      { "name": "Lugner", "votes": 31 },
+      { "name": "VdB", "votes": 324 }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Altmünster",
+    "results": [
+      { "name": "Griss", "votes": 877 },
+      { "name": "Hofer", "votes": 1640 },
+      { "name": "Hundstorfer", "votes": 526 },
+      { "name": "Khol", "votes": 543 },
+      { "name": "Lugner", "votes": 88 },
+      { "name": "VdB", "votes": 1045 }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Bad Goisern am Hallstättersee",
+    "results": [
+      { "name": "Griss", "votes": 522 },
+      { "name": "Hofer", "votes": 1109 },
+      { "name": "Hundstorfer", "votes": 611 },
+      { "name": "Khol", "votes": 242 },
+      { "name": "Lugner", "votes": 91 },
+      { "name": "VdB", "votes": 638 }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Bad Ischl",
+    "results": [
+      { "name": "Griss", "votes": 1188 },
+      { "name": "Hofer", "votes": 1987 },
+      { "name": "Hundstorfer", "votes": 711 },
+      { "name": "Khol", "votes": 638 },
+      { "name": "Lugner", "votes": 127 },
+      { "name": "VdB", "votes": 1392 }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Ebensee",
+    "results": [
+      { "name": "Griss", "votes": 608 },
+      { "name": "Hofer", "votes": 1275 },
+      { "name": "Hundstorfer", "votes": 774 },
+      { "name": "Khol", "votes": 330 },
+      { "name": "Lugner", "votes": 96 },
+      { "name": "VdB", "votes": 785 }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Gmunden",
+    "results": [
+      { "name": "Griss", "votes": 1178 },
+      { "name": "Hofer", "votes": 1704 },
+      { "name": "Hundstorfer", "votes": 489 },
+      { "name": "Khol", "votes": 566 },
+      { "name": "Lugner", "votes": 88 },
+      { "name": "VdB", "votes": 1413 }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Gosau",
+    "results": [
+      { "name": "Griss", "votes": 128 },
+      { "name": "Hofer", "votes": 325 },
+      { "name": "Hundstorfer", "votes": 242 },
+      { "name": "Khol", "votes": 105 },
+      { "name": "Lugner", "votes": 36 },
+      { "name": "VdB", "votes": 108 }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Grünau im Almtal",
+    "results": [
+      { "name": "Griss", "votes": 164 },
+      { "name": "Hofer", "votes": 358 },
+      { "name": "Hundstorfer", "votes": 154 },
+      { "name": "Khol", "votes": 142 },
+      { "name": "Lugner", "votes": 23 },
+      { "name": "VdB", "votes": 164 }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Gschwandt",
+    "results": [
+      { "name": "Griss", "votes": 234 },
+      { "name": "Hofer", "votes": 493 },
+      { "name": "Hundstorfer", "votes": 150 },
+      { "name": "Khol", "votes": 184 },
+      { "name": "Lugner", "votes": 32 },
+      { "name": "VdB", "votes": 250 }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Hallstatt",
+    "results": [
+      { "name": "Griss", "votes": 72 },
+      { "name": "Hofer", "votes": 85 },
+      { "name": "Hundstorfer", "votes": 100 },
+      { "name": "Khol", "votes": 19 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 118 }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Kirchham",
+    "results": [
+      { "name": "Griss", "votes": 137 },
+      { "name": "Hofer", "votes": 370 },
+      { "name": "Hundstorfer", "votes": 52 },
+      { "name": "Khol", "votes": 266 },
+      { "name": "Lugner", "votes": 19 },
+      { "name": "VdB", "votes": 133 }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Laakirchen",
+    "results": [
+      { "name": "Griss", "votes": 652 },
+      { "name": "Hofer", "votes": 1582 },
+      { "name": "Hundstorfer", "votes": 726 },
+      { "name": "Khol", "votes": 442 },
+      { "name": "Lugner", "votes": 82 },
+      { "name": "VdB", "votes": 737 }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Obertraun",
+    "results": [
+      { "name": "Griss", "votes": 62 },
+      { "name": "Hofer", "votes": 94 },
+      { "name": "Hundstorfer", "votes": 92 },
+      { "name": "Khol", "votes": 40 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 73 }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Ohlsdorf",
+    "results": [
+      { "name": "Griss", "votes": 481 },
+      { "name": "Hofer", "votes": 936 },
+      { "name": "Hundstorfer", "votes": 261 },
+      { "name": "Khol", "votes": 251 },
+      { "name": "Lugner", "votes": 59 },
+      { "name": "VdB", "votes": 446 }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Pinsdorf",
+    "results": [
+      { "name": "Griss", "votes": 334 },
+      { "name": "Hofer", "votes": 708 },
+      { "name": "Hundstorfer", "votes": 246 },
+      { "name": "Khol", "votes": 145 },
+      { "name": "Lugner", "votes": 46 },
+      { "name": "VdB", "votes": 335 }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Roitham",
+    "results": [
+      { "name": "Griss", "votes": 184 },
+      { "name": "Hofer", "votes": 348 },
+      { "name": "Hundstorfer", "votes": 127 },
+      { "name": "Khol", "votes": 117 },
+      { "name": "Lugner", "votes": 17 },
+      { "name": "VdB", "votes": 146 }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Sankt Konrad",
+    "results": [
+      { "name": "Griss", "votes": 79 },
+      { "name": "Hofer", "votes": 159 },
+      { "name": "Hundstorfer", "votes": 65 },
+      { "name": "Khol", "votes": 126 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 62 }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "St. Wolfgang im Salzkammergut",
+    "results": [
+      { "name": "Griss", "votes": 211 },
+      { "name": "Hofer", "votes": 460 },
+      { "name": "Hundstorfer", "votes": 147 },
+      { "name": "Khol", "votes": 222 },
+      { "name": "Lugner", "votes": 33 },
+      { "name": "VdB", "votes": 186 }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Traunkirchen",
+    "results": [
+      { "name": "Griss", "votes": 179 },
+      { "name": "Hofer", "votes": 214 },
+      { "name": "Hundstorfer", "votes": 84 },
+      { "name": "Khol", "votes": 111 },
+      { "name": "Lugner", "votes": 17 },
+      { "name": "VdB", "votes": 188 }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Scharnstein",
+    "results": [
+      { "name": "Griss", "votes": 407 },
+      { "name": "Hofer", "votes": 723 },
+      { "name": "Hundstorfer", "votes": 289 },
+      { "name": "Khol", "votes": 289 },
+      { "name": "Lugner", "votes": 36 },
+      { "name": "VdB", "votes": 408 }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Vorchdorf",
+    "results": [
+      { "name": "Griss", "votes": 631 },
+      { "name": "Hofer", "votes": 1439 },
+      { "name": "Hundstorfer", "votes": 418 },
+      { "name": "Khol", "votes": 375 },
+      { "name": "Lugner", "votes": 66 },
+      { "name": "VdB", "votes": 571 }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Aistersheim",
+    "results": [
+      { "name": "Griss", "votes": 70 },
+      { "name": "Hofer", "votes": 176 },
+      { "name": "Hundstorfer", "votes": 40 },
+      { "name": "Khol", "votes": 74 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 66 }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Bad Schallerbach",
+    "results": [
+      { "name": "Griss", "votes": 316 },
+      { "name": "Hofer", "votes": 666 },
+      { "name": "Hundstorfer", "votes": 192 },
+      { "name": "Khol", "votes": 210 },
+      { "name": "Lugner", "votes": 25 },
+      { "name": "VdB", "votes": 358 }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Bruck-Waasen",
+    "results": [
+      { "name": "Griss", "votes": 218 },
+      { "name": "Hofer", "votes": 436 },
+      { "name": "Hundstorfer", "votes": 54 },
+      { "name": "Khol", "votes": 212 },
+      { "name": "Lugner", "votes": 22 },
+      { "name": "VdB", "votes": 202 }
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Eschenau im Hausruckkreis",
+    "results": [
+      { "name": "Griss", "votes": 80 },
+      { "name": "Hofer", "votes": 264 },
+      { "name": "Hundstorfer", "votes": 40 },
+      { "name": "Khol", "votes": 146 },
+      { "name": "Lugner", "votes": 13 },
+      { "name": "VdB", "votes": 54 }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Gallspach",
+    "results": [
+      { "name": "Griss", "votes": 152 },
+      { "name": "Hofer", "votes": 478 },
+      { "name": "Hundstorfer", "votes": 104 },
+      { "name": "Khol", "votes": 149 },
+      { "name": "Lugner", "votes": 23 },
+      { "name": "VdB", "votes": 195 }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Gaspoltshofen",
+    "results": [
+      { "name": "Griss", "votes": 271 },
+      { "name": "Hofer", "votes": 725 },
+      { "name": "Hundstorfer", "votes": 155 },
+      { "name": "Khol", "votes": 288 },
+      { "name": "Lugner", "votes": 26 },
+      { "name": "VdB", "votes": 297 }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Geboltskirchen",
+    "results": [
+      { "name": "Griss", "votes": 117 },
+      { "name": "Hofer", "votes": 245 },
+      { "name": "Hundstorfer", "votes": 93 },
+      { "name": "Khol", "votes": 126 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 128 }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Grieskirchen",
+    "results": [
+      { "name": "Griss", "votes": 343 },
+      { "name": "Hofer", "votes": 787 },
+      { "name": "Hundstorfer", "votes": 209 },
+      { "name": "Khol", "votes": 236 },
+      { "name": "Lugner", "votes": 36 },
+      { "name": "VdB", "votes": 471 }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Haag am Hausruck",
+    "results": [
+      { "name": "Griss", "votes": 192 },
+      { "name": "Hofer", "votes": 362 },
+      { "name": "Hundstorfer", "votes": 95 },
+      { "name": "Khol", "votes": 130 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 227 }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Heiligenberg",
+    "results": [
+      { "name": "Griss", "votes": 57 },
+      { "name": "Hofer", "votes": 161 },
+      { "name": "Hundstorfer", "votes": 13 },
+      { "name": "Khol", "votes": 118 },
+      { "name": "Lugner", "votes": 4 },
+      { "name": "VdB", "votes": 60 }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Hofkirchen an der Trattnach",
+    "results": [
+      { "name": "Griss", "votes": 120 },
+      { "name": "Hofer", "votes": 329 },
+      { "name": "Hundstorfer", "votes": 63 },
+      { "name": "Khol", "votes": 129 },
+      { "name": "Lugner", "votes": 12 },
+      { "name": "VdB", "votes": 128 }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Kallham",
+    "results": [
+      { "name": "Griss", "votes": 191 },
+      { "name": "Hofer", "votes": 499 },
+      { "name": "Hundstorfer", "votes": 112 },
+      { "name": "Khol", "votes": 197 },
+      { "name": "Lugner", "votes": 23 },
+      { "name": "VdB", "votes": 227 }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Kematen am Innbach",
+    "results": [
+      { "name": "Griss", "votes": 113 },
+      { "name": "Hofer", "votes": 316 },
+      { "name": "Hundstorfer", "votes": 61 },
+      { "name": "Khol", "votes": 100 },
+      { "name": "Lugner", "votes": 19 },
+      { "name": "VdB", "votes": 76 }
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Meggenhofen",
+    "results": [
+      { "name": "Griss", "votes": 120 },
+      { "name": "Hofer", "votes": 245 },
+      { "name": "Hundstorfer", "votes": 49 },
+      { "name": "Khol", "votes": 197 },
+      { "name": "Lugner", "votes": 13 },
+      { "name": "VdB", "votes": 149 }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Michaelnbach",
+    "results": [
+      { "name": "Griss", "votes": 88 },
+      { "name": "Hofer", "votes": 264 },
+      { "name": "Hundstorfer", "votes": 51 },
+      { "name": "Khol", "votes": 140 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 80 }
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Natternbach",
+    "results": [
+      { "name": "Griss", "votes": 145 },
+      { "name": "Hofer", "votes": 569 },
+      { "name": "Hundstorfer", "votes": 150 },
+      { "name": "Khol", "votes": 204 },
+      { "name": "Lugner", "votes": 29 },
+      { "name": "VdB", "votes": 172 }
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Neukirchen am Walde",
+    "results": [
+      { "name": "Griss", "votes": 104 },
+      { "name": "Hofer", "votes": 366 },
+      { "name": "Hundstorfer", "votes": 73 },
+      { "name": "Khol", "votes": 196 },
+      { "name": "Lugner", "votes": 23 },
+      { "name": "VdB", "votes": 127 }
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Neumarkt im Hausruckkreis",
+    "results": [
+      { "name": "Griss", "votes": 91 },
+      { "name": "Hofer", "votes": 243 },
+      { "name": "Hundstorfer", "votes": 79 },
+      { "name": "Khol", "votes": 68 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 101 }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Peuerbach",
+    "results": [
+      { "name": "Griss", "votes": 159 },
+      { "name": "Hofer", "votes": 411 },
+      { "name": "Hundstorfer", "votes": 73 },
+      { "name": "Khol", "votes": 158 },
+      { "name": "Lugner", "votes": 13 },
+      { "name": "VdB", "votes": 228 }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Pötting",
+    "results": [
+      { "name": "Griss", "votes": 50 },
+      { "name": "Hofer", "votes": 81 },
+      { "name": "Hundstorfer", "votes": 13 },
+      { "name": "Khol", "votes": 106 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 55 }
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Pollham",
+    "results": [
+      { "name": "Griss", "votes": 84 },
+      { "name": "Hofer", "votes": 178 },
+      { "name": "Hundstorfer", "votes": 15 },
+      { "name": "Khol", "votes": 88 },
+      { "name": "Lugner", "votes": 2 },
+      { "name": "VdB", "votes": 113 }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Pram",
+    "results": [
+      { "name": "Griss", "votes": 118 },
+      { "name": "Hofer", "votes": 343 },
+      { "name": "Hundstorfer", "votes": 81 },
+      { "name": "Khol", "votes": 141 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 150 }
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Rottenbach",
+    "results": [
+      { "name": "Griss", "votes": 65 },
+      { "name": "Hofer", "votes": 271 },
+      { "name": "Hundstorfer", "votes": 39 },
+      { "name": "Khol", "votes": 80 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 76 }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "St. Agatha",
+    "results": [
+      { "name": "Griss", "votes": 166 },
+      { "name": "Hofer", "votes": 445 },
+      { "name": "Hundstorfer", "votes": 83 },
+      { "name": "Khol", "votes": 254 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 157 }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "St. Georgen bei Grieskirchen",
+    "results": [
+      { "name": "Griss", "votes": 100 },
+      { "name": "Hofer", "votes": 243 },
+      { "name": "Hundstorfer", "votes": 40 },
+      { "name": "Khol", "votes": 103 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 139 }
+    ]
+  },
+  {
+    "id": 134,
+    "name": "St. Thomas",
+    "results": [
+      { "name": "Griss", "votes": 35 },
+      { "name": "Hofer", "votes": 130 },
+      { "name": "Hundstorfer", "votes": 17 },
+      { "name": "Khol", "votes": 56 },
+      { "name": "Lugner", "votes": 8 },
+      { "name": "VdB", "votes": 50 }
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Schlüßlberg",
+    "results": [
+      { "name": "Griss", "votes": 219 },
+      { "name": "Hofer", "votes": 590 },
+      { "name": "Hundstorfer", "votes": 238 },
+      { "name": "Khol", "votes": 159 },
+      { "name": "Lugner", "votes": 20 },
+      { "name": "VdB", "votes": 267 }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Steegen",
+    "results": [
+      { "name": "Griss", "votes": 75 },
+      { "name": "Hofer", "votes": 197 },
+      { "name": "Hundstorfer", "votes": 36 },
+      { "name": "Khol", "votes": 115 },
+      { "name": "Lugner", "votes": 4 },
+      { "name": "VdB", "votes": 99 }
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Taufkirchen an der Trattnach",
+    "results": [
+      { "name": "Griss", "votes": 119 },
+      { "name": "Hofer", "votes": 451 },
+      { "name": "Hundstorfer", "votes": 80 },
+      { "name": "Khol", "votes": 125 },
+      { "name": "Lugner", "votes": 25 },
+      { "name": "VdB", "votes": 140 }
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Tollet",
+    "results": [
+      { "name": "Griss", "votes": 79 },
+      { "name": "Hofer", "votes": 150 },
+      { "name": "Hundstorfer", "votes": 54 },
+      { "name": "Khol", "votes": 97 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 109 }
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Waizenkirchen",
+    "results": [
+      { "name": "Griss", "votes": 289 },
+      { "name": "Hofer", "votes": 738 },
+      { "name": "Hundstorfer", "votes": 137 },
+      { "name": "Khol", "votes": 366 },
+      { "name": "Lugner", "votes": 27 },
+      { "name": "VdB", "votes": 285 }
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Wallern an der Trattnach",
+    "results": [
+      { "name": "Griss", "votes": 262 },
+      { "name": "Hofer", "votes": 599 },
+      { "name": "Hundstorfer", "votes": 166 },
+      { "name": "Khol", "votes": 179 },
+      { "name": "Lugner", "votes": 25 },
+      { "name": "VdB", "votes": 312 }
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Weibern",
+    "results": [
+      { "name": "Griss", "votes": 142 },
+      { "name": "Hofer", "votes": 273 },
+      { "name": "Hundstorfer", "votes": 60 },
+      { "name": "Khol", "votes": 162 },
+      { "name": "Lugner", "votes": 9 },
+      { "name": "VdB", "votes": 164 }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Wendling",
+    "results": [
+      { "name": "Griss", "votes": 70 },
+      { "name": "Hofer", "votes": 176 },
+      { "name": "Hundstorfer", "votes": 14 },
+      { "name": "Khol", "votes": 100 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 55 }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Edlbach",
+    "results": [
+      { "name": "Griss", "votes": 66 },
+      { "name": "Hofer", "votes": 90 },
+      { "name": "Hundstorfer", "votes": 28 },
+      { "name": "Khol", "votes": 72 },
+      { "name": "Lugner", "votes": 8 },
+      { "name": "VdB", "votes": 34 }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Grünburg",
+    "results": [
+      { "name": "Griss", "votes": 232 },
+      { "name": "Hofer", "votes": 706 },
+      { "name": "Hundstorfer", "votes": 192 },
+      { "name": "Khol", "votes": 227 },
+      { "name": "Lugner", "votes": 32 },
+      { "name": "VdB", "votes": 193 }
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Hinterstoder",
+    "results": [
+      { "name": "Griss", "votes": 95 },
+      { "name": "Hofer", "votes": 149 },
+      { "name": "Hundstorfer", "votes": 41 },
+      { "name": "Khol", "votes": 77 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 59 }
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Inzersdorf im Kremstal",
+    "results": [
+      { "name": "Griss", "votes": 144 },
+      { "name": "Hofer", "votes": 367 },
+      { "name": "Hundstorfer", "votes": 76 },
+      { "name": "Khol", "votes": 171 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 166 }
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Kirchdorf an der Krems",
+    "results": [
+      { "name": "Griss", "votes": 322 },
+      { "name": "Hofer", "votes": 555 },
+      { "name": "Hundstorfer", "votes": 243 },
+      { "name": "Khol", "votes": 212 },
+      { "name": "Lugner", "votes": 27 },
+      { "name": "VdB", "votes": 460 }
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Klaus an der Pyhrnbahn",
+    "results": [
+      { "name": "Griss", "votes": 83 },
+      { "name": "Hofer", "votes": 185 },
+      { "name": "Hundstorfer", "votes": 147 },
+      { "name": "Khol", "votes": 66 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 73 }
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Kremsmünster",
+    "results": [
+      { "name": "Griss", "votes": 566 },
+      { "name": "Hofer", "votes": 1035 },
+      { "name": "Hundstorfer", "votes": 226 },
+      { "name": "Khol", "votes": 399 },
+      { "name": "Lugner", "votes": 56 },
+      { "name": "VdB", "votes": 532 }
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Micheldorf in Oberösterreich",
+    "results": [
+      { "name": "Griss", "votes": 523 },
+      { "name": "Hofer", "votes": 964 },
+      { "name": "Hundstorfer", "votes": 411 },
+      { "name": "Khol", "votes": 290 },
+      { "name": "Lugner", "votes": 48 },
+      { "name": "VdB", "votes": 585 }
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Molln",
+    "results": [
+      { "name": "Griss", "votes": 293 },
+      { "name": "Hofer", "votes": 676 },
+      { "name": "Hundstorfer", "votes": 221 },
+      { "name": "Khol", "votes": 200 },
+      { "name": "Lugner", "votes": 33 },
+      { "name": "VdB", "votes": 260 }
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Nußbach",
+    "results": [
+      { "name": "Griss", "votes": 186 },
+      { "name": "Hofer", "votes": 389 },
+      { "name": "Hundstorfer", "votes": 99 },
+      { "name": "Khol", "votes": 277 },
+      { "name": "Lugner", "votes": 12 },
+      { "name": "VdB", "votes": 199 }
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Oberschlierbach",
+    "results": [
+      { "name": "Griss", "votes": 45 },
+      { "name": "Hofer", "votes": 62 },
+      { "name": "Hundstorfer", "votes": 20 },
+      { "name": "Khol", "votes": 47 },
+      { "name": "Lugner", "votes": 4 },
+      { "name": "VdB", "votes": 51 }
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Pettenbach",
+    "results": [
+      { "name": "Griss", "votes": 369 },
+      { "name": "Hofer", "votes": 956 },
+      { "name": "Hundstorfer", "votes": 192 },
+      { "name": "Khol", "votes": 278 },
+      { "name": "Lugner", "votes": 50 },
+      { "name": "VdB", "votes": 393 }
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Ried im Traunkreis",
+    "results": [
+      { "name": "Griss", "votes": 217 },
+      { "name": "Hofer", "votes": 530 },
+      { "name": "Hundstorfer", "votes": 99 },
+      { "name": "Khol", "votes": 233 },
+      { "name": "Lugner", "votes": 36 },
+      { "name": "VdB", "votes": 193 }
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Rosenau am Hengstpaß",
+    "results": [
+      { "name": "Griss", "votes": 54 },
+      { "name": "Hofer", "votes": 138 },
+      { "name": "Hundstorfer", "votes": 62 },
+      { "name": "Khol", "votes": 38 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 37 }
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Roßleithen",
+    "results": [
+      { "name": "Griss", "votes": 145 },
+      { "name": "Hofer", "votes": 309 },
+      { "name": "Hundstorfer", "votes": 121 },
+      { "name": "Khol", "votes": 145 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 113 }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "St. Pankraz",
+    "results": [
+      { "name": "Griss", "votes": 23 },
+      { "name": "Hofer", "votes": 71 },
+      { "name": "Hundstorfer", "votes": 29 },
+      { "name": "Khol", "votes": 14 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 12 }
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Schlierbach",
+    "results": [
+      { "name": "Griss", "votes": 232 },
+      { "name": "Hofer", "votes": 438 },
+      { "name": "Hundstorfer", "votes": 128 },
+      { "name": "Khol", "votes": 176 },
+      { "name": "Lugner", "votes": 26 },
+      { "name": "VdB", "votes": 281 }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Spital am Pyhrn",
+    "results": [
+      { "name": "Griss", "votes": 133 },
+      { "name": "Hofer", "votes": 409 },
+      { "name": "Hundstorfer", "votes": 168 },
+      { "name": "Khol", "votes": 137 },
+      { "name": "Lugner", "votes": 23 },
+      { "name": "VdB", "votes": 101 }
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Steinbach am Ziehberg",
+    "results": [
+      { "name": "Griss", "votes": 72 },
+      { "name": "Hofer", "votes": 142 },
+      { "name": "Hundstorfer", "votes": 40 },
+      { "name": "Khol", "votes": 91 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 74 }
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Steinbach an der Steyr",
+    "results": [
+      { "name": "Griss", "votes": 144 },
+      { "name": "Hofer", "votes": 433 },
+      { "name": "Hundstorfer", "votes": 116 },
+      { "name": "Khol", "votes": 236 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 116 }
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Vorderstoder",
+    "results": [
+      { "name": "Griss", "votes": 72 },
+      { "name": "Hofer", "votes": 162 },
+      { "name": "Hundstorfer", "votes": 29 },
+      { "name": "Khol", "votes": 57 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 36 }
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Wartberg an der Krems",
+    "results": [
+      { "name": "Griss", "votes": 283 },
+      { "name": "Hofer", "votes": 525 },
+      { "name": "Hundstorfer", "votes": 107 },
+      { "name": "Khol", "votes": 273 },
+      { "name": "Lugner", "votes": 26 },
+      { "name": "VdB", "votes": 194 }
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Windischgarsten",
+    "results": [
+      { "name": "Griss", "votes": 225 },
+      { "name": "Hofer", "votes": 351 },
+      { "name": "Hundstorfer", "votes": 137 },
+      { "name": "Khol", "votes": 127 },
+      { "name": "Lugner", "votes": 20 },
+      { "name": "VdB", "votes": 152 }
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Allhaming",
+    "results": [
+      { "name": "Griss", "votes": 124 },
+      { "name": "Hofer", "votes": 181 },
+      { "name": "Hundstorfer", "votes": 59 },
+      { "name": "Khol", "votes": 129 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 92 }
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Ansfelden",
+    "results": [
+      { "name": "Griss", "votes": 880 },
+      { "name": "Hofer", "votes": 2591 },
+      { "name": "Hundstorfer", "votes": 922 },
+      { "name": "Khol", "votes": 389 },
+      { "name": "Lugner", "votes": 134 },
+      { "name": "VdB", "votes": 1034 }
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Asten",
+    "results": [
+      { "name": "Griss", "votes": 442 },
+      { "name": "Hofer", "votes": 1206 },
+      { "name": "Hundstorfer", "votes": 499 },
+      { "name": "Khol", "votes": 160 },
+      { "name": "Lugner", "votes": 73 },
+      { "name": "VdB", "votes": 466 }
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Eggendorf im Traunkreis",
+    "results": [
+      { "name": "Griss", "votes": 96 },
+      { "name": "Hofer", "votes": 165 },
+      { "name": "Hundstorfer", "votes": 52 },
+      { "name": "Khol", "votes": 69 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 67 }
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Enns",
+    "results": [
+      { "name": "Griss", "votes": 867 },
+      { "name": "Hofer", "votes": 1616 },
+      { "name": "Hundstorfer", "votes": 696 },
+      { "name": "Khol", "votes": 435 },
+      { "name": "Lugner", "votes": 93 },
+      { "name": "VdB", "votes": 915 }
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Hargelsberg",
+    "results": [
+      { "name": "Griss", "votes": 150 },
+      { "name": "Hofer", "votes": 223 },
+      { "name": "Hundstorfer", "votes": 93 },
+      { "name": "Khol", "votes": 101 },
+      { "name": "Lugner", "votes": 12 },
+      { "name": "VdB", "votes": 122 }
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Hörsching",
+    "results": [
+      { "name": "Griss", "votes": 482 },
+      { "name": "Hofer", "votes": 1205 },
+      { "name": "Hundstorfer", "votes": 356 },
+      { "name": "Khol", "votes": 254 },
+      { "name": "Lugner", "votes": 65 },
+      { "name": "VdB", "votes": 501 }
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Hofkirchen im Traunkreis",
+    "results": [
+      { "name": "Griss", "votes": 169 },
+      { "name": "Hofer", "votes": 323 },
+      { "name": "Hundstorfer", "votes": 110 },
+      { "name": "Khol", "votes": 100 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 202 }
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Kematen an der Krems",
+    "results": [
+      { "name": "Griss", "votes": 220 },
+      { "name": "Hofer", "votes": 491 },
+      { "name": "Hundstorfer", "votes": 92 },
+      { "name": "Khol", "votes": 151 },
+      { "name": "Lugner", "votes": 23 },
+      { "name": "VdB", "votes": 220 }
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Kirchberg-Thening",
+    "results": [
+      { "name": "Griss", "votes": 294 },
+      { "name": "Hofer", "votes": 362 },
+      { "name": "Hundstorfer", "votes": 214 },
+      { "name": "Khol", "votes": 88 },
+      { "name": "Lugner", "votes": 26 },
+      { "name": "VdB", "votes": 279 }
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Kronstorf",
+    "results": [
+      { "name": "Griss", "votes": 264 },
+      { "name": "Hofer", "votes": 605 },
+      { "name": "Hundstorfer", "votes": 270 },
+      { "name": "Khol", "votes": 163 },
+      { "name": "Lugner", "votes": 22 },
+      { "name": "VdB", "votes": 313 }
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Leonding",
+    "results": [
+      { "name": "Griss", "votes": 2671 },
+      { "name": "Hofer", "votes": 4004 },
+      { "name": "Hundstorfer", "votes": 1488 },
+      { "name": "Khol", "votes": 984 },
+      { "name": "Lugner", "votes": 214 },
+      { "name": "VdB", "votes": 3255 }
+    ]
+  },
+  {
+    "id": 178,
+    "name": "St. Florian",
+    "results": [
+      { "name": "Griss", "votes": 736 },
+      { "name": "Hofer", "votes": 953 },
+      { "name": "Hundstorfer", "votes": 353 },
+      { "name": "Khol", "votes": 393 },
+      { "name": "Lugner", "votes": 61 },
+      { "name": "VdB", "votes": 697 }
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Neuhofen an der Krems",
+    "results": [
+      { "name": "Griss", "votes": 522 },
+      { "name": "Hofer", "votes": 823 },
+      { "name": "Hundstorfer", "votes": 317 },
+      { "name": "Khol", "votes": 269 },
+      { "name": "Lugner", "votes": 39 },
+      { "name": "VdB", "votes": 659 }
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Niederneukirchen",
+    "results": [
+      { "name": "Griss", "votes": 172 },
+      { "name": "Hofer", "votes": 304 },
+      { "name": "Hundstorfer", "votes": 106 },
+      { "name": "Khol", "votes": 189 },
+      { "name": "Lugner", "votes": 13 },
+      { "name": "VdB", "votes": 218 }
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Oftering",
+    "results": [
+      { "name": "Griss", "votes": 195 },
+      { "name": "Hofer", "votes": 384 },
+      { "name": "Hundstorfer", "votes": 161 },
+      { "name": "Khol", "votes": 114 },
+      { "name": "Lugner", "votes": 22 },
+      { "name": "VdB", "votes": 194 }
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Pasching",
+    "results": [
+      { "name": "Griss", "votes": 637 },
+      { "name": "Hofer", "votes": 1151 },
+      { "name": "Hundstorfer", "votes": 424 },
+      { "name": "Khol", "votes": 254 },
+      { "name": "Lugner", "votes": 79 },
+      { "name": "VdB", "votes": 722 }
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Piberbach",
+    "results": [
+      { "name": "Griss", "votes": 157 },
+      { "name": "Hofer", "votes": 318 },
+      { "name": "Hundstorfer", "votes": 104 },
+      { "name": "Khol", "votes": 111 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 145 }
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Pucking",
+    "results": [
+      { "name": "Griss", "votes": 299 },
+      { "name": "Hofer", "votes": 822 },
+      { "name": "Hundstorfer", "votes": 197 },
+      { "name": "Khol", "votes": 202 },
+      { "name": "Lugner", "votes": 48 },
+      { "name": "VdB", "votes": 316 }
+    ]
+  },
+  {
+    "id": 185,
+    "name": "St. Marien",
+    "results": [
+      { "name": "Griss", "votes": 483 },
+      { "name": "Hofer", "votes": 759 },
+      { "name": "Hundstorfer", "votes": 279 },
+      { "name": "Khol", "votes": 312 },
+      { "name": "Lugner", "votes": 39 },
+      { "name": "VdB", "votes": 490 }
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Traun",
+    "results": [
+      { "name": "Griss", "votes": 1378 },
+      { "name": "Hofer", "votes": 3529 },
+      { "name": "Hundstorfer", "votes": 1494 },
+      { "name": "Khol", "votes": 656 },
+      { "name": "Lugner", "votes": 179 },
+      { "name": "VdB", "votes": 1768 }
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Wilhering",
+    "results": [
+      { "name": "Griss", "votes": 684 },
+      { "name": "Hofer", "votes": 722 },
+      { "name": "Hundstorfer", "votes": 343 },
+      { "name": "Khol", "votes": 354 },
+      { "name": "Lugner", "votes": 44 },
+      { "name": "VdB", "votes": 850 }
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Allerheiligen im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 85 },
+      { "name": "Hofer", "votes": 232 },
+      { "name": "Hundstorfer", "votes": 107 },
+      { "name": "Khol", "votes": 121 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 92 }
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Arbing",
+    "results": [
+      { "name": "Griss", "votes": 128 },
+      { "name": "Hofer", "votes": 226 },
+      { "name": "Hundstorfer", "votes": 119 },
+      { "name": "Khol", "votes": 145 },
+      { "name": "Lugner", "votes": 13 },
+      { "name": "VdB", "votes": 131 }
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Baumgartenberg",
+    "results": [
+      { "name": "Griss", "votes": 116 },
+      { "name": "Hofer", "votes": 341 },
+      { "name": "Hundstorfer", "votes": 88 },
+      { "name": "Khol", "votes": 214 },
+      { "name": "Lugner", "votes": 9 },
+      { "name": "VdB", "votes": 106 }
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Dimbach",
+    "results": [
+      { "name": "Griss", "votes": 54 },
+      { "name": "Hofer", "votes": 198 },
+      { "name": "Hundstorfer", "votes": 49 },
+      { "name": "Khol", "votes": 140 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 60 }
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Grein",
+    "results": [
+      { "name": "Griss", "votes": 240 },
+      { "name": "Hofer", "votes": 584 },
+      { "name": "Hundstorfer", "votes": 192 },
+      { "name": "Khol", "votes": 198 },
+      { "name": "Lugner", "votes": 37 },
+      { "name": "VdB", "votes": 203 }
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Katsdorf",
+    "results": [
+      { "name": "Griss", "votes": 309 },
+      { "name": "Hofer", "votes": 469 },
+      { "name": "Hundstorfer", "votes": 220 },
+      { "name": "Khol", "votes": 187 },
+      { "name": "Lugner", "votes": 29 },
+      { "name": "VdB", "votes": 347 }
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Klam",
+    "results": [
+      { "name": "Griss", "votes": 76 },
+      { "name": "Hofer", "votes": 216 },
+      { "name": "Hundstorfer", "votes": 29 },
+      { "name": "Khol", "votes": 74 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 75 }
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Bad Kreuzen",
+    "results": [
+      { "name": "Griss", "votes": 147 },
+      { "name": "Hofer", "votes": 411 },
+      { "name": "Hundstorfer", "votes": 57 },
+      { "name": "Khol", "votes": 320 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 107 }
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Langenstein",
+    "results": [
+      { "name": "Griss", "votes": 209 },
+      { "name": "Hofer", "votes": 459 },
+      { "name": "Hundstorfer", "votes": 273 },
+      { "name": "Khol", "votes": 109 },
+      { "name": "Lugner", "votes": 22 },
+      { "name": "VdB", "votes": 260 }
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Luftenberg an der Donau",
+    "results": [
+      { "name": "Griss", "votes": 323 },
+      { "name": "Hofer", "votes": 728 },
+      { "name": "Hundstorfer", "votes": 349 },
+      { "name": "Khol", "votes": 170 },
+      { "name": "Lugner", "votes": 28 },
+      { "name": "VdB", "votes": 461 }
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Mauthausen",
+    "results": [
+      { "name": "Griss", "votes": 368 },
+      { "name": "Hofer", "votes": 612 },
+      { "name": "Hundstorfer", "votes": 403 },
+      { "name": "Khol", "votes": 196 },
+      { "name": "Lugner", "votes": 48 },
+      { "name": "VdB", "votes": 455 }
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Mitterkirchen im Machland",
+    "results": [
+      { "name": "Griss", "votes": 109 },
+      { "name": "Hofer", "votes": 264 },
+      { "name": "Hundstorfer", "votes": 96 },
+      { "name": "Khol", "votes": 204 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 100 }
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Münzbach",
+    "results": [
+      { "name": "Griss", "votes": 121 },
+      { "name": "Hofer", "votes": 332 },
+      { "name": "Hundstorfer", "votes": 60 },
+      { "name": "Khol", "votes": 230 },
+      { "name": "Lugner", "votes": 17 },
+      { "name": "VdB", "votes": 91 }
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Naarn im Machlande",
+    "results": [
+      { "name": "Griss", "votes": 305 },
+      { "name": "Hofer", "votes": 665 },
+      { "name": "Hundstorfer", "votes": 225 },
+      { "name": "Khol", "votes": 348 },
+      { "name": "Lugner", "votes": 26 },
+      { "name": "VdB", "votes": 228 }
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Pabneukirchen",
+    "results": [
+      { "name": "Griss", "votes": 126 },
+      { "name": "Hofer", "votes": 317 },
+      { "name": "Hundstorfer", "votes": 73 },
+      { "name": "Khol", "votes": 200 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 82 }
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Perg",
+    "results": [
+      { "name": "Griss", "votes": 743 },
+      { "name": "Hofer", "votes": 1270 },
+      { "name": "Hundstorfer", "votes": 441 },
+      { "name": "Khol", "votes": 544 },
+      { "name": "Lugner", "votes": 59 },
+      { "name": "VdB", "votes": 703 }
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Rechberg",
+    "results": [
+      { "name": "Griss", "votes": 55 },
+      { "name": "Hofer", "votes": 131 },
+      { "name": "Hundstorfer", "votes": 32 },
+      { "name": "Khol", "votes": 190 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 95 }
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Ried in der Riedmark",
+    "results": [
+      { "name": "Griss", "votes": 343 },
+      { "name": "Hofer", "votes": 606 },
+      { "name": "Hundstorfer", "votes": 392 },
+      { "name": "Khol", "votes": 377 },
+      { "name": "Lugner", "votes": 36 },
+      { "name": "VdB", "votes": 406 }
+    ]
+  },
+  {
+    "id": 206,
+    "name": "St. Georgen am Walde",
+    "results": [
+      { "name": "Griss", "votes": 129 },
+      { "name": "Hofer", "votes": 429 },
+      { "name": "Hundstorfer", "votes": 153 },
+      { "name": "Khol", "votes": 205 },
+      { "name": "Lugner", "votes": 22 },
+      { "name": "VdB", "votes": 90 }
+    ]
+  },
+  {
+    "id": 207,
+    "name": "St. Georgen an der Gusen",
+    "results": [
+      { "name": "Griss", "votes": 357 },
+      { "name": "Hofer", "votes": 627 },
+      { "name": "Hundstorfer", "votes": 403 },
+      { "name": "Khol", "votes": 198 },
+      { "name": "Lugner", "votes": 39 },
+      { "name": "VdB", "votes": 491 }
+    ]
+  },
+  {
+    "id": 208,
+    "name": "St. Nikola an der Donau",
+    "results": [
+      { "name": "Griss", "votes": 55 },
+      { "name": "Hofer", "votes": 126 },
+      { "name": "Hundstorfer", "votes": 48 },
+      { "name": "Khol", "votes": 91 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 37 }
+    ]
+  },
+  {
+    "id": 209,
+    "name": "St. Thomas am Blasenstein",
+    "results": [
+      { "name": "Griss", "votes": 60 },
+      { "name": "Hofer", "votes": 129 },
+      { "name": "Hundstorfer", "votes": 29 },
+      { "name": "Khol", "votes": 199 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 39 }
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Saxen",
+    "results": [
+      { "name": "Griss", "votes": 140 },
+      { "name": "Hofer", "votes": 386 },
+      { "name": "Hundstorfer", "votes": 99 },
+      { "name": "Khol", "votes": 147 },
+      { "name": "Lugner", "votes": 24 },
+      { "name": "VdB", "votes": 108 }
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Schwertberg",
+    "results": [
+      { "name": "Griss", "votes": 382 },
+      { "name": "Hofer", "votes": 838 },
+      { "name": "Hundstorfer", "votes": 449 },
+      { "name": "Khol", "votes": 278 },
+      { "name": "Lugner", "votes": 56 },
+      { "name": "VdB", "votes": 549 }
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Waldhausen im Strudengau",
+    "results": [
+      { "name": "Griss", "votes": 202 },
+      { "name": "Hofer", "votes": 531 },
+      { "name": "Hundstorfer", "votes": 198 },
+      { "name": "Khol", "votes": 263 },
+      { "name": "Lugner", "votes": 34 },
+      { "name": "VdB", "votes": 210 }
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Windhaag bei Perg",
+    "results": [
+      { "name": "Griss", "votes": 100 },
+      { "name": "Hofer", "votes": 225 },
+      { "name": "Hundstorfer", "votes": 50 },
+      { "name": "Khol", "votes": 190 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 100 }
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Andrichsfurt",
+    "results": [
+      { "name": "Griss", "votes": 56 },
+      { "name": "Hofer", "votes": 143 },
+      { "name": "Hundstorfer", "votes": 12 },
+      { "name": "Khol", "votes": 73 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 53 }
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Antiesenhofen",
+    "results": [
+      { "name": "Griss", "votes": 51 },
+      { "name": "Hofer", "votes": 189 },
+      { "name": "Hundstorfer", "votes": 41 },
+      { "name": "Khol", "votes": 62 },
+      { "name": "Lugner", "votes": 3 },
+      { "name": "VdB", "votes": 46 }
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Aurolzmünster",
+    "results": [
+      { "name": "Griss", "votes": 167 },
+      { "name": "Hofer", "votes": 618 },
+      { "name": "Hundstorfer", "votes": 140 },
+      { "name": "Khol", "votes": 117 },
+      { "name": "Lugner", "votes": 20 },
+      { "name": "VdB", "votes": 163 }
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Eberschwang",
+    "results": [
+      { "name": "Griss", "votes": 207 },
+      { "name": "Hofer", "votes": 707 },
+      { "name": "Hundstorfer", "votes": 172 },
+      { "name": "Khol", "votes": 194 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 231 }
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Eitzing",
+    "results": [
+      { "name": "Griss", "votes": 37 },
+      { "name": "Hofer", "votes": 161 },
+      { "name": "Hundstorfer", "votes": 34 },
+      { "name": "Khol", "votes": 69 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 37 }
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Geiersberg",
+    "results": [
+      { "name": "Griss", "votes": 42 },
+      { "name": "Hofer", "votes": 105 },
+      { "name": "Hundstorfer", "votes": 32 },
+      { "name": "Khol", "votes": 68 },
+      { "name": "Lugner", "votes": 4 },
+      { "name": "VdB", "votes": 36 }
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Geinberg",
+    "results": [
+      { "name": "Griss", "votes": 73 },
+      { "name": "Hofer", "votes": 240 },
+      { "name": "Hundstorfer", "votes": 43 },
+      { "name": "Khol", "votes": 91 },
+      { "name": "Lugner", "votes": 4 },
+      { "name": "VdB", "votes": 67 }
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Gurten",
+    "results": [
+      { "name": "Griss", "votes": 72 },
+      { "name": "Hofer", "votes": 202 },
+      { "name": "Hundstorfer", "votes": 46 },
+      { "name": "Khol", "votes": 112 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 65 }
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Hohenzell",
+    "results": [
+      { "name": "Griss", "votes": 183 },
+      { "name": "Hofer", "votes": 422 },
+      { "name": "Hundstorfer", "votes": 59 },
+      { "name": "Khol", "votes": 194 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 212 }
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Kirchdorf am Inn",
+    "results": [
+      { "name": "Griss", "votes": 49 },
+      { "name": "Hofer", "votes": 131 },
+      { "name": "Hundstorfer", "votes": 13 },
+      { "name": "Khol", "votes": 70 },
+      { "name": "Lugner", "votes": 1 },
+      { "name": "VdB", "votes": 37 }
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Kirchheim im Innkreis",
+    "results": [
+      { "name": "Griss", "votes": 51 },
+      { "name": "Hofer", "votes": 171 },
+      { "name": "Hundstorfer", "votes": 18 },
+      { "name": "Khol", "votes": 82 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 32 }
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Lambrechten",
+    "results": [
+      { "name": "Griss", "votes": 96 },
+      { "name": "Hofer", "votes": 302 },
+      { "name": "Hundstorfer", "votes": 41 },
+      { "name": "Khol", "votes": 148 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 67 }
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Lohnsburg am Kobernaußerwald",
+    "results": [
+      { "name": "Griss", "votes": 149 },
+      { "name": "Hofer", "votes": 452 },
+      { "name": "Hundstorfer", "votes": 57 },
+      { "name": "Khol", "votes": 216 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 110 }
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Mehrnbach",
+    "results": [
+      { "name": "Griss", "votes": 144 },
+      { "name": "Hofer", "votes": 449 },
+      { "name": "Hundstorfer", "votes": 75 },
+      { "name": "Khol", "votes": 185 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 132 }
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Mettmach",
+    "results": [
+      { "name": "Griss", "votes": 120 },
+      { "name": "Hofer", "votes": 553 },
+      { "name": "Hundstorfer", "votes": 96 },
+      { "name": "Khol", "votes": 171 },
+      { "name": "Lugner", "votes": 24 },
+      { "name": "VdB", "votes": 111 }
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Mörschwang",
+    "results": [
+      { "name": "Griss", "votes": 41 },
+      { "name": "Hofer", "votes": 42 },
+      { "name": "Hundstorfer", "votes": 6 },
+      { "name": "Khol", "votes": 36 },
+      { "name": "Lugner", "votes": 3 },
+      { "name": "VdB", "votes": 36 }
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Mühlheim am Inn",
+    "results": [
+      { "name": "Griss", "votes": 40 },
+      { "name": "Hofer", "votes": 133 },
+      { "name": "Hundstorfer", "votes": 49 },
+      { "name": "Khol", "votes": 49 },
+      { "name": "Lugner", "votes": 0 },
+      { "name": "VdB", "votes": 40 }
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Neuhofen im Innkreis",
+    "results": [
+      { "name": "Griss", "votes": 218 },
+      { "name": "Hofer", "votes": 458 },
+      { "name": "Hundstorfer", "votes": 118 },
+      { "name": "Khol", "votes": 162 },
+      { "name": "Lugner", "votes": 21 },
+      { "name": "VdB", "votes": 222 }
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Obernberg am Inn",
+    "results": [
+      { "name": "Griss", "votes": 69 },
+      { "name": "Hofer", "votes": 249 },
+      { "name": "Hundstorfer", "votes": 54 },
+      { "name": "Khol", "votes": 68 },
+      { "name": "Lugner", "votes": 8 },
+      { "name": "VdB", "votes": 69 }
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Ort im Innkreis",
+    "results": [
+      { "name": "Griss", "votes": 69 },
+      { "name": "Hofer", "votes": 258 },
+      { "name": "Hundstorfer", "votes": 50 },
+      { "name": "Khol", "votes": 125 },
+      { "name": "Lugner", "votes": 12 },
+      { "name": "VdB", "votes": 56 }
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Pattigham",
+    "results": [
+      { "name": "Griss", "votes": 89 },
+      { "name": "Hofer", "votes": 161 },
+      { "name": "Hundstorfer", "votes": 17 },
+      { "name": "Khol", "votes": 96 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 60 }
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Peterskirchen",
+    "results": [
+      { "name": "Griss", "votes": 36 },
+      { "name": "Hofer", "votes": 134 },
+      { "name": "Hundstorfer", "votes": 16 },
+      { "name": "Khol", "votes": 108 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 60 }
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Pramet",
+    "results": [
+      { "name": "Griss", "votes": 53 },
+      { "name": "Hofer", "votes": 232 },
+      { "name": "Hundstorfer", "votes": 40 },
+      { "name": "Khol", "votes": 85 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 71 }
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Reichersberg",
+    "results": [
+      { "name": "Griss", "votes": 105 },
+      { "name": "Hofer", "votes": 303 },
+      { "name": "Hundstorfer", "votes": 33 },
+      { "name": "Khol", "votes": 113 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 89 }
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Ried im Innkreis",
+    "results": [
+      { "name": "Griss", "votes": 794 },
+      { "name": "Hofer", "votes": 1590 },
+      { "name": "Hundstorfer", "votes": 463 },
+      { "name": "Khol", "votes": 461 },
+      { "name": "Lugner", "votes": 87 },
+      { "name": "VdB", "votes": 964 }
+    ]
+  },
+  {
+    "id": 239,
+    "name": "St. Georgen bei Obernberg am Inn",
+    "results": [
+      { "name": "Griss", "votes": 66 },
+      { "name": "Hofer", "votes": 86 },
+      { "name": "Hundstorfer", "votes": 9 },
+      { "name": "Khol", "votes": 77 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 55 }
+    ]
+  },
+  {
+    "id": 240,
+    "name": "St. Marienkirchen am Hausruck",
+    "results": [
+      { "name": "Griss", "votes": 74 },
+      { "name": "Hofer", "votes": 189 },
+      { "name": "Hundstorfer", "votes": 11 },
+      { "name": "Khol", "votes": 108 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 63 }
+    ]
+  },
+  {
+    "id": 241,
+    "name": "St. Martin im Innkreis",
+    "results": [
+      { "name": "Griss", "votes": 99 },
+      { "name": "Hofer", "votes": 284 },
+      { "name": "Hundstorfer", "votes": 65 },
+      { "name": "Khol", "votes": 78 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 142 }
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Schildorn",
+    "results": [
+      { "name": "Griss", "votes": 68 },
+      { "name": "Hofer", "votes": 191 },
+      { "name": "Hundstorfer", "votes": 42 },
+      { "name": "Khol", "votes": 90 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 76 }
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Senftenbach",
+    "results": [
+      { "name": "Griss", "votes": 55 },
+      { "name": "Hofer", "votes": 139 },
+      { "name": "Hundstorfer", "votes": 36 },
+      { "name": "Khol", "votes": 80 },
+      { "name": "Lugner", "votes": 9 },
+      { "name": "VdB", "votes": 63 }
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Taiskirchen im Innkreis",
+    "results": [
+      { "name": "Griss", "votes": 167 },
+      { "name": "Hofer", "votes": 469 },
+      { "name": "Hundstorfer", "votes": 89 },
+      { "name": "Khol", "votes": 274 },
+      { "name": "Lugner", "votes": 20 },
+      { "name": "VdB", "votes": 172 }
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Tumeltsham",
+    "results": [
+      { "name": "Griss", "votes": 118 },
+      { "name": "Hofer", "votes": 311 },
+      { "name": "Hundstorfer", "votes": 36 },
+      { "name": "Khol", "votes": 115 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 140 }
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Utzenaich",
+    "results": [
+      { "name": "Griss", "votes": 130 },
+      { "name": "Hofer", "votes": 311 },
+      { "name": "Hundstorfer", "votes": 58 },
+      { "name": "Khol", "votes": 124 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 96 }
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Waldzell",
+    "results": [
+      { "name": "Griss", "votes": 139 },
+      { "name": "Hofer", "votes": 463 },
+      { "name": "Hundstorfer", "votes": 113 },
+      { "name": "Khol", "votes": 177 },
+      { "name": "Lugner", "votes": 12 },
+      { "name": "VdB", "votes": 106 }
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Weilbach",
+    "results": [
+      { "name": "Griss", "votes": 49 },
+      { "name": "Hofer", "votes": 109 },
+      { "name": "Hundstorfer", "votes": 20 },
+      { "name": "Khol", "votes": 71 },
+      { "name": "Lugner", "votes": 2 },
+      { "name": "VdB", "votes": 33 }
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Wippenham",
+    "results": [
+      { "name": "Griss", "votes": 34 },
+      { "name": "Hofer", "votes": 121 },
+      { "name": "Hundstorfer", "votes": 37 },
+      { "name": "Khol", "votes": 53 },
+      { "name": "Lugner", "votes": 2 },
+      { "name": "VdB", "votes": 39 }
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Afiesl",
+    "results": [
+      { "name": "Griss", "votes": 37 },
+      { "name": "Hofer", "votes": 98 },
+      { "name": "Hundstorfer", "votes": 18 },
+      { "name": "Khol", "votes": 42 },
+      { "name": "Lugner", "votes": 2 },
+      { "name": "VdB", "votes": 18 }
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Ahorn",
+    "results": [
+      { "name": "Griss", "votes": 53 },
+      { "name": "Hofer", "votes": 119 },
+      { "name": "Hundstorfer", "votes": 32 },
+      { "name": "Khol", "votes": 72 },
+      { "name": "Lugner", "votes": 4 },
+      { "name": "VdB", "votes": 37 }
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Altenfelden",
+    "results": [
+      { "name": "Griss", "votes": 207 },
+      { "name": "Hofer", "votes": 444 },
+      { "name": "Hundstorfer", "votes": 96 },
+      { "name": "Khol", "votes": 157 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 170 }
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Arnreit",
+    "results": [
+      { "name": "Griss", "votes": 130 },
+      { "name": "Hofer", "votes": 181 },
+      { "name": "Hundstorfer", "votes": 38 },
+      { "name": "Khol", "votes": 154 },
+      { "name": "Lugner", "votes": 8 },
+      { "name": "VdB", "votes": 93 }
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Atzesberg",
+    "results": [
+      { "name": "Griss", "votes": 39 },
+      { "name": "Hofer", "votes": 101 },
+      { "name": "Hundstorfer", "votes": 10 },
+      { "name": "Khol", "votes": 65 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 24 }
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Auberg",
+    "results": [
+      { "name": "Griss", "votes": 40 },
+      { "name": "Hofer", "votes": 97 },
+      { "name": "Hundstorfer", "votes": 11 },
+      { "name": "Khol", "votes": 75 },
+      { "name": "Lugner", "votes": 4 },
+      { "name": "VdB", "votes": 44 }
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Haslach an der Mühl",
+    "results": [
+      { "name": "Griss", "votes": 251 },
+      { "name": "Hofer", "votes": 381 },
+      { "name": "Hundstorfer", "votes": 222 },
+      { "name": "Khol", "votes": 212 },
+      { "name": "Lugner", "votes": 19 },
+      { "name": "VdB", "votes": 233 }
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Helfenberg",
+    "results": [
+      { "name": "Griss", "votes": 97 },
+      { "name": "Hofer", "votes": 185 },
+      { "name": "Hundstorfer", "votes": 59 },
+      { "name": "Khol", "votes": 111 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 70 }
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Hörbich",
+    "results": [
+      { "name": "Griss", "votes": 38 },
+      { "name": "Hofer", "votes": 118 },
+      { "name": "Hundstorfer", "votes": 2 },
+      { "name": "Khol", "votes": 64 },
+      { "name": "Lugner", "votes": 2 },
+      { "name": "VdB", "votes": 20 }
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Hofkirchen im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 117 },
+      { "name": "Hofer", "votes": 240 },
+      { "name": "Hundstorfer", "votes": 57 },
+      { "name": "Khol", "votes": 156 },
+      { "name": "Lugner", "votes": 9 },
+      { "name": "VdB", "votes": 106 }
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Julbach",
+    "results": [
+      { "name": "Griss", "votes": 101 },
+      { "name": "Hofer", "votes": 239 },
+      { "name": "Hundstorfer", "votes": 99 },
+      { "name": "Khol", "votes": 157 },
+      { "name": "Lugner", "votes": 22 },
+      { "name": "VdB", "votes": 82 }
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Kirchberg ob der Donau",
+    "results": [
+      { "name": "Griss", "votes": 83 },
+      { "name": "Hofer", "votes": 167 },
+      { "name": "Hundstorfer", "votes": 80 },
+      { "name": "Khol", "votes": 143 },
+      { "name": "Lugner", "votes": 3 },
+      { "name": "VdB", "votes": 79 }
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Klaffer am Hochficht",
+    "results": [
+      { "name": "Griss", "votes": 57 },
+      { "name": "Hofer", "votes": 273 },
+      { "name": "Hundstorfer", "votes": 77 },
+      { "name": "Khol", "votes": 99 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 76 }
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Kleinzell im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 136 },
+      { "name": "Hofer", "votes": 225 },
+      { "name": "Hundstorfer", "votes": 94 },
+      { "name": "Khol", "votes": 160 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 157 }
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Kollerschlag",
+    "results": [
+      { "name": "Griss", "votes": 91 },
+      { "name": "Hofer", "votes": 242 },
+      { "name": "Hundstorfer", "votes": 60 },
+      { "name": "Khol", "votes": 220 },
+      { "name": "Lugner", "votes": 13 },
+      { "name": "VdB", "votes": 60 }
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Lembach im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 134 },
+      { "name": "Hofer", "votes": 274 },
+      { "name": "Hundstorfer", "votes": 58 },
+      { "name": "Khol", "votes": 150 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 101 }
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Lichtenau im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 30 },
+      { "name": "Hofer", "votes": 108 },
+      { "name": "Hundstorfer", "votes": 19 },
+      { "name": "Khol", "votes": 66 },
+      { "name": "Lugner", "votes": 3 },
+      { "name": "VdB", "votes": 21 }
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Nebelberg",
+    "results": [
+      { "name": "Griss", "votes": 41 },
+      { "name": "Hofer", "votes": 95 },
+      { "name": "Hundstorfer", "votes": 39 },
+      { "name": "Khol", "votes": 103 },
+      { "name": "Lugner", "votes": 4 },
+      { "name": "VdB", "votes": 36 }
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Neufelden",
+    "results": [
+      { "name": "Griss", "votes": 119 },
+      { "name": "Hofer", "votes": 152 },
+      { "name": "Hundstorfer", "votes": 50 },
+      { "name": "Khol", "votes": 112 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 122 }
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Niederkappel",
+    "results": [
+      { "name": "Griss", "votes": 79 },
+      { "name": "Hofer", "votes": 213 },
+      { "name": "Hundstorfer", "votes": 38 },
+      { "name": "Khol", "votes": 144 },
+      { "name": "Lugner", "votes": 3 },
+      { "name": "VdB", "votes": 51 }
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Niederwaldkirchen",
+    "results": [
+      { "name": "Griss", "votes": 161 },
+      { "name": "Hofer", "votes": 300 },
+      { "name": "Hundstorfer", "votes": 69 },
+      { "name": "Khol", "votes": 212 },
+      { "name": "Lugner", "votes": 13 },
+      { "name": "VdB", "votes": 159 }
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Oberkappel",
+    "results": [
+      { "name": "Griss", "votes": 38 },
+      { "name": "Hofer", "votes": 78 },
+      { "name": "Hundstorfer", "votes": 19 },
+      { "name": "Khol", "votes": 117 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 33 }
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Oepping",
+    "results": [
+      { "name": "Griss", "votes": 141 },
+      { "name": "Hofer", "votes": 290 },
+      { "name": "Hundstorfer", "votes": 32 },
+      { "name": "Khol", "votes": 190 },
+      { "name": "Lugner", "votes": 9 },
+      { "name": "VdB", "votes": 104 }
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Peilstein im Mühlviertel",
+    "results": [
+      { "name": "Griss", "votes": 169 },
+      { "name": "Hofer", "votes": 272 },
+      { "name": "Hundstorfer", "votes": 66 },
+      { "name": "Khol", "votes": 198 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 83 }
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Pfarrkirchen im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 137 },
+      { "name": "Hofer", "votes": 261 },
+      { "name": "Hundstorfer", "votes": 34 },
+      { "name": "Khol", "votes": 206 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 78 }
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Putzleinsdorf",
+    "results": [
+      { "name": "Griss", "votes": 194 },
+      { "name": "Hofer", "votes": 268 },
+      { "name": "Hundstorfer", "votes": 39 },
+      { "name": "Khol", "votes": 168 },
+      { "name": "Lugner", "votes": 9 },
+      { "name": "VdB", "votes": 105 }
+    ]
+  },
+  {
+    "id": 276,
+    "name": "Neustift im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 108 },
+      { "name": "Hofer", "votes": 179 },
+      { "name": "Hundstorfer", "votes": 59 },
+      { "name": "Khol", "votes": 207 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 93 }
+    ]
+  },
+  {
+    "id": 277,
+    "name": "St. Johann am Wimberg",
+    "results": [
+      { "name": "Griss", "votes": 90 },
+      { "name": "Hofer", "votes": 211 },
+      { "name": "Hundstorfer", "votes": 27 },
+      { "name": "Khol", "votes": 116 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 75 }
+    ]
+  },
+  {
+    "id": 278,
+    "name": "St. Martin im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 365 },
+      { "name": "Hofer", "votes": 644 },
+      { "name": "Hundstorfer", "votes": 177 },
+      { "name": "Khol", "votes": 321 },
+      { "name": "Lugner", "votes": 23 },
+      { "name": "VdB", "votes": 326 }
+    ]
+  },
+  {
+    "id": 279,
+    "name": "St. Oswald bei Haslach",
+    "results": [
+      { "name": "Griss", "votes": 44 },
+      { "name": "Hofer", "votes": 74 },
+      { "name": "Hundstorfer", "votes": 30 },
+      { "name": "Khol", "votes": 59 },
+      { "name": "Lugner", "votes": 3 },
+      { "name": "VdB", "votes": 29 }
+    ]
+  },
+  {
+    "id": 280,
+    "name": "St. Peter am Wimberg",
+    "results": [
+      { "name": "Griss", "votes": 184 },
+      { "name": "Hofer", "votes": 275 },
+      { "name": "Hundstorfer", "votes": 74 },
+      { "name": "Khol", "votes": 242 },
+      { "name": "Lugner", "votes": 23 },
+      { "name": "VdB", "votes": 133 }
+    ]
+  },
+  {
+    "id": 281,
+    "name": "St. Stefan am Walde",
+    "results": [
+      { "name": "Griss", "votes": 80 },
+      { "name": "Hofer", "votes": 124 },
+      { "name": "Hundstorfer", "votes": 48 },
+      { "name": "Khol", "votes": 115 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 84 }
+    ]
+  },
+  {
+    "id": 282,
+    "name": "St. Ulrich im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 60 },
+      { "name": "Hofer", "votes": 94 },
+      { "name": "Hundstorfer", "votes": 10 },
+      { "name": "Khol", "votes": 87 },
+      { "name": "Lugner", "votes": 12 },
+      { "name": "VdB", "votes": 52 }
+    ]
+  },
+  {
+    "id": 283,
+    "name": "St. Veit im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 110 },
+      { "name": "Hofer", "votes": 216 },
+      { "name": "Hundstorfer", "votes": 53 },
+      { "name": "Khol", "votes": 135 },
+      { "name": "Lugner", "votes": 17 },
+      { "name": "VdB", "votes": 103 }
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Sarleinsbach",
+    "results": [
+      { "name": "Griss", "votes": 256 },
+      { "name": "Hofer", "votes": 345 },
+      { "name": "Hundstorfer", "votes": 67 },
+      { "name": "Khol", "votes": 296 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 174 }
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Schönegg",
+    "results": [
+      { "name": "Griss", "votes": 40 },
+      { "name": "Hofer", "votes": 118 },
+      { "name": "Hundstorfer", "votes": 48 },
+      { "name": "Khol", "votes": 53 },
+      { "name": "Lugner", "votes": 4 },
+      { "name": "VdB", "votes": 30 }
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Schwarzenberg am Böhmerwald",
+    "results": [
+      { "name": "Griss", "votes": 36 },
+      { "name": "Hofer", "votes": 93 },
+      { "name": "Hundstorfer", "votes": 31 },
+      { "name": "Khol", "votes": 79 },
+      { "name": "Lugner", "votes": 3 },
+      { "name": "VdB", "votes": 27 }
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Ulrichsberg",
+    "results": [
+      { "name": "Griss", "votes": 247 },
+      { "name": "Hofer", "votes": 536 },
+      { "name": "Hundstorfer", "votes": 113 },
+      { "name": "Khol", "votes": 297 },
+      { "name": "Lugner", "votes": 25 },
+      { "name": "VdB", "votes": 169 }
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Aigen-Schlägl",
+    "results": [
+      { "name": "Griss", "votes": 257 },
+      { "name": "Hofer", "votes": 575 },
+      { "name": "Hundstorfer", "votes": 116 },
+      { "name": "Khol", "votes": 296 },
+      { "name": "Lugner", "votes": 40 },
+      { "name": "VdB", "votes": 223 }
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Rohrbach-Berg",
+    "results": [
+      { "name": "Griss", "votes": 521 },
+      { "name": "Hofer", "votes": 750 },
+      { "name": "Hundstorfer", "votes": 188 },
+      { "name": "Khol", "votes": 429 },
+      { "name": "Lugner", "votes": 35 },
+      { "name": "VdB", "votes": 493 }
+    ]
+  },
+  {
+    "id": 290,
+    "name": "Altschwendt",
+    "results": [
+      { "name": "Griss", "votes": 45 },
+      { "name": "Hofer", "votes": 152 },
+      { "name": "Hundstorfer", "votes": 33 },
+      { "name": "Khol", "votes": 80 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 56 }
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Andorf",
+    "results": [
+      { "name": "Griss", "votes": 337 },
+      { "name": "Hofer", "votes": 1145 },
+      { "name": "Hundstorfer", "votes": 305 },
+      { "name": "Khol", "votes": 314 },
+      { "name": "Lugner", "votes": 40 },
+      { "name": "VdB", "votes": 314 }
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Brunnenthal",
+    "results": [
+      { "name": "Griss", "votes": 145 },
+      { "name": "Hofer", "votes": 375 },
+      { "name": "Hundstorfer", "votes": 78 },
+      { "name": "Khol", "votes": 126 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 165 }
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Diersbach",
+    "results": [
+      { "name": "Griss", "votes": 96 },
+      { "name": "Hofer", "votes": 352 },
+      { "name": "Hundstorfer", "votes": 73 },
+      { "name": "Khol", "votes": 161 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 104 }
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Dorf an der Pram",
+    "results": [
+      { "name": "Griss", "votes": 72 },
+      { "name": "Hofer", "votes": 180 },
+      { "name": "Hundstorfer", "votes": 33 },
+      { "name": "Khol", "votes": 146 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 84 }
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Eggerding",
+    "results": [
+      { "name": "Griss", "votes": 107 },
+      { "name": "Hofer", "votes": 313 },
+      { "name": "Hundstorfer", "votes": 40 },
+      { "name": "Khol", "votes": 111 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 84 }
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Engelhartszell",
+    "results": [
+      { "name": "Griss", "votes": 44 },
+      { "name": "Hofer", "votes": 170 },
+      { "name": "Hundstorfer", "votes": 36 },
+      { "name": "Khol", "votes": 81 },
+      { "name": "Lugner", "votes": 9 },
+      { "name": "VdB", "votes": 70 }
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Enzenkirchen",
+    "results": [
+      { "name": "Griss", "votes": 72 },
+      { "name": "Hofer", "votes": 449 },
+      { "name": "Hundstorfer", "votes": 85 },
+      { "name": "Khol", "votes": 130 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 56 }
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Esternberg",
+    "results": [
+      { "name": "Griss", "votes": 179 },
+      { "name": "Hofer", "votes": 604 },
+      { "name": "Hundstorfer", "votes": 92 },
+      { "name": "Khol", "votes": 266 },
+      { "name": "Lugner", "votes": 19 },
+      { "name": "VdB", "votes": 133 }
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Freinberg",
+    "results": [
+      { "name": "Griss", "votes": 48 },
+      { "name": "Hofer", "votes": 176 },
+      { "name": "Hundstorfer", "votes": 55 },
+      { "name": "Khol", "votes": 123 },
+      { "name": "Lugner", "votes": 12 },
+      { "name": "VdB", "votes": 52 }
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Kopfing im Innkreis",
+    "results": [
+      { "name": "Griss", "votes": 120 },
+      { "name": "Hofer", "votes": 483 },
+      { "name": "Hundstorfer", "votes": 58 },
+      { "name": "Khol", "votes": 167 },
+      { "name": "Lugner", "votes": 19 },
+      { "name": "VdB", "votes": 114 }
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Mayrhof",
+    "results": [
+      { "name": "Griss", "votes": 26 },
+      { "name": "Hofer", "votes": 88 },
+      { "name": "Hundstorfer", "votes": 6 },
+      { "name": "Khol", "votes": 35 },
+      { "name": "Lugner", "votes": 4 },
+      { "name": "VdB", "votes": 20 }
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Münzkirchen",
+    "results": [
+      { "name": "Griss", "votes": 171 },
+      { "name": "Hofer", "votes": 512 },
+      { "name": "Hundstorfer", "votes": 129 },
+      { "name": "Khol", "votes": 249 },
+      { "name": "Lugner", "votes": 25 },
+      { "name": "VdB", "votes": 176 }
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Raab",
+    "results": [
+      { "name": "Griss", "votes": 153 },
+      { "name": "Hofer", "votes": 512 },
+      { "name": "Hundstorfer", "votes": 53 },
+      { "name": "Khol", "votes": 150 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 168 }
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Rainbach im Innkreis",
+    "results": [
+      { "name": "Griss", "votes": 83 },
+      { "name": "Hofer", "votes": 302 },
+      { "name": "Hundstorfer", "votes": 74 },
+      { "name": "Khol", "votes": 177 },
+      { "name": "Lugner", "votes": 8 },
+      { "name": "VdB", "votes": 84 }
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Riedau",
+    "results": [
+      { "name": "Griss", "votes": 149 },
+      { "name": "Hofer", "votes": 338 },
+      { "name": "Hundstorfer", "votes": 90 },
+      { "name": "Khol", "votes": 99 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 150 }
+    ]
+  },
+  {
+    "id": 306,
+    "name": "St. Aegidi",
+    "results": [
+      { "name": "Griss", "votes": 90 },
+      { "name": "Hofer", "votes": 350 },
+      { "name": "Hundstorfer", "votes": 57 },
+      { "name": "Khol", "votes": 238 },
+      { "name": "Lugner", "votes": 25 },
+      { "name": "VdB", "votes": 102 }
+    ]
+  },
+  {
+    "id": 307,
+    "name": "St. Florian am Inn",
+    "results": [
+      { "name": "Griss", "votes": 207 },
+      { "name": "Hofer", "votes": 555 },
+      { "name": "Hundstorfer", "votes": 160 },
+      { "name": "Khol", "votes": 196 },
+      { "name": "Lugner", "votes": 19 },
+      { "name": "VdB", "votes": 193 }
+    ]
+  },
+  {
+    "id": 308,
+    "name": "St. Marienkirchen bei Schärding",
+    "results": [
+      { "name": "Griss", "votes": 131 },
+      { "name": "Hofer", "votes": 394 },
+      { "name": "Hundstorfer", "votes": 43 },
+      { "name": "Khol", "votes": 135 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 101 }
+    ]
+  },
+  {
+    "id": 309,
+    "name": "St. Roman",
+    "results": [
+      { "name": "Griss", "votes": 97 },
+      { "name": "Hofer", "votes": 463 },
+      { "name": "Hundstorfer", "votes": 23 },
+      { "name": "Khol", "votes": 213 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 67 }
+    ]
+  },
+  {
+    "id": 310,
+    "name": "St. Willibald",
+    "results": [
+      { "name": "Griss", "votes": 76 },
+      { "name": "Hofer", "votes": 280 },
+      { "name": "Hundstorfer", "votes": 64 },
+      { "name": "Khol", "votes": 105 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 56 }
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Schärding",
+    "results": [
+      { "name": "Griss", "votes": 320 },
+      { "name": "Hofer", "votes": 716 },
+      { "name": "Hundstorfer", "votes": 239 },
+      { "name": "Khol", "votes": 195 },
+      { "name": "Lugner", "votes": 35 },
+      { "name": "VdB", "votes": 368 }
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Schardenberg",
+    "results": [
+      { "name": "Griss", "votes": 165 },
+      { "name": "Hofer", "votes": 388 },
+      { "name": "Hundstorfer", "votes": 64 },
+      { "name": "Khol", "votes": 231 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 136 }
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Sigharting",
+    "results": [
+      { "name": "Griss", "votes": 75 },
+      { "name": "Hofer", "votes": 192 },
+      { "name": "Hundstorfer", "votes": 20 },
+      { "name": "Khol", "votes": 91 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 50 }
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Suben",
+    "results": [
+      { "name": "Griss", "votes": 97 },
+      { "name": "Hofer", "votes": 194 },
+      { "name": "Hundstorfer", "votes": 49 },
+      { "name": "Khol", "votes": 95 },
+      { "name": "Lugner", "votes": 9 },
+      { "name": "VdB", "votes": 89 }
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Taufkirchen an der Pram",
+    "results": [
+      { "name": "Griss", "votes": 221 },
+      { "name": "Hofer", "votes": 496 },
+      { "name": "Hundstorfer", "votes": 155 },
+      { "name": "Khol", "votes": 217 },
+      { "name": "Lugner", "votes": 28 },
+      { "name": "VdB", "votes": 186 }
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Vichtenstein",
+    "results": [
+      { "name": "Griss", "votes": 45 },
+      { "name": "Hofer", "votes": 110 },
+      { "name": "Hundstorfer", "votes": 16 },
+      { "name": "Khol", "votes": 72 },
+      { "name": "Lugner", "votes": 4 },
+      { "name": "VdB", "votes": 27 }
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Waldkirchen am Wesen",
+    "results": [
+      { "name": "Griss", "votes": 57 },
+      { "name": "Hofer", "votes": 268 },
+      { "name": "Hundstorfer", "votes": 87 },
+      { "name": "Khol", "votes": 114 },
+      { "name": "Lugner", "votes": 12 },
+      { "name": "VdB", "votes": 60 }
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Wernstein am Inn",
+    "results": [
+      { "name": "Griss", "votes": 98 },
+      { "name": "Hofer", "votes": 272 },
+      { "name": "Hundstorfer", "votes": 84 },
+      { "name": "Khol", "votes": 142 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 97 }
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Zell an der Pram",
+    "results": [
+      { "name": "Griss", "votes": 170 },
+      { "name": "Hofer", "votes": 310 },
+      { "name": "Hundstorfer", "votes": 55 },
+      { "name": "Khol", "votes": 196 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 163 }
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Adlwang",
+    "results": [
+      { "name": "Griss", "votes": 188 },
+      { "name": "Hofer", "votes": 306 },
+      { "name": "Hundstorfer", "votes": 54 },
+      { "name": "Khol", "votes": 202 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 129 }
+    ]
+  },
+  {
+    "id": 321,
+    "name": "Aschach an der Steyr",
+    "results": [
+      { "name": "Griss", "votes": 230 },
+      { "name": "Hofer", "votes": 370 },
+      { "name": "Hundstorfer", "votes": 113 },
+      { "name": "Khol", "votes": 188 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 251 }
+    ]
+  },
+  {
+    "id": 322,
+    "name": "Bad Hall",
+    "results": [
+      { "name": "Griss", "votes": 400 },
+      { "name": "Hofer", "votes": 792 },
+      { "name": "Hundstorfer", "votes": 207 },
+      { "name": "Khol", "votes": 301 },
+      { "name": "Lugner", "votes": 35 },
+      { "name": "VdB", "votes": 430 }
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Dietach",
+    "results": [
+      { "name": "Griss", "votes": 337 },
+      { "name": "Hofer", "votes": 471 },
+      { "name": "Hundstorfer", "votes": 169 },
+      { "name": "Khol", "votes": 221 },
+      { "name": "Lugner", "votes": 27 },
+      { "name": "VdB", "votes": 346 }
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Gaflenz",
+    "results": [
+      { "name": "Griss", "votes": 200 },
+      { "name": "Hofer", "votes": 362 },
+      { "name": "Hundstorfer", "votes": 81 },
+      { "name": "Khol", "votes": 219 },
+      { "name": "Lugner", "votes": 25 },
+      { "name": "VdB", "votes": 136 }
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Garsten",
+    "results": [
+      { "name": "Griss", "votes": 594 },
+      { "name": "Hofer", "votes": 1158 },
+      { "name": "Hundstorfer", "votes": 394 },
+      { "name": "Khol", "votes": 467 },
+      { "name": "Lugner", "votes": 70 },
+      { "name": "VdB", "votes": 736 }
+    ]
+  },
+  {
+    "id": 326,
+    "name": "Großraming",
+    "results": [
+      { "name": "Griss", "votes": 219 },
+      { "name": "Hofer", "votes": 488 },
+      { "name": "Hundstorfer", "votes": 221 },
+      { "name": "Khol", "votes": 270 },
+      { "name": "Lugner", "votes": 28 },
+      { "name": "VdB", "votes": 272 }
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Laussa",
+    "results": [
+      { "name": "Griss", "votes": 134 },
+      { "name": "Hofer", "votes": 274 },
+      { "name": "Hundstorfer", "votes": 70 },
+      { "name": "Khol", "votes": 108 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 135 }
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Losenstein",
+    "results": [
+      { "name": "Griss", "votes": 132 },
+      { "name": "Hofer", "votes": 276 },
+      { "name": "Hundstorfer", "votes": 117 },
+      { "name": "Khol", "votes": 134 },
+      { "name": "Lugner", "votes": 12 },
+      { "name": "VdB", "votes": 143 }
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Maria Neustift",
+    "results": [
+      { "name": "Griss", "votes": 125 },
+      { "name": "Hofer", "votes": 353 },
+      { "name": "Hundstorfer", "votes": 40 },
+      { "name": "Khol", "votes": 269 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 76 }
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Pfarrkirchen bei Bad Hall",
+    "results": [
+      { "name": "Griss", "votes": 203 },
+      { "name": "Hofer", "votes": 413 },
+      { "name": "Hundstorfer", "votes": 116 },
+      { "name": "Khol", "votes": 126 },
+      { "name": "Lugner", "votes": 28 },
+      { "name": "VdB", "votes": 185 }
+    ]
+  },
+  {
+    "id": 331,
+    "name": "Reichraming",
+    "results": [
+      { "name": "Griss", "votes": 128 },
+      { "name": "Hofer", "votes": 341 },
+      { "name": "Hundstorfer", "votes": 203 },
+      { "name": "Khol", "votes": 98 },
+      { "name": "Lugner", "votes": 33 },
+      { "name": "VdB", "votes": 124 }
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Rohr im Kremstal",
+    "results": [
+      { "name": "Griss", "votes": 120 },
+      { "name": "Hofer", "votes": 207 },
+      { "name": "Hundstorfer", "votes": 74 },
+      { "name": "Khol", "votes": 115 },
+      { "name": "Lugner", "votes": 11 },
+      { "name": "VdB", "votes": 101 }
+    ]
+  },
+  {
+    "id": 333,
+    "name": "St. Ulrich bei Steyr",
+    "results": [
+      { "name": "Griss", "votes": 311 },
+      { "name": "Hofer", "votes": 540 },
+      { "name": "Hundstorfer", "votes": 160 },
+      { "name": "Khol", "votes": 287 },
+      { "name": "Lugner", "votes": 26 },
+      { "name": "VdB", "votes": 319 }
+    ]
+  },
+  {
+    "id": 334,
+    "name": "Schiedlberg",
+    "results": [
+      { "name": "Griss", "votes": 91 },
+      { "name": "Hofer", "votes": 210 },
+      { "name": "Hundstorfer", "votes": 42 },
+      { "name": "Khol", "votes": 179 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 66 }
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Sierning",
+    "results": [
+      { "name": "Griss", "votes": 740 },
+      { "name": "Hofer", "votes": 1684 },
+      { "name": "Hundstorfer", "votes": 755 },
+      { "name": "Khol", "votes": 464 },
+      { "name": "Lugner", "votes": 119 },
+      { "name": "VdB", "votes": 784 }
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Ternberg",
+    "results": [
+      { "name": "Griss", "votes": 301 },
+      { "name": "Hofer", "votes": 622 },
+      { "name": "Hundstorfer", "votes": 188 },
+      { "name": "Khol", "votes": 253 },
+      { "name": "Lugner", "votes": 50 },
+      { "name": "VdB", "votes": 288 }
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Waldneukirchen",
+    "results": [
+      { "name": "Griss", "votes": 218 },
+      { "name": "Hofer", "votes": 436 },
+      { "name": "Hundstorfer", "votes": 99 },
+      { "name": "Khol", "votes": 226 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 170 }
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Wolfern",
+    "results": [
+      { "name": "Griss", "votes": 276 },
+      { "name": "Hofer", "votes": 552 },
+      { "name": "Hundstorfer", "votes": 191 },
+      { "name": "Khol", "votes": 273 },
+      { "name": "Lugner", "votes": 26 },
+      { "name": "VdB", "votes": 255 }
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Weyer",
+    "results": [
+      { "name": "Griss", "votes": 358 },
+      { "name": "Hofer", "votes": 799 },
+      { "name": "Hundstorfer", "votes": 355 },
+      { "name": "Khol", "votes": 235 },
+      { "name": "Lugner", "votes": 56 },
+      { "name": "VdB", "votes": 330 }
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Alberndorf in der Riedmark",
+    "results": [
+      { "name": "Griss", "votes": 391 },
+      { "name": "Hofer", "votes": 757 },
+      { "name": "Hundstorfer", "votes": 162 },
+      { "name": "Khol", "votes": 356 },
+      { "name": "Lugner", "votes": 40 },
+      { "name": "VdB", "votes": 406 }
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Altenberg bei Linz",
+    "results": [
+      { "name": "Griss", "votes": 465 },
+      { "name": "Hofer", "votes": 763 },
+      { "name": "Hundstorfer", "votes": 169 },
+      { "name": "Khol", "votes": 456 },
+      { "name": "Lugner", "votes": 34 },
+      { "name": "VdB", "votes": 531 }
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Bad Leonfelden",
+    "results": [
+      { "name": "Griss", "votes": 402 },
+      { "name": "Hofer", "votes": 697 },
+      { "name": "Hundstorfer", "votes": 122 },
+      { "name": "Khol", "votes": 411 },
+      { "name": "Lugner", "votes": 49 },
+      { "name": "VdB", "votes": 337 }
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Eidenberg",
+    "results": [
+      { "name": "Griss", "votes": 199 },
+      { "name": "Hofer", "votes": 292 },
+      { "name": "Hundstorfer", "votes": 83 },
+      { "name": "Khol", "votes": 229 },
+      { "name": "Lugner", "votes": 31 },
+      { "name": "VdB", "votes": 239 }
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Engerwitzdorf",
+    "results": [
+      { "name": "Griss", "votes": 853 },
+      { "name": "Hofer", "votes": 1498 },
+      { "name": "Hundstorfer", "votes": 435 },
+      { "name": "Khol", "votes": 511 },
+      { "name": "Lugner", "votes": 79 },
+      { "name": "VdB", "votes": 1138 }
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Feldkirchen an der Donau",
+    "results": [
+      { "name": "Griss", "votes": 572 },
+      { "name": "Hofer", "votes": 996 },
+      { "name": "Hundstorfer", "votes": 355 },
+      { "name": "Khol", "votes": 381 },
+      { "name": "Lugner", "votes": 52 },
+      { "name": "VdB", "votes": 621 }
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Gallneukirchen",
+    "results": [
+      { "name": "Griss", "votes": 634 },
+      { "name": "Hofer", "votes": 785 },
+      { "name": "Hundstorfer", "votes": 388 },
+      { "name": "Khol", "votes": 299 },
+      { "name": "Lugner", "votes": 39 },
+      { "name": "VdB", "votes": 1047 }
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Goldwörth",
+    "results": [
+      { "name": "Griss", "votes": 99 },
+      { "name": "Hofer", "votes": 157 },
+      { "name": "Hundstorfer", "votes": 49 },
+      { "name": "Khol", "votes": 68 },
+      { "name": "Lugner", "votes": 8 },
+      { "name": "VdB", "votes": 107 }
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Gramastetten",
+    "results": [
+      { "name": "Griss", "votes": 564 },
+      { "name": "Hofer", "votes": 685 },
+      { "name": "Hundstorfer", "votes": 190 },
+      { "name": "Khol", "votes": 382 },
+      { "name": "Lugner", "votes": 41 },
+      { "name": "VdB", "votes": 616 }
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Haibach im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 94 },
+      { "name": "Hofer", "votes": 155 },
+      { "name": "Hundstorfer", "votes": 42 },
+      { "name": "Khol", "votes": 94 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 73 }
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Hellmonsödt",
+    "results": [
+      { "name": "Griss", "votes": 224 },
+      { "name": "Hofer", "votes": 344 },
+      { "name": "Hundstorfer", "votes": 78 },
+      { "name": "Khol", "votes": 172 },
+      { "name": "Lugner", "votes": 19 },
+      { "name": "VdB", "votes": 253 }
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Herzogsdorf",
+    "results": [
+      { "name": "Griss", "votes": 214 },
+      { "name": "Hofer", "votes": 418 },
+      { "name": "Hundstorfer", "votes": 108 },
+      { "name": "Khol", "votes": 264 },
+      { "name": "Lugner", "votes": 19 },
+      { "name": "VdB", "votes": 176 }
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Kirchschlag bei Linz",
+    "results": [
+      { "name": "Griss", "votes": 203 },
+      { "name": "Hofer", "votes": 332 },
+      { "name": "Hundstorfer", "votes": 85 },
+      { "name": "Khol", "votes": 155 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 283 }
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Lichtenberg",
+    "results": [
+      { "name": "Griss", "votes": 310 },
+      { "name": "Hofer", "votes": 345 },
+      { "name": "Hundstorfer", "votes": 110 },
+      { "name": "Khol", "votes": 236 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 430 }
+    ]
+  },
+  {
+    "id": 354,
+    "name": "Oberneukirchen",
+    "results": [
+      { "name": "Griss", "votes": 286 },
+      { "name": "Hofer", "votes": 523 },
+      { "name": "Hundstorfer", "votes": 148 },
+      { "name": "Khol", "votes": 296 },
+      { "name": "Lugner", "votes": 45 },
+      { "name": "VdB", "votes": 321 }
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Ottenschlag im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 34 },
+      { "name": "Hofer", "votes": 111 },
+      { "name": "Hundstorfer", "votes": 35 },
+      { "name": "Khol", "votes": 60 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 24 }
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Ottensheim",
+    "results": [
+      { "name": "Griss", "votes": 507 },
+      { "name": "Hofer", "votes": 556 },
+      { "name": "Hundstorfer", "votes": 205 },
+      { "name": "Khol", "votes": 273 },
+      { "name": "Lugner", "votes": 26 },
+      { "name": "VdB", "votes": 848 }
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Puchenau",
+    "results": [
+      { "name": "Griss", "votes": 581 },
+      { "name": "Hofer", "votes": 570 },
+      { "name": "Hundstorfer", "votes": 227 },
+      { "name": "Khol", "votes": 206 },
+      { "name": "Lugner", "votes": 35 },
+      { "name": "VdB", "votes": 743 }
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Reichenau im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 134 },
+      { "name": "Hofer", "votes": 235 },
+      { "name": "Hundstorfer", "votes": 64 },
+      { "name": "Khol", "votes": 115 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 116 }
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Reichenthal",
+    "results": [
+      { "name": "Griss", "votes": 126 },
+      { "name": "Hofer", "votes": 247 },
+      { "name": "Hundstorfer", "votes": 67 },
+      { "name": "Khol", "votes": 167 },
+      { "name": "Lugner", "votes": 23 },
+      { "name": "VdB", "votes": 109 }
+    ]
+  },
+  {
+    "id": 360,
+    "name": "St. Gotthard im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 118 },
+      { "name": "Hofer", "votes": 185 },
+      { "name": "Hundstorfer", "votes": 74 },
+      { "name": "Khol", "votes": 129 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 164 }
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Schenkenfelden",
+    "results": [
+      { "name": "Griss", "votes": 153 },
+      { "name": "Hofer", "votes": 288 },
+      { "name": "Hundstorfer", "votes": 64 },
+      { "name": "Khol", "votes": 172 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 129 }
+    ]
+  },
+  {
+    "id": 362,
+    "name": "Sonnberg im Mühlkreis",
+    "results": [
+      { "name": "Griss", "votes": 69 },
+      { "name": "Hofer", "votes": 160 },
+      { "name": "Hundstorfer", "votes": 44 },
+      { "name": "Khol", "votes": 98 },
+      { "name": "Lugner", "votes": 12 },
+      { "name": "VdB", "votes": 82 }
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Steyregg",
+    "results": [
+      { "name": "Griss", "votes": 470 },
+      { "name": "Hofer", "votes": 824 },
+      { "name": "Hundstorfer", "votes": 370 },
+      { "name": "Khol", "votes": 227 },
+      { "name": "Lugner", "votes": 56 },
+      { "name": "VdB", "votes": 571 }
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Vorderweißenbach",
+    "results": [
+      { "name": "Griss", "votes": 216 },
+      { "name": "Hofer", "votes": 359 },
+      { "name": "Hundstorfer", "votes": 68 },
+      { "name": "Khol", "votes": 272 },
+      { "name": "Lugner", "votes": 26 },
+      { "name": "VdB", "votes": 162 }
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Walding",
+    "results": [
+      { "name": "Griss", "votes": 387 },
+      { "name": "Hofer", "votes": 542 },
+      { "name": "Hundstorfer", "votes": 299 },
+      { "name": "Khol", "votes": 306 },
+      { "name": "Lugner", "votes": 31 },
+      { "name": "VdB", "votes": 503 }
+    ]
+  },
+  {
+    "id": 366,
+    "name": "Zwettl an der Rodl",
+    "results": [
+      { "name": "Griss", "votes": 167 },
+      { "name": "Hofer", "votes": 256 },
+      { "name": "Hundstorfer", "votes": 78 },
+      { "name": "Khol", "votes": 176 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 234 }
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Ampflwang im Hausruckwald",
+    "results": [
+      { "name": "Griss", "votes": 223 },
+      { "name": "Hofer", "votes": 597 },
+      { "name": "Hundstorfer", "votes": 363 },
+      { "name": "Khol", "votes": 160 },
+      { "name": "Lugner", "votes": 24 },
+      { "name": "VdB", "votes": 218 }
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Attersee am Attersee",
+    "results": [
+      { "name": "Griss", "votes": 168 },
+      { "name": "Hofer", "votes": 228 },
+      { "name": "Hundstorfer", "votes": 88 },
+      { "name": "Khol", "votes": 101 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 201 }
+    ]
+  },
+  {
+    "id": 369,
+    "name": "Attnang-Puchheim",
+    "results": [
+      { "name": "Griss", "votes": 492 },
+      { "name": "Hofer", "votes": 1219 },
+      { "name": "Hundstorfer", "votes": 562 },
+      { "name": "Khol", "votes": 252 },
+      { "name": "Lugner", "votes": 72 },
+      { "name": "VdB", "votes": 607 }
+    ]
+  },
+  {
+    "id": 370,
+    "name": "Atzbach",
+    "results": [
+      { "name": "Griss", "votes": 116 },
+      { "name": "Hofer", "votes": 250 },
+      { "name": "Hundstorfer", "votes": 17 },
+      { "name": "Khol", "votes": 126 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 101 }
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Aurach am Hongar",
+    "results": [
+      { "name": "Griss", "votes": 102 },
+      { "name": "Hofer", "votes": 362 },
+      { "name": "Hundstorfer", "votes": 83 },
+      { "name": "Khol", "votes": 104 },
+      { "name": "Lugner", "votes": 24 },
+      { "name": "VdB", "votes": 122 }
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Berg im Attergau",
+    "results": [
+      { "name": "Griss", "votes": 66 },
+      { "name": "Hofer", "votes": 191 },
+      { "name": "Hundstorfer", "votes": 25 },
+      { "name": "Khol", "votes": 121 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 53 }
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Desselbrunn",
+    "results": [
+      { "name": "Griss", "votes": 127 },
+      { "name": "Hofer", "votes": 320 },
+      { "name": "Hundstorfer", "votes": 98 },
+      { "name": "Khol", "votes": 124 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 138 }
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Fornach",
+    "results": [
+      { "name": "Griss", "votes": 53 },
+      { "name": "Hofer", "votes": 218 },
+      { "name": "Hundstorfer", "votes": 23 },
+      { "name": "Khol", "votes": 125 },
+      { "name": "Lugner", "votes": 19 },
+      { "name": "VdB", "votes": 70 }
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Frankenburg am Hausruck",
+    "results": [
+      { "name": "Griss", "votes": 341 },
+      { "name": "Hofer", "votes": 1128 },
+      { "name": "Hundstorfer", "votes": 351 },
+      { "name": "Khol", "votes": 272 },
+      { "name": "Lugner", "votes": 62 },
+      { "name": "VdB", "votes": 347 }
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Frankenmarkt",
+    "results": [
+      { "name": "Griss", "votes": 258 },
+      { "name": "Hofer", "votes": 673 },
+      { "name": "Hundstorfer", "votes": 140 },
+      { "name": "Khol", "votes": 253 },
+      { "name": "Lugner", "votes": 44 },
+      { "name": "VdB", "votes": 242 }
+    ]
+  },
+  {
+    "id": 377,
+    "name": "Gampern",
+    "results": [
+      { "name": "Griss", "votes": 255 },
+      { "name": "Hofer", "votes": 534 },
+      { "name": "Hundstorfer", "votes": 99 },
+      { "name": "Khol", "votes": 192 },
+      { "name": "Lugner", "votes": 34 },
+      { "name": "VdB", "votes": 286 }
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Innerschwand am Mondsee",
+    "results": [
+      { "name": "Griss", "votes": 80 },
+      { "name": "Hofer", "votes": 159 },
+      { "name": "Hundstorfer", "votes": 37 },
+      { "name": "Khol", "votes": 148 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 72 }
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Lenzing",
+    "results": [
+      { "name": "Griss", "votes": 280 },
+      { "name": "Hofer", "votes": 956 },
+      { "name": "Hundstorfer", "votes": 438 },
+      { "name": "Khol", "votes": 110 },
+      { "name": "Lugner", "votes": 69 },
+      { "name": "VdB", "votes": 401 }
+    ]
+  },
+  {
+    "id": 380,
+    "name": "Manning",
+    "results": [
+      { "name": "Griss", "votes": 64 },
+      { "name": "Hofer", "votes": 127 },
+      { "name": "Hundstorfer", "votes": 38 },
+      { "name": "Khol", "votes": 92 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 81 }
+    ]
+  },
+  {
+    "id": 381,
+    "name": "Mondsee",
+    "results": [
+      { "name": "Griss", "votes": 288 },
+      { "name": "Hofer", "votes": 425 },
+      { "name": "Hundstorfer", "votes": 78 },
+      { "name": "Khol", "votes": 158 },
+      { "name": "Lugner", "votes": 27 },
+      { "name": "VdB", "votes": 285 }
+    ]
+  },
+  {
+    "id": 382,
+    "name": "Neukirchen an der Vöckla",
+    "results": [
+      { "name": "Griss", "votes": 241 },
+      { "name": "Hofer", "votes": 560 },
+      { "name": "Hundstorfer", "votes": 112 },
+      { "name": "Khol", "votes": 210 },
+      { "name": "Lugner", "votes": 36 },
+      { "name": "VdB", "votes": 215 }
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Niederthalheim",
+    "results": [
+      { "name": "Griss", "votes": 86 },
+      { "name": "Hofer", "votes": 228 },
+      { "name": "Hundstorfer", "votes": 32 },
+      { "name": "Khol", "votes": 102 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 102 }
+    ]
+  },
+  {
+    "id": 384,
+    "name": "Nußdorf am Attersee",
+    "results": [
+      { "name": "Griss", "votes": 105 },
+      { "name": "Hofer", "votes": 216 },
+      { "name": "Hundstorfer", "votes": 45 },
+      { "name": "Khol", "votes": 91 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 84 }
+    ]
+  },
+  {
+    "id": 385,
+    "name": "Oberhofen am Irrsee",
+    "results": [
+      { "name": "Griss", "votes": 116 },
+      { "name": "Hofer", "votes": 290 },
+      { "name": "Hundstorfer", "votes": 87 },
+      { "name": "Khol", "votes": 133 },
+      { "name": "Lugner", "votes": 17 },
+      { "name": "VdB", "votes": 90 }
+    ]
+  },
+  {
+    "id": 386,
+    "name": "Oberndorf bei Schwanenstadt",
+    "results": [
+      { "name": "Griss", "votes": 121 },
+      { "name": "Hofer", "votes": 304 },
+      { "name": "Hundstorfer", "votes": 100 },
+      { "name": "Khol", "votes": 88 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 124 }
+    ]
+  },
+  {
+    "id": 387,
+    "name": "Oberwang",
+    "results": [
+      { "name": "Griss", "votes": 76 },
+      { "name": "Hofer", "votes": 342 },
+      { "name": "Hundstorfer", "votes": 31 },
+      { "name": "Khol", "votes": 229 },
+      { "name": "Lugner", "votes": 24 },
+      { "name": "VdB", "votes": 53 }
+    ]
+  },
+  {
+    "id": 388,
+    "name": "Ottnang am Hausruck",
+    "results": [
+      { "name": "Griss", "votes": 257 },
+      { "name": "Hofer", "votes": 709 },
+      { "name": "Hundstorfer", "votes": 227 },
+      { "name": "Khol", "votes": 225 },
+      { "name": "Lugner", "votes": 43 },
+      { "name": "VdB", "votes": 280 }
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Pfaffing",
+    "results": [
+      { "name": "Griss", "votes": 102 },
+      { "name": "Hofer", "votes": 253 },
+      { "name": "Hundstorfer", "votes": 88 },
+      { "name": "Khol", "votes": 121 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 111 }
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Pilsbach",
+    "results": [
+      { "name": "Griss", "votes": 57 },
+      { "name": "Hofer", "votes": 104 },
+      { "name": "Hundstorfer", "votes": 57 },
+      { "name": "Khol", "votes": 55 },
+      { "name": "Lugner", "votes": 4 },
+      { "name": "VdB", "votes": 56 }
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Pitzenberg",
+    "results": [
+      { "name": "Griss", "votes": 52 },
+      { "name": "Hofer", "votes": 104 },
+      { "name": "Hundstorfer", "votes": 20 },
+      { "name": "Khol", "votes": 47 },
+      { "name": "Lugner", "votes": 3 },
+      { "name": "VdB", "votes": 65 }
+    ]
+  },
+  {
+    "id": 392,
+    "name": "Pöndorf",
+    "results": [
+      { "name": "Griss", "votes": 101 },
+      { "name": "Hofer", "votes": 531 },
+      { "name": "Hundstorfer", "votes": 130 },
+      { "name": "Khol", "votes": 179 },
+      { "name": "Lugner", "votes": 34 },
+      { "name": "VdB", "votes": 123 }
+    ]
+  },
+  {
+    "id": 393,
+    "name": "Puchkirchen am Trattberg",
+    "results": [
+      { "name": "Griss", "votes": 104 },
+      { "name": "Hofer", "votes": 165 },
+      { "name": "Hundstorfer", "votes": 41 },
+      { "name": "Khol", "votes": 96 },
+      { "name": "Lugner", "votes": 9 },
+      { "name": "VdB", "votes": 93 }
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Pühret",
+    "results": [
+      { "name": "Griss", "votes": 56 },
+      { "name": "Hofer", "votes": 134 },
+      { "name": "Hundstorfer", "votes": 31 },
+      { "name": "Khol", "votes": 60 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 50 }
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Redleiten",
+    "results": [
+      { "name": "Griss", "votes": 20 },
+      { "name": "Hofer", "votes": 121 },
+      { "name": "Hundstorfer", "votes": 29 },
+      { "name": "Khol", "votes": 34 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 36 }
+    ]
+  },
+  {
+    "id": 396,
+    "name": "Redlham",
+    "results": [
+      { "name": "Griss", "votes": 112 },
+      { "name": "Hofer", "votes": 280 },
+      { "name": "Hundstorfer", "votes": 101 },
+      { "name": "Khol", "votes": 99 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 126 }
+    ]
+  },
+  {
+    "id": 397,
+    "name": "Regau",
+    "results": [
+      { "name": "Griss", "votes": 499 },
+      { "name": "Hofer", "votes": 1250 },
+      { "name": "Hundstorfer", "votes": 284 },
+      { "name": "Khol", "votes": 349 },
+      { "name": "Lugner", "votes": 61 },
+      { "name": "VdB", "votes": 674 }
+    ]
+  },
+  {
+    "id": 398,
+    "name": "Rüstorf",
+    "results": [
+      { "name": "Griss", "votes": 122 },
+      { "name": "Hofer", "votes": 394 },
+      { "name": "Hundstorfer", "votes": 115 },
+      { "name": "Khol", "votes": 136 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 184 }
+    ]
+  },
+  {
+    "id": 399,
+    "name": "Rutzenham",
+    "results": [
+      { "name": "Griss", "votes": 21 },
+      { "name": "Hofer", "votes": 45 },
+      { "name": "Hundstorfer", "votes": 5 },
+      { "name": "Khol", "votes": 24 },
+      { "name": "Lugner", "votes": 2 },
+      { "name": "VdB", "votes": 39 }
+    ]
+  },
+  {
+    "id": 400,
+    "name": "St. Georgen im Attergau",
+    "results": [
+      { "name": "Griss", "votes": 339 },
+      { "name": "Hofer", "votes": 844 },
+      { "name": "Hundstorfer", "votes": 107 },
+      { "name": "Khol", "votes": 224 },
+      { "name": "Lugner", "votes": 44 },
+      { "name": "VdB", "votes": 279 }
+    ]
+  },
+  {
+    "id": 401,
+    "name": "St. Lorenz",
+    "results": [
+      { "name": "Griss", "votes": 199 },
+      { "name": "Hofer", "votes": 361 },
+      { "name": "Hundstorfer", "votes": 62 },
+      { "name": "Khol", "votes": 203 },
+      { "name": "Lugner", "votes": 27 },
+      { "name": "VdB", "votes": 216 }
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Schlatt",
+    "results": [
+      { "name": "Griss", "votes": 102 },
+      { "name": "Hofer", "votes": 224 },
+      { "name": "Hundstorfer", "votes": 60 },
+      { "name": "Khol", "votes": 101 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 120 }
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Schörfling am Attersee",
+    "results": [
+      { "name": "Griss", "votes": 291 },
+      { "name": "Hofer", "votes": 569 },
+      { "name": "Hundstorfer", "votes": 184 },
+      { "name": "Khol", "votes": 144 },
+      { "name": "Lugner", "votes": 34 },
+      { "name": "VdB", "votes": 395 }
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Schwanenstadt",
+    "results": [
+      { "name": "Griss", "votes": 282 },
+      { "name": "Hofer", "votes": 670 },
+      { "name": "Hundstorfer", "votes": 216 },
+      { "name": "Khol", "votes": 198 },
+      { "name": "Lugner", "votes": 30 },
+      { "name": "VdB", "votes": 373 }
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Seewalchen am Attersee",
+    "results": [
+      { "name": "Griss", "votes": 513 },
+      { "name": "Hofer", "votes": 992 },
+      { "name": "Hundstorfer", "votes": 224 },
+      { "name": "Khol", "votes": 229 },
+      { "name": "Lugner", "votes": 64 },
+      { "name": "VdB", "votes": 616 }
+    ]
+  },
+  {
+    "id": 406,
+    "name": "Steinbach am Attersee",
+    "results": [
+      { "name": "Griss", "votes": 93 },
+      { "name": "Hofer", "votes": 131 },
+      { "name": "Hundstorfer", "votes": 42 },
+      { "name": "Khol", "votes": 73 },
+      { "name": "Lugner", "votes": 13 },
+      { "name": "VdB", "votes": 83 }
+    ]
+  },
+  {
+    "id": 407,
+    "name": "Straß im Attergau",
+    "results": [
+      { "name": "Griss", "votes": 111 },
+      { "name": "Hofer", "votes": 329 },
+      { "name": "Hundstorfer", "votes": 29 },
+      { "name": "Khol", "votes": 135 },
+      { "name": "Lugner", "votes": 5 },
+      { "name": "VdB", "votes": 85 }
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Tiefgraben",
+    "results": [
+      { "name": "Griss", "votes": 330 },
+      { "name": "Hofer", "votes": 603 },
+      { "name": "Hundstorfer", "votes": 74 },
+      { "name": "Khol", "votes": 267 },
+      { "name": "Lugner", "votes": 27 },
+      { "name": "VdB", "votes": 287 }
+    ]
+  },
+  {
+    "id": 409,
+    "name": "Timelkam",
+    "results": [
+      { "name": "Griss", "votes": 486 },
+      { "name": "Hofer", "votes": 971 },
+      { "name": "Hundstorfer", "votes": 325 },
+      { "name": "Khol", "votes": 242 },
+      { "name": "Lugner", "votes": 74 },
+      { "name": "VdB", "votes": 549 }
+    ]
+  },
+  {
+    "id": 410,
+    "name": "Ungenach",
+    "results": [
+      { "name": "Griss", "votes": 123 },
+      { "name": "Hofer", "votes": 307 },
+      { "name": "Hundstorfer", "votes": 43 },
+      { "name": "Khol", "votes": 131 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 171 }
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Unterach am Attersee",
+    "results": [
+      { "name": "Griss", "votes": 135 },
+      { "name": "Hofer", "votes": 188 },
+      { "name": "Hundstorfer", "votes": 73 },
+      { "name": "Khol", "votes": 94 },
+      { "name": "Lugner", "votes": 12 },
+      { "name": "VdB", "votes": 118 }
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Vöcklabruck",
+    "results": [
+      { "name": "Griss", "votes": 893 },
+      { "name": "Hofer", "votes": 1669 },
+      { "name": "Hundstorfer", "votes": 617 },
+      { "name": "Khol", "votes": 509 },
+      { "name": "Lugner", "votes": 104 },
+      { "name": "VdB", "votes": 1304 }
+    ]
+  },
+  {
+    "id": 413,
+    "name": "Vöcklamarkt",
+    "results": [
+      { "name": "Griss", "votes": 362 },
+      { "name": "Hofer", "votes": 897 },
+      { "name": "Hundstorfer", "votes": 212 },
+      { "name": "Khol", "votes": 295 },
+      { "name": "Lugner", "votes": 59 },
+      { "name": "VdB", "votes": 392 }
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Weißenkirchen im Attergau",
+    "results": [
+      { "name": "Griss", "votes": 72 },
+      { "name": "Hofer", "votes": 215 },
+      { "name": "Hundstorfer", "votes": 22 },
+      { "name": "Khol", "votes": 124 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 54 }
+    ]
+  },
+  {
+    "id": 415,
+    "name": "Weyregg am Attersee",
+    "results": [
+      { "name": "Griss", "votes": 129 },
+      { "name": "Hofer", "votes": 203 },
+      { "name": "Hundstorfer", "votes": 62 },
+      { "name": "Khol", "votes": 128 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 163 }
+    ]
+  },
+  {
+    "id": 416,
+    "name": "Wolfsegg am Hausruck",
+    "results": [
+      { "name": "Griss", "votes": 123 },
+      { "name": "Hofer", "votes": 325 },
+      { "name": "Hundstorfer", "votes": 138 },
+      { "name": "Khol", "votes": 100 },
+      { "name": "Lugner", "votes": 13 },
+      { "name": "VdB", "votes": 163 }
+    ]
+  },
+  {
+    "id": 417,
+    "name": "Zell am Moos",
+    "results": [
+      { "name": "Griss", "votes": 121 },
+      { "name": "Hofer", "votes": 243 },
+      { "name": "Hundstorfer", "votes": 49 },
+      { "name": "Khol", "votes": 149 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 162 }
+    ]
+  },
+  {
+    "id": 418,
+    "name": "Zell am Pettenfirst",
+    "results": [
+      { "name": "Griss", "votes": 91 },
+      { "name": "Hofer", "votes": 193 },
+      { "name": "Hundstorfer", "votes": 62 },
+      { "name": "Khol", "votes": 95 },
+      { "name": "Lugner", "votes": 13 },
+      { "name": "VdB", "votes": 129 }
+    ]
+  },
+  {
+    "id": 419,
+    "name": "Aichkirchen",
+    "results": [
+      { "name": "Griss", "votes": 56 },
+      { "name": "Hofer", "votes": 108 },
+      { "name": "Hundstorfer", "votes": 14 },
+      { "name": "Khol", "votes": 67 },
+      { "name": "Lugner", "votes": 3 },
+      { "name": "VdB", "votes": 33 }
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Bachmanning",
+    "results": [
+      { "name": "Griss", "votes": 44 },
+      { "name": "Hofer", "votes": 121 },
+      { "name": "Hundstorfer", "votes": 41 },
+      { "name": "Khol", "votes": 44 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 48 }
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Bad Wimsbach-Neydharting",
+    "results": [
+      { "name": "Griss", "votes": 189 },
+      { "name": "Hofer", "votes": 455 },
+      { "name": "Hundstorfer", "votes": 150 },
+      { "name": "Khol", "votes": 246 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 170 }
+    ]
+  },
+  {
+    "id": 422,
+    "name": "Buchkirchen",
+    "results": [
+      { "name": "Griss", "votes": 331 },
+      { "name": "Hofer", "votes": 801 },
+      { "name": "Hundstorfer", "votes": 235 },
+      { "name": "Khol", "votes": 216 },
+      { "name": "Lugner", "votes": 36 },
+      { "name": "VdB", "votes": 352 }
+    ]
+  },
+  {
+    "id": 423,
+    "name": "Eberstalzell",
+    "results": [
+      { "name": "Griss", "votes": 208 },
+      { "name": "Hofer", "votes": 542 },
+      { "name": "Hundstorfer", "votes": 74 },
+      { "name": "Khol", "votes": 210 },
+      { "name": "Lugner", "votes": 16 },
+      { "name": "VdB", "votes": 186 }
+    ]
+  },
+  {
+    "id": 424,
+    "name": "Edt bei Lambach",
+    "results": [
+      { "name": "Griss", "votes": 152 },
+      { "name": "Hofer", "votes": 458 },
+      { "name": "Hundstorfer", "votes": 124 },
+      { "name": "Khol", "votes": 145 },
+      { "name": "Lugner", "votes": 20 },
+      { "name": "VdB", "votes": 159 }
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Fischlham",
+    "results": [
+      { "name": "Griss", "votes": 136 },
+      { "name": "Hofer", "votes": 264 },
+      { "name": "Hundstorfer", "votes": 66 },
+      { "name": "Khol", "votes": 133 },
+      { "name": "Lugner", "votes": 14 },
+      { "name": "VdB", "votes": 97 }
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Gunskirchen",
+    "results": [
+      { "name": "Griss", "votes": 483 },
+      { "name": "Hofer", "votes": 1180 },
+      { "name": "Hundstorfer", "votes": 317 },
+      { "name": "Khol", "votes": 278 },
+      { "name": "Lugner", "votes": 44 },
+      { "name": "VdB", "votes": 468 }
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Holzhausen",
+    "results": [
+      { "name": "Griss", "votes": 99 },
+      { "name": "Hofer", "votes": 167 },
+      { "name": "Hundstorfer", "votes": 43 },
+      { "name": "Khol", "votes": 52 },
+      { "name": "Lugner", "votes": 6 },
+      { "name": "VdB", "votes": 69 }
+    ]
+  },
+  {
+    "id": 428,
+    "name": "Krenglbach",
+    "results": [
+      { "name": "Griss", "votes": 323 },
+      { "name": "Hofer", "votes": 645 },
+      { "name": "Hundstorfer", "votes": 215 },
+      { "name": "Khol", "votes": 159 },
+      { "name": "Lugner", "votes": 33 },
+      { "name": "VdB", "votes": 306 }
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Lambach",
+    "results": [
+      { "name": "Griss", "votes": 188 },
+      { "name": "Hofer", "votes": 498 },
+      { "name": "Hundstorfer", "votes": 121 },
+      { "name": "Khol", "votes": 126 },
+      { "name": "Lugner", "votes": 28 },
+      { "name": "VdB", "votes": 237 }
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Marchtrenk",
+    "results": [
+      { "name": "Griss", "votes": 888 },
+      { "name": "Hofer", "votes": 2532 },
+      { "name": "Hundstorfer", "votes": 717 },
+      { "name": "Khol", "votes": 356 },
+      { "name": "Lugner", "votes": 87 },
+      { "name": "VdB", "votes": 969 }
+    ]
+  },
+  {
+    "id": 431,
+    "name": "Neukirchen bei Lambach",
+    "results": [
+      { "name": "Griss", "votes": 88 },
+      { "name": "Hofer", "votes": 167 },
+      { "name": "Hundstorfer", "votes": 36 },
+      { "name": "Khol", "votes": 91 },
+      { "name": "Lugner", "votes": 9 },
+      { "name": "VdB", "votes": 72 }
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Offenhausen",
+    "results": [
+      { "name": "Griss", "votes": 142 },
+      { "name": "Hofer", "votes": 356 },
+      { "name": "Hundstorfer", "votes": 60 },
+      { "name": "Khol", "votes": 150 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 114 }
+    ]
+  },
+  {
+    "id": 433,
+    "name": "Pennewang",
+    "results": [
+      { "name": "Griss", "votes": 90 },
+      { "name": "Hofer", "votes": 148 },
+      { "name": "Hundstorfer", "votes": 29 },
+      { "name": "Khol", "votes": 131 },
+      { "name": "Lugner", "votes": 10 },
+      { "name": "VdB", "votes": 83 }
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Pichl bei Wels",
+    "results": [
+      { "name": "Griss", "votes": 261 },
+      { "name": "Hofer", "votes": 581 },
+      { "name": "Hundstorfer", "votes": 119 },
+      { "name": "Khol", "votes": 262 },
+      { "name": "Lugner", "votes": 29 },
+      { "name": "VdB", "votes": 260 }
+    ]
+  },
+  {
+    "id": 435,
+    "name": "Sattledt",
+    "results": [
+      { "name": "Griss", "votes": 147 },
+      { "name": "Hofer", "votes": 502 },
+      { "name": "Hundstorfer", "votes": 135 },
+      { "name": "Khol", "votes": 206 },
+      { "name": "Lugner", "votes": 21 },
+      { "name": "VdB", "votes": 185 }
+    ]
+  },
+  {
+    "id": 436,
+    "name": "Schleißheim",
+    "results": [
+      { "name": "Griss", "votes": 130 },
+      { "name": "Hofer", "votes": 231 },
+      { "name": "Hundstorfer", "votes": 61 },
+      { "name": "Khol", "votes": 81 },
+      { "name": "Lugner", "votes": 17 },
+      { "name": "VdB", "votes": 135 }
+    ]
+  },
+  {
+    "id": 437,
+    "name": "Sipbachzell",
+    "results": [
+      { "name": "Griss", "votes": 177 },
+      { "name": "Hofer", "votes": 380 },
+      { "name": "Hundstorfer", "votes": 96 },
+      { "name": "Khol", "votes": 184 },
+      { "name": "Lugner", "votes": 15 },
+      { "name": "VdB", "votes": 149 }
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Stadl-Paura",
+    "results": [
+      { "name": "Griss", "votes": 260 },
+      { "name": "Hofer", "votes": 875 },
+      { "name": "Hundstorfer", "votes": 228 },
+      { "name": "Khol", "votes": 120 },
+      { "name": "Lugner", "votes": 42 },
+      { "name": "VdB", "votes": 316 }
+    ]
+  },
+  {
+    "id": 439,
+    "name": "Steinerkirchen an der Traun",
+    "results": [
+      { "name": "Griss", "votes": 243 },
+      { "name": "Hofer", "votes": 506 },
+      { "name": "Hundstorfer", "votes": 80 },
+      { "name": "Khol", "votes": 254 },
+      { "name": "Lugner", "votes": 18 },
+      { "name": "VdB", "votes": 193 }
+    ]
+  },
+  {
+    "id": 440,
+    "name": "Steinhaus",
+    "results": [
+      { "name": "Griss", "votes": 170 },
+      { "name": "Hofer", "votes": 485 },
+      { "name": "Hundstorfer", "votes": 71 },
+      { "name": "Khol", "votes": 154 },
+      { "name": "Lugner", "votes": 7 },
+      { "name": "VdB", "votes": 134 }
+    ]
+  },
+  {
+    "id": 441,
+    "name": "Thalheim bei Wels",
+    "results": [
+      { "name": "Griss", "votes": 531 },
+      { "name": "Hofer", "votes": 802 },
+      { "name": "Hundstorfer", "votes": 205 },
+      { "name": "Khol", "votes": 295 },
+      { "name": "Lugner", "votes": 47 },
+      { "name": "VdB", "votes": 595 }
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Weißkirchen an der Traun",
+    "results": [
+      { "name": "Griss", "votes": 298 },
+      { "name": "Hofer", "votes": 690 },
+      { "name": "Hundstorfer", "votes": 197 },
+      { "name": "Khol", "votes": 187 },
+      { "name": "Lugner", "votes": 23 },
+      { "name": "VdB", "votes": 315 }
+    ]
+  }
+]

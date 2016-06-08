@@ -3,8 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-
 use App\Http\Requests;
+
 
 class ElectionController extends Controller
 {
@@ -57,11 +57,11 @@ class ElectionController extends Controller
   {
     $location = getLocation($latitude, $longitude);
     $state = $location['state'];
-    $state = mapStateNameToSlug($state);
+    $stateSlug = mapStateNameToSlug($state);
 
-    // NOTE Code duplication from geolocationcontroller:getResultsforlocation
+    // NOTE possible code duplication
     $districtName = $location['district'];
-    $districts = getDistricts($electionSlug, $state);
+    $districts = getDistricts($electionSlug, $stateSlug);
     $results = 'no results for the district "'.$districtName.' found.';
 
     $results = [];
@@ -70,21 +70,19 @@ class ElectionController extends Controller
     $results['district'] = [];
     foreach ($districts as $district) {
       if ( $district->name == $districtName ) {
+        $results['district']['id'] = $district->id;
         $results['district']['name'] = $districtName;
         $results['district']['results'] = $district->results;
         break;
       }
     }
 
-    // results for states
-    $districts = getDistricts($electionSlug, $state);
-    $results['state']['name'] = $location['state'];
-    $results['state']['results'] = getDistrictsResults($districts);
+    // results for states and election
+    $parentGranularityResults = getParentGranularityResults($electionSlug, $state);
 
-    // results for election
-    $electionDataObj = getElectionDataObj($electionSlug);
-    $results['election']['name'] = $electionDataObj->name;
-    $results['election']['results'] = $electionDataObj->results;
+    if ( ! empty($results) ) {
+      $results = array_merge($results, $parentGranularityResults);
+    }
 
     return deliverJson($results);
   }

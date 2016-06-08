@@ -29,21 +29,20 @@ Route::get('/{electionSlug}/{latitude},{longitude}',
 );
 
 /// VisualizationController
-// TODO deprecate in favor of /{electionSlug}/donut-chart
-Route::get('/{electionSlug}/visualization',
-  'VisualizationController@showElectionDonutVis'
-);
-// NOTE use this instead of /{electionSlug}/visualization !
 Route::get('/{electionSlug}/donut-chart',
   'VisualizationController@showElectionDonutVis'
+);
+Route::get('/{electionSlug}/{stateSlug}/donut-chart',
+  'VisualizationController@showStateDonutVis'
+);
+Route::get('/{electionSlug}/{stateSlug}/{districtId}/donut-chart',
+  'VisualizationController@showDistrictDonutVis'
 );
 
 /// StateController
 Route::get('/{electionSlug}/{stateSlug}', 'StateController@getState');
 Route::get('/{electionSlug}/{stateSlug}/districts', 'StateController@getDistricts');
-Route::get('/{electionSlug}/{stateSlug}/{latitude},{longitude}',
-  'StateController@getResultsForLocation'
-);
+Route::get('/{electionSlug}/{stateSlug}/{districtId}', 'StateController@getDistrictById');
 
 /// END routes
 
@@ -102,6 +101,7 @@ function getStates ($electionSlug) {
       break;
     }
   }
+
   return $states;
 }
 
@@ -156,6 +156,26 @@ function getDistrictsResults ($districts) {
   return $results;
 }
 
+
+// results for states and election
+function getParentGranularityResults ($electionSlug, $state) {
+  // results for states
+  $stateSlug = mapStateNameToSlug($state);
+  $districts = getDistricts($electionSlug, $stateSlug);
+  $results['state']['slug'] = $stateSlug;
+  $results['state']['name'] = $state;
+  $results['state']['results'] = getDistrictsResults($districts);
+
+// results for election
+  $electionDataObj = getElectionDataObj($electionSlug);
+  $results['election']['slug'] = $electionDataObj->slug;
+  $results['election']['name'] = $electionDataObj->name;
+  $results['election']['results'] = $electionDataObj->results;
+
+  return $results;
+}
+
+
 /// Locations
 
 /**
@@ -171,21 +191,22 @@ function getLocation ($latitude, $longitude) {
   // decode the json
   $all_location_data = json_decode($resp_json, true);
 
-  if ($all_location_data['status'] === 'OK') {
-    foreach ($all_location_data['results'] as $component) {
+  if ( $all_location_data['status'] === 'OK' ) {
+    foreach ($all_location_data['results'] as $component ) {
 
-      if (in_array('administrative_area_level_1', $component['types'])) {
+      if ( in_array('administrative_area_level_1', $component['types'])) {
         $state = $component['address_components'][0]['short_name'];
         $result['state'] = $state;
       }
-      if (in_array('postal_town', $component['types'])) {
+      if ( in_array('postal_town', $component['types']) ) {
         $postal_town = $component['address_components'][0]['short_name'];
         $result['district'] = $postal_town;
       }
     }
+
     return $result;
   }
-  else{
+  else {
     return 'no district for geolocation found';
   }
 }
@@ -231,26 +252,44 @@ function calculateResultsPercentage ($results) {
 }
 
 
+// returns slug of a state
+function mapStateNameToSlug ($stateName) {
+  $elections = getElections();
+
+  foreach ($elections as $election) {
+    $states = $election->states;
+
+    foreach ($states as $state) {
+      if ( $state->name == $stateName ) {
+        $stateSlug = $state->slug;
+      }
+    }
+  }
+
+  return $stateSlug;
+}
+
+// returns name of a state
+function mapStateSlugToName ($stateSlug) {
+  $elections = getElections();
+
+  foreach ($elections as $election) {
+    $states = $election->states;
+
+    foreach ($states as $state) {
+      if ( $state->slug == $stateSlug ) {
+        $stateSlug = $state->name;
+      }
+    }
+  }
+
+  return $stateSlug;
+}
+
+
 function logArray ($arr) {
   echo '<pre>';
   print_r($arr);
   echo '</pre>';
   echo '<hr>';
-}
-
-
-// returns slug of a state
-function mapStateNameToSlug ($stateName) {
-  $elections = getElections();
-
-  foreach ($elections as $election){
-    $states = $election->states;
-    foreach ($states as $state){
-      if($state->name == $stateName){
-        $stateSlug = $state->slug;
-      }
-    }
-
-  }
-  return $stateSlug;
 }
