@@ -252,7 +252,7 @@ The following routes return `Content-Type: text/html` views using [D3](https://g
 
 ![Election Results Donut–Chart Visualization](https://github.com/fhstp-mfg/geowahl/blob/master/design/Wiki/donut-chart-example-01.png)
 
-### State Results Donut Chart
+### State Results Donut–Chart
 `/{electionSlug}/{stateSlug}/donut-chart`
 
 _(State Results Donut–Chart Visualization example coming soon ...)_
