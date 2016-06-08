@@ -3,8 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-
 use App\Http\Requests;
+
 
 class ElectionController extends Controller
 {
@@ -59,7 +59,7 @@ class ElectionController extends Controller
     $state = $location['state'];
     $stateSlug = mapStateNameToSlug($state);
 
-    // NOTE Code duplication from geolocationcontroller:getResultsforlocation
+    // NOTE possible code duplication
     $districtName = $location['district'];
     $districts = getDistricts($electionSlug, $stateSlug);
     $results = 'no results for the district "'.$districtName.' found.';
@@ -78,7 +78,12 @@ class ElectionController extends Controller
     }
 
     // results for states and election
-    $results += getParentGranularityResults($electionSlug, $state);
+    $parentGranularityResults = getParentGranularityResults($electionSlug, $state);
+
+    if ( ! empty($results) ) {
+      $results = array_merge($results, $parentGranularityResults);
+    }
+
     return deliverJson($results);
   }
 }
