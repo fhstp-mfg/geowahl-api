@@ -31,10 +31,12 @@ class StateController extends Controller
     return deliverJson($districtsObj);
   }
 
+
   public function getDistrictById ($electionSlug, $stateSlug, $districtId)
   {
     $districts = getDistricts($electionSlug, $stateSlug);
     $districtsObj['districts'] = $districts;
+    $results = [];
 
     foreach ($districtsObj['districts'] as $district) {
       if ($district->id == $districtId) {
@@ -42,9 +44,13 @@ class StateController extends Controller
       }
     }
 
-    //get results for states and election
+    // results for states and election
     $state = mapStateSlugToName($stateSlug);
-    $results += getParentGranularityResults($electionSlug, $state);
+    $parentGranularityResults = getParentGranularityResults($electionSlug, $state);
+
+    if ( ! empty($results) ) {
+      $results = array_merge($results, $parentGranularityResults);
+    }
 
     return deliverJson($results);
   }
