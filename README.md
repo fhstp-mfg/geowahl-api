@@ -298,17 +298,18 @@ In the sidebar under "API Manager", select **Google APIs**, the search and selec
 
 2. Change the environment variable `API_KEY` in your `.env` file to your selected API key.
 
-## Available Data
 
-### Bundespräsidentenwahlen 2016
+# Available Data
+
+**Austrian presidential elections (Bundespräsidentenwahlen 2016)**
 
 The results for all the federal states and communities from both ballots are **available to the full extent !**
 
-### Nationalratswahlen 2013
+**Austrian representatives elections (Nationalratswahlen 2013)**
 
-The results for all the federal states and communities are available. Only the state _Steiermark_ is missing, since they don't provide any `.csv` files for their result.
+The results for all the federal states and communities are available. Only the state _Steiermark_ is missing, since they don't provide any useful `.csv` files for their result. **You are happily invited to add this !**
 
-### Gemeinderatswahlen 2013
+**Austrian local elections (Gemeinderatswahlen 2013)**
 
 The community results for the states _Burgenland_, _Niederösterreich_, _Oberösterreich_, _Salzburg_ and _Vienna_ are available.
 There is no data for the states _Steiermark_, _Kärnten_, _Vorarlberg_ and _Tirol_.
