@@ -1,25 +1,24 @@
 # GeoWahl
-Provides data API for geo–political data for Web and provides data visualization views.
 
 ![alt tag](https://github.com/fhstp-mfg/geowahl/blob/master/design/Logo/logo_round.png)
 
-GeoWahl visualizes geo–political data for Web, Smartphone (iPhone, Android) and Smartwatch (Apple Watch, Android Wear).
+GeoWahl visualizes geo–political data for the Web, Smartphone (iOS and Android) and Smartwatch (Apple Watch and Android Wear).
 
-Platform-specific projects can be found here:
+Platform–specific projects can be found here:
 - [GeoWahl Android](https://github.com/fhstp-mfg/geowahl-android)
 - [GeoWahl iOS](https://github.com/fhstp-mfg/geowahl-ios)
 
-## GeoWahl API
+## API
+This repository provides an API for geo–political data and a few data visualization views.
 
 ### JSON Data
-The following routes return **JSON** data.
+The following routes return a `Content-Type: application/json` response.
 
-### All Elections
-`/elections`
+### `/elections`
 
 Returns all available elections, plus the associated data from the [states](https://github.com/fhstp-mfg/geowahl-web/wiki/GeoWahl-API/#states), [parties](https://github.com/fhstp-mfg/geowahl-web/wiki/GeoWahl-API/#parties) and [results](https://github.com/fhstp-mfg/geowahl-web/wiki/GeoWahl-API/#results) web services.
 
-**JSON format example:** `/elections`
+**Response example for `/elections`**
 ```js
 {
   "elections": [
@@ -32,7 +31,7 @@ Returns all available elections, plus the associated data from the [states](http
       "parties": [ ... ], // also retrieved by: /{electionSlug}/parties
       "results": [ ... ] // also retrieved by: /{electionSlug}/results
     },
-    ...
+    ... // further elections
   ]
 }
 ```
