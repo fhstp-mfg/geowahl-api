@@ -1,5 +1,3 @@
-# GeoWahl
-
 ![alt tag](https://github.com/fhstp-mfg/geowahl/blob/master/design/Logo/logo_round.png)
 
 GeoWahl visualizes geo–political data for the Web, Smartphone (iOS and Android) and Smartwatch (Apple Watch and Android Wear).
@@ -8,10 +6,10 @@ Platform–specific projects can be found here:
 - [GeoWahl Android](https://github.com/fhstp-mfg/geowahl-android)
 - [GeoWahl iOS](https://github.com/fhstp-mfg/geowahl-ios)
 
-## API
+# API
 This repository provides an API for geo–political data and data visualization views.
 
-### JSON Data
+## JSON Data
 The following routes return a `Content-Type: application/json` response.
 
 ### All Elections
@@ -246,7 +244,7 @@ Returns all districts and the corresponding results for the provided `electionSl
 }
 ```
 
-### Visualizations
+## Visualizations
 The following routes return `Content-Type: text/html` views using [D3](https://github.com/d3/d3) for visualizing data.
 
 ### Election Results Donut–Chart
@@ -264,9 +262,7 @@ _(State Results Donut–Chart Visualization example coming soon ...)_
 
 _(District Results Donut–Chart Visualization example coming soon ...)_
 
-## Google API
-
-### Setup
+# Setup Google API
 
 In order to use Google APIs, you have to add your own **Server API key**.
 
@@ -323,49 +319,6 @@ Data errors should not be excluded, as all files have been curated to `.json` fo
 
 **We assume no liability for possible mistakes !**
 
-## Parties Color Definition
-
-![Parties Color Definition](https://github.com/fhstp-mfg/geowahl/blob/master/design/Wiki/parties-colors.png)
-
-### GRÜNE, VDB:
-`#78AF35`
-
-`rgba(120, 175, 53, 1)`
-
-### SPÖ, HUNDSTORFER
-`#F31137`
-
-`rgba(243, 17, 55, 1)`
-
-### ÖVP, KHOL
-`#363636`
-
-`rgba(54, 54, 54, 1)`
-
-### NEOS
-`#EA3D88`
-
-`rgba(234, 61, 136, 1)`
-
-### TEAM STRONACH, FRANK
-`#F8E323`
-
-`rgba(248, 227, 35, 1)`
-
-### GRISS
-`#BABABA`
-
-`rgba(186, 186, 186, 1)`
-
-### LUGNER
-`#77068C`
-
-`rgba(119, 6, 140, 1)`
-
-### FPÖ, HOFER
-`#0E428E`
-
-`rgba(14, 66, 142, 1)`
 
 ## Contributors
 - [Daniel Koller](https://github.com/danielkoller)
