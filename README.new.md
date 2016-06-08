@@ -31,7 +31,7 @@ Returns all available elections, plus the associated data from the [states](http
       "states": [ ... ], // also retrieved by: /{electionSlug}/states
       "parties": [ ... ], // also retrieved by: /{electionSlug}/parties
       "results": [ ... ] // also retrieved by: /{electionSlug}/results
-    }, 
+    },
     ...
   ]
 }
@@ -105,7 +105,7 @@ Returns all parties for an election. Each party contains corresponding colors, w
 ### Results
 `/{electionSlug}/{stateSlug}`
 
-Returns the total results for the provided `stateSlug`. 
+Returns the total results for the provided `stateSlug`.
 
 **NOTE** If `stateSlug` is set to `results`, then the **total results** of **all available states** are returned.
 
@@ -253,7 +253,7 @@ In order to use Google APIs, you have to add your own **Server API key**.
 
 5. In the **Create a new key dialog box** select **Server key**.
 
-6. Specify a **Name** for the Server key (e.g. "GeoWahl Server"). 
+6. Specify a **Name** for the Server key (e.g. "GeoWahl Server").
   - Optionally you can limit requests to a list of **IP addresses**.
 
 7. Finally press the **Create** button.
@@ -264,7 +264,7 @@ In order to use Google APIs, you have to add your own **Server API key**.
 
 The following Google APIs have to be activated:
   - Google Maps Geocoding API
-  - Google Places API Web Service 
+  - Google Places API Web Service
 
 In the sidebar under "API Manager", select **Google APIs**, the search and select the afore mentioned APIs and press the **Enable** button.
 
@@ -274,7 +274,7 @@ In the sidebar under "API Manager", select **Google APIs**, the search and selec
 
 2. Change the environment variable `API_KEY` in your `.env` file to your selected API key.
 
-## Available Data 
+## Available Data
 
 ### Bundespräsidentenwahlen 2016
 
@@ -282,16 +282,16 @@ The results for all the federal states and communities from both ballots are **a
 
 ### Nationalratswahlen 2013
 
-The results for all the federal states and communities are available. Only the state _Steiermark_ is missing, since they don't provide any `.csv` files for their result. 
+The results for all the federal states and communities are available. Only the state _Steiermark_ is missing, since they don't provide any `.csv` files for their result.
 
 ### Gemeinderatswahlen 2013
 
-The community results for the states _Burgenland_, _Niederösterreich_, _Oberösterreich_, _Salzburg_ and _Vienna_ are available. 
-There is no data for the states _Steiermark_, _Kärnten_, _Vorarlberg_ and _Tirol_. 
+The community results for the states _Burgenland_, _Niederösterreich_, _Oberösterreich_, _Salzburg_ and _Vienna_ are available.
+There is no data for the states _Steiermark_, _Kärnten_, _Vorarlberg_ and _Tirol_.
 
-## Data errors 
+## Data errors
 
-Data errors should not be excluded, as all files have been curated to `.json` format manually. 
+Data errors should not be excluded, as all files have been curated to `.json` format manually.
 
 **We assume no liability for possible mistakes !**
 
