@@ -35,10 +35,9 @@ class StateController extends Controller
   public function getDistrictById ($electionSlug, $stateSlug, $districtId)
   {
     $districts = getDistricts($electionSlug, $stateSlug);
-    $districtsObj['districts'] = $districts;
     $results = [];
 
-    foreach ($districtsObj['districts'] as $district) {
+    foreach ($districts as $district) {
       if ($district->id == $districtId) {
         $results['district'] = $district;
       }
