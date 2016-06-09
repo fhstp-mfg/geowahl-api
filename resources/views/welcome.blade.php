@@ -30,23 +30,42 @@
       .content {
         text-align: center;
         display: inline-block;
+        margin-bottom: 2em;
+      }
+
+      #logo {
+        width: auto;
       }
 
       .title {
-        font-size: 96px;
+        font-size: 4em;
+        padding-bottom: 1em;
       }
     </style>
   </head>
+
   <body>
     <div class="container">
       <div class="content">
-        <a href="https://github.com/fhstp-mfg/geowahl-api"><img src="public/assets/img/Logo_round.png"/></a>
-        <div class="title">JOIN THE AWESOMENESS BRUDI</div>
+        <div>
+          <a href="https://github.com/fhstp-mfg/geowahl-api">
+            <img id="logo" src="assets/img/logo.png">
+          </a>
+        </div>
+
+        <div class="title">GeoWahl API</div>
+
         <!-- Place this tag where you want the button to render. -->
-        <a class="github-button" href="https://github.com/fhstp-mfg/geowahl"
-          data-icon="octicon-star" data-style="mega" data-count-href="/fhstp-mfg/geowahl/stargazers"
-          data-count-api="/repos/fhstp-mfg/geowahl#stargazers_count" data-count-aria-label="# stargazers on GitHub"
-          aria-label="Star fhstp-mfg/geowahl on GitHub">Star
+        <a class="github-button"
+          href="https://github.com/fhstp-mfg/geowahl-api"
+          data-icon="octicon-star"
+          data-style="mega"
+          data-count-href="/fhstp-mfg/geowahl-api/stargazers"
+          data-count-api="/repos/fhstp-mfg/geowahl-api#stargazers_count"
+          data-count-aria-label="# stargazers on GitHub"
+          aria-label="Star fhstp-mfg/geowahl-api on GitHub"
+        >
+          Star
         </a>
       </div>
     </div>
