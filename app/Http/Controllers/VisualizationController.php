@@ -36,7 +36,7 @@ class VisualizationController extends Controller
     }
     logArray($colorData);
     //return $electionResult;
-    return view('donut_visualization')->with('visData', $electionResult);
+    return view('visualization')->with('visData', $electionResult);
   }
 
   public function showDistrictDonutVis ($electionSlug, $stateSlug, $districtId)
