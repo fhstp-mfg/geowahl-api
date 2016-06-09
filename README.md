@@ -262,7 +262,9 @@ _(State Results Donut–Chart Visualization example coming soon ...)_
 
 _(District Results Donut–Chart Visualization example coming soon ...)_
 
-# Setup Google API
+# Using Google APIs
+
+### Setup
 
 In order to use Google APIs, you have to add your own **Server API key**.
 
