@@ -57,9 +57,8 @@
           </a>
         </div>
 
-        <div class="title">GeoWahl API</div>
-
-        <!-- Place this tag where you want the button to render. -->
+        <!-- <div class="title">GeoWahl</div> -->
+        
         <a class="github-button"
           href="https://github.com/fhstp-mfg/geowahl-api"
           data-icon="octicon-star"
