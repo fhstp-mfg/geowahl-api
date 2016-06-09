@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="UTF-8">
+
     <title>GeoWahl</title>
 
-    <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
-    <!-- Place this tag in your head or just before your close body tag. -->
-    <script async defer src="https://buttons.github.io/buttons.js"></script>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://fonts.googleapis.com/css?family=Lato:100"
+    >
 
     <style>
       html, body {
@@ -48,7 +52,7 @@
     <div class="container">
       <div class="content">
         <div>
-          <a href="https://github.com/fhstp-mfg/geowahl-api">
+          <a href="https://github.com/fhstp-mfg/geowahl-api" target="_parent">
             <img id="logo" src="assets/img/logo.png">
           </a>
         </div>
@@ -69,5 +73,7 @@
         </a>
       </div>
     </div>
+
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
   </body>
 </html>
