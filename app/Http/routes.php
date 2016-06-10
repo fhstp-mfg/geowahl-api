@@ -191,22 +191,31 @@ function getLocation ($latitude, $longitude) {
   // decode the json
   $all_location_data = json_decode($resp_json, true);
 
-  if ( $all_location_data['status'] === 'OK' ) {
-    foreach ($all_location_data['results'] as $component ) {
+  if ($all_location_data['status'] === 'OK') {
+    foreach ($all_location_data['results'] as $component) {
 
-      if ( in_array('administrative_area_level_1', $component['types'])) {
+      if (in_array('administrative_area_level_1', $component['types'])) {
         $state = $component['address_components'][0]['short_name'];
         $result['state'] = $state;
       }
-      if ( in_array('postal_town', $component['types']) ) {
-        $postal_town = $component['address_components'][0]['short_name'];
-        $result['district'] = $postal_town;
+      if (in_array('postal_town', $component['types'])) {
+        $district = $component['address_components'][0]['short_name'];
+        $result['district'] = $district;
       }
     }
 
+    //if state is vienna, access sublocality_level_1 instead of administrative_area_level_1
+    if ($result['district'] === 'Wien'){
+      foreach ($all_location_data['results'] as $component) {
+        if (in_array('sublocality_level_1', $component['types'])) {
+          $district = $component['address_components'][0]['short_name'];
+          $result['district'] = $district;
+        }
+      }
+    }
     return $result;
   }
-  else {
+  else{
     return 'no district for geolocation found';
   }
 }
