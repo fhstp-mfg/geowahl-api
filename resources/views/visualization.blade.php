@@ -2,6 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    >
+
     <title>GeoWahl API</title>
 
     <style>
@@ -26,13 +31,14 @@
     <!-- scripts -->
     <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
-    <script src="https://code.jquery.com/jquery-2.2.4.min.js"
+    <script
+      src="https://code.jquery.com/jquery-2.2.4.min.js"
       integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
       crossorigin="anonymous">
     </script>
 
     <script>
-        data = JSON.parse($('#visualization_data').val().trim());
+        data = JSON.parse( $('#visualization_data').val().trim() );
         var width  = 960,
             height = 500,
             radius = Math.min(width, height) / 2;

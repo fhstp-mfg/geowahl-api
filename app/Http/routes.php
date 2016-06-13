@@ -60,7 +60,7 @@ function getElections () {
 function getElectionDataObj ($electionSlug) {
   $elections = getElections();
 
-  //initialize error object
+  // initialize error object
   $election = [
     'errors' => [
       'status' => 420,
