@@ -2,6 +2,10 @@
 <html>
   <head>
     <meta charset="UTF-8">
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    >
 
     <title>GeoWahl</title>
 
@@ -38,12 +42,13 @@
       }
 
       #logo {
-        width: auto;
+        width: 100%;
       }
 
-      .title {
-        font-size: 4em;
-        padding-bottom: 1em;
+      @media (max-width: 768px) {
+        #logo {
+          width: 90%;
+        }
       }
     </style>
   </head>
@@ -57,8 +62,6 @@
           </a>
         </div>
 
-        <!-- <div class="title">GeoWahl</div> -->
-        
         <a class="github-button"
           href="https://github.com/fhstp-mfg/geowahl-api"
           data-icon="octicon-star"
