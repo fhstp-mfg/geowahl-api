@@ -16,6 +16,11 @@ class StateController extends Controller
   public function getState ($electionSlug, $stateSlug)
   {
     $districts = getDistricts($electionSlug, $stateSlug);
+    //if there is an error, return it
+    if (isset($districts['errors'])) {
+      return deliverJson($districts);
+    }
+
     $results = getDistrictsResults($districts);
     $stateObj['results'] = $results;
 
@@ -35,7 +40,14 @@ class StateController extends Controller
   public function getDistrictById ($electionSlug, $stateSlug, $districtId)
   {
     $districts = getDistricts($electionSlug, $stateSlug);
-    $results = [];
+    //initialize error object
+    $results = [
+      'errors' => [
+        'status' => 420,
+        'title' => '\''.$districtId.'\' not found',
+        'detail' => 'Sorry! We could not find a district with the id  \''.$districtId.'\'.'
+      ]
+    ];
 
     foreach ($districts as $district) {
       if ($district->id == $districtId) {

@@ -12,31 +12,41 @@ class VisualizationController extends Controller
     // ...
   }
 
-
   public function showElectionDonutVis ($electionSlug)
-  {
-    $electionDataObj = getElectionDataObj($electionSlug);
-    $electionResult = json_encode($electionDataObj->results);
-
-    return view('visualization')->with('visData', $electionResult);
-  }
-
-
-  public function showStateDonutVis ($electionSlug, $stateSlug)
   {
     $electionDataObj = getElectionDataObj($electionSlug);
 
     $electionResult = json_encode($electionDataObj->results);
     $electionParties = json_encode($electionDataObj->parties);
 
-    //logArray($electionParties);
     $colorData = array();
     foreach ($electionDataObj->parties as $key) {
-      $colorData[$key->name] = $key->hex;
+      $colorData[] = $key->hex;
     }
-    logArray($colorData);
-    //return $electionResult;
-    return view('visualization')->with('visData', $electionResult);
+    $data = array('data' => $electionResult, 'color' => $colorData );
+    logArray($data);
+    $data = json_encode($data);
+
+    return view('donut_visualization')->with('visData', $data);
+  }
+
+
+  public function showStateDonutVis ($electionSlug, $stateSlug)
+  {
+    $districts = getDistricts($electionSlug, $stateSlug);
+    $electionDistrictResult = json_encode(getDistrictsResults($districts));
+
+    $electionDataObj = getElectionDataObj($electionSlug);
+    $electionParties = json_encode($electionDataObj->parties);
+
+    $colorData = array();
+    foreach ($electionDataObj->parties as $key) {
+      $colorData[] = $key->hex;
+    }
+    $data = array('data' => $electionDistrictResult, 'color' => $colorData );
+    //logArray($data);
+    $data = json_encode($data);
+    return view('donut_visualization')->with('visData', $data);
   }
 
   public function showDistrictDonutVis ($electionSlug, $stateSlug, $districtId)
@@ -50,7 +60,18 @@ class VisualizationController extends Controller
       }
     }
 
-    return view('visualization')->with('visData', $results['district']);
+    $electionDataObj = getElectionDataObj($electionSlug);
+    $electionParties = json_encode($electionDataObj->parties);
+
+    $colorData = array();
+    foreach ($electionDataObj->parties as $key) {
+      $colorData[] = $key->hex;
+    }
+    $data = array('data' => $electionDistrictResult, 'color' => $results['district'] );
+    //logArray($data);
+    $data = json_encode($data);
+
+    return view('visualization')->with('visData', $data);
   }
 
 

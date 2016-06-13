@@ -59,7 +59,15 @@ function getElections () {
 
 function getElectionDataObj ($electionSlug) {
   $elections = getElections();
-  $election = 'no election with slug "'.$electionSlug.'" found';
+
+  //initialize error object
+  $election = [
+    'errors' => [
+      'status' => 420,
+      'title' => '\''.$electionSlug.'\' not found',
+      'detail' => 'Sorry! We could not find an election with the slug \''.$electionSlug.'\'.'
+    ]
+  ];
 
   foreach ($elections as $electionObj) {
     if ( $electionObj->slug == $electionSlug ) {
@@ -110,7 +118,15 @@ function getStates ($electionSlug) {
 
 function getDistricts ($electionSlug, $stateSlug) {
   $states = getStates($electionSlug);
-  $districts = 'no districts found';
+
+  //initialize error object
+  $districts = [
+    'errors' => [
+      'status' => 420,
+      'title' => '\''.$stateSlug.'\' not found',
+      'detail' => 'Sorry! We could not find any districts for the state with the slug \''.$stateSlug.'\'.'
+    ]
+  ];
 
   foreach ($states as $state) {
     if ($state->slug == $stateSlug) {
@@ -120,6 +136,11 @@ function getDistricts ($electionSlug, $stateSlug) {
       $districts = json_decode($districtsData);
       break;
     }
+  }
+
+  //if error still exists, return it
+  if (isset($districts['errors'])) {
+    return $districts;
   }
 
   // calculate percentage for each district
@@ -177,7 +198,6 @@ function getParentGranularityResults ($electionSlug, $state) {
 
 
 /// Locations
-
 /**
  * Function for returning the District with latitude and longitude
  */
@@ -185,29 +205,52 @@ function getLocation ($latitude, $longitude) {
   //load API-Key from .env
   $api_key = env('API_KEY');
   $url = 'https://maps.googleapis.com/maps/api/geocode/json?latlng='.$latitude.','.$longitude.'&language=de&key='.$api_key;
+
   // get the json response
   $resp_json = file_get_contents($url);
 
   // decode the json
   $all_location_data = json_decode($resp_json, true);
 
-  if ( $all_location_data['status'] === 'OK' ) {
-    foreach ($all_location_data['results'] as $component ) {
+  $result = [];
 
-      if ( in_array('administrative_area_level_1', $component['types'])) {
+  if ($all_location_data['status'] === 'OK') {
+    foreach ($all_location_data['results'] as $component) {
+      if (in_array('administrative_area_level_1', $component['types'])) {
         $state = $component['address_components'][0]['short_name'];
         $result['state'] = $state;
       }
-      if ( in_array('postal_town', $component['types']) ) {
-        $postal_town = $component['address_components'][0]['short_name'];
-        $result['district'] = $postal_town;
+      if (in_array('postal_town', $component['types'])) {
+        $district = $component['address_components'][0]['short_name'];
+        $result['district'] = $district;
       }
     }
+    //if error still exists, return it
+    if (!isset($result['district'])) {
+      //initialize error object
+      $result = [
+        'errors' => [
+          'status' => 420,
+          'title' => $latitude.','.$longitude.' not found',
+          'detail' => 'Sorry! We could not find any districts for the given coordinates.'
+        ]
+      ];
+      return $result;
+    }
 
+    //if state is vienna, access sublocality_level_1 instead of administrative_area_level_1
+    if (isset($result['district']) && $result['district'] === 'Wien'){
+      foreach ($all_location_data['results'] as $component) {
+        if (in_array('sublocality_level_1', $component['types'])) {
+          $district = $component['address_components'][0]['short_name'];
+          $result['district'] = $district;
+        }
+      }
+    }
     return $result;
   }
-  else {
-    return 'no district for geolocation found';
+  else{
+    return $result;
   }
 }
 

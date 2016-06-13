@@ -56,6 +56,12 @@ class ElectionController extends Controller
   public function getResultsForLocation ($electionSlug, $latitude, $longitude)
   {
     $location = getLocation($latitude, $longitude);
+
+    //if there is an error, return it
+    if (isset($location['errors'])) {
+      return deliverJson($location);
+    }
+
     $state = $location['state'];
     $stateSlug = mapStateNameToSlug($state);
 
