@@ -60,7 +60,18 @@ class VisualizationController extends Controller
       }
     }
 
-    return view('visualization')->with('visData', $results['district']);
+    $electionDataObj = getElectionDataObj($electionSlug);
+    $electionParties = json_encode($electionDataObj->parties);
+
+    $colorData = array();
+    foreach ($electionDataObj->parties as $key) {
+      $colorData[] = $key->hex;
+    }
+    $data = array('data' => $electionDistrictResult, 'color' => $results['district'] );
+    //logArray($data);
+    $data = json_encode($data);
+
+    return view('visualization')->with('visData', $data);
   }
 
 
