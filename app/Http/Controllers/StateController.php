@@ -40,14 +40,6 @@ class StateController extends Controller
   public function getDistrictById ($electionSlug, $stateSlug, $districtId)
   {
     $districts = getDistricts($electionSlug, $stateSlug);
-    //initialize error object
-    $results = [
-      'errors' => [
-        'status' => 420,
-        'title' => '\''.$districtId.'\' not found',
-        'detail' => 'Sorry! We could not find a district with the id  \''.$districtId.'\'.'
-      ]
-    ];
 
     foreach ($districts as $district) {
       if ($district->id == $districtId) {
@@ -61,6 +53,17 @@ class StateController extends Controller
 
     if ( ! empty($results) ) {
       $results = array_merge($results, $parentGranularityResults);
+    }
+
+    if(empty($results)){
+      //initialize error object
+      $results = [
+        'errors' => [
+          'status' => 420,
+          'title' => '\''.$districtId.'\' not found',
+          'detail' => 'Sorry! We could not find a district with the id  \''.$districtId.'\'.'
+        ]
+      ];
     }
 
     return deliverJson($results);
